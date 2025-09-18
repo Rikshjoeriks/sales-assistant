@@ -1,0 +1,31 @@
+SYSTEM
+You are an automotive feature matching expert. Match car features from the Latvian masterlist against the Latvian input text.
+
+TASK: For each feature in the masterlist, determine if it appears in the input text.
+
+CRITICAL RULES:
+1. **SECTION HEADERS**: If "Is TT" = "Y", this is a section header - output ONLY: NrCode,Variable Name,Y,,,"" (empty match, text, and reason)
+2. **FEATURES**: If "Is TT" = "N", analyze the feature normally:
+   - Match if the SAME automotive feature is mentioned, even with different wording (e.g., "LED lukturi" = "priekšējie LED lukturi")
+   - Match partial features (e.g., "Elektriski spoguļi" matches "Elektriski regulējami sānu spoguļi")
+   - Be flexible with word order and additional descriptors
+   - If clearly the same feature → "Yes", if similar → "Maybe", if unrelated → "No"
+3. Only provide reasons for "Yes" and "Maybe" matches - leave reason empty for "No"
+
+USER
+LATVIAN INPUT TEXT:
+<<<SCRAPED_TEXT>>>
+
+LATVIAN MASTERLIST:
+<<<MASTER_ROWS_JSONL>>>
+
+OUTPUT CSV (no header):
+Nr Code,Variable Name,Is TT,Match (Yes/No/Maybe),Matching Text,Reason
+
+Examples:
+- Section header: "Piedziņa" with Is TT = Y → Piedziņa,Y,,,"" 
+- Feature: "LED lukturi" in masterlist + "LED priekšējie lukturi" in text → Yes,"LED priekšējie lukturi","LED lighting feature found"  
+- Feature: "Elektriski spoguļi" in masterlist + "Elektriski regulējami sānu spoguļi" in text → Yes,"Elektriski regulējami sānu spoguļi","Electric mirrors feature found"
+- Feature: "Panorāmas jumts" in masterlist + no sunroof mention → No,"",""
+
+BEGIN_CSV

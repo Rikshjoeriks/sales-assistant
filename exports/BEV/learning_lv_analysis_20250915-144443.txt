@@ -1,0 +1,130 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{
+  "NR35": [
+    {
+      "text": "Extended Range RWD Explorer 286ZS 82 / 77 40 180 STANDARTA APRĪKOJUMS VADĪTĀJA PALĪGSISTĒMU PAKOTNE: Sadursmju novēršanas sistēma (PCA) brīdinājums par sadursmes risku priekšā, Automātiskā avārijas bremzēšana (pēkšņa šķēršļa, gājēju un velosipēdistu atpazīšana) , Adaptīvā kruīza kontrole ar Stop & Go funkciju, Braukšanas joslas uzturēšanas palīgsistēma, Joslu noturēšanas un brīdinājuma funkcijas, Ceļa zīmju atpazīšanas sistēma, Navigācija ar ātruma ierobežojumu brīdinājumu, Priekšējie un aizmugurējie stāvvietas sensori, Aklās zonas uzraudzības sistēma (BLIS) , Atpakaļgaitas kamera, Vadītāja noguruma uzraudzības funkcija Elektroniskā stāvbremze ar Auto Hold funkciju Braukšanas režīmu izvēle Bezatslēgas piekļuve Lietus sensors Automātiskā tālās gaismas pārslēgšana Priekšējo lukturu staru augstuma regulēšana Krituļu jutīgie sensori Riepu remonta komplekts Dzinēja imobilaizers Brīdinājums par neaizsprādzētām drošības jostām vadītājam, priekšējam un aizmugurējiem pasažieriem Brīdinājums par nogurumu LED interjera apgaismojums Mode 3 2. tipa 16A trīsfāžu uzlādes kabelis Gājēju skaņas brīdinājuma sistēma (AVAS) Viedā klimata kontrole (salonam un akumulatoram) ĀRĒJAIS APRĪKOJUMS 19 collu tērauda diski ar 235/55 R19vai 255/50 R19 R8 riepām Elektriski regulējami, nolokāmi un apsildāmi ārējie spoguļi ar virzienrādītājiem Tonēti stikli LED priekšējie lukturi LED aizmugurējie lukturi ar melnas krāsas dekoratīvo apdari un vertikālu apgaismojuma elementu Aizmugurējā loga tīrītājs un apskalošanas sistēm SALONA APRĪKOJUMS Divu zonu automātiskā klimata kontrole PTC sildītājs galvenais salona apsildes risinājums Automātiski tonējoši atpakaļskata spoguļi 5,3 collu digitālais instrumentu panelis 2USB pieslēgvietas priekšējā konsolē Mega Console ar glāžu turētājiem Sensico apdarināts stūres rats ar plakanu apakšējo malu Funkcionālais LED interjera apgaismojums Bagāžas nodalījuma pārsegs (kravas pārklājs) Divējāda kravas nodalījuma grīda Divi LED gaismas ķermeņi kravas zonā (sānos) 12V / 120W ligzda bagāžas nodalījumā 4 kravas stiprinājuma cilpas (metāla) Mehāniski 6 virzienos regulējami priekšējie sēdekļi ISOFIX stiprinājumi (otrā sēdekļu rindā) AUDIO PAKETE 14,6 collu centrālais skārienekrāns SYNC 4ar Android Auto un Apple Car Play, USB un bezvadu savienojamība DAB radio, Bluetooth, balss vadība 7 skaļruņi Ārējais aprīkojums 19 collu vieglmetāla diski: priekšā 8.0J x 19\", aizmugurē 8.5J x 19\" Ārējo durvju rokturu apgaismojums",
+      "confidence": 1.0,
+      "type": "direct",
+      "learned_from": "Lietus sensors"
+    }
+  ],
+  "NR49": [
+    {
+      "text": "Extended Range RWD Explorer 286ZS 82 / 77 40 180 STANDARTA APRĪKOJUMS VADĪTĀJA PALĪGSISTĒMU PAKOTNE: Sadursmju novēršanas sistēma (PCA) brīdinājums par sadursmes risku priekšā, Automātiskā avārijas bremzēšana (pēkšņa šķēršļa, gājēju un velosipēdistu atpazīšana) , Adaptīvā kruīza kontrole ar Stop & Go funkciju, Braukšanas joslas uzturēšanas palīgsistēma, Joslu noturēšanas un brīdinājuma funkcijas, Ceļa zīmju atpazīšanas sistēma, Navigācija ar ātruma ierobežojumu brīdinājumu, Priekšējie un aizmugurējie stāvvietas sensori, Aklās zonas uzraudzības sistēma (BLIS) , Atpakaļgaitas kamera, Vadītāja noguruma uzraudzības funkcija Elektroniskā stāvbremze ar Auto Hold funkciju Braukšanas režīmu izvēle Bezatslēgas piekļuve Lietus sensors Automātiskā tālās gaismas pārslēgšana Priekšējo lukturu staru augstuma regulēšana Krituļu jutīgie sensori Riepu remonta komplekts Dzinēja imobilaizers Brīdinājums par neaizsprādzētām drošības jostām vadītājam, priekšējam un aizmugurējiem pasažieriem Brīdinājums par nogurumu LED interjera apgaismojums Mode 3 2. tipa 16A trīsfāžu uzlādes kabelis Gājēju skaņas brīdinājuma sistēma (AVAS) Viedā klimata kontrole (salonam un akumulatoram) ĀRĒJAIS APRĪKOJUMS 19 collu tērauda diski ar 235/55 R19vai 255/50 R19 R8 riepām Elektriski regulējami, nolokāmi un apsildāmi ārējie spoguļi ar virzienrādītājiem Tonēti stikli LED priekšējie lukturi LED aizmugurējie lukturi ar melnas krāsas dekoratīvo apdari un vertikālu apgaismojuma elementu Aizmugurējā loga tīrītājs un apskalošanas sistēm SALONA APRĪKOJUMS Divu zonu automātiskā klimata kontrole PTC sildītājs galvenais salona apsildes risinājums Automātiski tonējoši atpakaļskata spoguļi 5,3 collu digitālais instrumentu panelis 2USB pieslēgvietas priekšējā konsolē Mega Console ar glāžu turētājiem Sensico apdarināts stūres rats ar plakanu apakšējo malu Funkcionālais LED interjera apgaismojums Bagāžas nodalījuma pārsegs (kravas pārklājs) Divējāda kravas nodalījuma grīda Divi LED gaismas ķermeņi kravas zonā (sānos) 12V / 120W ligzda bagāžas nodalījumā 4 kravas stiprinājuma cilpas (metāla) Mehāniski 6 virzienos regulējami priekšējie sēdekļi ISOFIX stiprinājumi (otrā sēdekļu rindā) AUDIO PAKETE 14,6 collu centrālais skārienekrāns SYNC 4ar Android Auto un Apple Car Play, USB un bezvadu savienojamība DAB radio, Bluetooth, balss vadība 7 skaļruņi Ārējais aprīkojums 19 collu vieglmetāla diski: priekšā 8.0J x 19\", aizmugurē 8.5J x 19\" Ārējo durvju rokturu apgaismojums",
+      "confidence": 1.0,
+      "type": "direct",
+      "learned_from": "LED priekšējie lukturi"
+    }
+  ],
+  "NR33": [
+    {
+      "text": "Extended Range RWD Explorer 286ZS 82 / 77 40 180 STANDARTA APRĪKOJUMS VADĪTĀJA PALĪGSISTĒMU PAKOTNE: Sadursmju novēršanas sistēma (PCA) brīdinājums par sadursmes risku priekšā, Automātiskā avārijas bremzēšana (pēkšņa šķēršļa, gājēju un velosipēdistu atpazīšana) , Adaptīvā kruīza kontrole ar Stop & Go funkciju, Braukšanas joslas uzturēšanas palīgsistēma, Joslu noturēšanas un brīdinājuma funkcijas, Ceļa zīmju atpazīšanas sistēma, Navigācija ar ātruma ierobežojumu brīdinājumu, Priekšējie un aizmugurējie stāvvietas sensori, Aklās zonas uzraudzības sistēma (BLIS) , Atpakaļgaitas kamera, Vadītāja noguruma uzraudzības funkcija Elektroniskā stāvbremze ar Auto Hold funkciju Braukšanas režīmu izvēle Bezatslēgas piekļuve Lietus sensors Automātiskā tālās gaismas pārslēgšana Priekšējo lukturu staru augstuma regulēšana Krituļu jutīgie sensori Riepu remonta komplekts Dzinēja imobilaizers Brīdinājums par neaizsprādzētām drošības jostām vadītājam, priekšējam un aizmugurējiem pasažieriem Brīdinājums par nogurumu LED interjera apgaismojums Mode 3 2. tipa 16A trīsfāžu uzlādes kabelis Gājēju skaņas brīdinājuma sistēma (AVAS) Viedā klimata kontrole (salonam un akumulatoram) ĀRĒJAIS APRĪKOJUMS 19 collu tērauda diski ar 235/55 R19vai 255/50 R19 R8 riepām Elektriski regulējami, nolokāmi un apsildāmi ārējie spoguļi ar virzienrādītājiem Tonēti stikli LED priekšējie lukturi LED aizmugurējie lukturi ar melnas krāsas dekoratīvo apdari un vertikālu apgaismojuma elementu Aizmugurējā loga tīrītājs un apskalošanas sistēm SALONA APRĪKOJUMS Divu zonu automātiskā klimata kontrole PTC sildītājs galvenais salona apsildes risinājums Automātiski tonējoši atpakaļskata spoguļi 5,3 collu digitālais instrumentu panelis 2USB pieslēgvietas priekšējā konsolē Mega Console ar glāžu turētājiem Sensico apdarināts stūres rats ar plakanu apakšējo malu Funkcionālais LED interjera apgaismojums Bagāžas nodalījuma pārsegs (kravas pārklājs) Divējāda kravas nodalījuma grīda Divi LED gaismas ķermeņi kravas zonā (sānos) 12V / 120W ligzda bagāžas nodalījumā 4 kravas stiprinājuma cilpas (metāla) Mehāniski 6 virzienos regulējami priekšējie sēdekļi ISOFIX stiprinājumi (otrā sēdekļu rindā) AUDIO PAKETE 14,6 collu centrālais skārienekrāns SYNC 4ar Android Auto un Apple Car Play, USB un bezvadu savienojamība DAB radio, Bluetooth, balss vadība 7 skaļruņi Ārējais aprīkojums 19 collu vieglmetāla diski: priekšā 8.0J x 19\", aizmugurē 8.5J x 19\" Ārējo durvju rokturu apgaismojums",
+      "confidence": 0.6400000000000001,
+      "type": "pattern",
+      "learned_from": "Pattern: elektriski"
+    }
+  ]
+}
+
+NR26: No | 
+NR28: No | 
+NR30: Yes | Elektriski regulējami, nolokāmi un apsildāmi ārējie spoguļi
+NR31: Yes | Elektriski regulējami, nolokāmi un apsildāmi ārējie spoguļi
+NR32: No | 
+NR33: Yes | Lietus sensors
+NR34: Yes | Tonēti stikli
+NR35: No | 
+NR36: No | 
+NR37: No | 
+NR38: No | 
+NR39: No | 
+NR40: No | 
+NR42: No | 
+NR43: No | 
+NR44: No | 
+NR45: No | 
+NR46: Yes | Automātiskā tālās gaismas pārslēgšana
+NR47: Yes | LED priekšējie lukturi
+NR48: No | 
+NR49: No | 
+NR51: No | 
+NR52: Yes | Divu zonu automātiskā klimata kontrole
+NR53: No | 
+NR54: No | 
+NR55: No | 
+NR56: No | 
+NR57: Yes | Automātiski tonējoši atpakaļskata spoguļi
+NR58: No | 
+NR59: No | 
+NR61: Yes | 7 skaļruņi
+NR62: No | 
+NR63: No | 
+NR64: No | 
+NR65: Yes | 14,6 collu centrālais skārienekrāns
+NR66: No | 
+NR67: No | 
+NR68: Yes | Android Auto un Apple Car Play
+NR69: Yes | Android Auto un Apple Car Play, USB un bezvadu savienojamība
+NR70: No | 
+NR71: No | 
+NR73: No | 
+NR74: No | 
+NR75: No | 
+NR76: No | 
+NR77: No | 
+NR79: No | 
+NR80: No | 
+NR81: No | 
+NR82: No | 
+NR83: No | 
+NR84: No | 
+NR85: No | 
+NR86: No | 
+NR87: No | 
+NR88: No | 
+NR89: No | 
+NR90: No | 
+NR91: No | 
+NR92: No | 
+NR94: No | 
+NR95: Yes | Aklās zonas uzraudzības sistēma (BLIS)
+NR96: No | 
+NR97: No | 
+NR98: Yes | Adaptīvā kruīza kontrole
+NR99: Yes | Adaptīvā kruīza kontrole ar Stop & Go funkciju
+NR100: No | 
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: Yes | Atpakaļgaitas kamera
+NR105: Yes | Priekšējie un aizmugurējie stāvvietas sensori
+NR106: Yes | Priekšējie un aizmugurējie stāvvietas sensori
+NR108: Yes | Automātiskā avārijas bremzēšana (pēkšņa šķēršļa, gājēju un velosipēdistu atpazīšana)
+NR109: No | 
+NR110: Yes | Elektroniskā stāvbremze ar Auto Hold funkciju
+NR112: No | 
+NR113: No | 
+NR114: No | 
+NR115: No | 
+NR116: Yes | 19 collu vieglmetāla diski
+NR117: No | 
+NR118: No | 
+NR119: No | 
+NR121: No | 
+NR122: No | 
+NR123: No | 
+NR124: No | 
+NR125: No | 
+NR126: Yes | Bezatslēgas piekļuve
+NR128: No | 
+NR129: No | 
+NR130: No | 
+NR131: No | 
+NR132: No | 
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No | 
+NR139: No | 

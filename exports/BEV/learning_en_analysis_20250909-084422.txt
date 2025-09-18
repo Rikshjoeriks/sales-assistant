@@ -1,0 +1,105 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{}
+
+NR26: No | 
+NR28: No | 
+NR30: Yes | Automātiski pielokāmi, apsildāmi sānu spoguļi
+NR31: Yes | Automātiski pielokāmi, apsildāmi sānu spoguļi
+NR32: No | 
+NR33: Yes | Vējstikla tīrītāji ar lietus sensoru
+NR34: Yes | Tonēti aizmugurējo logu stikli
+NR35: Yes | Apsildāms vējstikls
+NR36: Maybe | Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis
+NR37: Yes | Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis
+NR38: No | 
+NR39: No | 
+NR40: No | 
+NR42: Yes | LED dienas gaitas lukturi
+NR43: Yes | LED priekšējie miglas lukturi
+NR44: No | 
+NR45: Yes | Automātiskās tuvās / tālās gaismas
+NR46: Yes | Automātiskās tuvās / tālās gaismas
+NR47: Yes | Automātiski LED priekšējie lukturi
+NR48: No | 
+NR49: No | 
+NR51: No | 
+NR52: Yes | Divu zonu automātiskā klimata kontrole
+NR53: No | 
+NR54: Yes | Plazmas klastera jonu gaisa attīrītājs
+NR55: Maybe | Kabatas priekšējo sēdekļu aizmugurē un elkoņbalsts aizmugurē
+NR56: Yes | Noskaņu radošs LED apgaismojums
+NR57: Yes | Automātiski aptumšojošs automobiļa salona atpakaļskata spogulis bez rāmja
+NR58: No | 
+NR59: Yes | Bezvadu viedtālruņa lādētājs
+NR61: No | 
+NR62: No | 
+NR63: No | 
+NR64: No | 
+NR65: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu
+NR66: No | 
+NR67: No | 
+NR68: Yes | Bezvadu Apple Car Play un ar vadu savienojams Android Auto
+NR69: Yes | Bezvadu Apple Car Play un ar vadu savienojams Android Auto
+NR70: No | 
+NR71: No | 
+NR73: Yes | Apsildāma stūre ar ādas apdari
+NR74: Yes | Apsildāma stūre ar ādas apdari
+NR75: No | 
+NR76: No | 
+NR77: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu
+NR79: Yes | Apsildāmi priekšējie sēdekļ
+NR80: Yes | Apsildāmi priekšējie sēdekļ
+NR81: No | 
+NR82: No | 
+NR83: No | 
+NR84: No | 
+NR85: No | 
+NR86: Yes | 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi
+NR87: Yes | 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi
+NR88: No | 
+NR89: No | 
+NR90: Yes | Sēdekļi ar daļēju PVC un auduma apdari, Black
+NR91: No | 
+NR92: No | 
+NR94: No | 
+NR95: Yes | "Aklās" zonas brīdinājuma sistēma un "aklās" zonas palīgsistēma
+NR96: No | 
+NR97: No | 
+NR98: Yes | nteliģentā kruīza kontrole
+NR99: No | 
+NR100: Yes | Satiksmes sastrēgumu "pilota" sistēma
+NR101: Yes | Pro PILOT Assist ar Navi-Link
+NR102: No | 
+NR103: Yes | nteliģentais apkārtskata monitors (360° kamera)
+NR104: No | 
+NR105: Yes | Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori
+NR106: Yes | Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori
+NR108: Yes | Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas sistēmu
+NR109: No | 
+NR110: Yes | Elektroniskā stāvbremze un "Auto Hold" funkcija
+NR112: No | 
+NR113: No | 
+NR114: No | 
+NR115: No | 
+NR116: Yes | 19" vieglmetāla diski ar aerodinamiskām uzlikām
+NR117: No | 
+NR118: No | 
+NR119: No | 
+NR121: No | 
+NR122: Yes | Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem
+NR123: Yes | Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem
+NR124: No | 
+NR125: No | 
+NR126: No | 
+NR128: No | 
+NR129: No | 
+NR130: No | 
+NR131: No | 
+NR132: No | 
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No | 
+NR139: No | 

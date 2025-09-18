@@ -1,0 +1,102 @@
+NR26: No | 
+NR28: No | 
+NR30: No | 
+NR31: Yes | Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi
+NR32: No | 
+NR33: Maybe | Gaismas asistents (Light Assist) ar lietus sensoru
+NR34: No | 
+NR35: No | 
+NR36: No | 
+NR37: No | 
+NR38: Maybe | Jumta reliņi, melni (nav piejami Coupe)
+NR39: No | 
+NR40: Yes | Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe)
+NR42: Yes | automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus
+NR43: No | 
+NR44: No | 
+NR45: Yes | Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas
+NR46: No | 
+NR47: Yes | LED priekšējie un aizmugurējie lukturi
+NR48: No | 
+NR49: No | 
+NR51: No | 
+NR52: No | 
+NR53: Yes | 3-zonu klimata kontrole (Climatronic)
+NR54: No | 
+NR55: Maybe | Priekšējais elkoņbalsts ar sīklietu novietni
+NR56: No | 
+NR57: Yes | Salona atpakaļskata spogulis ar automātisku aptumšošanos
+NR58: Maybe | 12V rozete bagāžas nodalījumā
+NR59: No | 
+NR61: No | 
+NR62: No | 
+NR63: No | 
+NR64: No | 
+NR65: Yes | 13" skārienjūtīgs ekrāns, balss vadība, Smart Link, digitālais radio, 2x USB-C pieslēgvietas
+NR66: No | 
+NR67: Yes | navigācijas sistēma ar multivides pakotnes "Infotainment Online" 3 gadu abonementu
+NR68: No | 
+NR69: No | 
+NR70: No | 
+NR71: No | 
+NR73: Yes | 2-spieķu multifunkcionāla ādas stūre ar apsildi
+NR74: No | 
+NR75: No | 
+NR76: No | 
+NR77: No | 
+NR79: Yes | Priekšējo sēdekļu apsilde
+NR80: Yes | Priekšējo sēdekļu apsilde
+NR81: No | 
+NR82: No | 
+NR83: No | 
+NR84: No | 
+NR85: No | 
+NR86: No | 
+NR87: No | 
+NR88: No | 
+NR89: No | 
+NR90: Maybe | melna/pelēka sēdekļu auduma/ mākslīgās ādas apdare
+NR91: No | 
+NR92: No | 
+NR94: No | 
+NR95: Yes | Aklo zonu kontroles sistēma "Side Assist" uzrauga satiksmi automašīnas sānos un aizmugurē
+NR96: No | 
+NR97: No | 
+NR98: Yes | Adaptīvā kruīza kontrole
+NR99: No | 
+NR100: No | 
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: Yes | atpakaļskata kamera
+NR105: Yes | Stāvvietā novietošanas sensori priekšā
+NR106: Yes | Stāvvietā novietošanas sensori aizmugurē
+NR108: Yes | gājēju un velobraucēju uzraudzības sistēma
+NR109: No | 
+NR110: Yes | Elektroniskā stāvbremze ar "Autohold" funkciju
+NR112: No | 
+NR113: No | 
+NR114: No | 
+NR115: No | 
+NR116: Yes | 19" vieglmetāla diski PROTEUS. 235/55 riepas priekšā un 255/50 R19 aizmugurē
+NR117: No | 
+NR118: No | 
+NR119: No | 
+NR121: No | 
+NR122: Yes | Galvas drošības spilvenu sistēma (aizkari)
+NR123: Yes | priekšējie sānu un centrālais drošības spilveni
+NR124: No | 
+NR125: No | 
+NR126: Yes | Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy
+NR128: No | 
+NR129: No | 
+NR130: No | 
+NR131: Yes | Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu
+NR132: No | 
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No | 
+NR139: Yes | Augstprieguma baterijas garantija 8 gadi vai 160 000km

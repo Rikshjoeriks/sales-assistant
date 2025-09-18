@@ -1,0 +1,201 @@
+INPUT TEXT:
+1) Sānu spoguļi melnā krāsā
+2) Elektriski regulējami sānu spoguļi ar pagrieziena rādītāju
+3) Aizmugures spoileris
+4) Haizivs spuras tipa antena melnā krāsā
+5) Iekšējie sānu durvju rokturi ar Satin Chrome apdari
+6) Kabatas ar dzērienu trauku turētājiem priekšējās sānu durvīs
+7) Autovadītāja un pasažiera saulessargs ar spogulīti
+8) Automobiļa salona apgaismojums priekšā un aizmugurē
+9) Bagāžas nodalījuma apgaismojums
+10) Ārkārtas un avārijas izsaukums (eCall)
+11) Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas funkciju
+12) Inteliģentā nejaušas braukšanas joslas maiņas novēršanas palīgsistēma
+13) Ceļa zīmju atpazīšanas sistēma
+14) Automātisks avārijas signāls + ārkārtas apstāšanās signāls
+15) Autovadītāja un pasažiera gaisa drošības spilveni, sānu un aizkarveida gaisa drošības spilveni
+16) Drošības jostas ar regulējamu augstumu
+17) Autovadītāja / pasažiera un aizmugurējais drošības jostu lietošanas brīdinājums
+18) ISOFIX bērnu sēdeklīša stiprinājuma punkti (aizmugurē) ar augšējo piesaisti
+19) Riepu gaisa spiediena kontroles sistēma (TPMS)
+20) ABS + EBD + bremzēšanas palīgsistēma
+21) Inteliģentā brauciena kontroles sistēma
+22) Inteliģentā vilces kontroles sistēma
+23) Aktīvā vilces kontroles sistēma
+24) Virsbūves stabilitātes sistēma
+25) Palīgsistēma braukšanas uzsākšanai kāpumā
+26) Riepas remonta komplekts
+27) Rūpnīcā uzstādīta signalizācija
+28) Kustīgu objektu noteikšanas sistēma
+29) Inteliģentais autovadītāja noguruma brīdinājums
+30) 3 trīspunktu aizmugurējās drošības jostas ar slodzes ierobežotāju un spriegotāju
+31) Monoformas sporta stila sēdekļi ar melnu auduma apdari
+32) Apsildāmi priekšējie sēdekļi
+33) Autovadītāja sēdeklis ar regulējamu augstumu
+34) Attiecībā 60:40 salokāms aizmugures sēdeklis
+35) Divi dzērienu trauku turētāji
+36) Priekšējais elkoņbalsts
+37) 3 regulējami galvas balsti aizmugurē
+38) 4 skaļruņi
+39) Bluetooth® + USB + AUX + 12 V
+40) USB pieslēgvieta aizmugurē
+41) 7" krāsains modernais autovadītāja braukšanas palīgsistēmu (ADAD) displejs mērinstrumentu
+42) panelī
+43) 12,3" skārienekrāns
+44) Bezvadu Apple CarPlay®
+45) 3)
+46) Bezvadu Android Auto™
+47) Stop/Start sistēma
+48) e-Pedal Step (pieejams tikai hibrīda versijai)
+49) Elektriskās braukšanas režīma slēdzis (pieejams tikai hibrīda versijai)
+50) Kruīza kontrole ar ātruma ierobežotāju
+51) Elektroniska rokas bremze ar automātiskās stāvbremzes funkciju
+52) Teleskopiskā stūres statņa kontrole
+53) Multifunkcionāla stūre (audio, tālrunis, kruīza kontrole, ātruma ierobežotājs u. c.)
+54) Balss atpazīšanas slēdzis uz stūres
+55) Priekšējie un aizmugurējie elektriski vadāmie logi un autovadītaja logs ar 1 pieskāriena funkciju
+56) Atpakaļskata kamera
+57) Uz stūres rata lāpstiņveida pārnesumi automobiļiem ar automātisko transmisiju 4)
+58) Āra gaisa temperatūras sensors
+59) Automātiskā gaisa kondicionēšanas sistēma
+60) Apsildāmi un automātiski pielokāmi sānu spoguļi
+61) LED priekšējie lukturi
+62) LED dienas apgaismojuma lukturi
+63) Aizmugures LED miglas lukturis
+64) Automātiski stikla tīrītāji un lietus sensors
+65) Pagrieziena rādītājs ar trīsreizēju mirgošanas funkciju
+66) "Follow Me Home" apgaismojums
+67) Inteliģentie automātiskie priekšējie lukturi
+68) 17" tērauda diski, Sakura
+69) Garantija:
+70) Jauna automobiļa garantija
+71) Garantija pret caurrūsēšanu korozijas dēļ
+72) Krāsojuma garantija
+73) Nissan Assistance – Nissan tehniskās palīdzības Dienests 3 gadi
+
+MASTERLIST:
+{"nr_code": "NR25", "variable_name": "Driveline", "is_tt": "Y"}
+{"nr_code": "NR26", "variable_name": "4X4 Full Time (4WD / AWD)", "is_tt": "N"}
+{"nr_code": "NR27", "variable_name": "Exterior -  Appearance/Styling", "is_tt": "Y"}
+{"nr_code": "NR28", "variable_name": "Paint - Metallic", "is_tt": "N"}
+{"nr_code": "NR29", "variable_name": "Exterior -  Functional", "is_tt": "Y"}
+{"nr_code": "NR30", "variable_name": "Door Mirrors - Power/Heated", "is_tt": "N"}
+{"nr_code": "NR31", "variable_name": "Door Mirrors - Power/Heated/Foldback", "is_tt": "N"}
+{"nr_code": "NR32", "variable_name": "Door Mirrors - Power/Heated/Foldback w/ memory", "is_tt": "N"}
+{"nr_code": "NR33", "variable_name": "Front Wipers - Automatic", "is_tt": "N"}
+{"nr_code": "NR34", "variable_name": "Glass - Tinted w Privacy Rear Side", "is_tt": "N"}
+{"nr_code": "NR35", "variable_name": "Heated Windshield", "is_tt": "N"}
+{"nr_code": "NR36", "variable_name": "Liftgate - Power", "is_tt": "N"}
+{"nr_code": "NR37", "variable_name": "Liftgate - Power w/ handsfree", "is_tt": "N"}
+{"nr_code": "NR38", "variable_name": "Roof Rails", "is_tt": "N"}
+{"nr_code": "NR39", "variable_name": "Frunk", "is_tt": "N"}
+{"nr_code": "NR40", "variable_name": "Panorama Roof", "is_tt": "N"}
+{"nr_code": "NR41", "variable_name": "Exterior -  Lights", "is_tt": "Y"}
+{"nr_code": "NR42", "variable_name": "Daytime Running Lamps - LED", "is_tt": "N"}
+{"nr_code": "NR43", "variable_name": "Front Fog Lamps - LED", "is_tt": "N"}
+{"nr_code": "NR44", "variable_name": "Front Fog Lamps - LED Integrated", "is_tt": "N"}
+{"nr_code": "NR45", "variable_name": "Headlamp Control - Automatic On/Off", "is_tt": "N"}
+{"nr_code": "NR46", "variable_name": "Headlamp Control - Automatic On/Off & High/Low Beam", "is_tt": "N"}
+{"nr_code": "NR47", "variable_name": "Headlamps - LED", "is_tt": "N"}
+{"nr_code": "NR48", "variable_name": "Headlamps - Adaptive LED w/o Matrix or Glare Free", "is_tt": "N"}
+{"nr_code": "NR49", "variable_name": "Headlamps - Adaptive LED w/ Matrix or Glare Free", "is_tt": "N"}
+{"nr_code": "NR50", "variable_name": "Interior -  Comfort/Convenience", "is_tt": "Y"}
+{"nr_code": "NR51", "variable_name": "A/C - EATC 1 Zone", "is_tt": "N"}
+{"nr_code": "NR52", "variable_name": "A/C - EATC 2 Zone", "is_tt": "N"}
+{"nr_code": "NR53", "variable_name": "A/C - EATC 3 Zone", "is_tt": "N"}
+{"nr_code": "NR54", "variable_name": "Cabine air purifier", "is_tt": "N"}
+{"nr_code": "NR55", "variable_name": "Centre Console w Armrest", "is_tt": "N"}
+{"nr_code": "NR56", "variable_name": "Ambient Lighting - Interior w/ Multi - Colour LEDs", "is_tt": "N"}
+{"nr_code": "NR57", "variable_name": "Auto - Dimming Interior Mirror", "is_tt": "N"}
+{"nr_code": "NR58", "variable_name": "Power Point - Rear", "is_tt": "N"}
+{"nr_code": "NR59", "variable_name": "Wireless Charging", "is_tt": "N"}
+{"nr_code": "NR60", "variable_name": "Interior -  Ice/Communications", "is_tt": "Y"}
+{"nr_code": "NR61", "variable_name": "Branded Sound - System with over 6 speakers", "is_tt": "N"}
+{"nr_code": "NR62", "variable_name": "Multi - function Touchscreen - 6 - 8\"", "is_tt": "N"}
+{"nr_code": "NR63", "variable_name": "Multi - function Touchscreen - 8 - 10\"", "is_tt": "N"}
+{"nr_code": "NR64", "variable_name": "Multi - function Touchscreen - 10 - 12\"", "is_tt": "N"}
+{"nr_code": "NR65", "variable_name": "Multi - function Touchscreen - 12 - \"", "is_tt": "N"}
+{"nr_code": "NR66", "variable_name": "Navigation Centre", "is_tt": "N"}
+{"nr_code": "NR67", "variable_name": "Navigation Centre - Connected", "is_tt": "N"}
+{"nr_code": "NR68", "variable_name": "Android Auto & Apple CarPlay", "is_tt": "N"}
+{"nr_code": "NR69", "variable_name": "Android Auto & Apple CarPlay - Wireless", "is_tt": "N"}
+{"nr_code": "NR70", "variable_name": "Smart Assistent w/ AI", "is_tt": "N"}
+{"nr_code": "NR71", "variable_name": "Head - Up Display", "is_tt": "N"}
+{"nr_code": "NR72", "variable_name": "Interior -  Instruments/Controls", "is_tt": "Y"}
+{"nr_code": "NR73", "variable_name": "Heated Steering Wheel", "is_tt": "N"}
+{"nr_code": "NR74", "variable_name": "Leather Steering Wheel", "is_tt": "N"}
+{"nr_code": "NR75", "variable_name": "Digital Cluster - 8.9\"", "is_tt": "N"}
+{"nr_code": "NR76", "variable_name": "Digital Cluster 9\" - 11.9\"", "is_tt": "N"}
+{"nr_code": "NR77", "variable_name": "Digital Cluster 12+\"", "is_tt": "N"}
+{"nr_code": "NR78", "variable_name": "Interior -  Seats", "is_tt": "Y"}
+{"nr_code": "NR79", "variable_name": "Heated Driver Seat", "is_tt": "N"}
+{"nr_code": "NR80", "variable_name": "Heated Passenger Seat", "is_tt": "N"}
+{"nr_code": "NR81", "variable_name": "Heated Rear Seats", "is_tt": "N"}
+{"nr_code": "NR82", "variable_name": "Lumbar Adjustment on Driver Seat Manual", "is_tt": "N"}
+{"nr_code": "NR83", "variable_name": "Lumbar Adjustment on Passenger Seat Manual", "is_tt": "N"}
+{"nr_code": "NR84", "variable_name": "Lumbar Adjustment on Driver Seat Power", "is_tt": "N"}
+{"nr_code": "NR85", "variable_name": "Lumbar Adjustment on Passenger Seat Power", "is_tt": "N"}
+{"nr_code": "NR86", "variable_name": "Power Driver Seat Adjustment", "is_tt": "N"}
+{"nr_code": "NR87", "variable_name": "Power Passenger Seat Adjustment", "is_tt": "N"}
+{"nr_code": "NR88", "variable_name": "Power Driver Seat Adjustment Memory", "is_tt": "N"}
+{"nr_code": "NR89", "variable_name": "Power Passenger Seat Adjustment Memory", "is_tt": "N"}
+{"nr_code": "NR90", "variable_name": "Seat Trim - Cloth/ Synthetic Leather", "is_tt": "N"}
+{"nr_code": "NR91", "variable_name": "Seat Trim - Alcantara/Synthetic Leather", "is_tt": "N"}
+{"nr_code": "NR92", "variable_name": "Seat Trim - Synthetic Leather", "is_tt": "N"}
+{"nr_code": "NR93", "variable_name": "Interior -  Driver Assistance Technologies", "is_tt": "Y"}
+{"nr_code": "NR94", "variable_name": "Automated Parking System", "is_tt": "N"}
+{"nr_code": "NR95", "variable_name": "Blind Spot Monitoring", "is_tt": "N"}
+{"nr_code": "NR96", "variable_name": "Blind Spot Monitoring w Cross Traffic Alert", "is_tt": "N"}
+{"nr_code": "NR97", "variable_name": "Cruise Control", "is_tt": "N"}
+{"nr_code": "NR98", "variable_name": "Cruise Control - Adaptive", "is_tt": "N"}
+{"nr_code": "NR99", "variable_name": "Cruise Control - Adaptive Stop&Go", "is_tt": "N"}
+{"nr_code": "NR100", "variable_name": "Cruise Control - Adaptive Traffic Jam", "is_tt": "N"}
+{"nr_code": "NR101", "variable_name": "Cruise Control - Adaptive Navi - based", "is_tt": "N"}
+{"nr_code": "NR102", "variable_name": "Lane Centering and Overtaking assist", "is_tt": "N"}
+{"nr_code": "NR103", "variable_name": "Camera - Front 360° View", "is_tt": "N"}
+{"nr_code": "NR104", "variable_name": "Camera - Rear View", "is_tt": "N"}
+{"nr_code": "NR105", "variable_name": "Parking Aid - Front Sensors", "is_tt": "N"}
+{"nr_code": "NR106", "variable_name": "Parking Aid - Rear Sensors", "is_tt": "N"}
+{"nr_code": "NR107", "variable_name": "Mechanical -  Chassis", "is_tt": "Y"}
+{"nr_code": "NR108", "variable_name": "AEBS w Pedestrian & Cyclist Detection", "is_tt": "N"}
+{"nr_code": "NR109", "variable_name": "Collision Mitigation - Post Impact (2nd Collision)", "is_tt": "N"}
+{"nr_code": "NR110", "variable_name": "Parking Brake - Electric", "is_tt": "N"}
+{"nr_code": "NR111", "variable_name": "Mechanical -  Wheels/Tyres", "is_tt": "Y"}
+{"nr_code": "NR112", "variable_name": "17\" Steel Wheels", "is_tt": "N"}
+{"nr_code": "NR113", "variable_name": "17\" Alloy Wheels", "is_tt": "N"}
+{"nr_code": "NR114", "variable_name": "18\" Steel Wheels", "is_tt": "N"}
+{"nr_code": "NR115", "variable_name": "18\" Alloy Wheels", "is_tt": "N"}
+{"nr_code": "NR116", "variable_name": "19\" Alloy Wheels", "is_tt": "N"}
+{"nr_code": "NR117", "variable_name": "20\" Alloy Wheels", "is_tt": "N"}
+{"nr_code": "NR118", "variable_name": "Spare Wheel", "is_tt": "N"}
+{"nr_code": "NR119", "variable_name": "Tow Bar", "is_tt": "N"}
+{"nr_code": "NR120", "variable_name": "Safety & Security", "is_tt": "Y"}
+{"nr_code": "NR121", "variable_name": "Airbags - Knee", "is_tt": "N"}
+{"nr_code": "NR122", "variable_name": "Airbags - Curtain", "is_tt": "N"}
+{"nr_code": "NR123", "variable_name": "Airbags - Side", "is_tt": "N"}
+{"nr_code": "NR124", "variable_name": "Alarm - Perimeter", "is_tt": "N"}
+{"nr_code": "NR125", "variable_name": "Keyless Start", "is_tt": "N"}
+{"nr_code": "NR126", "variable_name": "Keyless Entry & Start", "is_tt": "N"}
+{"nr_code": "NR127", "variable_name": "Warranty", "is_tt": "Y"}
+{"nr_code": "NR128", "variable_name": "Extended Warranty - 2 Years", "is_tt": "N"}
+{"nr_code": "NR129", "variable_name": "Extended Warranty - 3 Years", "is_tt": "N"}
+{"nr_code": "NR130", "variable_name": "Extended Warranty - 4 Years", "is_tt": "N"}
+{"nr_code": "NR131", "variable_name": "Extended Warranty - 5 Years", "is_tt": "N"}
+{"nr_code": "NR132", "variable_name": "Extended Warranty - 6 Years", "is_tt": "N"}
+{"nr_code": "NR133", "variable_name": "Extended Warranty - 7 - Years", "is_tt": "N"}
+{"nr_code": "NR134", "variable_name": "Warranty mileage", "is_tt": "N"}
+{"nr_code": "NR135", "variable_name": "Warranty mileage", "is_tt": "N"}
+{"nr_code": "NR136", "variable_name": "Warranty mileage", "is_tt": "N"}
+{"nr_code": "NR137", "variable_name": "Warranty mileage", "is_tt": "N"}
+{"nr_code": "NR138", "variable_name": "No mileage limitation", "is_tt": "N"}
+{"nr_code": "NR139", "variable_name": "Battery warranty", "is_tt": "N"}
+
+OUTPUT CSV (no header):
+Nr Code,Variable Name,Is TT,Match (Yes/No/Maybe),Matching Text,Reason
+
+Examples:
+- "LED headlights" + input "LED lights" → Yes,"LED lights","found LED lights"  
+- "AWD" + input "all-wheel drive" → Yes,"all-wheel drive","AWD means all-wheel drive"
+- "Sunroof" + input "air conditioning" → No,"","different features"
+
+BEGIN_CSV

@@ -1,0 +1,117 @@
+﻿Nr Code,Variable Name,Is TT
+NR30,Driveline,Y
+NR31,4X4 Full Time (4WD / AWD),N
+NR32,Transmission,Y
+NR33,Automatic Transmission,N
+NR34,Hybrid Technology,Y
+NR35,mHEV,N
+NR36,FHEV,N
+NR37,PHEV,N
+NR38,Paint,Y
+NR39,Metallic paint as standard,N
+NR40,Exterior -  Functional,Y
+NR41,Door Mirrors - Power/Heated,N
+NR42,Door Mirrors - Power/Heated/Foldback,N
+NR43,Front Wipers - Automatic,N
+NR44,Glass - Tinted w Privacy Rear Side,N
+NR45,Heated Windshield,N
+NR46,Liftgate - Power,N
+NR47,Roof Rails,N
+NR48,Panorama Roof,N
+NR49,Exterior -  Lights,Y
+NR50,Daytime Running Lamps - LED,N
+NR51,Front Fog Lamps - LED,N
+NR52,Front Fog Lamps - LED Integrated,N
+NR53,Headlamp Control - Automatic On/Off,N
+NR54,Headlamp Control - Automatic On/Off & High/Low Beam,N
+NR55,Headlamps - LED,N
+NR56,Headlamps - Adaptive LED w/o Matrix or Glare Free,N
+NR57,Headlamps - Adaptive LED w/ Matrix or Glare Free,N
+NR58,Interior -  Comfort/Convenience,Y
+NR59,A/C,N
+NR60,A/C - EATC 1 Zone,N
+NR61,A/C - EATC 2 Zone,N
+NR62,A/C - EATC 3 Zone,N
+NR63,Cabine air purifier,N
+NR64,Ambient Lighting - Interior w/ Multi Colour LED,N
+NR65,Centre Console w Armrest,N
+NR66,Auto - Dimming Interior Mirror,N
+NR67,12V in the luggage compartment,N
+NR68,Wireless Charging,N
+NR69,Interior -  Ice/Communications,Y
+NR70,"Multi - function Touchscreen - 6 - 7,9""",N
+NR71,"Multi - function Touchscreen - 8 - 9,9""",N
+NR72,"Multi - function Touchscreen - 10 - 11,9""",N
+NR73,"Multi - function Touchscreen - 12 - """,N
+NR74,Branded Audio System,N
+NR75,Navigation Centre,N
+NR76,Navigation Centre - Connected,N
+NR77,Android Auto & Apple CarPlay,N
+NR78,Android Auto & Apple CarPlay - Wireless,N
+NR79,Smart Assistent w/ AI,N
+NR80,Emergency Call,N
+NR81,Head - Up Display,N
+NR82,Interior -  Instruments/Controls,Y
+NR83,Heated Steering Wheel,N
+NR84,Leather (incl. Sensico) Steering Wheel,N
+NR85,"Digital Cluster - 8.9""",N
+NR86,"Digital Cluster 9"" - 11.9""",N
+NR87,"Digital Cluster 12+""",N
+NR88,Interior -  Seats,Y
+NR89,Heated Driver Seat,N
+NR90,Heated Passenger Seat,N
+NR91,Heated Rear Seats,N
+NR92,Lumbar Adjustment on Driver Seat Manual,N
+NR93,Lumbar Adjustment on Passenger Seat Manual,N
+NR94,Lumbar Adjustment on Driver Seat Power,N
+NR95,Lumbar Adjustment on Passenger Seat Power,N
+NR96,Power Driver Seat Adjustment,N
+NR97,Power Passenger Seat Adjustment,N
+NR98,Power Driver Seat Adjustment w/ Memory,N
+NR99,Power Passenger Seat Adjustment w/ Memory,N
+NR100,Seat Trim - Cloth/ Synthetic Leather,N
+NR101,Seat Trim - Alcantara/Synthetic Leather,N
+NR102,Seat Trim - Synthetic Leather,N
+NR103,Interior -  Driver Assistance Technologies,Y
+NR104,Automated Parking System,N
+NR105,Blind Spot Monitoring,N
+NR106,Blind Spot Monitoring with Cross Traffic Alert,N
+NR107,Cruise Control,N
+NR108,Cruise Control - Adaptive,N
+NR109,Cruise Control - Adaptive Stop&Go,N
+NR110,Cruise Control - Adaptive Trafic Jam,N
+NR111,Cruise Control - Adaptive Navi - based,N
+NR112,Lane Centering and Overtaking assist,N
+NR113,Camera - Front 360° View,N
+NR114,Camera - Rear 180° View,N
+NR115,Parking Aid - Front Sensors,N
+NR116,Parking Aid - Rear Sensors,N
+NR117,Mechanical -  Chassis,Y
+NR118,AEBS w Pedestrian & Cyclist Detection,N
+NR119,Collision Mitigation - Post Impact (2nd Collision),N
+NR120,Parking Brake - Electric,N
+NR121,Mechanical - Wheels/Tyres,Y
+NR122,"16"" Steel Wheels",N
+NR123,"16"" Alloy Wheels",N
+NR124,"17"" Steel Wheels",N
+NR125,"17"" Alloy Wheels",N
+NR126,"18"" Steel Wheels",N
+NR127,"18"" Alloy Wheels",N
+NR128,"19"" Alloy Wheels",N
+NR129,Spare Wheel,N
+NR130,Wheel Cover,N
+NR131,Safety & Security,Y
+NR132,Airbags - Knee or Center,N
+NR133,Airbags - Curtain,N
+NR134,Airbags - Side,N
+NR135,Alarm - Perimeter,N
+NR136,Keyless Start,N
+NR137,Keyless Entry,N
+NR138,Warranty,Y
+NR139,Extended Warranty - 2 Years,N
+NR140,Extended Warranty - 3 Years,N
+NR141,Extended Warranty - 4 Years,N
+NR142,Extended Warranty - 5 Years,N
+NR143,Extended Warranty - 6 - Years,N
+NR144,Extended Warranty - 7 Years,N
+NR145,Extended Warranty - 10 Years,N

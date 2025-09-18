@@ -1,0 +1,117 @@
+Nr Code,Variable Name,Is TT,Match (Yes/No/Maybe),Matching Text,LLM_Reason
+NR23,Piedziņa,Y,,,
+NR24,4X4 pilna laika (4WD / AWD),N,No,,No equivalent feature found for 4X4 pilna laika (4WD / AWD)
+NR25,Pārnesumkārba,Y,,,
+NR26,Automātiskā pārnesumkārba,N,No,,No equivalent feature found for Automātiskā pārnesumkārba
+NR27,Hibrīda Tehnoloģija,Y,,,
+NR28,mHEV,N,No,,No equivalent feature found for mHEV
+NR29,FHEV,N,No,,No equivalent feature found for FHEV
+NR30,PHEV,N,No,,No equivalent feature found for PHEV
+NR31,Krāsa,Y,,,
+NR32,Metāliska krāsa kā standarts,N,No,,No equivalent feature found for Metāliska krāsa kā standarts
+NR33,Ārējais Izskats -  Funkcionāls,Y,,,
+NR34,Durvju spoguļi - Elektriski/sildāmi,N,Yes,Elektriski regulējami sānu spoguļi ar pagrieziena rādītāju,Matches with Durvju spoguļi - Elektriski/sildāmi
+NR35,Durvju spoguļi - elektriski/sildāmi/nolokāmi,N,Yes,Apsildāmi un automātiski pielokāmi sānu spoguļi,Matches with Durvju spoguļi - elektriski/sildāmi/nolokāmi
+NR36,Priekšējie vējstikla tīrītāji - automātiski,N,Yes,Automātiski stikla tīrītāji un lietus sensors,Matches with Priekšējie vējstikla tīrītāji - automātiski
+NR37,Stikls - tonēts ar privātuma aizsardzību aizmugurē,N,No,,No equivalent feature found for Stikls - tonēts ar privātuma aizsardzību aizmugurē
+NR38,Sildāms vējstikls,N,No,,No equivalent feature found for Sildāms vējstikls
+NR39,Bagāžnieka durvis - elektriski atveramas,N,No,,No equivalent feature found for Bagāžnieka durvis - elektriski atveramas
+NR40,Jumta sliedes,N,No,,No equivalent feature found for Jumta sliedes
+NR41,Panorāmas jumts,N,No,,No equivalent feature found for Panorāmas jumts
+NR42,Ārējais Izskats -  Apgaismojums,Y,,,
+NR43,Dienas gaitas lukturi - LED,N,Yes,LED dienas apgaismojuma lukturi,Matches with Dienas gaitas lukturi - LED
+NR44,Priekšējie miglas lukturi - LED,N,No,,No equivalent feature found for Priekšējie miglas lukturi - LED
+NR45,Priekšējie miglas lukturi – LED integrēti,N,No,,No equivalent feature found for Priekšējie miglas lukturi – LED integrēti
+NR46,Priekšējo lukturu vadība – automātiska ieslēgšana/izslēgšana,N,No,,No equivalent feature found for Priekšējo lukturu vadība – automātiska ieslēgšana/izslēgšana
+NR47,Priekšējo lukturu vadība – automātiska ieslēgšana/izslēgšana un tālās/tuvās gaismas,N,No,,No equivalent feature found for Priekšējo lukturu vadība – automātiska ieslēgšana/izslēgšana un tālās/tuvās gaismas
+NR48,Priekšējie lukturi – LED,N,Yes,LED priekšējie lukturi,Matches with Priekšējie lukturi – LED
+NR49,Priekšējie lukturi – adaptīvie LED bez Matrix vai Glare Free,N,No,,No equivalent feature found for Priekšējie lukturi – adaptīvie LED bez Matrix vai Glare Free
+NR50,Priekšējie lukturi – adaptīvie LED ar Matrix vai Glare Free,N,No,,No equivalent feature found for Priekšējie lukturi – adaptīvie LED ar Matrix vai Glare Free
+NR51,Interjers – Komforts/Ērtības,Y,,,
+NR52,Gaisa kondicionētājs,N,Yes,Automātiskā gaisa kondicionēšanas sistēma,Matches with Gaisa kondicionētājs
+NR53,Gaisa kondicionētājs - EATC 1 zona,N,No,,No equivalent feature found for Gaisa kondicionētājs - EATC 1 zona
+NR54,Gaisa kondicionētājs - EATC 2 zonas,N,No,,No equivalent feature found for Gaisa kondicionētājs - EATC 2 zonas
+NR55,Gaisa kondicionētājs - EATC 3 zonas,N,No,,No equivalent feature found for Gaisa kondicionētājs - EATC 3 zonas
+NR56,Salona gaisa attīrītājs,N,No,,No equivalent feature found for Salona gaisa attīrītājs
+NR57,Apgaismojums - salons ar daudzkrāsu LED,N,No,,No equivalent feature found for Apgaismojums - salons ar daudzkrāsu LED
+NR58,Centrālā konsole ar roku balstu,N,No,,No equivalent feature found for Centrālā konsole ar roku balstu
+NR59,Automātiski tumšojams salona spogulis,N,No,,No equivalent feature found for Automātiski tumšojams salona spogulis
+NR60,12 V bagāžas nodalījumā,N,Yes,12 V bagāžas nodalījumā,Matches with 12 V bagāžas nodalījumā
+NR61,Bezvadu uzlāde,N,No,,No equivalent feature found for Bezvadu uzlāde
+NR62,Interjers – In Car Entertainment/Komunikācijas,Y,,,
+NR63,"Daudzfunkcionāls skārienjūtīgais ekrāns - 6 - 7,9""",N,No,,"No equivalent feature found for Daudzfunkcionāls skārienjūtīgais ekrāns - 6 - 7,9"""
+NR64,"Daudzfunkcionāls skārienjūtīgais ekrāns - 8 - 9,9""",N,No,,"No equivalent feature found for Daudzfunkcionāls skārienjūtīgais ekrāns - 8 - 9,9"""
+NR65,"Daudzfunkcionāls skārienjūtīgais ekrāns - 10 - 11,9""",N,No,,"No equivalent feature found for Daudzfunkcionāls skārienjūtīgais ekrāns - 10 - 11,9"""
+NR66,"Daudzfunkcionāls skārienjūtīgais ekrāns - 12 - """,N,Yes,"12,3"" skārienekrāns","Matches with Daudzfunkcionāls skārienjūtīgais ekrāns - 12 - """
+NR67,Zīmola audio sistēma,N,No,,No equivalent feature found for Zīmola audio sistēma
+NR68,Navigācijas centrs,N,No,,No equivalent feature found for Navigācijas centrs
+NR69,Navigācijas centrs - savienots,N,No,,No equivalent feature found for Navigācijas centrs - savienots
+NR70,Android Auto un Apple CarPlay,N,Yes,Bezvadu Apple CarPlay® + Bezvadu Android Auto™,Matches with Android Auto un Apple CarPlay
+NR71,Android Auto un Apple CarPlay - bezvadu,N,Yes,Bezvadu Apple CarPlay® + Bezvadu Android Auto™,Matches with Android Auto un Apple CarPlay - bezvadu
+NR72,Vieds palīgs ar AI,N,No,,No equivalent feature found for Vieds palīgs ar AI
+NR73,Avārijas zvans,N,Yes,Ārkārtas un avārijas izsaukums (eCall),Matches with Avārijas zvans
+NR74,Head - Up displejs,N,No,,No equivalent feature found for Head - Up displejs
+NR75,Salons -  Instrumenti/Vadības Elementi,Y,,,
+NR76,Apsildāms stūres rats,N,No,,No equivalent feature found for Apsildāms stūres rats
+NR77,Ādas (ieskaitot Sensico) stūres rats,N,No,,No equivalent feature found for Ādas (ieskaitot Sensico) stūres rats
+NR78,"Digitālais displejs - 8,9 collas",N,No,,"No equivalent feature found for Digitālais displejs - 8,9 collas"
+NR79,"Digitālais displejs 9“ - 11,9”",N,No,,"No equivalent feature found for Digitālais displejs 9“ - 11,9”"
+NR80,"Digitālais displejs 12+""",N,No,,"No equivalent feature found for Digitālais displejs 12+"""
+NR81,Interjers -  Sēdekļi,Y,,,
+NR82,Apsildāms vadītāja sēdeklis,N,Yes,Apsildāmi priekšējie sēdekļi,Matches with Apsildāms vadītāja sēdeklis
+NR83,Apsildāms pasažiera sēdeklis,N,Yes,Apsildāmi priekšējie sēdekļi,Matches with Apsildāms pasažiera sēdeklis
+NR84,Apsildāmi aizmugurējie sēdekļi,N,No,,No equivalent feature found for Apsildāmi aizmugurējie sēdekļi
+NR85,Vadītāja sēdekļa jostasvietas regulēšana manuāli,N,No,,No equivalent feature found for Vadītāja sēdekļa jostasvietas regulēšana manuāli
+NR86,Pasažiera sēdekļa jostasvietas regulēšana manuāli,N,No,,No equivalent feature found for Pasažiera sēdekļa jostasvietas regulēšana manuāli
+NR87,Vadītāja sēdekļa jostasvietas regulēšana elektriski,N,No,,No equivalent feature found for Vadītāja sēdekļa jostasvietas regulēšana elektriski
+NR88,Pasažiera sēdekļa jostasvietas regulēšana elektriski,N,No,,No equivalent feature found for Pasažiera sēdekļa jostasvietas regulēšana elektriski
+NR89,Elektriski regulējams vadītāja sēdeklis,N,Yes,Autovadītāja sēdeklis ar regulējamu augstumu,Matches with Elektriski regulējams vadītāja sēdeklis
+NR90,Elektriski regulējams pasažiera sēdeklis,N,No,,No equivalent feature found for Elektriski regulējams pasažiera sēdeklis
+NR91,Elektriski regulējams vadītāja sēdeklis ar atmiņu,N,No,,No equivalent feature found for Elektriski regulējams vadītāja sēdeklis ar atmiņu
+NR92,Elektriski regulējams pasažiera sēdeklis ar atmiņu,N,No,,No equivalent feature found for Elektriski regulējams pasažiera sēdeklis ar atmiņu
+NR93,Sēdekļu apdare – audums/sintētiskā āda,N,Yes,Monoformas sporta stila sēdekļi ar melnu auduma apdari,Matches with Sēdekļu apdare – audums/sintētiskā āda
+NR94,Sēdekļu apdare – Alcantara/sintētiskā āda,N,No,,No equivalent feature found for Sēdekļu apdare – Alcantara/sintētiskā āda
+NR95,Sēdekļu apdare – sintētiskā āda,N,No,,No equivalent feature found for Sēdekļu apdare – sintētiskā āda
+NR96,Interjers – Vadītāja Palīdzības Tehnoloģijas,Y,,,
+NR97,Automātiskā parkošanās sistēma,N,No,,No equivalent feature found for Automātiskā parkošanās sistēma
+NR98,Aklās zona uzraudzība,N,No,,No equivalent feature found for Aklās zona uzraudzība
+NR99,Aklās zona uzraudzība ar šķērssatiksmes brīdinājumu,N,No,,No equivalent feature found for Aklās zona uzraudzība ar šķērssatiksmes brīdinājumu
+NR100,Kruīza kontrole,N,Yes,Kruīza kontrole ar ātruma ierobežotāju,Matches with Kruīza kontrole
+NR101,Kruīza kontrole - adaptīva,N,No,,No equivalent feature found for Kruīza kontrole - adaptīva
+NR102,Kruīza kontrole - adaptīva Stop&Go,N,No,,No equivalent feature found for Kruīza kontrole - adaptīva Stop&Go
+NR103,Kruīza kontrole - adaptīva satiksmes sastrēgumos,N,No,,No equivalent feature found for Kruīza kontrole - adaptīva satiksmes sastrēgumos
+NR104,"Kruīza kontrole - adaptīva, balstīta uz navigācijas sistēmu",N,No,,"No equivalent feature found for Kruīza kontrole - adaptīva, balstīta uz navigācijas sistēmu"
+NR105,Joslas centrēšnas un apdzīšanas palīgs,N,No,,No equivalent feature found for Joslas centrēšnas un apdzīšanas palīgs
+NR106,Kamera - priekšējais 360° skats,N,No,,No equivalent feature found for Kamera - priekšējais 360° skats
+NR107,Kamera - aizmugurējais skats,N,Yes,Atpakaļskata kamera,Matches with Kamera - aizmugurējais skats
+NR108,Parkošanās palīgsistēma – priekšējie sensori,N,No,,No equivalent feature found for Parkošanās palīgsistēma – priekšējie sensori
+NR109,Parkošanās palīgsistēma – aizmugurējie sensori,N,No,,No equivalent feature found for Parkošanās palīgsistēma – aizmugurējie sensori
+NR110,Mehānika – Šasija,Y,,,
+NR111,AEBS ar gājēju un velosipēdistu atpazīšanu,N,Yes,Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas funkciju,Matches with AEBS ar gājēju un velosipistu atpazīšanu
+NR112,Sadursmes mīkstināšana –2. sadursme,N,No,,No equivalent feature found for Sadursmes mīkstināšana –2. sadursme
+NR113,Stāvbremze – elektriska,N,Yes,Elektroniska rokas bremze ar automātiskās stāvbremzes funkciju,Matches with Stāvbremze – elektriska
+NR114,Mehānika – Rati/Riepas,Y,,,
+NR115,"16"" tērauda rati",N,No,,"No equivalent feature found for 16"" tērauda rati"
+NR116,"16"" vieglmetāla rati",N,No,,"No equivalent feature found for 16"" vieglmetāla rati"
+NR117,"17"" tērauda riteņi",N,Yes,"17"" tērauda diski, Sakura","Matches with 17"" tērauda riteņi"
+NR118,"17"" vieglmetāla riteņi",N,No,,"No equivalent feature found for 17"" vieglmetāla riteņi"
+NR119,"18"" tērauda riteņi",N,No,,"No equivalent feature found for 18"" tērauda riteņi"
+NR120,"18"" vieglmetāla riteņi",N,No,,"No equivalent feature found for 18"" vieglmetāla riteņi"
+NR121,"19"" vieglmetāla riteņi",N,No,,"No equivalent feature found for 19"" vieglmetāla riteņi"
+NR122,Rezerves ritenis,N,No,,No equivalent feature found for Rezerves ritenis
+NR123,Riteņu pārsegi,N,No,,No equivalent feature found for Riteņu pārsegi
+NR124,Drošība Un Aizsardzība,Y,,,
+NR125,Gaisa spilveni – ceļgaliem vai centrā,N,No,,No equivalent feature found for Gaisa spilveni – ceļgaliem vai centrā
+NR126,Gaisa spilveni – aizkari,N,Yes,Aizkarveida gaisa drošības spilveni,Matches with Gaisa spilveni – aizkari
+NR127,Gaisa spilveni – sānos,N,Yes,Sānu gaisa drošības spilveni,Matches with Gaisa spilveni – sānos
+NR128,Signalizācija – perimetrs,N,Yes,Rūpnīcā uzstādīta signalizācija,Matches with Signalizācija – perimetrs
+NR129,Bezatslēgas iedarbināšana,N,No,,No equivalent feature found for Bezatslēgas iedarbināšana
+NR130,Bezatslēgas piekļuve,N,No,,No equivalent feature found for Bezatslēgas piekļuve
+NR131,Garantija,Y,,,
+NR132,Papildus garantija – 2 gadi,N,No,,No equivalent feature found for Papildus garantija – 2 gadi
+NR133,Papildus garantija – 3 gadi,N,Yes,Nissan Assistance – Nissan tehniskās palīdzības Dienests 3 gadi,Matches with Papildus garantija – 3 gadi
+NR134,Papildus garantija – 4 gadi,N,No,,No equivalent feature found for Papildus garantija – 4 gadi
+NR135,Papildus garantija – 5 gadi,N,No,,No equivalent feature found for Papildus garantija – 5 gadi
+NR136,Papildus garantija – 6 gadi,N,No,,No equivalent feature found for Papildus garantija – 6 gadi
+NR137,Papildus garantija – 7 gadi,N,No,,No equivalent feature found for Papildus garantija – 7 gadi
+NR138,Papildus garantija – 10 gadi,N,No,,No equivalent feature found for Papildus garantija – 10 gadi

@@ -1,0 +1,153 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{
+  "NR59": [
+    {
+      "text": "Enyaq 85 Coupé 210 / 286 82 / 77 6,7 līdz 588 Aizmugures 51 130 Priekšējie drošības spilveni ar iespēju atslēgt pasažiera drošības spilvenu Galvas drošības spilvenu sistēma (aizkari) un priekšējie sānu un centrālais drošības spilveni Proaktīvā aizsardzības sistēma \"Pre Crash Basic\" ar avārijas bremzēšanu, priekšējo drošības jostu spriegošanu, logu un lūkas automātisku aizvēršanu LED priekšējie un aizmugurējie lukturi LED matricu priekšējie lukturi, LED aizmugurējie lukturi ar dinamiskajiem virzienrādītājiem \"Front Assist\" radaru sistēma: automātiska ātruma samazināšana un pilnīga apstāšanās iespējamās frontālās sadursmes gadījumā - avārijas bremzēšana pilsētā - gājēju un velobraucēju uzraudzības sistēma - ārkārtas stūrēšanas atbalsts ar pagrieziena palīgsistēmu Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus. Iekļauj arī funkciju \"Coming Home/Leaving Home\" Joslu palīgsistēma \"Lane Assistant\" Aklo zonu kontroles sistēma \"Side Assist\" uzrauga satiksmi automašīnas sānos un aizmugurē 90m rādiusā, brīdinot autovadītāju par tuvojošamies transporta līdzekļiem Stāvvietā novietošanas sensori priekšā un aizmugurē + atpakaļskata kamera Elektroniskā stāvbremze ar \"Autohold\" funkciju Adaptīvā kruīza kontrole Ceļa zīmju atpazīšanas sistēma ar multifunkcionālu kameru ISOFIX stiprinājumu vietas līdzbraucēja un aizmugurējā sēdekl Riepu spiediena monitorings Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy Elektriskie logu pacēlāji priekšējās un aizmugurējās durvīs 3-zonu klimata kontrole (Climatronic) Attālināti iestatāms elektriskais gaisa sildītājs un dzesētājs 2-spieķu multifunkcionāla ādas stūre ar apsildi Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi Priekšējie sēdekļi ar mehānisku augstuma regulāciju Salona atpakaļskata spogulis ar automātisku aptumšošanos Priekšējais elkoņbalsts ar sīklietu novietni Asimetriski dalīta (60/40) un nolokāma aizmugures sēdekļa atzveltne ar centrālo elkoņa balstu un transportēšanas lūku Braukšanas režīma izvēles sistēma \"Drive Mode Select\" 12V rozete bagāžas nodalījumā Izgaismots kāju nodalījums priekšā un aizmugurē sēdošajiem Jumta reliņi, melni (nav piejami Coupe) Lietussarga turētājs ar lietussargu vadītāja durvīs Jumta reliņi, sudraboti (nav piejami Coupe) Aizmugurējā stikla tīrītājs ar apskalošanas funkciju (nav piejami Coupe) Tekstila grīdas paklāji Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu Augstprieguma baterijas garantija 8 gadi vai 160 000km Iebūvēts maiņstrāvas lādētājs ar maksimālo jaudu 11k W Uzlādes kabelis MODE 3 savienošanai ar Wallbox uzlādes punktiem i V universālais uzlādes kabelis (230V/ 400V kontaktligzdām) Signalizācija ar salona aizsardzības funkciju un pretaizvilkšanas aizsardzību Priekšējo sēdekļu apsild Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe) 4 skaļruņi priekšā, 4 skaļruņi aizmugurē \"Infotainment Basic\" pakotne: - navigācijas sistēma ar multivides pakotnes \"Infotainment Online\" 3 gadu abonementu 8DB 7UT Ārkārtas zvana funkcija i V attālinātie pakalpojumi \"i V Remote Services\": attālināta a/m uzlādes un salona temperatūras vadība, laika uzstādījumi 13\" skārienjūtīgs ekrāns, balss vadība, Smart Link, digitālais radio, 2x USB-C pieslēgvietas Bluetooth brīvroku sistēma mobilajam tālrunim Dizaina pakotne \"Loft\" (EO) : - melna/pelēka sēdekļu auduma/ mākslīgās ādas apdare - salona LED apgaismojuma pakotn 19\" vieglmetāla diski PROTEUS. 235/55 riepas priekšā un 255/50 R19 aizmugurē",
+      "confidence": 1.0,
+      "type": "direct",
+      "learned_from": "Salona atpakaļskata spogulis ar automātisku aptumšošanos"
+    }
+  ],
+  "NR106": [
+    {
+      "text": "Enyaq 85 Coupé 210 / 286 82 / 77 6,7 līdz 588 Aizmugures 51 130 Priekšējie drošības spilveni ar iespēju atslēgt pasažiera drošības spilvenu Galvas drošības spilvenu sistēma (aizkari) un priekšējie sānu un centrālais drošības spilveni Proaktīvā aizsardzības sistēma \"Pre Crash Basic\" ar avārijas bremzēšanu, priekšējo drošības jostu spriegošanu, logu un lūkas automātisku aizvēršanu LED priekšējie un aizmugurējie lukturi LED matricu priekšējie lukturi, LED aizmugurējie lukturi ar dinamiskajiem virzienrādītājiem \"Front Assist\" radaru sistēma: automātiska ātruma samazināšana un pilnīga apstāšanās iespējamās frontālās sadursmes gadījumā - avārijas bremzēšana pilsētā - gājēju un velobraucēju uzraudzības sistēma - ārkārtas stūrēšanas atbalsts ar pagrieziena palīgsistēmu Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus. Iekļauj arī funkciju \"Coming Home/Leaving Home\" Joslu palīgsistēma \"Lane Assistant\" Aklo zonu kontroles sistēma \"Side Assist\" uzrauga satiksmi automašīnas sānos un aizmugurē 90m rādiusā, brīdinot autovadītāju par tuvojošamies transporta līdzekļiem Stāvvietā novietošanas sensori priekšā un aizmugurē + atpakaļskata kamera Elektroniskā stāvbremze ar \"Autohold\" funkciju Adaptīvā kruīza kontrole Ceļa zīmju atpazīšanas sistēma ar multifunkcionālu kameru ISOFIX stiprinājumu vietas līdzbraucēja un aizmugurējā sēdekl Riepu spiediena monitorings Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy Elektriskie logu pacēlāji priekšējās un aizmugurējās durvīs 3-zonu klimata kontrole (Climatronic) Attālināti iestatāms elektriskais gaisa sildītājs un dzesētājs 2-spieķu multifunkcionāla ādas stūre ar apsildi Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi Priekšējie sēdekļi ar mehānisku augstuma regulāciju Salona atpakaļskata spogulis ar automātisku aptumšošanos Priekšējais elkoņbalsts ar sīklietu novietni Asimetriski dalīta (60/40) un nolokāma aizmugures sēdekļa atzveltne ar centrālo elkoņa balstu un transportēšanas lūku Braukšanas režīma izvēles sistēma \"Drive Mode Select\" 12V rozete bagāžas nodalījumā Izgaismots kāju nodalījums priekšā un aizmugurē sēdošajiem Jumta reliņi, melni (nav piejami Coupe) Lietussarga turētājs ar lietussargu vadītāja durvīs Jumta reliņi, sudraboti (nav piejami Coupe) Aizmugurējā stikla tīrītājs ar apskalošanas funkciju (nav piejami Coupe) Tekstila grīdas paklāji Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu Augstprieguma baterijas garantija 8 gadi vai 160 000km Iebūvēts maiņstrāvas lādētājs ar maksimālo jaudu 11k W Uzlādes kabelis MODE 3 savienošanai ar Wallbox uzlādes punktiem i V universālais uzlādes kabelis (230V/ 400V kontaktligzdām) Signalizācija ar salona aizsardzības funkciju un pretaizvilkšanas aizsardzību Priekšējo sēdekļu apsild Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe) 4 skaļruņi priekšā, 4 skaļruņi aizmugurē \"Infotainment Basic\" pakotne: - navigācijas sistēma ar multivides pakotnes \"Infotainment Online\" 3 gadu abonementu 8DB 7UT Ārkārtas zvana funkcija i V attālinātie pakalpojumi \"i V Remote Services\": attālināta a/m uzlādes un salona temperatūras vadība, laika uzstādījumi 13\" skārienjūtīgs ekrāns, balss vadība, Smart Link, digitālais radio, 2x USB-C pieslēgvietas Bluetooth brīvroku sistēma mobilajam tālrunim Dizaina pakotne \"Loft\" (EO) : - melna/pelēka sēdekļu auduma/ mākslīgās ādas apdare - salona LED apgaismojuma pakotn 19\" vieglmetāla diski PROTEUS. 235/55 riepas priekšā un 255/50 R19 aizmugurē",
+      "confidence": 1.0,
+      "type": "direct",
+      "learned_from": "Atpakaļskata kamera"
+    }
+  ],
+  "NR110": [
+    {
+      "text": "Enyaq 85 Coupé 210 / 286 82 / 77 6,7 līdz 588 Aizmugures 51 130 Priekšējie drošības spilveni ar iespēju atslēgt pasažiera drošības spilvenu Galvas drošības spilvenu sistēma (aizkari) un priekšējie sānu un centrālais drošības spilveni Proaktīvā aizsardzības sistēma \"Pre Crash Basic\" ar avārijas bremzēšanu, priekšējo drošības jostu spriegošanu, logu un lūkas automātisku aizvēršanu LED priekšējie un aizmugurējie lukturi LED matricu priekšējie lukturi, LED aizmugurējie lukturi ar dinamiskajiem virzienrādītājiem \"Front Assist\" radaru sistēma: automātiska ātruma samazināšana un pilnīga apstāšanās iespējamās frontālās sadursmes gadījumā - avārijas bremzēšana pilsētā - gājēju un velobraucēju uzraudzības sistēma - ārkārtas stūrēšanas atbalsts ar pagrieziena palīgsistēmu Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus. Iekļauj arī funkciju \"Coming Home/Leaving Home\" Joslu palīgsistēma \"Lane Assistant\" Aklo zonu kontroles sistēma \"Side Assist\" uzrauga satiksmi automašīnas sānos un aizmugurē 90m rādiusā, brīdinot autovadītāju par tuvojošamies transporta līdzekļiem Stāvvietā novietošanas sensori priekšā un aizmugurē + atpakaļskata kamera Elektroniskā stāvbremze ar \"Autohold\" funkciju Adaptīvā kruīza kontrole Ceļa zīmju atpazīšanas sistēma ar multifunkcionālu kameru ISOFIX stiprinājumu vietas līdzbraucēja un aizmugurējā sēdekl Riepu spiediena monitorings Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy Elektriskie logu pacēlāji priekšējās un aizmugurējās durvīs 3-zonu klimata kontrole (Climatronic) Attālināti iestatāms elektriskais gaisa sildītājs un dzesētājs 2-spieķu multifunkcionāla ādas stūre ar apsildi Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi Priekšējie sēdekļi ar mehānisku augstuma regulāciju Salona atpakaļskata spogulis ar automātisku aptumšošanos Priekšējais elkoņbalsts ar sīklietu novietni Asimetriski dalīta (60/40) un nolokāma aizmugures sēdekļa atzveltne ar centrālo elkoņa balstu un transportēšanas lūku Braukšanas režīma izvēles sistēma \"Drive Mode Select\" 12V rozete bagāžas nodalījumā Izgaismots kāju nodalījums priekšā un aizmugurē sēdošajiem Jumta reliņi, melni (nav piejami Coupe) Lietussarga turētājs ar lietussargu vadītāja durvīs Jumta reliņi, sudraboti (nav piejami Coupe) Aizmugurējā stikla tīrītājs ar apskalošanas funkciju (nav piejami Coupe) Tekstila grīdas paklāji Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu Augstprieguma baterijas garantija 8 gadi vai 160 000km Iebūvēts maiņstrāvas lādētājs ar maksimālo jaudu 11k W Uzlādes kabelis MODE 3 savienošanai ar Wallbox uzlādes punktiem i V universālais uzlādes kabelis (230V/ 400V kontaktligzdām) Signalizācija ar salona aizsardzības funkciju un pretaizvilkšanas aizsardzību Priekšējo sēdekļu apsild Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe) 4 skaļruņi priekšā, 4 skaļruņi aizmugurē \"Infotainment Basic\" pakotne: - navigācijas sistēma ar multivides pakotnes \"Infotainment Online\" 3 gadu abonementu 8DB 7UT Ārkārtas zvana funkcija i V attālinātie pakalpojumi \"i V Remote Services\": attālināta a/m uzlādes un salona temperatūras vadība, laika uzstādījumi 13\" skārienjūtīgs ekrāns, balss vadība, Smart Link, digitālais radio, 2x USB-C pieslēgvietas Bluetooth brīvroku sistēma mobilajam tālrunim Dizaina pakotne \"Loft\" (EO) : - melna/pelēka sēdekļu auduma/ mākslīgās ādas apdare - salona LED apgaismojuma pakotn 19\" vieglmetāla diski PROTEUS. 235/55 riepas priekšā un 255/50 R19 aizmugurē",
+      "confidence": 1.0,
+      "type": "direct",
+      "learned_from": "Gājēju un velobraucēju uzraudzības sistēma"
+    }
+  ],
+  "NR33": [
+    {
+      "text": "Enyaq 85 Coupé 210 / 286 82 / 77 6,7 līdz 588 Aizmugures 51 130 Priekšējie drošības spilveni ar iespēju atslēgt pasažiera drošības spilvenu Galvas drošības spilvenu sistēma (aizkari) un priekšējie sānu un centrālais drošības spilveni Proaktīvā aizsardzības sistēma \"Pre Crash Basic\" ar avārijas bremzēšanu, priekšējo drošības jostu spriegošanu, logu un lūkas automātisku aizvēršanu LED priekšējie un aizmugurējie lukturi LED matricu priekšējie lukturi, LED aizmugurējie lukturi ar dinamiskajiem virzienrādītājiem \"Front Assist\" radaru sistēma: automātiska ātruma samazināšana un pilnīga apstāšanās iespējamās frontālās sadursmes gadījumā - avārijas bremzēšana pilsētā - gājēju un velobraucēju uzraudzības sistēma - ārkārtas stūrēšanas atbalsts ar pagrieziena palīgsistēmu Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus. Iekļauj arī funkciju \"Coming Home/Leaving Home\" Joslu palīgsistēma \"Lane Assistant\" Aklo zonu kontroles sistēma \"Side Assist\" uzrauga satiksmi automašīnas sānos un aizmugurē 90m rādiusā, brīdinot autovadītāju par tuvojošamies transporta līdzekļiem Stāvvietā novietošanas sensori priekšā un aizmugurē + atpakaļskata kamera Elektroniskā stāvbremze ar \"Autohold\" funkciju Adaptīvā kruīza kontrole Ceļa zīmju atpazīšanas sistēma ar multifunkcionālu kameru ISOFIX stiprinājumu vietas līdzbraucēja un aizmugurējā sēdekl Riepu spiediena monitorings Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy Elektriskie logu pacēlāji priekšējās un aizmugurējās durvīs 3-zonu klimata kontrole (Climatronic) Attālināti iestatāms elektriskais gaisa sildītājs un dzesētājs 2-spieķu multifunkcionāla ādas stūre ar apsildi Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi Priekšējie sēdekļi ar mehānisku augstuma regulāciju Salona atpakaļskata spogulis ar automātisku aptumšošanos Priekšējais elkoņbalsts ar sīklietu novietni Asimetriski dalīta (60/40) un nolokāma aizmugures sēdekļa atzveltne ar centrālo elkoņa balstu un transportēšanas lūku Braukšanas režīma izvēles sistēma \"Drive Mode Select\" 12V rozete bagāžas nodalījumā Izgaismots kāju nodalījums priekšā un aizmugurē sēdošajiem Jumta reliņi, melni (nav piejami Coupe) Lietussarga turētājs ar lietussargu vadītāja durvīs Jumta reliņi, sudraboti (nav piejami Coupe) Aizmugurējā stikla tīrītājs ar apskalošanas funkciju (nav piejami Coupe) Tekstila grīdas paklāji Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu Augstprieguma baterijas garantija 8 gadi vai 160 000km Iebūvēts maiņstrāvas lādētājs ar maksimālo jaudu 11k W Uzlādes kabelis MODE 3 savienošanai ar Wallbox uzlādes punktiem i V universālais uzlādes kabelis (230V/ 400V kontaktligzdām) Signalizācija ar salona aizsardzības funkciju un pretaizvilkšanas aizsardzību Priekšējo sēdekļu apsild Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe) 4 skaļruņi priekšā, 4 skaļruņi aizmugurē \"Infotainment Basic\" pakotne: - navigācijas sistēma ar multivides pakotnes \"Infotainment Online\" 3 gadu abonementu 8DB 7UT Ārkārtas zvana funkcija i V attālinātie pakalpojumi \"i V Remote Services\": attālināta a/m uzlādes un salona temperatūras vadība, laika uzstādījumi 13\" skārienjūtīgs ekrāns, balss vadība, Smart Link, digitālais radio, 2x USB-C pieslēgvietas Bluetooth brīvroku sistēma mobilajam tālrunim Dizaina pakotne \"Loft\" (EO) : - melna/pelēka sēdekļu auduma/ mākslīgās ādas apdare - salona LED apgaismojuma pakotn 19\" vieglmetāla diski PROTEUS. 235/55 riepas priekšā un 255/50 R19 aizmugurē",
+      "confidence": 0.6400000000000001,
+      "type": "pattern",
+      "learned_from": "Pattern: elektriski"
+    }
+  ],
+  "NR47": [
+    {
+      "text": "Enyaq 85 Coupé 210 / 286 82 / 77 6,7 līdz 588 Aizmugures 51 130 Priekšējie drošības spilveni ar iespēju atslēgt pasažiera drošības spilvenu Galvas drošības spilvenu sistēma (aizkari) un priekšējie sānu un centrālais drošības spilveni Proaktīvā aizsardzības sistēma \"Pre Crash Basic\" ar avārijas bremzēšanu, priekšējo drošības jostu spriegošanu, logu un lūkas automātisku aizvēršanu LED priekšējie un aizmugurējie lukturi LED matricu priekšējie lukturi, LED aizmugurējie lukturi ar dinamiskajiem virzienrādītājiem \"Front Assist\" radaru sistēma: automātiska ātruma samazināšana un pilnīga apstāšanās iespējamās frontālās sadursmes gadījumā - avārijas bremzēšana pilsētā - gājēju un velobraucēju uzraudzības sistēma - ārkārtas stūrēšanas atbalsts ar pagrieziena palīgsistēmu Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus. Iekļauj arī funkciju \"Coming Home/Leaving Home\" Joslu palīgsistēma \"Lane Assistant\" Aklo zonu kontroles sistēma \"Side Assist\" uzrauga satiksmi automašīnas sānos un aizmugurē 90m rādiusā, brīdinot autovadītāju par tuvojošamies transporta līdzekļiem Stāvvietā novietošanas sensori priekšā un aizmugurē + atpakaļskata kamera Elektroniskā stāvbremze ar \"Autohold\" funkciju Adaptīvā kruīza kontrole Ceļa zīmju atpazīšanas sistēma ar multifunkcionālu kameru ISOFIX stiprinājumu vietas līdzbraucēja un aizmugurējā sēdekl Riepu spiediena monitorings Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy Elektriskie logu pacēlāji priekšējās un aizmugurējās durvīs 3-zonu klimata kontrole (Climatronic) Attālināti iestatāms elektriskais gaisa sildītājs un dzesētājs 2-spieķu multifunkcionāla ādas stūre ar apsildi Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi Priekšējie sēdekļi ar mehānisku augstuma regulāciju Salona atpakaļskata spogulis ar automātisku aptumšošanos Priekšējais elkoņbalsts ar sīklietu novietni Asimetriski dalīta (60/40) un nolokāma aizmugures sēdekļa atzveltne ar centrālo elkoņa balstu un transportēšanas lūku Braukšanas režīma izvēles sistēma \"Drive Mode Select\" 12V rozete bagāžas nodalījumā Izgaismots kāju nodalījums priekšā un aizmugurē sēdošajiem Jumta reliņi, melni (nav piejami Coupe) Lietussarga turētājs ar lietussargu vadītāja durvīs Jumta reliņi, sudraboti (nav piejami Coupe) Aizmugurējā stikla tīrītājs ar apskalošanas funkciju (nav piejami Coupe) Tekstila grīdas paklāji Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu Augstprieguma baterijas garantija 8 gadi vai 160 000km Iebūvēts maiņstrāvas lādētājs ar maksimālo jaudu 11k W Uzlādes kabelis MODE 3 savienošanai ar Wallbox uzlādes punktiem i V universālais uzlādes kabelis (230V/ 400V kontaktligzdām) Signalizācija ar salona aizsardzības funkciju un pretaizvilkšanas aizsardzību Priekšējo sēdekļu apsild Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe) 4 skaļruņi priekšā, 4 skaļruņi aizmugurē \"Infotainment Basic\" pakotne: - navigācijas sistēma ar multivides pakotnes \"Infotainment Online\" 3 gadu abonementu 8DB 7UT Ārkārtas zvana funkcija i V attālinātie pakalpojumi \"i V Remote Services\": attālināta a/m uzlādes un salona temperatūras vadība, laika uzstādījumi 13\" skārienjūtīgs ekrāns, balss vadība, Smart Link, digitālais radio, 2x USB-C pieslēgvietas Bluetooth brīvroku sistēma mobilajam tālrunim Dizaina pakotne \"Loft\" (EO) : - melna/pelēka sēdekļu auduma/ mākslīgās ādas apdare - salona LED apgaismojuma pakotn 19\" vieglmetāla diski PROTEUS. 235/55 riepas priekšā un 255/50 R19 aizmugurē",
+      "confidence": 0.6400000000000001,
+      "type": "pattern",
+      "learned_from": "Pattern: automātiska"
+    }
+  ],
+  "NR54": [
+    {
+      "text": "Enyaq 85 Coupé 210 / 286 82 / 77 6,7 līdz 588 Aizmugures 51 130 Priekšējie drošības spilveni ar iespēju atslēgt pasažiera drošības spilvenu Galvas drošības spilvenu sistēma (aizkari) un priekšējie sānu un centrālais drošības spilveni Proaktīvā aizsardzības sistēma \"Pre Crash Basic\" ar avārijas bremzēšanu, priekšējo drošības jostu spriegošanu, logu un lūkas automātisku aizvēršanu LED priekšējie un aizmugurējie lukturi LED matricu priekšējie lukturi, LED aizmugurējie lukturi ar dinamiskajiem virzienrādītājiem \"Front Assist\" radaru sistēma: automātiska ātruma samazināšana un pilnīga apstāšanās iespējamās frontālās sadursmes gadījumā - avārijas bremzēšana pilsētā - gājēju un velobraucēju uzraudzības sistēma - ārkārtas stūrēšanas atbalsts ar pagrieziena palīgsistēmu Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus. Iekļauj arī funkciju \"Coming Home/Leaving Home\" Joslu palīgsistēma \"Lane Assistant\" Aklo zonu kontroles sistēma \"Side Assist\" uzrauga satiksmi automašīnas sānos un aizmugurē 90m rādiusā, brīdinot autovadītāju par tuvojošamies transporta līdzekļiem Stāvvietā novietošanas sensori priekšā un aizmugurē + atpakaļskata kamera Elektroniskā stāvbremze ar \"Autohold\" funkciju Adaptīvā kruīza kontrole Ceļa zīmju atpazīšanas sistēma ar multifunkcionālu kameru ISOFIX stiprinājumu vietas līdzbraucēja un aizmugurējā sēdekl Riepu spiediena monitorings Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy Elektriskie logu pacēlāji priekšējās un aizmugurējās durvīs 3-zonu klimata kontrole (Climatronic) Attālināti iestatāms elektriskais gaisa sildītājs un dzesētājs 2-spieķu multifunkcionāla ādas stūre ar apsildi Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi Priekšējie sēdekļi ar mehānisku augstuma regulāciju Salona atpakaļskata spogulis ar automātisku aptumšošanos Priekšējais elkoņbalsts ar sīklietu novietni Asimetriski dalīta (60/40) un nolokāma aizmugures sēdekļa atzveltne ar centrālo elkoņa balstu un transportēšanas lūku Braukšanas režīma izvēles sistēma \"Drive Mode Select\" 12V rozete bagāžas nodalījumā Izgaismots kāju nodalījums priekšā un aizmugurē sēdošajiem Jumta reliņi, melni (nav piejami Coupe) Lietussarga turētājs ar lietussargu vadītāja durvīs Jumta reliņi, sudraboti (nav piejami Coupe) Aizmugurējā stikla tīrītājs ar apskalošanas funkciju (nav piejami Coupe) Tekstila grīdas paklāji Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu Augstprieguma baterijas garantija 8 gadi vai 160 000km Iebūvēts maiņstrāvas lādētājs ar maksimālo jaudu 11k W Uzlādes kabelis MODE 3 savienošanai ar Wallbox uzlādes punktiem i V universālais uzlādes kabelis (230V/ 400V kontaktligzdām) Signalizācija ar salona aizsardzības funkciju un pretaizvilkšanas aizsardzību Priekšējo sēdekļu apsild Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe) 4 skaļruņi priekšā, 4 skaļruņi aizmugurē \"Infotainment Basic\" pakotne: - navigācijas sistēma ar multivides pakotnes \"Infotainment Online\" 3 gadu abonementu 8DB 7UT Ārkārtas zvana funkcija i V attālinātie pakalpojumi \"i V Remote Services\": attālināta a/m uzlādes un salona temperatūras vadība, laika uzstādījumi 13\" skārienjūtīgs ekrāns, balss vadība, Smart Link, digitālais radio, 2x USB-C pieslēgvietas Bluetooth brīvroku sistēma mobilajam tālrunim Dizaina pakotne \"Loft\" (EO) : - melna/pelēka sēdekļu auduma/ mākslīgās ādas apdare - salona LED apgaismojuma pakotn 19\" vieglmetāla diski PROTEUS. 235/55 riepas priekšā un 255/50 R19 aizmugurē",
+      "confidence": 0.6400000000000001,
+      "type": "pattern",
+      "learned_from": "Pattern: automātiska"
+    }
+  ]
+}
+
+NR25: No | 
+NR26: No | 
+NR28: No | 
+NR30: No | 
+NR32: Yes | Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi
+NR33: Yes | Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi
+NR34: No | 
+NR35: Maybe | Gaismas asistents (Light Assist) ar lietus sensoru
+NR36: No | 
+NR37: No | 
+NR38: No | 
+NR39: No | 
+NR40: Maybe | Jumta reliņi, melni (nav piejami Coupe)
+NR41: No | 
+NR42: Yes | Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe)
+NR44: Yes | Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus
+NR45: No | 
+NR46: No | 
+NR47: Yes | Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus
+NR48: No | 
+NR49: Yes | LED priekšējie un aizmugurējie lukturi
+NR50: No | 
+NR51: Yes | LED matricu priekšējie lukturi
+NR53: No | 
+NR54: Yes | 3-zonu klimata kontrole (Climatronic)
+NR55: Yes | 3-zonu klimata kontrole (Climatronic)
+NR56: No | 
+NR57: Maybe | salona LED apgaismojuma pakotn
+NR58: Yes | Priekšējais elkoņbalsts ar sīklietu novietni
+NR59: Yes | Salona atpakaļskata spogulis ar automātisku aptumšošanos
+NR60: Yes | 12V rozete bagāžas nodalījumā
+NR61: No | 
+NR63: No | 
+NR64: No | 
+NR65: No | 
+NR66: Yes | 13" skārienjūtīgs ekrāns
+NR67: No | 
+NR68: Yes | navigācijas sistēma ar multivides pakotnes "Infotainment Online" 3 gadu abonementu
+NR69: Yes | navigācijas sistēma ar multivides pakotnes "Infotainment Online" 3 gadu abonementu
+NR70: Maybe | Smart Link
+NR71: No | 
+NR72: No | 
+NR73: No | 
+NR75: Yes | 2-spieķu multifunkcionāla ādas stūre ar apsildi
+NR76: Yes | 2-spieķu multifunkcionāla ādas stūre ar apsildi
+NR77: No | 
+NR78: No | 
+NR79: Yes | 13" skārienjūtīgs ekrāns
+NR81: Yes | Priekšējo sēdekļu apsild
+NR82: Yes | Priekšējo sēdekļu apsild
+NR83: No | 
+NR84: No | 
+NR85: No | 
+NR86: No | 
+NR87: No | 
+NR88: No | 
+NR89: No | 
+NR90: No | 
+NR91: No | 
+NR92: Yes | melna/pelēka sēdekļu auduma/ mākslīgās ādas apdare
+NR93: No | 
+NR94: No | 
+NR96: No | 
+NR97: Yes | Aklo zonu kontroles sistēma "Side Assist"
+NR98: No | 
+NR99: Yes | Kruīza kontrole
+NR100: Yes | Adaptīvā kruīza kontrole
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: No | 
+NR105: No | 
+NR106: Yes | atpakaļskata kamera
+NR107: Yes | Stāvvietā novietošanas sensori priekšā
+NR108: Yes | Stāvvietā novietošanas sensori aizmugurē
+NR110: Yes | avārijas bremzēšana pilsētā - gājēju un velobraucēju uzraudzības sistēma
+NR111: No | 
+NR112: No | 
+NR113: Yes | Elektroniskā stāvbremze ar "Autohold" funkciju
+NR115: No | 
+NR116: No | 
+NR117: No | 
+NR118: No | 
+NR119: No | 
+NR120: Yes | 19" vieglmetāla diski PROTEUS
+NR121: No | 
+NR122: No | 
+NR123: No | 
+NR124: No | 
+NR126: Yes | priekšējie sānu un centrālais drošības spilveni
+NR127: Yes | Galvas drošības spilvenu sistēma (aizkari)
+NR128: Yes | priekšējie sānu un centrālais drošības spilveni
+NR129: No | 
+NR130: No | 
+NR131: Yes | Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy
+NR133: No | 
+NR134: No | 
+NR135: Yes | Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu
+NR136: No | 
+NR137: No | 
+NR138: Yes | Augstprieguma baterijas garantija 8 gadi vai 160 000km

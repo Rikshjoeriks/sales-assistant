@@ -1,0 +1,608 @@
+=== ATTEMPT 1 ===
+NR31: No | | Not mentioned in the specification text.
+
+NR33: No | | Not mentioned in the specification text.
+
+NR35: No | | Not mentioned in the specification text.
+
+NR36: No | | Not mentioned in the specification text.
+
+NR37: No | | Not mentioned in the specification text.
+
+NR39: No | | Not mentioned in the specification text.
+
+NR41: Yes | "Adjustable Side Mirrors: Electrically adjustable, foldable, and heated." | Clearly mentions electrically adjustable and heated side mirrors.
+
+NR42: Yes | "Adjustable Side Mirrors: Electrically adjustable, foldable, and heated." | Clearly mentions electrically adjustable and foldable side mirrors.
+
+NR43: No | | Not mentioned in the specification text.
+
+NR44: No | | Not mentioned in the specification text.
+
+NR45: No | | Not mentioned in the specification text.
+
+NR46: No | | Not mentioned in the specification text.
+
+NR47: Yes | "Roof Rails: Available in black (not available for Coupe) or silver (not available for Coupe)." | Clearly mentions roof rails.
+
+NR48: Yes | "Panoramic Glass Roof: Tinted glass (only available for Coupe)." | Clearly mentions a panoramic roof.
+
+NR50: Yes | "Light Assist: LED front and rear headlights with a rain sensor that automatically activates low beams or daytime running lights." | Clearly mentions LED daytime running lights.
+
+NR51: No | | Not mentioned in the specification text.
+
+NR52: No | | Not mentioned in the specification text.
+
+NR53: Yes | "Light Assist: LED front and rear headlights with a rain sensor that automatically activates low beams or daytime running lights." | Implies automatic headlight control.
+
+NR54: No | | Not mentioned in the specification text.
+
+NR55: Yes | "Light Assist: LED front and rear headlights." | Clearly mentions LED front headlights.
+
+NR56: No | | Not mentioned in the specification text.
+
+NR57: No | | Not mentioned in the specification text.
+
+NR59: Yes | "3-Zone Climate Control: Climatronic system for personalized temperature settings." | Implies air conditioning.
+
+NR60: No | | Not mentioned in the specification text.
+
+NR61: No | | Not mentioned in the specification text.
+
+NR62: Yes | "3-Zone Climate Control: Climatronic system for personalized temperature settings." | Implies multi-zone climate control.
+
+NR63: No | | Not mentioned in the specification text.
+
+NR64: No | | Not mentioned in the specification text.
+
+NR65: No | | Not mentioned in the specification text.
+
+NR66: Yes | "Auto-Dimming Rearview Mirror: Reduces glare from headlights." | Clearly mentions an auto-dimming rearview mirror.
+
+NR67: Yes | "12V Power Outlet: Located in the luggage compartment." | Clearly mentions a 12V outlet in the luggage compartment.
+
+NR68: No | | Not mentioned in the specification text.
+
+NR70: Yes | "Touchscreen Display: 13" touchscreen with voice control." | Clearly mentions a touchscreen display larger than 12 inches.
+
+NR71: No | | Not mentioned in the specification text.
+
+NR72: No | | Not mentioned in the specification text.
+
+NR73: Yes | "Touchscreen Display: 13" touchscreen with voice control." | Clearly mentions a touchscreen display of 12 inches.
+
+NR74: No | | Not mentioned in the specification text.
+
+NR75: Yes | "Infotainment Basic Package: Includes navigation system." | Clearly mentions a navigation system.
+
+NR76: No | | Not mentioned in the specification text.
+
+NR77: No | | Not mentioned in the specification text.
+
+NR78: No | | Not mentioned in the specification text.
+
+NR79: No | | Not mentioned in the specification text.
+
+NR80: Yes | "Emergency Call Function: Automatic emergency call feature." | Clearly mentions an emergency call feature.
+
+NR81: No | | Not mentioned in the specification text.
+
+NR83: Yes | "Multifunctional Leather Steering Wheel: 2-spoke design with heating." | Clearly mentions a heated steering wheel.
+
+NR84: Yes | "Multifunctional Leather Steering Wheel: 2-spoke design with heating." | Clearly mentions a leather steering wheel.
+
+NR85: No | | Not mentioned in the specification text.
+
+NR86: No | | Not mentioned in the specification text.
+
+NR87: No | | Not mentioned in the specification text.
+
+NR89: Yes | "Multifunctional Leather Steering Wheel: 2-spoke design with heating." | Implies heated driver seat.
+
+NR90: No | | Not mentioned in the specification text.
+
+NR91: No | | Not mentioned in the specification text.
+
+NR92: No | | Not mentioned in the specification text.
+
+NR93: No | | Not mentioned in the specification text.
+
+NR94: No | | Not mentioned in the specification text.
+
+NR95: No | | Not mentioned in the specification text.
+
+NR96: No | | Not mentioned in the specification text.
+
+NR97: No | | Not mentioned in the specification text.
+
+NR98: No | | Not mentioned in the specification text.
+
+NR99: No | | Not mentioned in the specification text.
+
+NR100: No | | Not mentioned in the specification text.
+
+NR101: No | | Not mentioned in the specification text.
+
+NR102: No | | Not mentioned in the specification text.
+
+NR104: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Clearly mentions parking assistance features.
+
+NR105: Yes | "Side Assist: Monitors traffic in the vehicle's blind spots." | Clearly mentions blind spot monitoring.
+
+NR106: No | | Not mentioned in the specification text.
+
+NR107: Yes | "Adaptive Cruise Control: Maintains a set speed and distance from the vehicle ahead." | Clearly mentions adaptive cruise control.
+
+NR108: Yes | "Adaptive Cruise Control: Maintains a set speed and distance from the vehicle ahead." | Clearly mentions adaptive cruise control.
+
+NR109: No | | Not mentioned in the specification text.
+
+NR110: No | | Not mentioned in the specification text.
+
+NR111: No | | Not mentioned in the specification text.
+
+NR112: Yes | "Lane Assistant: Lane-keeping assistance system." | Clearly mentions lane-keeping assistance.
+
+NR113: No | | Not mentioned in the specification text.
+
+NR114: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Implies rearview camera functionality.
+
+NR115: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Clearly mentions front parking sensors.
+
+NR116: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Clearly mentions rear parking sensors.
+
+NR118: Yes | "Front Assist Radar System: Automatic speed reduction and full stop in the event of a potential frontal collision." | Implies pedestrian and cyclist recognition.
+
+NR119: No | | Not mentioned in the specification text.
+
+NR120: Yes | "Electronic Parking Brake: Features 'Autohold' function." | Clearly mentions an electronic parking brake.
+
+NR122: No | | Not mentioned in the specification text.
+
+NR123: No | | Not mentioned in the specification text.
+
+NR124: No | | Not mentioned in the specification text.
+
+NR125: No | | Not mentioned in the specification text.
+
+NR126: No | | Not mentioned in the specification text.
+
+NR127: No | | Not mentioned in the specification text.
+
+NR128: Yes | "Wheels: 19" alloy wheels (PROTEUS) with 235/55 tires in the front and 255/50 R19 tires in the rear." | Clearly mentions 19" alloy wheels.
+
+NR129: No | | Not mentioned in the specification text.
+
+NR130: No | | Not mentioned in the specification text.
+
+NR132: No | | Not mentioned in the specification text.
+
+NR133: Yes | "Head Curtain Airbag System: Includes front side airbags and a central airbag." | Clearly mentions curtain airbags.
+
+NR134: Yes | "Head Curtain Airbag System: Includes front side airbags and a central airbag." | Clearly mentions side airbags.
+
+NR135: Yes | "Alarm System: Includes cabin protection and anti-theft features." | Clearly mentions an alarm system.
+
+NR136: Yes | "Keyless Entry and Engine Start: Kessy system for easy access." | Clearly mentions keyless entry.
+
+NR137: Yes | "Keyless Entry and Engine Start: Kessy system for easy access." | Clearly mentions keyless start.
+
+NR139: Yes | "Manufacturer's Warranty: 5 years or 100,000km." | Clearly mentions a 5-year warranty.
+
+NR140: No | | Not mentioned in the specification text.
+
+NR141: No | | Not mentioned in the specification text.
+
+NR142: Yes | "Manufacturer's Warranty: 5 years or 100,000km." | Clearly mentions a 5-year warranty.
+
+NR143: No | | Not mentioned in the specification text.
+
+NR144: No | | Not mentioned in the specification text.
+
+NR145: No | | Not mentioned in the specification text.
+=== ATTEMPT 2 ===
+NR31: No | | Not mentioned in the specification text.
+
+NR33: No | | Not mentioned in the specification text.
+
+NR35: No | | Not mentioned in the specification text.
+
+NR36: No | | Not mentioned in the specification text.
+
+NR37: No | | Not mentioned in the specification text.
+
+NR39: No | | Not mentioned in the specification text.
+
+NR41: Yes | "Adjustable Side Mirrors: Electrically adjustable, foldable, and heated." | Clearly mentions electrically adjustable and heated side mirrors.
+
+NR42: Yes | "Adjustable Side Mirrors: Electrically adjustable, foldable, and heated." | Clearly mentions electrically adjustable and foldable side mirrors.
+
+NR43: No | | Not mentioned in the specification text.
+
+NR44: No | | Not mentioned in the specification text.
+
+NR45: No | | Not mentioned in the specification text.
+
+NR46: No | | Not mentioned in the specification text.
+
+NR47: Yes | "Roof Rails: Available in black (not available for Coupe) or silver (not available for Coupe)." | Clearly mentions roof rails.
+
+NR48: Yes | "Panoramic Glass Roof: Tinted glass (only available for Coupe)." | Clearly mentions a panoramic roof.
+
+NR50: Yes | "Light Assist: LED front and rear headlights with a rain sensor that automatically activates low beams or daytime running lights." | Clearly mentions LED daytime running lights.
+
+NR51: No | | Not mentioned in the specification text.
+
+NR52: No | | Not mentioned in the specification text.
+
+NR53: Yes | "Light Assist: LED front and rear headlights with a rain sensor that automatically activates low beams or daytime running lights." | Implies automatic headlight control due to the rain sensor.
+
+NR54: No | | Not mentioned in the specification text.
+
+NR55: Yes | "Light Assist: LED front and rear headlights." | Clearly mentions LED headlights.
+
+NR56: No | | Not mentioned in the specification text.
+
+NR57: No | | Not mentioned in the specification text.
+
+NR59: Yes | "3-Zone Climate Control: Climatronic system for personalized temperature settings." | Implies air conditioning features.
+
+NR60: No | | Not mentioned in the specification text.
+
+NR61: No | | Not mentioned in the specification text.
+
+NR62: Yes | "3-Zone Climate Control: Climatronic system for personalized temperature settings." | Implies multi-zone air conditioning.
+
+NR63: No | | Not mentioned in the specification text.
+
+NR64: No | | Not mentioned in the specification text.
+
+NR65: Yes | "Front Armrest: Includes a small storage compartment." | Mentions a central console with an armrest.
+
+NR66: Yes | "Auto-Dimming Rearview Mirror: Reduces glare from headlights." | Clearly mentions an auto-dimming mirror.
+
+NR67: Yes | "12V Power Outlet: Located in the luggage compartment." | Clearly mentions a 12V outlet.
+
+NR68: No | | Not mentioned in the specification text.
+
+NR70: Yes | "Touchscreen Display: 13" touchscreen with voice control, Smart Link, digital radio, and 2x USB-C ports." | Clearly mentions a touchscreen display.
+
+NR71: No | | Not mentioned in the specification text.
+
+NR72: No | | Not mentioned in the specification text.
+
+NR73: Yes | "Touchscreen Display: 13" touchscreen with voice control, Smart Link, digital radio, and 2x USB-C ports." | Clearly mentions a touchscreen display.
+
+NR74: No | | Not mentioned in the specification text.
+
+NR75: Yes | "Infotainment Basic Package: Includes navigation system with a 3-year subscription to the 'Infotainment Online' multimedia package." | Clearly mentions a navigation system.
+
+NR76: No | | Not mentioned in the specification text.
+
+NR77: No | | Not mentioned in the specification text.
+
+NR78: No | | Not mentioned in the specification text.
+
+NR79: No | | Not mentioned in the specification text.
+
+NR80: Yes | "Emergency Call Function: Automatic emergency call feature." | Clearly mentions an emergency call feature.
+
+NR81: No | | Not mentioned in the specification text.
+
+NR83: Yes | "Multifunctional Leather Steering Wheel: 2-spoke design with heating." | Clearly mentions a heated steering wheel.
+
+NR84: Yes | "Multifunctional Leather Steering Wheel: 2-spoke design with heating." | Clearly mentions a leather steering wheel.
+
+NR85: No | | Not mentioned in the specification text.
+
+NR86: No | | Not mentioned in the specification text.
+
+NR87: No | | Not mentioned in the specification text.
+
+NR89: Yes | "Front Seats: Manually adjustable height." | Implies adjustable front seats, but does not specify heating.
+
+NR90: No | | Not mentioned in the specification text.
+
+NR91: No | | Not mentioned in the specification text.
+
+NR92: Yes | "Front Seats: Manually adjustable height." | Clearly mentions manual adjustment for front seats.
+
+NR93: Yes | "Front Seats: Manually adjustable height." | Clearly mentions manual adjustment for front seats.
+
+NR94: No | | Not mentioned in the specification text.
+
+NR95: No | | Not mentioned in the specification text.
+
+NR96: No | | Not mentioned in the specification text.
+
+NR97: No | | Not mentioned in the specification text.
+
+NR98: No | | Not mentioned in the specification text.
+
+NR99: No | | Not mentioned in the specification text.
+
+NR100: No | | Not mentioned in the specification text.
+
+NR101: No | | Not mentioned in the specification text.
+
+NR102: No | | Not mentioned in the specification text.
+
+NR104: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Clearly mentions parking assistance features.
+
+NR105: Yes | "Side Assist: Monitors traffic in the vehicle's blind spots up to 90 meters, alerting the driver of approaching vehicles." | Clearly mentions blind spot monitoring.
+
+NR106: No | | Not mentioned in the specification text.
+
+NR107: Yes | "Adaptive Cruise Control: Maintains a set speed and distance from the vehicle ahead." | Clearly mentions adaptive cruise control.
+
+NR108: Yes | "Adaptive Cruise Control: Maintains a set speed and distance from the vehicle ahead." | Clearly mentions adaptive cruise control.
+
+NR109: No | | Not mentioned in the specification text.
+
+NR110: No | | Not mentioned in the specification text.
+
+NR111: No | | Not mentioned in the specification text.
+
+NR112: Yes | "Lane Assistant: Lane-keeping assistance system." | Clearly mentions lane-keeping assistance.
+
+NR113: No | | Not mentioned in the specification text.
+
+NR114: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Implies rearview camera functionality.
+
+NR115: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Clearly mentions front parking sensors.
+
+NR116: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Clearly mentions rear parking sensors.
+
+NR118: Yes | "Front Assist Radar System: Automatic speed reduction and full stop in the event of a potential frontal collision, city emergency braking, pedestrian and cyclist monitoring, and emergency steering support with a turning assistant." | Clearly mentions pedestrian and cyclist monitoring.
+
+NR119: No | | Not mentioned in the specification text.
+
+NR120: Yes | "Electronic Parking Brake: Features 'Autohold' function." | Clearly mentions an electronic parking brake.
+
+NR122: No | | Not mentioned in the specification text.
+
+NR123: No | | Not mentioned in the specification text.
+
+NR124: No | | Not mentioned in the specification text.
+
+NR125: No | | Not mentioned in the specification text.
+
+NR126: No | | Not mentioned in the specification text.
+
+NR127: No | | Not mentioned in the specification text.
+
+NR128: Yes | "Wheels: 19" alloy wheels (PROTEUS) with 235/55 tires in the front and 255/50 R19 tires in the rear." | Clearly mentions 19" alloy wheels.
+
+NR129: No | | Not mentioned in the specification text.
+
+NR130: No | | Not mentioned in the specification text.
+
+NR132: Yes | "Head Curtain Airbag System: Includes front side airbags and a central airbag." | Clearly mentions airbags.
+
+NR133: Yes | "Head Curtain Airbag System: Includes front side airbags and a central airbag." | Clearly mentions curtain airbags.
+
+NR134: Yes | "Head Curtain Airbag System: Includes front side airbags and a central airbag." | Clearly mentions side airbags.
+
+NR135: Yes | "Alarm System: Includes cabin protection and anti-theft features." | Clearly mentions an alarm system.
+
+NR136: Yes | "Keyless Entry and Engine Start: Kessy system for easy access." | Clearly mentions keyless entry.
+
+NR137: Yes | "Keyless Entry and Engine Start: Kessy system for easy access." | Clearly mentions keyless entry.
+
+NR139: Yes | "Manufacturer's Warranty: 5 years or 100,000km." | Clearly mentions a 5-year warranty.
+
+NR140: No | | Not mentioned in the specification text.
+
+NR141: No | | Not mentioned in the specification text.
+
+NR142: Yes | "Manufacturer's Warranty: 5 years or 100,000km." | Clearly mentions a 5-year warranty.
+
+NR143: No | | Not mentioned in the specification text.
+
+NR144: No | | Not mentioned in the specification text.
+
+NR145: No | | Not mentioned in the specification text.
+=== ATTEMPT 3 ===
+Here are the matching results based on the provided specification text:
+
+NR31: No | | Not mentioned in the specification text.
+
+NR33: No | | Not mentioned in the specification text.
+
+NR35: No | | Not mentioned in the specification text.
+
+NR36: No | | Not mentioned in the specification text.
+
+NR37: No | | Not mentioned in the specification text.
+
+NR39: No | | Not mentioned in the specification text.
+
+NR41: Yes | "Adjustable Side Mirrors: Electrically adjustable, foldable, and heated." | Matches the description of electrically heated side mirrors.
+
+NR42: Yes | "Adjustable Side Mirrors: Electrically adjustable, foldable, and heated." | Matches the description of electrically adjustable, foldable, and heated side mirrors.
+
+NR43: No | | Not mentioned in the specification text.
+
+NR44: No | | Not mentioned in the specification text.
+
+NR45: No | | Not mentioned in the specification text.
+
+NR46: No | | Not mentioned in the specification text.
+
+NR47: Yes | "Roof Rails: Available in black (not available for Coupe) or silver (not available for Coupe)." | Matches the description of roof rails.
+
+NR48: Yes | "Panoramic Glass Roof: Tinted glass (only available for Coupe)." | Matches the description of a panoramic roof.
+
+NR50: Yes | "Light Assist: LED front and rear headlights..." | Matches the description of LED daytime running lights.
+
+NR51: No | | Not mentioned in the specification text.
+
+NR52: No | | Not mentioned in the specification text.
+
+NR53: Yes | "Light Assist: LED front and rear headlights with a rain sensor that automatically activates low beams..." | Matches the description of automatic headlight control.
+
+NR54: No | | Not mentioned in the specification text.
+
+NR55: Yes | "Light Assist: LED front and rear headlights..." | Matches the description of LED headlights.
+
+NR56: No | | Not mentioned in the specification text.
+
+NR57: No | | Not mentioned in the specification text.
+
+NR59: Yes | "3-Zone Climate Control: Climatronic system for personalized temperature settings." | Matches the description of air conditioning.
+
+NR60: No | | Not mentioned in the specification text.
+
+NR61: No | | Not mentioned in the specification text.
+
+NR62: Yes | "3-Zone Climate Control: Climatronic system for personalized temperature settings." | Matches the description of a 3-zone climate control system.
+
+NR63: No | | Not mentioned in the specification text.
+
+NR64: No | | Not mentioned in the specification text.
+
+NR65: No | | Not mentioned in the specification text.
+
+NR66: Yes | "Auto-Dimming Rearview Mirror: Reduces glare from headlights." | Matches the description of an auto-dimming rearview mirror.
+
+NR67: Yes | "12V Power Outlet: Located in the luggage compartment." | Matches the description of a 12V outlet.
+
+NR68: No | | Not mentioned in the specification text.
+
+NR70: Yes | "Touchscreen Display: 13" touchscreen with voice control..." | Matches the description of a multifunctional touchscreen display.
+
+NR71: No | | Not mentioned in the specification text.
+
+NR72: No | | Not mentioned in the specification text.
+
+NR73: Yes | "Touchscreen Display: 13" touchscreen..." | Matches the description of a 12-inch touchscreen.
+
+NR74: No | | Not mentioned in the specification text.
+
+NR75: Yes | "Infotainment Basic Package: Includes navigation system with a 3-year subscription..." | Matches the description of a navigation center.
+
+NR76: No | | Not mentioned in the specification text.
+
+NR77: No | | Not mentioned in the specification text.
+
+NR78: No | | Not mentioned in the specification text.
+
+NR79: No | | Not mentioned in the specification text.
+
+NR80: Yes | "Emergency Call Function: Automatic emergency call feature." | Matches the description of an emergency call feature.
+
+NR81: No | | Not mentioned in the specification text.
+
+NR83: Yes | "Multifunctional Leather Steering Wheel: 2-spoke design with heating." | Matches the description of a heated steering wheel.
+
+NR84: Yes | "Multifunctional Leather Steering Wheel: 2-spoke design with heating." | Matches the description of a leather steering wheel.
+
+NR85: No | | Not mentioned in the specification text.
+
+NR86: No | | Not mentioned in the specification text.
+
+NR87: No | | Not mentioned in the specification text.
+
+NR89: Yes | "Front Seats: Manually adjustable height." | Matches the description of a heated driver's seat.
+
+NR90: No | | Not mentioned in the specification text.
+
+NR91: No | | Not mentioned in the specification text.
+
+NR92: Yes | "Front Seats: Manually adjustable height." | Matches the description of manual adjustment for the driver's seat.
+
+NR93: Yes | "Front Seats: Manually adjustable height." | Matches the description of manual adjustment for the passenger seat.
+
+NR94: No | | Not mentioned in the specification text.
+
+NR95: No | | Not mentioned in the specification text.
+
+NR96: No | | Not mentioned in the specification text.
+
+NR97: No | | Not mentioned in the specification text.
+
+NR98: No | | Not mentioned in the specification text.
+
+NR99: No | | Not mentioned in the specification text.
+
+NR100: No | | Not mentioned in the specification text.
+
+NR101: No | | Not mentioned in the specification text.
+
+NR102: No | | Not mentioned in the specification text.
+
+NR104: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Matches the description of an automatic parking system.
+
+NR105: Yes | "Side Assist: Monitors traffic in the vehicle's blind spots..." | Matches the description of blind spot monitoring.
+
+NR106: No | | Not mentioned in the specification text.
+
+NR107: Yes | "Adaptive Cruise Control: Maintains a set speed and distance from the vehicle ahead." | Matches the description of cruise control.
+
+NR108: Yes | "Adaptive Cruise Control: Maintains a set speed and distance from the vehicle ahead." | Matches the description of adaptive cruise control.
+
+NR109: No | | Not mentioned in the specification text.
+
+NR110: No | | Not mentioned in the specification text.
+
+NR111: No | | Not mentioned in the specification text.
+
+NR112: Yes | "Lane Assistant: Lane-keeping assistance system." | Matches the description of lane centering and overtaking assistance.
+
+NR113: No | | Not mentioned in the specification text.
+
+NR114: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Matches the description of a rearview camera.
+
+NR115: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Matches the description of front parking sensors.
+
+NR116: Yes | "Parking Sensors: Front and rear parking sensors with a rearview camera." | Matches the description of rear parking sensors.
+
+NR118: Yes | "Front Assist Radar System: Automatic speed reduction and full stop in the event of a potential frontal collision..." | Matches the description of AEBS with pedestrian and cyclist recognition.
+
+NR119: No | | Not mentioned in the specification text.
+
+NR120: Yes | "Electronic Parking Brake: Features 'Autohold' function." | Matches the description of an electronic parking brake.
+
+NR122: No | | Not mentioned in the specification text.
+
+NR123: No | | Not mentioned in the specification text.
+
+NR124: No | | Not mentioned in the specification text.
+
+NR125: No | | Not mentioned in the specification text.
+
+NR126: No | | Not mentioned in the specification text.
+
+NR127: No | | Not mentioned in the specification text.
+
+NR128: Yes | "Wheels: 19" alloy wheels (PROTEUS)..." | Matches the description of 19" alloy wheels.
+
+NR129: No | | Not mentioned in the specification text.
+
+NR130: No | | Not mentioned in the specification text.
+
+NR132: Yes | "Front Airbags: Front airbags with the option to deactivate the passenger airbag." | Matches the description of knee or central airbags.
+
+NR133: Yes | "Head Curtain Airbag System: Includes front side airbags and a central airbag." | Matches the description of curtain airbags.
+
+NR134: Yes | "Head Curtain Airbag System: Includes front side airbags and a central airbag." | Matches the description of side airbags.
+
+NR135: Yes | "Alarm System: Includes cabin protection and anti-theft features." | Matches the description of perimeter alarm.
+
+NR136: Yes | "Keyless Entry and Engine Start: Kessy system for easy access." | Matches the description of keyless ignition.
+
+NR137: Yes | "Keyless Entry and Engine Start: Kessy system for easy access." | Matches the description of keyless access.
+
+NR139: Yes | "Manufacturer's Warranty: 5 years or 100,000km." | Matches the description of a 5-year warranty.
+
+NR140: No | | Not mentioned in the specification text.
+
+NR141: No | | Not mentioned in the specification text.
+
+NR142: Yes | "Manufacturer's Warranty: 5 years or 100,000km." | Matches the description of a 5-year warranty.
+
+NR143: No | | Not mentioned in the specification text.
+
+NR144: No | | Not mentioned in the specification text.
+
+NR145: No | | Not mentioned in the specification text.

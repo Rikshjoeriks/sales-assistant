@@ -1,0 +1,92 @@
+NR24: NO_MATCH | | | No equivalent 4X4 feature found
+NR26: NO_MATCH | | | No equivalent automatic transmission feature found
+NR28: NO_MATCH | | | No equivalent mHEV feature found
+NR29: NO_MATCH | | | No equivalent FHEV feature found
+NR30: NO_MATCH | | | No equivalent PHEV feature found
+NR32: NO_MATCH | | | No equivalent metallic paint feature found
+NR34: MATCH | Electrically adjustable side mirrors | Electrically adjustable side mirrors with turn indicator | Matches electric mirror adjustment
+NR35: MATCH | Heated and automatically folding side mirrors | Heated and automatically folding side mirrors | Matches electric/heated/folding mirrors
+NR36: MATCH | Automatic wipers and rain sensor | Automatic wipers and rain sensor | Matches automatic windshield wipers
+NR37: NO_MATCH | | | No equivalent tinted glass feature found
+NR38: NO_MATCH | | | No equivalent heated windshield feature found
+NR39: NO_MATCH | | | No equivalent electric tailgate feature found
+NR40: NO_MATCH | | | No equivalent roof rails feature found
+NR41: NO_MATCH | | | No equivalent panoramic roof feature found
+NR43: MATCH | LED daytime running lights | LED daytime running lights | Matches LED daytime running lights
+NR44: NO_MATCH | | | No equivalent front fog lights feature found
+NR45: NO_MATCH | | | No equivalent LED front fog lights feature found
+NR46: MATCH | Intelligent automatic front headlights | Intelligent automatic front headlights | Matches automatic headlight control
+NR47: NO_MATCH | | | No equivalent automatic high/low beam feature found
+NR48: MATCH | LED front headlights | LED front headlights | Matches LED main headlights
+NR49: MATCH | Rear LED fog light | Rear LED fog light | Matches LED rear lights
+NR51: NO_MATCH | | | No equivalent air conditioning feature found
+NR52: MATCH | Automatic air conditioning system | Automatic air conditioning system | Matches EATC 1 zone
+NR53: NO_MATCH | | | No equivalent dual-zone air conditioning feature found
+NR54: NO_MATCH | | | No equivalent tri-zone air conditioning feature found
+NR55: MATCH | Front armrest | Front armrest | Matches central console with armrest
+NR56: NO_MATCH | | | No equivalent auto-dimming mirror feature found
+NR57: NO_MATCH | | | No equivalent 12V luggage compartment feature found
+NR58: NO_MATCH | | | No equivalent wireless charging feature found
+NR60: MATCH | 12.3" touchscreen | 12.3" touchscreen | Matches multifunctional touchscreen size
+NR61: NO_MATCH | | | No equivalent 8-9.9" touchscreen feature found
+NR62: NO_MATCH | | | No equivalent 10-11.9" touchscreen feature found
+NR63: NO_MATCH | | | No equivalent 12+" touchscreen feature found
+NR64: NO_MATCH | | | No equivalent navigation center feature found
+NR65: NO_MATCH | | | No equivalent connected navigation center feature found
+NR66: NO_MATCH | | | No equivalent Android Auto and Apple CarPlay feature found
+NR67: MATCH | Wireless Apple CarPlay® and Wireless Android Auto™ | Wireless Apple CarPlay® and Wireless Android Auto™ | Matches wireless Android Auto and Apple CarPlay
+NR68: NO_MATCH | | | No equivalent USB-C ports feature found
+NR69: MATCH | Emergency and breakdown call (eCall) | Emergency and breakdown call (eCall) | Matches emergency call feature
+NR70: NO_MATCH | | | No equivalent head-up display feature found
+NR72: NO_MATCH | | | No equivalent heated steering wheel feature found
+NR73: NO_MATCH | | | No equivalent leather steering wheel feature found
+NR74: NO_MATCH | | | No equivalent digital instrument cluster feature found
+NR76: MATCH | Heated front seats | Heated front seats | Matches heated driver seat
+NR77: MATCH | Heated front seats | Heated front seats | Matches heated passenger seat
+NR78: NO_MATCH | | | No equivalent heated rear seats feature found
+NR79: NO_MATCH | | | No equivalent lumbar adjustment feature found
+NR80: NO_MATCH | | | No equivalent passenger lumbar adjustment feature found
+NR81: NO_MATCH | | | No equivalent electric driver seat adjustment feature found
+NR82: NO_MATCH | | | No equivalent electric passenger seat adjustment feature found
+NR83: NO_MATCH | | | No equivalent partial leather seat trim feature found
+NR84: NO_MATCH | | | No equivalent leather seat trim feature found
+NR86: NO_MATCH | | | No equivalent automatic parking system feature found
+NR87: NO_MATCH | | | No equivalent blind spot monitoring feature found
+NR88: NO_MATCH | | | No equivalent protective system with cross-traffic alert feature found
+NR89: NO_MATCH | | | No equivalent intelligent speed assistance feature found
+NR90: MATCH | Traffic sign recognition system | Traffic sign recognition system | Matches speed sign recognition
+NR91: MATCH | Cruise control with speed limiter | Cruise control with speed limiter | Matches cruise control
+NR92: NO_MATCH | | | No equivalent adaptive cruise control feature found
+NR93: MATCH | Intelligent driver fatigue warning | Intelligent driver fatigue warning | Matches driver monitoring
+NR94: MATCH | Intelligent lane departure prevention system | Intelligent lane departure prevention system | Matches lane keeping assistance
+NR95: NO_MATCH | | | No equivalent rear cross-traffic alert feature found
+NR96: NO_MATCH | | | No equivalent front 360° camera feature found
+NR97: MATCH | Rearview camera | Rearview camera | Matches rear 180° camera
+NR98: NO_MATCH | | | No equivalent front parking sensors feature found
+NR99: NO_MATCH | | | No equivalent rear parking sensors feature found
+NR101: MATCH | Intelligent emergency braking system with pedestrian and cyclist recognition | Intelligent emergency braking system with pedestrian and cyclist recognition | Matches AEBS with pedestrian and cyclist recognition
+NR102: NO_MATCH | | | No equivalent AEBS with pedestrian recognition feature found
+NR103: NO_MATCH | | | No equivalent autonomous emergency braking system feature found
+NR104: NO_MATCH | | | No equivalent collision mitigation feature found
+NR105: MATCH | Electronic parking brake with auto-hold function | Electronic parking brake with auto-hold function | Matches electric parking brake
+NR107: NO_MATCH | | | No equivalent 16" steel wheels feature found
+NR108: NO_MATCH | | | No equivalent 16" alloy wheels feature found
+NR109: MATCH | 17" steel wheels, Sakura | 17" steel wheels, Sakura | Matches 17" steel wheels
+NR110: NO_MATCH | | | No equivalent 17" alloy wheels feature found
+NR111: NO_MATCH | | | No equivalent 18" alloy wheels feature found
+NR112: NO_MATCH | | | No equivalent 19" alloy wheels feature found
+NR113: NO_MATCH | | | No equivalent spare wheel feature found
+NR114: NO_MATCH | | | No equivalent wheel covers feature found
+NR116: NO_MATCH | | | No equivalent knee or center airbags feature found
+NR117: MATCH | Driver and passenger airbags, side and curtain airbags | Driver and passenger airbags, side and curtain airbags | Matches curtain airbags
+NR118: MATCH | Driver and passenger airbags, side and curtain airbags | Driver and passenger airbags, side and curtain airbags | Matches side airbags
+NR119: MATCH | Factory-installed alarm | Factory-installed alarm | Matches perimeter alarm
+NR120: NO_MATCH | | | No equivalent keyless start feature found
+NR121: NO_MATCH | | | No equivalent keyless entry feature found
+NR123: NO_MATCH | | | No equivalent 2-year extended warranty feature found
+NR124: NO_MATCH | | | No equivalent 3-year extended warranty feature found
+NR125: NO_MATCH | | | No equivalent 4-year extended warranty feature found
+NR126: NO_MATCH | | | No equivalent 5-year extended warranty feature found
+NR127: NO_MATCH | | | No equivalent 6-year extended warranty feature found
+NR128: NO_MATCH | | | No equivalent 7-year extended warranty feature found
+NR129: NO_MATCH | | | No equivalent 10-year extended warranty feature found

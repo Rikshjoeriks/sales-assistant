@@ -1,0 +1,116 @@
+Nr Code,Variable Name,Is TT
+NR25,Driveline,Y
+NR26,4X4 Full Time (4WD / AWD),N
+NR27,Exterior -  Appearance/Styling,Y
+NR28,Paint - Metallic,N
+NR29,Exterior -  Functional,Y
+NR30,Door Mirrors - Power/Heated,N
+NR31,Door Mirrors - Power/Heated/Foldback,N
+NR32,Door Mirrors - Power/Heated/Foldback w/ memory,N
+NR33,Front Wipers - Automatic,N
+NR34,Glass - Tinted w Privacy Rear Side,N
+NR35,Heated Windshield,N
+NR36,Liftgate - Power,N
+NR37,Liftgate - Power w/ handsfree,N
+NR38,Roof Rails,N
+NR39,Frunk,N
+NR40,Panorama Roof,N
+NR41,Exterior -  Lights,Y
+NR42,Daytime Running Lamps - LED,N
+NR43,Front Fog Lamps - LED,N
+NR44,Front Fog Lamps - LED Integrated,N
+NR45,Headlamp Control - Automatic On/Off,N
+NR46,Headlamp Control - Automatic On/Off & High/Low Beam,N
+NR47,Headlamps - LED,N
+NR48,Headlamps - Adaptive LED w/o Matrix or Glare Free,N
+NR49,Headlamps - Adaptive LED w/ Matrix or Glare Free,N
+NR50,Interior -  Comfort/Convenience,Y
+NR51,A/C - EATC 1 Zone,N
+NR52,A/C - EATC 2 Zone,N
+NR53,A/C - EATC 3 Zone,N
+NR54,Cabine air purifier,N
+NR55,Centre Console w Armrest,N
+NR56,Ambient Lighting - Interior w/ Multi - Colour LEDs,N
+NR57,Auto - Dimming Interior Mirror,N
+NR58,Power Point - Rear,N
+NR59,Wireless Charging,N
+NR60,Interior -  Ice/Communications,Y
+NR61,Branded Sound - System with over 6 speakers,N
+NR62,"Multi - function Touchscreen - 6 - 8""",N
+NR63,"Multi - function Touchscreen - 8 - 10""",N
+NR64,"Multi - function Touchscreen - 10 - 12""",N
+NR65,"Multi - function Touchscreen - 12 - """,N
+NR66,Navigation Centre,N
+NR67,Navigation Centre - Connected,N
+NR68,Android Auto & Apple CarPlay,N
+NR69,Android Auto & Apple CarPlay - Wireless,N
+NR70,Smart Assistent w/ AI,N
+NR71,Head - Up Display,N
+NR72,Interior -  Instruments/Controls,Y
+NR73,Heated Steering Wheel,N
+NR74,Leather Steering Wheel,N
+NR75,"Digital Cluster - 8.9""",N
+NR76,"Digital Cluster 9"" - 11.9""",N
+NR77,"Digital Cluster 12+""",N
+NR78,Interior -  Seats,Y
+NR79,Heated Driver Seat,N
+NR80,Heated Passenger Seat,N
+NR81,Heated Rear Seats,N
+NR82,Lumbar Adjustment on Driver Seat Manual,N
+NR83,Lumbar Adjustment on Passenger Seat Manual,N
+NR84,Lumbar Adjustment on Driver Seat Power,N
+NR85,Lumbar Adjustment on Passenger Seat Power,N
+NR86,Power Driver Seat Adjustment,N
+NR87,Power Passenger Seat Adjustment,N
+NR88,Power Driver Seat Adjustment Memory,N
+NR89,Power Passenger Seat Adjustment Memory,N
+NR90,Seat Trim - Cloth/ Synthetic Leather,N
+NR91,Seat Trim - Alcantara/Synthetic Leather,N
+NR92,Seat Trim - Synthetic Leather,N
+NR93,Interior -  Driver Assistance Technologies,Y
+NR94,Automated Parking System,N
+NR95,Blind Spot Monitoring,N
+NR96,Blind Spot Monitoring w Cross Traffic Alert,N
+NR97,Cruise Control,N
+NR98,Cruise Control - Adaptive,N
+NR99,Cruise Control - Adaptive Stop&Go,N
+NR100,Cruise Control - Adaptive Traffic Jam,N
+NR101,Cruise Control - Adaptive Navi - based,N
+NR102,Lane Centering and Overtaking assist,N
+NR103,Camera - Front 360° View,N
+NR104,Camera - Rear View,N
+NR105,Parking Aid - Front Sensors,N
+NR106,Parking Aid - Rear Sensors,N
+NR107,Mechanical -  Chassis,Y
+NR108,AEBS w Pedestrian & Cyclist Detection,N
+NR109,Collision Mitigation - Post Impact (2nd Collision),N
+NR110,Parking Brake - Electric,N
+NR111,Mechanical -  Wheels/Tyres,Y
+NR112,"17"" Steel Wheels",N
+NR113,"17"" Alloy Wheels",N
+NR114,"18"" Steel Wheels",N
+NR115,"18"" Alloy Wheels",N
+NR116,"19"" Alloy Wheels",N
+NR117,"20"" Alloy Wheels",N
+NR118,Spare Wheel,N
+NR119,Tow Bar,N
+NR120,Safety & Security,Y
+NR121,Airbags - Knee,N
+NR122,Airbags - Curtain,N
+NR123,Airbags - Side,N
+NR124,Alarm - Perimeter,N
+NR125,Keyless Start,N
+NR126,Keyless Entry & Start,N
+NR127,Warranty,Y
+NR128,Extended Warranty - 2 Years,N
+NR129,Extended Warranty - 3 Years,N
+NR130,Extended Warranty - 4 Years,N
+NR131,Extended Warranty - 5 Years,N
+NR132,Extended Warranty - 6 Years,N
+NR133,Extended Warranty - 7 - Years,N
+NR134,Warranty mileage,N
+NR135,Warranty mileage,N
+NR136,Warranty mileage,N
+NR137,Warranty mileage,N
+NR138,No mileage limitation,N
+NR139,Battery warranty,N

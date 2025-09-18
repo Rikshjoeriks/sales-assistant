@@ -1,0 +1,101 @@
+NR24: NO_MATCH | | | | No equivalent found in either language  
+NR26: NO_MATCH | | | | No equivalent found in either language  
+NR28: NO_MATCH | | | | No equivalent found in either language  
+NR29: NO_MATCH | | | | No equivalent found in either language  
+NR30: NO_MATCH | | | | No equivalent found in either language  
+NR32: NO_MATCH | | | | No equivalent found in either language  
+NR34: MATCH | LV | Durvju spoguļi - elektriski/sildāmi | Electrically adjustable, foldable, and heated side mirrors. | Matches the description of adjustable side mirrors  
+NR35: MATCH | LV | Durvju spoguļi - elektriski/sildāmi/nolokāmi | Electrically adjustable, foldable, and heated side mirrors. | Matches the description of adjustable side mirrors  
+NR36: NO_MATCH | | | | No equivalent found in either language  
+NR37: NO_MATCH | | | | No equivalent found in either language  
+NR38: NO_MATCH | | | | No equivalent found in either language  
+NR39: NO_MATCH | | | | No equivalent found in either language  
+NR40: MATCH | LV | Jumta sliedes | Available in black (not available for Coupe) or silver (not available for Coupe). | Matches the description of roof rails  
+NR41: MATCH | LV | Panorāmas jumts | With tinted glass (available only for Coupe). | Matches the description of panoramic glass roof  
+NR43: MATCH | LV | Dienas gaitas lukturi - LED | LED front and rear headlights with a rain sensor that automatically activates low beams or daytime running lights based on conditions. | Matches the description of light assist  
+NR44: NO_MATCH | | | | No equivalent found in either language  
+NR45: NO_MATCH | | | | No equivalent found in either language  
+NR46: NO_MATCH | | | | No equivalent found in either language  
+NR47: NO_MATCH | | | | No equivalent found in either language  
+NR48: MATCH | LV | Priekšējie lukturi – LED | LED front and rear headlights with a rain sensor that automatically activates low beams or daytime running lights based on conditions. | Matches the description of light assist  
+NR49: NO_MATCH | | | | No equivalent found in either language  
+NR50: NO_MATCH | | | | No equivalent found in either language  
+NR52: NO_MATCH | | | | No equivalent found in either language  
+NR53: NO_MATCH | | | | No equivalent found in either language  
+NR54: NO_MATCH | | | | No equivalent found in either language  
+NR55: MATCH | LV | Gaisa kondicionētājs - EATC 3 zonas | Climatronic system for customized temperature settings. | Matches the description of 3-zone climate control  
+NR56: NO_MATCH | | | | No equivalent found in either language  
+NR57: NO_MATCH | | | | No equivalent found in either language  
+NR58: NO_MATCH | | | | No equivalent found in either language  
+NR59: MATCH | LV | Automātiski tumšojams salona spogulis | Automatically adjusts to reduce glare. | Matches the description of auto-dimming rearview mirror  
+NR60: MATCH | LV | 12 V bagāžas nodalījumā | Located in the trunk. | Matches the description of 12V power outlet  
+NR61: NO_MATCH | | | | No equivalent found in either language  
+NR63: MATCH | LV | Daudzfunkcionāls skārienjūtīgais ekrāns - 12 - " | 13" touchscreen with voice control, Smart Link, digital radio, and 2x USB-C ports. | Matches the description of touchscreen display  
+NR64: NO_MATCH | | | | No equivalent found in either language  
+NR65: NO_MATCH | | | | No equivalent found in either language  
+NR66: NO_MATCH | | | | No equivalent found in either language  
+NR67: MATCH | LV | Zīmola audio sistēma | 4 speakers in the front and 4 speakers in the rear. | Matches the description of sound system  
+NR68: MATCH | LV | Navigācijas centrs | Includes navigation system with a 3-year subscription to the "Infotainment Online" multimedia package. | Matches the description of infotainment basic package  
+NR69: NO_MATCH | | | | No equivalent found in either language  
+NR70: NO_MATCH | | | | No equivalent found in either language  
+NR71: NO_MATCH | | | | No equivalent found in either language  
+NR72: NO_MATCH | | | | No equivalent found in either language  
+NR73: MATCH | LV | Avārijas zvans | For immediate assistance. | Matches the description of emergency call function  
+NR74: NO_MATCH | | | | No equivalent found in either language  
+NR76: MATCH | LV | Apsildāms stūres rats | 2-spoke leather steering wheel with heating. | Matches the description of multifunction steering wheel  
+NR77: NO_MATCH | | | | No equivalent found in either language  
+NR78: NO_MATCH | | | | No equivalent found in either language  
+NR79: NO_MATCH | | | | No equivalent found in either language  
+NR80: NO_MATCH | | | | No equivalent found in either language  
+NR82: MATCH | LV | Apsildāms vadītāja sēdeklis | Heated Front Seats. | Matches the description of heated front seats  
+NR83: NO_MATCH | | | | No equivalent found in either language  
+NR84: NO_MATCH | | | | No equivalent found in either language  
+NR85: NO_MATCH | | | | No equivalent found in either language  
+NR86: NO_MATCH | | | | No equivalent found in either language  
+NR87: NO_MATCH | | | | No equivalent found in either language  
+NR88: NO_MATCH | | | | No equivalent found in either language  
+NR89: NO_MATCH | | | | No equivalent found in either language  
+NR90: NO_MATCH | | | | No equivalent found in either language  
+NR91: NO_MATCH | | | | No equivalent found in either language  
+NR92: NO_MATCH | | | | No equivalent found in either language  
+NR93: NO_MATCH | | | | No equivalent found in either language  
+NR94: NO_MATCH | | | | No equivalent found in either language  
+NR95: NO_MATCH | | | | No equivalent found in either language  
+NR97: NO_MATCH | | | | No equivalent found in either language  
+NR98: MATCH | LV | Aklās zona uzraudzība | Monitors traffic in the vehicle's blind spots within a 90m radius, alerting the driver to approaching vehicles. | Matches the description of side assist  
+NR99: NO_MATCH | | | | No equivalent found in either language  
+NR100: MATCH | LV | Kruīza kontrole | Maintains a set speed and distance from the vehicle ahead. | Matches the description of adaptive cruise control  
+NR101: NO_MATCH | | | | No equivalent found in either language  
+NR102: NO_MATCH | | | | No equivalent found in either language  
+NR103: NO_MATCH | | | | No equivalent found in either language  
+NR104: NO_MATCH | | | | No equivalent found in either language  
+NR105: NO_MATCH | | | | No equivalent found in either language  
+NR106: NO_MATCH | | | | No equivalent found in either language  
+NR107: NO_MATCH | | | | No equivalent found in either language  
+NR108: MATCH | LV | Parkošanās palīgsistēma – priekšējie sensori | Front and rear parking sensors with a rearview camera. | Matches the description of parking sensors  
+NR109: MATCH | LV | Parkošanās palīgsistēma – aizmugurējie sensori | Front and rear parking sensors with a rearview camera. | Matches the description of parking sensors  
+NR111: NO_MATCH | | | | No equivalent found in either language  
+NR112: NO_MATCH | | | | No equivalent found in either language  
+NR113: MATCH | LV | Stāvbremze – elektriska | Features "Autohold" function. | Matches the description of electronic parking brake  
+NR115: NO_MATCH | | | | No equivalent found in either language  
+NR116: NO_MATCH | | | | No equivalent found in either language  
+NR117: NO_MATCH | | | | No equivalent found in either language  
+NR118: NO_MATCH | | | | No equivalent found in either language  
+NR119: NO_MATCH | | | | No equivalent found in either language  
+NR120: NO_MATCH | | | | No equivalent found in either language  
+NR121: MATCH | LV | 19" vieglmetāla riteņi | PROTEUS design with 235/55 tires in front and 255/50 R19 tires in the rear. | Matches the description of 19" alloy wheels  
+NR122: NO_MATCH | | | | No equivalent found in either language  
+NR123: NO_MATCH | | | | No equivalent found in either language  
+NR125: NO_MATCH | | | | No equivalent found in either language  
+NR126: MATCH | LV | Gaisa spilveni – aizkari | Curtain airbags and front side airbags. | Matches the description of head airbag system  
+NR127: MATCH | LV | Gaisa spilveni – sānos | Front airbags with the option to deactivate the passenger airbag. | Matches the description of front airbags  
+NR128: NO_MATCH | | | | No equivalent found in either language  
+NR129: MATCH | LV | Bezatslēgas iedarbināšana | Kessy system for keyless access and starting. | Matches the description of keyless entry and engine start  
+NR130: MATCH | LV | Bezatslēgas piekļuve | Kessy system for keyless access and starting. | Matches the description of keyless entry and engine start  
+NR132: NO_MATCH | | | | No equivalent found in either language  
+NR133: NO_MATCH | | | | No equivalent found in either language  
+NR134: NO_MATCH | | | | No equivalent found in either language  
+NR135: MATCH | LV | Papildus garantija – 5 gadi | 5 years or 100,000km mileage limit. | Matches the description of manufacturer's warranty  
+NR136: NO_MATCH | | | | No equivalent found in either language  
+NR137: NO_MATCH | | | | No equivalent found in either language  
+NR138: NO_MATCH | | | | No equivalent found in either language  

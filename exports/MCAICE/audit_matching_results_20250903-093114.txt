@@ -1,0 +1,92 @@
+NR24: NO_MATCH | | | No equivalent feature found for 4X4 pilna laika
+NR26: NO_MATCH | | | No equivalent feature found for Automātiskā pārnesumkārba
+NR28: NO_MATCH | | | No equivalent feature found for mHEV
+NR29: NO_MATCH | | | No equivalent feature found for FHEV
+NR30: NO_MATCH | | | No equivalent feature found for PHEV
+NR32: NO_MATCH | | | No equivalent feature found for Metāliska krāsa kā standarts
+NR34: MATCH | Electrically adjustable side mirrors | Electrically adjustable side mirrors with turn indicator | Electrically adjustable matches
+NR35: MATCH | Heated and automatically folding side mirrors | Heated and automatically folding side mirrors | Matches all criteria
+NR36: MATCH | Automatic windshield wipers | Automatic windshield wipers and rain sensor | Automatic matches
+NR37: NO_MATCH | | | No equivalent feature found for Stikls - Tonēts ar privātuma aizsardzību aizmugurē
+NR38: NO_MATCH | | | No equivalent feature found for Apsildāms vējstikls
+NR39: NO_MATCH | | | No equivalent feature found for Bagāžnieka durvis – Elektriski atveramas
+NR40: NO_MATCH | | | No equivalent feature found for Jumta sliedes
+NR41: NO_MATCH | | | No equivalent feature found for Panorāmas jumts
+NR43: MATCH | LED daytime running lights | LED daytime running lights | LED matches
+NR44: NO_MATCH | | | No equivalent feature found for Priekšējie miglas lukturi
+NR45: NO_MATCH | | | No equivalent feature found for Priekšējie miglas lukturi - LED
+NR46: MATCH | Intelligent automatic headlights | Intelligent automatic headlights | Automatic matches
+NR47: NO_MATCH | | | No equivalent feature found for Galveno lukturu vadība - Automātisks tālās/tuvās gaismas stars
+NR48: MATCH | LED headlights | LED headlights | LED matches
+NR49: MATCH | Rear LED fog light | Rear LED fog light | LED matches
+NR51: NO_MATCH | | | No equivalent feature found for Gaisa kondicionētājs
+NR52: MATCH | Automatic air conditioning system | Automatic air conditioning system | Automatic matches
+NR53: NO_MATCH | | | No equivalent feature found for Gaisa kondicionētājs - EATC 2 zonas
+NR54: NO_MATCH | | | No equivalent feature found for Gaisa kondicionētājs - EATC 3 zonas
+NR55: MATCH | Front armrest | Front armrest | Armrest matches
+NR56: NO_MATCH | | | No equivalent feature found for Automātiski tumšojams salona spogulis
+NR57: NO_MATCH | | | No equivalent feature found for 12 V bagāžas nodalījumā
+NR58: NO_MATCH | | | No equivalent feature found for Bezvadu uzlāde
+NR60: MATCH | 7" color advanced driver assist display | 7" color advanced driver assist display (ADAD) in instrument panel | Display size matches
+NR61: NO_MATCH | | | No equivalent feature found for Daudzfunkcionāls skārienjūtīgais ekrāns - 8 - 9,9"
+NR62: NO_MATCH | | | No equivalent feature found for Daudzfunkcionāls skārienjūtīgais ekrāns - 10 - 11,9"
+NR63: MATCH | 12.3" touchscreen | 12.3" touchscreen | Screen size matches
+NR64: NO_MATCH | | | No equivalent feature found for Navigācijas centrs
+NR65: NO_MATCH | | | No equivalent feature found for Navigācijas centrs - savienots
+NR66: NO_MATCH | | | No equivalent feature found for Android Auto un Apple CarPlay
+NR67: MATCH | Wireless Apple CarPlay and Android Auto | Wireless Apple CarPlay® and Wireless Android Auto™ | Wireless matches
+NR68: NO_MATCH | | | No equivalent feature found for USB - C porti
+NR69: MATCH | Emergency and breakdown call (eCall) | Emergency and breakdown call (eCall) | eCall matches
+NR70: NO_MATCH | | | No equivalent feature found for Head - Up displejs
+NR72: NO_MATCH | | | No equivalent feature found for Apsildāms stūres rats
+NR73: NO_MATCH | | | No equivalent feature found for Ādas (ieskaitot Sensico) stūres rats
+NR74: NO_MATCH | | | No equivalent feature found for Digitālais instrumentu kopums
+NR76: MATCH | Heated front seats | Heated front seats | Heated matches
+NR77: NO_MATCH | | | No equivalent feature found for Apsildāms pasažiera sēdeklis
+NR78: NO_MATCH | | | No equivalent feature found for Apsildāmi aizmugurējie sēdekļi
+NR79: NO_MATCH | | | No equivalent feature found for Jostasvietas regulēšana vadītāja sēdeklī
+NR80: NO_MATCH | | | No equivalent feature found for Jostasvietas regulēšana pasažiera sēdeklī
+NR81: NO_MATCH | | | No equivalent feature found for Vadītāja sēdekļa elektriska regulēšana
+NR82: NO_MATCH | | | No equivalent feature found for Pasažiera sēdekļa elektriska regulēšana
+NR83: NO_MATCH | | | No equivalent feature found for Sēdekļu apdare – daļēji āda
+NR84: NO_MATCH | | | No equivalent feature found for Sēdekļu apdare – āda
+NR86: NO_MATCH | | | No equivalent feature found for Automātiskā parkošanās sistēma
+NR87: NO_MATCH | | | No equivalent feature found for Aklās zonas uzraudzība
+NR88: NO_MATCH | | | No equivalent feature found for Aizsargājošā sistēma ar šķērssatiksmes brīdinājumu
+NR89: NO_MATCH | | | No equivalent feature found for Inteliģentā ātruma palīdzība
+NR90: MATCH | Traffic sign recognition system | Traffic sign recognition system | Recognition matches
+NR91: MATCH | Cruise control with speed limiter | Cruise control with speed limiter | Cruise control matches
+NR92: NO_MATCH | | | No equivalent feature found for Kruīza kontrole - adaptīvā
+NR93: MATCH | Intelligent driver fatigue warning | Intelligent driver fatigue warning | Driver monitoring matches
+NR94: MATCH | Intelligent lane departure prevention system | Intelligent lane departure prevention system | Lane assistance matches
+NR95: NO_MATCH | | | No equivalent feature found for Aizmugures šķērssatiksmes brīdinājums
+NR96: NO_MATCH | | | No equivalent feature found for Kamera - priekšējais 360° skats
+NR97: MATCH | Rearview camera | Rearview camera | Camera matches
+NR98: NO_MATCH | | | No equivalent feature found for Parkošanās palīgsistēma - priekšējie sensori
+NR99: NO_MATCH | | | No equivalent feature found for Parkošanās palīgsistēma – aizmugurējie sensori
+NR101: MATCH | Intelligent emergency braking system with pedestrian and cyclist recognition | Intelligent emergency braking system with pedestrian and cyclist recognition | AEBS matches
+NR102: NO_MATCH | | | No equivalent feature found for AEBS ar gājēju atpazīšanu
+NR103: NO_MATCH | | | No equivalent feature found for Autonomā avārijas bremzēšanas sistēma (AEBS)
+NR104: NO_MATCH | | | No equivalent feature found for Sadursmes mīkstināšana – 2. sadursme
+NR105: MATCH | Electronic parking brake with automatic hold function | Electronic parking brake with automatic hold function | Electric parking brake matches
+NR107: NO_MATCH | | | No equivalent feature found for 16" tērauda riteņi
+NR108: NO_MATCH | | | No equivalent feature found for 16" vieglmetāla riteņi
+NR109: MATCH | 17" steel wheels | 17" steel wheels, Sakura | Wheel size matches
+NR110: NO_MATCH | | | No equivalent feature found for 17" vieglmetāla riteņi
+NR111: NO_MATCH | | | No equivalent feature found for 18" vieglmetāla riteņi
+NR112: NO_MATCH | | | No equivalent feature found for 19" vieglmetāla riteņi
+NR113: NO_MATCH | | | No equivalent feature found for Rezerves ritenis
+NR114: NO_MATCH | | | No equivalent feature found for Riteņu pārsegi
+NR116: NO_MATCH | | | No equivalent feature found for Gaisa spilveni - ceļgaliem vai centrā
+NR117: MATCH | Driver and passenger airbags, side and curtain airbags | Driver and passenger airbags, side and curtain airbags | Airbags match
+NR118: NO_MATCH | | | No equivalent feature found for Gaisa spilveni - sānos
+NR119: MATCH | Factory-installed alarm | Factory-installed alarm | Alarm matches
+NR120: NO_MATCH | | | No equivalent feature found for Bezatslēgas iedarbināšana
+NR121: NO_MATCH | | | No equivalent feature found for Bezatslēgas piekļuve
+NR123: NO_MATCH | | | No equivalent feature found for Pagarināta garantija – 2 gadi
+NR124: NO_MATCH | | | No equivalent feature found for Pagarināta garantija – 3 gadi
+NR125: NO_MATCH | | | No equivalent feature found for Pagarināta garantija – 4 gadi
+NR126: NO_MATCH | | | No equivalent feature found for Pagarināta garantija – 5 gadi
+NR127: NO_MATCH | | | No equivalent feature found for Pagarināta garantija – 6 gadi
+NR128: NO_MATCH | | | No equivalent feature found for Pagarināta garantija – 7 gadi
+NR129: NO_MATCH | | | No equivalent feature found for Pagarināta garantija – 10 gadi

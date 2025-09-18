@@ -1,0 +1,16 @@
+Nr Code,Variable Name,Is TT
+NR001,— EXTERIOR —,Y
+NR002,LED headlights,N
+NR003,Halogen headlights,N
+NR004,Fog lights,N
+NR005,Daytime running lights,N
+NR006,— INTERIOR —,Y
+NR007,Air conditioning,N
+NR008,Climate control,N
+NR009,Heated seats,N
+NR010,Power windows,N
+NR011,— TECHNOLOGY —,Y
+NR012,Bluetooth connectivity,N
+NR013,USB ports,N
+NR014,Navigation system,N
+NR015,Touchscreen display,N

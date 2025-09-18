@@ -1,0 +1,117 @@
+Nr Code,Variable Name,Is TT,Match (Yes/No/Maybe),Matching Text,LLM_Reason
+NR30,Piedziņa,Y,,,
+NR31,4X4 Full time (4WD / AWD),N,No,,No equivalent 4X4 feature found
+NR32,Pārnesumkārba,Y,,,
+NR33,Automātiskā pārnesumkārba,N,No,,No equivalent automatic transmission feature found
+NR34,Hibrīda Tehnoloģija,Y,,,
+NR35,mHEV,N,No,,No equivalent mild hybrid feature found
+NR36,FHEV,N,No,,No equivalent full hybrid feature found
+NR37,PHEV,N,No,,No equivalent plug-in hybrid feature found
+NR38,Krāsa,Y,,,
+NR39,Metāliska krāsa kā standarts,N,No,,No equivalent metallic paint feature found
+NR40,Ārējais Izskats -  Funkcionalitāte,Y,,,
+NR41,Durvju spoguļi - elektriski/sildāmi,N,Yes,"Black side mirrors with integrated turn indicators, electrically adjustable and heated",Matches electrically adjustable and heated mirrors
+NR42,Durvju spoguļi - elektriski/sildāmi/salokāmi,N,Yes,Heated and automatically folding side mirrors,"Matches electrically adjustable, heated, and folding mirrors"
+NR43,Priekšējie vējstikla tīrītāji - automātiski,N,Yes,Automatic windshield wipers with rain sensor,Matches automatic windshield wipers
+NR44,Stikls - tonēts ar privātuma aizsardzību aizmugurē,N,No,,No equivalent tinted glass feature found
+NR45,Sildāms vējstikls,N,No,,No equivalent heated windshield feature found
+NR46,Bagāžnieka durvis - elektriskas,N,No,,No equivalent electric tailgate feature found
+NR47,Jumta sliedes,N,No,,No equivalent roof rails feature found
+NR48,Panorāmas jumts,N,No,,No equivalent panoramic roof feature found
+NR49,Ārējais Izskats -  Apgaismojums,Y,,,
+NR50,Dienas gaismas - LED,N,Yes,"LED front headlights, LED daytime running lights, and rear LED fog light",Matches LED daytime running lights
+NR51,Priekšējie miglas lukturi - LED,N,No,,No equivalent front LED fog lights feature found
+NR52,Priekšējie miglas lukturi - LED integrēti,N,No,,No equivalent integrated LED fog lights feature found
+NR53,Priekšējo lukturu vadība - automātiska ieslēgšana/izslēgšana,N,Yes,Intelligent automatic front headlights,Matches automatic headlight control
+NR54,Priekšējo lukturu vadība - automātiska ieslēgšana/izslēgšana un tālās/tuvās gaismas,N,No,,No equivalent automatic headlight control with high/low beam feature found
+NR55,Priekšējie lukturi - LED,N,Yes,"LED front headlights, LED daytime running lights, and rear LED fog light",Matches LED front headlights
+NR56,Priekšējie lukturi - adaptīvie LED bez Matrix vai Glare Free,N,No,,No equivalent adaptive LED headlights feature found
+NR57,Priekšējie lukturi - adaptīvie LED ar Matrix vai Glare Free,N,No,,No equivalent adaptive LED headlights with Matrix feature found
+NR58,Interjers -  Komforts/Ērtības,Y,,,
+NR59,Gaisa kondicionētājs,N,No,,No equivalent air conditioning feature found
+NR60,Gaisa kondicionētājs - EATC 1 zona,N,Yes,Automatic climate control system,Matches single-zone automatic climate control
+NR61,Gaisa kondicionētājs - EATC 2 zonas,N,No,,No equivalent dual-zone automatic climate control feature found
+NR62,Gaisa kondicionētājs - EATC 3 zonas,N,No,,No equivalent tri-zone automatic climate control feature found
+NR63,Salona gaisa attīrītājs,N,No,,No equivalent air purifier feature found
+NR64,Apgaismojums - Interjers ar daudzkrāsu LED,N,No,,No equivalent interior LED lighting feature found
+NR65,Centrālā konsole ar roku balstu,N,Yes,Front armrest and two cup holders,Matches central console with armrest
+NR66,Automātiski tumšojams salona spogulis,N,No,,No equivalent auto-dimming mirror feature found
+NR67,12 V bagāžas nodalījumā,N,No,,No equivalent 12V luggage compartment feature found
+NR68,Bezvadu uzlāde,N,No,,No equivalent wireless charging feature found
+NR69,Interjers – In Car Entertainment/Komunikācijas,Y,,,
+NR70,"Daudzfunkcionāls skārienjūtīgais ekrāns – 6–7,9 collas",N,Yes,"7"" color Advanced Driver Assist Display (ADAD) in the instrument panel",Matches multifunction touchscreen display
+NR71,"Daudzfunkcionāls skārienjūtīgais ekrāns – 8–9,9 collas",N,No,,No equivalent 8-9.9 inch touchscreen feature found
+NR72,"Daudzfunkcionāls skārienjūtīgais ekrāns – 10–11,9 collas",N,No,,No equivalent 10-11.9 inch touchscreen feature found
+NR73,"Daudzfunkcionāls skārienjūtīgais ekrāns – 12 collas """,N,Yes,"12.3"" touchscreen display",Matches multifunction touchscreen display
+NR74,Zīmola audio sistēma,N,No,,No equivalent branded audio system feature found
+NR75,Navigācijas centrs,N,No,,No equivalent navigation center feature found
+NR76,Navigācijas centrs - savienots,N,No,,No equivalent connected navigation center feature found
+NR77,Android Auto un Apple CarPlay,N,No,,No equivalent Android Auto and Apple CarPlay feature found
+NR78,Android Auto un Apple CarPlay - bezvadu,N,Yes,Wireless Apple Car Play and Android Auto,Matches wireless Android Auto and Apple CarPlay
+NR79,Vieds palīgs ar AI,N,No,,No equivalent smart assistant feature found
+NR80,Avārijas zvans,N,Yes,e-Call emergency and breakdown call system,Matches emergency call system
+NR81,Head - Up displejs,N,No,,No equivalent head-up display feature found
+NR82,Interjers -  Instrumenti/Vadības Elementi,Y,,,
+NR83,Apsildāms stūres rats,N,No,,No equivalent heated steering wheel feature found
+NR84,Ādas (ieskaitot Sensico) stūres rats,N,No,,No equivalent leather steering wheel feature found
+NR85,"Digitālais displejs – līdz 8,9 collām",N,No,,No equivalent digital display up to 8.9 inches feature found
+NR86,"Digitālais displejs 9–11,9 collas",N,No,,No equivalent digital display 9-11.9 inches feature found
+NR87,Digitālais displejs 12+ collas,N,No,,No equivalent digital display 12+ inches feature found
+NR88,Interjers – Sēdekļi,Y,,,
+NR89,Apsildāms vadītāja sēdeklis,N,Yes,Heated front seats with driver s seat height adjustment,Matches heated driver seat
+NR90,Apsildāms pasažiera sēdeklis,N,No,,No equivalent heated passenger seat feature found
+NR91,Apsildāmi aizmugurējie sēdekļi,N,No,,No equivalent heated rear seats feature found
+NR92,Vadītāja sēdekļa jostasvietas regulēšana manuāli,N,No,,No equivalent manual lumbar adjustment for driver seat feature found
+NR93,Pasažiera sēdekļa jostasvietas regulēšana manuāli,N,No,,No equivalent manual lumbar adjustment for passenger seat feature found
+NR94,Vadītāja sēdekļa jostasvietas regulēšana elektriski,N,No,,No equivalent electric lumbar adjustment for driver seat feature found
+NR95,Pasažiera sēdekļa jostasvietas regulēšana elektriski,N,No,,No equivalent electric lumbar adjustment for passenger seat feature found
+NR96,Vadītāja sēdekļa regulēšana elektriski,N,No,,No equivalent electric adjustment for driver seat feature found
+NR97,Pasažiera sēdekļa regulēšana elektriski,N,No,,No equivalent electric adjustment for passenger seat feature found
+NR98,Vadītāja sēdekļa regulēšana elektriski un ar atmiņu,N,No,,No equivalent electric adjustment with memory for driver seat feature found
+NR99,Pasažiera sēdekļa regulēšana elektriski un ar atmiņu,N,No,,No equivalent electric adjustment with memory for passenger seat feature found
+NR100,Sēdekļu apdare – audums/sintētiskā āda,N,Yes,Monoform sport-style seats with black fabric upholstery,Matches fabric seat upholstery
+NR101,Sēdekļu apdare – Alcantara/sintētiskā āda,N,No,,No equivalent Alcantara/synthetic leather upholstery feature found
+NR102,Sēdekļu apdare – sintētiskā āda,N,No,,No equivalent synthetic leather upholstery feature found
+NR103,Interjers – Vadītāja Palīdzības Tehnoloģijas,Y,,,
+NR104,Automātiskā parkošanās sistēma,N,No,,No equivalent automatic parking system feature found
+NR105,Aklās zonas uzraudzība,N,No,,No equivalent blind spot monitoring feature found
+NR106,Aklās zonas uzraudzība ar šķērssatiksmes brīdinājumu,N,No,,No equivalent blind spot monitoring with cross traffic alert feature found
+NR107,Kruīza kontrole,N,Yes,Cruise control with speed limiter,Matches cruise control
+NR108,Kruīza kontrole – adaptīvā,N,No,,No equivalent adaptive cruise control feature found
+NR109,Kruīza kontrole – adaptīvā Stop&Go,N,No,,No equivalent adaptive cruise control with Stop&Go feature found
+NR110,Kruīza kontrole – adaptīvā satiksmes sastrēgumu gadījumā,N,No,,No equivalent adaptive cruise control for traffic jams feature found
+NR111,"Kruīza kontrole – adaptīvā, balstīta uz navigācijas sistēmu",N,No,,No equivalent navigation-based adaptive cruise control feature found
+NR112,Joslas centrēšanas un apdzīšanas palīgs,N,No,,No equivalent lane centering and overtaking assist feature found
+NR113,Kamera – priekšā 360° skats,N,No,,No equivalent front 360° camera feature found
+NR114,Kamera - aizmugurē 180° skats,N,Yes,Rearview camera,Matches rear 180° camera
+NR115,Parkošanās palīgsistēma - priekšējie sensori,N,No,,No equivalent front parking sensors feature found
+NR116,Parkošanās palīgsistēma - aizmugurējie sensori,N,No,,No equivalent rear parking sensors feature found
+NR117,Mehānika -  Šasija,Y,,,
+NR118,AEBS ar gājēju un velosipēdistu atpazīšanu,N,Yes,Intelligent emergency braking with pedestrian and cyclist detection,Matches AEBS with pedestrian and cyclist detection
+NR119,Sadursmes mīkstināšana – 2. sadursme,N,No,,No equivalent collision mitigation feature found
+NR120,Stāvbremze - elektriska,N,Yes,Electronic parking brake with automatic hold function,Matches electric parking brake
+NR121,Mehānika -  Riteņi/Riepas,Y,,,
+NR122,"16"" tērauda riteņi",N,No,,"No equivalent 16"" steel wheels feature found"
+NR123,"16"" vieglmetāla riteņi",N,No,,"No equivalent 16"" alloy wheels feature found"
+NR124,"17"" tērauda riteņi",N,Yes,"17"" Sakura steel wheels","Matches 17"" steel wheels"
+NR125,"17"" vieglmetāla riteņi",N,No,,"No equivalent 17"" alloy wheels feature found"
+NR126,"18"" tērauda riteņi",N,No,,"No equivalent 18"" steel wheels feature found"
+NR127,"18"" vieglmetāla riteņi",N,No,,"No equivalent 18"" alloy wheels feature found"
+NR128,"19"" vieglmetāla riteņi",N,No,,"No equivalent 19"" alloy wheels feature found"
+NR129,Rezerves ritenis,N,No,,No equivalent spare wheel feature found
+NR130,Riteņu pārsegi,N,No,,No equivalent wheel covers feature found
+NR131,Drošība Un Aizsardzība,Y,,,
+NR132,Gaisa spilveni – ceļgaliem vai centrā,N,No,,No equivalent knee or center airbags feature found
+NR133,Gaisa spilveni – aizkari,N,Yes,"Driver and passenger airbags, side and curtain airbags",Matches curtain airbags
+NR134,Gaisa spilveni – sānos,N,Yes,"Driver and passenger airbags, side and curtain airbags",Matches side airbags
+NR135,Signalizācija – perimetrs,N,Yes,Factory-installed alarm system,Matches perimeter alarm
+NR136,Bezatslēgas iedarbināšana,N,No,,No equivalent keyless start feature found
+NR137,Bezatslēgas piekļuve,N,No,,No equivalent keyless entry feature found
+NR138,Garantija,Y,,,
+NR139,Pagarināta garantija – 2 gadi,N,No,,No equivalent 2-year extended warranty feature found
+NR140,Pagarināta garantija – 3 gadi,N,No,,No equivalent 3-year extended warranty feature found
+NR141,Pagarināta garantija – 4 gadi,N,No,,No equivalent 4-year extended warranty feature found
+NR142,Pagarināta garantija – 5 gadi,N,No,,No equivalent 5-year extended warranty feature found
+NR143,Pagarināta garantija – 6 gadi,N,No,,No equivalent 6-year extended warranty feature found
+NR144,Pagarināta garantija – 7 gadi,N,No,,No equivalent 7-year extended warranty feature found
+NR145,Pagarināta garantija – 10 gadi,N,No,,No equivalent 10-year extended warranty feature found

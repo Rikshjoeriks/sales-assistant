@@ -1,0 +1,6 @@
+```
+NR1,Piedziņa,Y,,,""
+NR2,4X4 pilna laika,N,No,,, 
+NR3,Ārējais Izskats,Y,,,""
+NR4,LED lukturi,N,Yes,"LED priekšējie lukturi","LED lighting feature found"
+```

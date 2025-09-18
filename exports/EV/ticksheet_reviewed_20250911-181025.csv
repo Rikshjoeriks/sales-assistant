@@ -1,0 +1,115 @@
+Nr Code,Variable Name,Is TT,Match (Yes/No/Maybe),Include,Matching Text,LLM_Reason,Accepted
+NR25,V2L funkcija,N,No,N,,,
+NR26,Siltumsūknis,N,No,N,,,
+NR27,— PIEDZIŅAS SISTĒMA —,Y,,,,,
+NR28,4X4 pilna laika (4WD / AWD),N,No,N,,,
+NR29,— ĀRĒJAIS IZSKATS -  IZSKATS/STILS —,Y,,,,,
+NR30,Krāsa - Metāliska (standarta),N,No,N,,,
+NR31,— ĀRĒJAIS IZSKATS -  FUNKCIONALITĀTE —,Y,,,,,
+NR32,Durvju spoguļi - Elektriski/sildāmi,N,Yes,Y,"Sānu spoguļi, elektriski regulējami un apsildāmi","Sānu spoguļi, elektriski regulējami un apsildāmi",X
+NR33,Durvju spoguļi - Elektriski/sildāmi/salokāmi,N,No,N,,,
+NR34,Durvju spoguļi - Elektriski/sildāmi/salokāmi ar atmiņu,N,No,N,,,
+NR35,Priekšējie vējstikla tīrītāji - Automātiski,N,No,N,,,
+NR36,Stikls - Tonēts ar privātuma aizsardzību aizmugurē,N,No,N,,"Siltumizolējošs stikls aizmugurējam logam, durvju logiem un sānu logiem; tonēti zaļā krāsā",
+NR37,Apsildāms vējstikls,N,Yes,Y,ieskaitot apsildāmas vējstikla mazgātāja sprauslas,,X
+NR38,Bagāžnieka durvis - Elektriskas,N,Yes,Y,Elektriski atverams un aizverams bagāžas nodalījuma pārsegs,Elektriski atverams un aizverams bagāžas nodalījuma pārsegs,X
+NR39,Bagāžnieka durvis - Elektriskas ar bezroku vadību,N,Yes,Y,pieejamais kājas žests (spēriena kustība) transportlīdzekļa aizmugurē,kājas žests (spēriena kustība) transportlīdzekļa aizmugurē,X
+NR40,Jumta sliedes,N,No,N,,,
+NR41,Priekšējais bagāžnieks,N,No,N,,,
+NR42,Panorāmas jumts,N,No,N,,,
+NR43,— ĀRĒJAIS IZSKATS -  APGAISMOJUMS —,Y,,,,,
+NR44,Dienas gaitas lukturi - LED,N,Yes,Y,dienas gaitas lukturi,dienas gaitas lukturi,X
+NR45,Priekšējie miglas lukturi - LED,N,No,N,,,
+NR46,Priekšējie miglas lukturi – LED integrēti,N,No,N,,,
+NR47,Priekšējo lukturu vadība – automātiska,N,Yes,Y,priekšējo lukturu diapazona kontrole nodrošina automātisku automobiļa noslodzes kompensēšanu,priekšējo lukturu diapazona kontrole nodrošina automātisku automobiļa noslodzes kompensēšanu,X
+NR48,Priekšējo lukturu vadība – automātiska augsta/zema gaisma,N,No,N,,,
+NR49,Priekšējie lukturi – LED,N,Yes,Y,LED priekšējie lukturi,Priekšējie lukturi ar LED tehnoloģiju,X
+NR50,Priekšējie lukturi – adaptīvie LED bez Matrix vai Glare Free,N,No,N,,,
+NR51,Priekšējie lukturi – adaptīvie LED ar Matrix vai Glare Free,N,No,N,,,
+NR52,— INTERJERS – KOMFORTS/ĒRTĪBAS —,Y,,,,,
+NR53,Gaisa kondicionētājs,N,Yes,Y,Automātiskā gaisa kondicionēšana,Automātiskā gaisa kondicionēšana,X
+NR54,Gaisa kondicionētājs – EATC 2 zonas,N,No,N,,,
+NR55,Gaisa kondicionētājs – EATC 3 zonas,N,Yes,Y,trīs zonu luksusa automātiskā gaisa kondicionēšana,trīs zonu luksusa automātiskā gaisa kondicionēšana,X
+NR56,Salona gaisa attīrītājs,N,No,N,,,
+NR57,Apgaismojums – salons ar daudzkrāsu LED,N,No,N,,,
+NR58,Centrālā konsole ar roku balstu,N,No,N,,,
+NR59,Automātiski tumšojams salona spogulis,N,Yes,Y,"Salona spogulis, aptumšojošs","Salona spogulis, aptumšojošs",X
+NR60,12 V bagāžas nodalījumā,N,No,N,,,
+NR61,Bezvadu uzlāde,N,No,N,,,
+NR62,— INTERJERS – IN CAR ENTERTAINMENT/KOMUNIKĀCIJAS —,Y,,,,,
+NR63,"Daudzfunkcionāls skārienjūtīgais ekrāns - 6 - 7,9""",N,No,N,,,
+NR64,"Daudzfunkcionāls skārienjūtīgais ekrāns - 8 - 9,9""",N,No,N,,,
+NR65,"Daudzfunkcionāls skārienjūtīgais ekrāns - 10 - 11,9""",N,Yes,Y,"MMI plus augstas izšķirtspējas 11,6 collas krāsu displejs","MMI plus augstas izšķirtspējas 11,6 collas krāsu displejs",X
+NR66,"Daudzfunkcionāls skārienjūtīgais ekrāns - 12 - """,N,No,N,,,
+NR67,Zīmola audio sistēma,N,No,N,,,
+NR68,Navigācijas centrs,N,Yes,Y,MMI navigation plus,MMI navigation plus,X
+NR69,Navigācijas centrs - savienots,N,Yes,Y,Audi connect navigācijas un informācijas un izklaides sistēma,Audi connect navigācijas un informācijas un izklaides sistēma,X
+NR70,Android Auto un Apple CarPlay,N,No,N,,,
+NR71,Android Auto un Apple CarPlay - bezvadu,N,No,N,,,
+NR72,Vieds palīgs ar AI,N,No,N,,,
+NR73,Head - Up displejs,N,No,N,,,
+NR74,— INTERJERS -  INSTRUMENTI/VADĪBAS ELEMENTI —,Y,,,,,
+NR75,Apsildāms stūres rats,N,No,N,,,
+NR76,Ādas stūres rats,N,Yes,Y,Divu spieķu ādas stūre,Divu spieķu ādas stūre,X
+NR77,"Digitālais displejs – līdz 8,9""",N,No,N,,,
+NR78,"Digitālais displejs 9“ - 11,9”",N,Yes,Y,"Audi virtuālā vadītāja informācijas sistēma pilnībā digitāls 10,25 collu instrumentu panelis","pilnībā digitāls 10,25 collu instrumentu panelis",X
+NR79,"Digitālais displejs 12+""",N,No,N,,,
+NR80,— INTERJERS -  SĒDEKĻI —,Y,,,,,
+NR81,Apsildāms vadītāja sēdeklis,N,Yes,Y,apsilda sēdekļa un atzveltnes vidējos paneļus,Apsildāmi priekšējie sēdekļi,X
+NR82,Apsildāms pasažiera sēdeklis,N,Yes,Y,apsilda sēdekļa un atzveltnes vidējos paneļus,Apsildāmi priekšējie sēdekļi,X
+NR83,Apsildāmi aizmugurējie sēdekļi,N,No,N,,,
+NR84,Vadītāja sēdekļa jostasvietas regulēšana manuāli,N,No,N,,,
+NR85,Pasažiera sēdekļa jostasvietas regulēšana manuāli,N,No,N,,,
+NR86,Vadītāja sēdekļa jostasvietas regulēšana elektriski,N,No,N,,,
+NR87,Pasažiera sēdekļa jostasvietas regulēšana elektriski,N,No,N,,,
+NR88,Elektriski regulējams vadītāja sēdeklis,N,No,N,,,
+NR89,Elektriski regulējams pasažiera sēdeklis,N,No,N,,,
+NR90,Elektriski regulējams vadītāja sēdeklis ar atmiņu,N,No,N,,,
+NR91,Elektriski regulējams pasažiera sēdeklis ar atmiņu,N,No,N,,,
+NR92,Sēdekļu apdare – audums/sintētiskā āda,N,Yes,Y,Index auduma sēdekļu apdare,Index auduma sēdekļu apdare standarta sēdekļiem,X
+NR93,Sēdekļu apdare – Alcantara/sintētiskā āda,N,No,N,,,
+NR94,Sēdekļu apdare – sintētiskā āda,N,No,N,,,
+NR95,— INTERJERS – VADĪTĀJA PALĪDZĪBAS TEHNOLOĢIJAS —,Y,,,,,
+NR96,Automātiskā stāvvietas sistēma,N,No,N,,,
+NR97,Aklā zona uzraudzība,N,No,N,,,
+NR98,Aklā zona uzraudzība ar šķērssatiksmes brīdinājumu,N,No,N,,,
+NR99,Kruīza Kontrole,N,No,N,,,
+NR100,Kruīza kontrole - adaptīva,N,No,N,,,
+NR101,Kruīza kontrole - adaptīva Stop&Go,N,No,N,,,
+NR102,Kruīza kontrole - adaptīva satiksmes sastrēgumos,N,No,N,,,
+NR103,"Kruīza kontrole - adaptīva, balstīta uz navigācijas sistēmu",N,No,N,,,
+NR104,Joslas centrs un apdzīšanas palīgs,N,No,N,,,
+NR105,Kamera - priekšējais 360° skats,N,No,N,,,
+NR106,Kamera - aizmugures skats,N,No,N,,,
+NR107,Parkošanās palīgsistēma - priekšējie sensori,N,No,N,,,
+NR108,Parkošanās palīgsistēma - aizmugures sensori,N,Yes,Y,"Stāvvietā novietošanas sistēma, aizmugurē","Stāvvietā novietošanas sistēma, aizmugurē",X
+NR109,— MEHĀNIKA -  ŠASIJA —,Y,,,,,
+NR110,AEBS ar gājēju un velosipēdistu atpazīšanu,N,Yes,Y,"Audi pre sense, priekšējais","Audi pre sense, priekšējais",X
+NR111,AEBS ar gājēju atpazīšanu,N,No,N,,,
+NR112,Sadursmes mīkstināšana - pēc sadursmes,N,No,N,,,
+NR113,Stāvvietas bremze - elektriska,N,No,N,,,
+NR114,— MEHĀNIKA -  RITEŅI/RIEPAS —,Y,,,,,
+NR115,"17"" tērauda riteņi",N,No,N,,,
+NR116,"17"" vieglmetāla riteņi",N,No,N,,,
+NR117,"18"" tērauda riteņi",N,No,N,,,
+NR118,"18"" vieglmetāla riteņi",N,No,N,,,
+NR119,"19"" tērauda riteņi",N,No,N,,"Tērauda diski ar pilnu diska pārsegumu, 8,0J x 19",
+NR120,"19"" vieglmetāla riteņi",N,No,N,,,
+NR121,"20"" tērauda riteņi",N,No,N,,,
+NR122,"20"" vieglmetāla riteņi",N,No,N,,,
+NR123,Rezerves ritenis,N,No,N,,,
+NR124,Piekabes āķis,N,No,N,,,
+NR125,— DROŠĪBA UN AIZSARDZĪBA —,Y,,,,,
+NR126,Gaisa spilveni - ceļgaliem vai centrā,N,Yes,Y,mijiedarbības drošības spilvens,"Sānu drošības spilveni, priekšējie ar galvas drošības spilvenu sistēmu un priekšā uzstādītu mijiedarbības drošības spilvenu",X
+NR127,Gaisa spilveni - aizkari,N,No,N,,,
+NR128,Gaisa spilveni – sānu,N,Yes,Y,"Sānu drošības spilveni, priekšējie","Sānu drošības spilveni, priekšējie",X
+NR129,Signalizācija – perimetra,N,Yes,Y,Pretaizdzīšanas signalizācija,Pretaizdzīšanas signalizācija,X
+NR130,Bezatslēgas iedarbināšana,N,Yes,Y,dzinēja iedarbināšanas-izslēgšanas pogu,Tālvadības atslēga ar Safelock funkciju,X
+NR131,Bezatslēgas piekļuve un iedarbināšana,N,No,N,,Tālvadības atslēga ar Safelock funkciju,
+NR132,— GARANTIJA —,Y,,,,,
+NR133,Papildus garantija – 3 gadi,N,No,N,,,
+NR134,Papildus garantija – 4 gadi,N,No,N,,,
+NR135,Papildus garantija – 5 gadi,N,No,N,,,
+NR136,Papildus garantija – 6 gadi,N,No,N,,,
+NR137,Papildus garantija – 7 gadi,N,No,N,,,
+NR138,8 gadu akumulatora garantija,N,No,N,,,

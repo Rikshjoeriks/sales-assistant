@@ -1,0 +1,118 @@
+BEGIN_CSV
+{"nr_code": "NR23", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR24", "variable_name": "4X4 pilna laika (4WD / AWD)", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR25", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR26", "variable_name": "Automātiskā pārnesumkārba", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR27", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR28", "variable_name": "mHEV", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR29", "variable_name": "FHEV", "is_tt": "N", "Match": "Yes", "Matching Text": "pieejams tikai hibrīda versijai", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR30", "variable_name": "PHEV", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR31", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR32", "variable_name": "Metāliska krāsa kā standarts", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR33", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR34", "variable_name": "Durvju spoguļi - Elektriski/sildāmi", "is_tt": "N", "Match": "Yes", "Matching Text": "Elektriski regulējami sānu spoguļi ar pagrieziena rādītāju", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR35", "variable_name": "Durvju spoguļi - elektriski/sildāmi/nolokāmi", "is_tt": "N", "Match": "Maybe", "Matching Text": "sānu spoguļi", "LLM_Reason": "only partial overlap with 'sānu spoguļi'"}
+{"nr_code": "NR36", "variable_name": "Priekšējie vējstikla tīrītāji - automātiski", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR37", "variable_name": "Stikls - tonēts ar privātuma aizsardzību aizmugurē", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR38", "variable_name": "Sildāms vējstikls", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR39", "variable_name": "Bagāžnieka durvis - elektriski atveramas", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR40", "variable_name": "Jumta sliedes", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR41", "variable_name": "Panorāmas jumts", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR42", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR43", "variable_name": "Dienas gaitas lukturi - LED", "is_tt": "N", "Match": "Yes", "Matching Text": "LED dienas apgaismojuma lukturi", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR44", "variable_name": "Priekšējie miglas lukturi - LED", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR45", "variable_name": "Priekšējie miglas lukturi – LED integrēti", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR46", "variable_name": "Priekšējo lukturu vadība – automātiska ieslēgšana/izslēgšana", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR47", "variable_name": "Priekšējo lukturu vadība – automātiska ieslēgšana/izslēgšana un tālās/tuvās gaismas", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR48", "variable_name": "Priekšējo lukturu vadība – LED", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR49", "variable_name": "Priekšējo lukturu – adaptīvie LED bez Matrix vai Glare Free", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR50", "variable_name": "Priekšējo lukturu – adaptīvie LED ar Matrix vai Glare Free", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR51", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR52", "variable_name": "Gaisa kondicionētājs", "is_tt": "N", "Match": "Yes", "Matching Text": "automātiskā gaisa kondicionēšanas sistēma", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR53", "variable_name": "Gaisa kondicionētājs - EATC 1 zona", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR54", "variable_name": "Gaisa kondicionētājs - EATC 2 zonas", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR55", "variable_name": "Gaisa kondicionētājs - EATC 3 zonas", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR56", "variable_name": "Salona gaisa attīrītājs", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR57", "variable_name": "Apgaismojums - salons ar daudzkrāsu LED", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR58", "variable_name": "Centrālā konsole ar roku balstu", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR59", "variable_name": "Automātiski tumšojams salona spogulis", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR60", "variable_name": "12 V bagāžas nodalījumā", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR61", "variable_name": "Bezvadu uzlāde", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR62", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR63", "variable_name": "Daudzfunkcionāls skārienjūtīgais ekrāns - 6 - 7,9\"", "is_tt": "N", "Match": "Yes", "Matching Text": "7\" krāsains modernais autovadītāja braukšanas palīgsistēmu (ADAD) displejs", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR64", "variable_name": "Daudzfunkcionāls skārienjūtīgais ekrāns - 8 - 9,9\"", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR65", "variable_name": "Daudzfunkcionāls skārienjūtīgais ekrāns - 10 - 11,9\"", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR66", "variable_name": "Daudzfunkcionāls skārienjūtīgais ekrāns - 12 - \"", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR67", "variable_name": "Zīmola audio sistēma", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR68", "variable_name": "Navigācijas centrs", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR69", "variable_name": "Navigācijas centrs - savienots", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR70", "variable_name": "Android Auto un Apple CarPlay", "is_tt": "N", "Match": "Yes", "Matching Text": "Bezvadu Apple CarPlay®", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR71", "variable_name": "Android Auto un Apple CarPlay - bezvadu", "is_tt": "N", "Match": "Yes", "Matching Text": "Bezvadu Android Auto™", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR72", "variable_name": "Vieds palīgs ar AI", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR73", "variable_name": "Avārijas zvans", "is_tt": "N", "Match": "Yes", "Matching Text": "Ārkārtas un avārijas izsaukums (eCall)", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR74", "variable_name": "Head - Up displejs", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR75", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR76", "variable_name": "Apsildāms stūres rats", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR77", "variable_name": "Ādas (ieskaitot Sensico) stūres rats", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR78", "variable_name": "Digitālais displejs - 8,9 collas", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR79", "variable_name": "Digitālais displejs 9“ - 11,9”", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR80", "variable_name": "Digitālais displejs 12+\"", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR81", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR82", "variable_name": "Apsildāms vadītāja sēdeklis", "is_tt": "N", "Match": "Yes", "Matching Text": "Apsildāmi priekšējie sēdekļi", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR83", "variable_name": "Apsildāms pasažiera sēdeklis", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR84", "variable_name": "Apsildāmi aizmugurējie sēdekļi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR85", "variable_name": "Vadītāja sēdekļa jostasvietas regulēšana manuāli", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR86", "variable_name": "Pasažiera sēdekļa jostasvietas regulēšana manuāli", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR87", "variable_name": "Vadītāja sēdekļa jostasvietas regulēšana elektriski", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR88", "variable_name": "Pasažiera sēdekļa jostasvietas regulēšana elektriski", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR89", "variable_name": "Elektriski regulējams vadītāja sēdeklis", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR90", "variable_name": "Elektriski regulējams pasažiera sēdeklis", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR91", "variable_name": "Elektriski regulējams vadītāja sēdeklis ar atmiņu", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR92", "variable_name": "Elektriski regulējams pasažiera sēdeklis ar atmiņu", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR93", "variable_name": "Sēdekļu apdare – audums/sintētiskā āda", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR94", "variable_name": "Sēdekļu apdare – Alcantara/sintētiskā āda", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR95", "variable_name": "Sēdekļu apdare – sintētiskā āda", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR96", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR97", "variable_name": "Automātiskā parkošanās sistēma", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR98", "variable_name": "Aklās zona uzraudzība", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR99", "variable_name": "Aklās zona uzraudzība ar šķērssatiksmes brīdinājumu", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR100", "variable_name": "Kruīza kontrole", "is_tt": "N", "Match": "Yes", "Matching Text": "Kruīza kontrole ar ātruma ierobežotāju", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR101", "variable_name": "Kruīza kontrole - adaptīva", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR102", "variable_name": "Kruīza kontrole - adaptīva Stop&Go", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR103", "variable_name": "Kruīza kontrole - adaptīva satiksmes sastrēgumos", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR104", "variable_name": "Kruīza kontrole - adaptīva, balstīta uz navigācijas sistēmu", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR105", "variable_name": "Joslas centrēšnas un apdzīšanas palīgs", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR106", "variable_name": "Kamera - priekšējais 360° skats", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR107", "variable_name": "Kamera - aizmugurējais skats", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR108", "variable_name": "Parkošanās palīgsistēma – priekšējie sensori", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR109", "variable_name": "Parkošanās palīgsistēma – aizmugurējie sensori", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR110", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR111", "variable_name": "AEBS ar gājēju un velosipēdistu atpazīšanu", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR112", "variable_name": "Sadursmes mīkstināšana –2. sadursme", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR113", "variable_name": "Stāvbremze – elektriska", "is_tt": "N", "Match": "Yes", "Matching Text": "Elektroniska rokas bremze", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR114", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR115", "variable_name": "16\" tērauda rati", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR116", "variable_name": "16\" vieglmetāla rati", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR117", "variable_name": "17\" tērauda riteņi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR118", "variable_name": "17\" vieglmetāla riteņi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR119", "variable_name": "18\" tērauda riteņi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR120", "variable_name": "18\" vieglmetāla riteņi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR121", "variable_name": "19\" vieglmetāla riteņi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR122", "variable_name": "Rezerves ritenis", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR123", "variable_name": "Riteņu pārsegi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR124", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR125", "variable_name": "Gaisa spilveni – ceļgaliem vai centrā", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR126", "variable_name": "Gaisa spilveni – aizkari", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR127", "variable_name": "Gaisa spilveni – sānos", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR128", "variable_name": "Signalizācija – perimetrs", "is_tt": "N", "Match": "Yes", "Matching Text": "Rūpnīcā uzstādīta signalizācija", "LLM_Reason": "explicit phrase present"}
+{"nr_code": "NR129", "variable_name": "Bezatslēgas iedarbināšana", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR130", "variable_name": "Bezatslēgas piekļuve", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR131", "variable_name": "", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR132", "variable_name": "Papildus garantija – 2 gadi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR133", "variable_name": "Papildus garantija – 3 gadi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR134", "variable_name": "Papildus garantija – 4 gadi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR135", "variable_name": "Papildus garantija – 5 gadi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR136", "variable_name": "Papildus garantija – 6 gadi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR137", "variable_name": "Papildus garantija – 7 gadi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+{"nr_code": "NR138", "variable_name": "Papildus garantija – 10 gadi", "is_tt": "N", "Match": "No", "Matching Text": "", "LLM_Reason": "not mentioned"}
+END_CSV

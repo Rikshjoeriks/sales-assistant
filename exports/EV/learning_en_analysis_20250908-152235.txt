@@ -1,0 +1,103 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{}
+
+NR25: No | 
+NR26: Yes | Siltumsūknis
+NR28: No | 
+NR30: Yes | Metāliska krāsa
+NR32: Maybe | Ārējie spoguļi, elektriski regulējami, nolokāmi, apsildāmi
+NR33: Yes | Ārējie spoguļi, elektriski regulējami, nolokāmi, apsildāmi
+NR34: No | 
+NR35: Yes | Lietus sensors
+NR36: Yes | Tonēti aizmugurējie stikli
+NR37: No | 
+NR38: Yes | Elektriski atverams/ aizverams bagāžas nodalījuma vāks
+NR39: No | 
+NR40: Yes | Alumīnija jumta sliedes
+NR41: No | 
+NR42: Yes | Panorāmas lūka
+NR44: Yes | LED dienas gaitas gaismas
+NR45: No | 
+NR46: No | 
+NR47: Yes | LED automātiskie priekšējie lukturi
+NR48: Yes | Tālo gaismu asistents
+NR49: Yes | LED automātiskie priekšējie lukturi
+NR50: No | 
+NR51: No | 
+NR53: No | 
+NR54: No | 
+NR55: No | 
+NR56: No | 
+NR57: Yes | Ambient LED salona apgaismojums
+NR58: Yes | Priekšējais centrālais roku balsts ar glāžu turētājiem
+NR59: Yes | Automātiski aptumšojošs atpakaļskata spogulis
+NR60: No | 
+NR61: Yes | Bezvadu viedtālruņu uzlāde
+NR63: No | 
+NR64: No | 
+NR65: No | 
+NR66: Yes | 15,6" rotējams skārienjutīgs multimēdiju ekrāns
+NR67: No | 
+NR68: No | 
+NR69: No | 
+NR70: Yes | Android Auto un Apple Car Play
+NR71: No | 
+NR72: Yes | Inteliģents balss vadības sistēma - "Hi, BYD"
+NR73: No | 
+NR75: Yes | Multifunkcionāla stūre ar Eco ādas apdari un apsildi
+NR76: No | 
+NR77: No | 
+NR78: No | 
+NR79: No | 
+NR81: Yes | Preikšējie sēdekļi elektriski regulējami, apsildami
+NR82: Yes | Preikšējie sēdekļi elektriski regulējami, apsildami
+NR83: No | 
+NR84: No | 
+NR85: No | 
+NR86: No | 
+NR87: No | 
+NR88: Yes | Preikšējie sēdekļi elektriski regulējami, apsildami
+NR89: Yes | Preikšējie sēdekļi elektriski regulējami, apsildami
+NR90: No | 
+NR91: No | 
+NR92: No | 
+NR93: No | 
+NR94: Yes | Eco ādas kombinētas salona apdare
+NR96: No | 
+NR97: Yes | Aklo zonu noteikšanas sistēma
+NR98: No | 
+NR100: Yes | Adaptīvā-inteliģentā kruīza kontrole
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: Yes | Joslu uzturēšanas un maiņas asistents
+NR105: Yes | 360° kamera
+NR106: No | 
+NR107: Yes | Parkošanās sensori, priekšā un aizmugurē
+NR108: Yes | Parkošanās sensori, priekšā un aizmugurē
+NR110: Yes | Automātiskā avārijas bremzēšana
+NR111: No | 
+NR112: No | 
+NR113: Yes | Elektriskā stāvbremze
+NR115: No | 
+NR116: No | 
+NR117: No | 
+NR118: No | 
+NR119: No | 
+NR120: No | 
+NR121: No | 
+NR122: No | 
+NR123: No | 
+NR124: No | 
+NR126: No | 
+NR127: No | 
+NR128: No | 
+NR129: No | 
+NR130: No | 
+NR131: Yes | Bezatslēgas piekļuve un startēšana
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No | 

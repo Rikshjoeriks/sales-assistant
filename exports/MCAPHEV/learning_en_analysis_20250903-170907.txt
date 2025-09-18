@@ -1,0 +1,104 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{}
+
+NR31: No | 
+NR33: No | 
+NR35: No | 
+NR36: No | 
+NR37: No | 
+NR39: No | 
+NR41: Yes | Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi
+NR42: Yes | Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi
+NR43: No | 
+NR44: Maybe | aizmugurējo stiklu 35% tonējums (Sun Set)
+NR45: No | 
+NR46: Yes | elektriski atveramas un aizveramas bagāžas nodalījuma durvis ar "Virtual Pedal"
+NR47: No | 
+NR48: Yes | Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe)
+NR50: Yes | automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus
+NR51: No | 
+NR52: No | 
+NR53: No | 
+NR54: Yes | Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus
+NR55: Yes | LED priekšējie un aizmugurējie lukturi
+NR56: No | 
+NR57: Yes | LED matricu priekšējie lukturi
+NR59: No | 
+NR60: No | 
+NR61: No | 
+NR62: Yes | 3-zonu klimata kontrole (Climatronic)
+NR63: No | 
+NR64: No | 
+NR65: Yes | Priekšējais elkoņbalsts ar sīklietu novietni
+NR66: Yes | Salona atpakaļskata spogulis ar automātisku aptumšošanos
+NR67: Yes | 12V rozete bagāžas nodalījumā
+NR68: Yes | komforta telefonija ar 15W tālruņa bezvadu uzlādi
+NR70: No | 
+NR71: No | 
+NR72: No | 
+NR73: Yes | 13" skārienjūtīgs ekrāns, balss vadība, Smart Link, digitālais radio, 2x USB-C pieslēgvietas
+NR74: No | 
+NR75: No | 
+NR76: Yes | navigācijas sistēma ar multivides pakotnes "Infotainment Online" 3 gadu abonementu
+NR77: No | 
+NR78: No | 
+NR79: No | 
+NR80: Yes | Ārkārtas zvana funkcija
+NR81: No | 
+NR83: Yes | 3-spieķu multifunkcionāla ādas sporta stūre ar apsildi
+NR84: No | 
+NR85: No | 
+NR86: No | 
+NR87: No | 
+NR89: No | 
+NR90: Yes | Priekšējo sēdekļu apsilde
+NR91: No | 
+NR92: No | 
+NR93: No | 
+NR94: No | 
+NR95: No | 
+NR96: Yes | Elektriski regulējams vadītāja sēdeklis ar atmiņas funkciju
+NR97: No | 
+NR98: Yes | Elektriski regulējams vadītāja sēdeklis ar atmiņas funkciju
+NR99: No | 
+NR100: No | 
+NR101: Yes | Suedia/mākslīgās ādas salona apdare
+NR102: No | 
+NR104: No | 
+NR105: Yes | Aklo zonu kontroles sistēma "Side Assist" uzrauga satiksmi automašīnas sānos un aizmugurē 90m rādiusā, brīdinot autovadītāju par tuvojošamies transporta līdzekļiem
+NR106: No | 
+NR107: No | 
+NR108: Yes | Adaptīvā kruīza kontrole
+NR109: No | 
+NR110: No | 
+NR111: No | 
+NR112: No | 
+NR113: No | 
+NR114: Yes | atpakaļskata kamera
+NR115: Yes | Stāvvietā novietošanas sensori priekšā
+NR116: Yes | Stāvvietā novietošanas sensori aizmugurē
+NR118: Yes | "Front Assist" radaru sistēma: automātiska ātruma samazināšana un pilnīga apstāšanās iespējamās frontālās sadursmes gadījumā - avārijas bremzēšana pilsētā - gājēju un velobraucēju uzraudzības sistēma
+NR119: No | 
+NR120: Yes | Elektroniskā stāvbremze ar "Autohold" funkciju
+NR122: No | 
+NR123: No | 
+NR124: No | 
+NR125: No | 
+NR126: No | 
+NR127: No | 
+NR128: No | 
+NR129: No | 
+NR130: No | 
+NR132: Yes | centrālais drošības spilveni
+NR133: Yes | Galvas drošības spilvenu sistēma (aizkari)
+NR134: Yes | priekšējie sānu un centrālais drošības spilveni
+NR135: No | 
+NR136: Yes | Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy
+NR137: Yes | Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy
+NR139: No | 
+NR140: No | 
+NR141: No | 
+NR142: Yes | Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu
+NR143: No | 
+NR144: No | 
+NR145: No | 

@@ -1,0 +1,104 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{}
+
+NR25: Yes | Elektrības padeves funkcija no automašīnas līdz 3,5k W jaudai
+NR26: Yes | Siltumsūknis
+NR28: No | 
+NR30: No | 
+NR32: Yes | Elektriski regulējami spoguļi ar apsildi
+NR33: Yes | Elektriski nolokāmi, regulējami un apsildāmi sānskata spoguļi
+NR34: No | 
+NR35: Yes | Lietus sensors
+NR36: Maybe | Tumši aizmugurējais stikls un aizmugurējo durvju logi
+NR37: No | 
+NR38: No | 
+NR39: No | 
+NR40: No | 
+NR41: No | 
+NR42: No | 
+NR44: Yes | LED dienas gaitas lukturi
+NR45: No | 
+NR46: No | 
+NR47: Yes | Tālo gaismu automātiskā pārslēgšanās
+NR48: Yes | Tālo gaismu automātiskā pārslēgšanās
+NR49: Maybe | Inteliģenta Matrix LED priekšējā apgaismojuma sistēma
+NR50: No | 
+NR51: Yes | Inteliģenta Matrix LED priekšējā apgaismojuma sistēma
+NR53: No | 
+NR54: Yes | Divzonu automātiskā klimata kontrole
+NR55: No | 
+NR56: No | 
+NR57: Yes | Apkārtējais salona apgaismojums
+NR58: Yes | Elkoņu balsts vadītāja sēdeklim
+NR59: Yes | Pašaptumšojošs atpakaļskata spogulis
+NR60: Yes | 12V rozete
+NR61: Yes | Viedtālruņa bezvadu lādētājs
+NR63: No | 
+NR64: No | 
+NR65: No | 
+NR66: Yes | Supervision instrumentu panelis ar 12,3" LED apgaismi
+NR67: No | 
+NR68: Yes | 10,25 "dubultā skārienekrāna audio un navigācijas sistēma
+NR69: No | 
+NR70: Yes | Apple Car Play/Android Auto jungtys
+NR71: No | 
+NR72: No | 
+NR73: No | 
+NR75: Yes | Elektriski apsildāma stūre
+NR76: No | 
+NR77: No | 
+NR78: No | 
+NR79: Yes | Supervision instrumentu panelis ar 12,3" LED apgaismi
+NR81: Yes | Apsildāmi priekšējie sēdekļi
+NR82: No | 
+NR83: Yes | apsildāmi aizmugures sēdekļi
+NR84: No | 
+NR85: No | 
+NR86: Yes | Elektrisku muguras izliekuma regulēšanu vadītāja pusē
+NR87: No | 
+NR88: No | 
+NR89: No | 
+NR90: No | 
+NR91: No | 
+NR92: No | 
+NR93: Yes | Zamšādas melns sēdekļu apdare ar baltu vegāna ādas balstu
+NR94: No | 
+NR96: No | 
+NR97: Yes | Neredzamās zonas brīdinājuma sistēma
+NR98: Yes | Neredzamās zonas brīdinājuma sistēma+brīdinājuma sistēma, braucot atpakaļgaitā (BSD+RCTA)
+NR99: No | 
+NR100: Yes | Adaptīvā kruīza kontrole
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: No | 
+NR105: No | 
+NR106: Yes | Atpakaļskata kamera ar dinamiskajām līnijām
+NR107: Yes | Parkošanās sensori priekšā
+NR108: Yes | Parkošanās sensori aizmugurē
+NR110: Yes | Priekšējās sadursmes brīdinājuma asistents, ar automašīnas/gājēju/velosipēda noteikšanas sistēmu
+NR111: No | 
+NR112: No | 
+NR113: Yes | Elektriskā stāvbremze (EPB)
+NR115: No | 
+NR116: No | 
+NR117: No | 
+NR118: No | 
+NR119: No | 
+NR120: No | 
+NR121: No | 
+NR122: Yes | Vieglmetāla diski 20", riepas izmērs 255/45 R20
+NR123: No | 
+NR124: No | 
+NR126: Yes | Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari
+NR127: Yes | Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari
+NR128: Yes | Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari
+NR129: No | 
+NR130: No | 
+NR131: No | 
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No | 

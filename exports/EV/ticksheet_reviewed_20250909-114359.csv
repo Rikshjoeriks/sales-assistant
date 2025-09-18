@@ -1,0 +1,115 @@
+Nr Code,Variable Name,Is TT,Match (Yes/No/Maybe),Include,Matching Text,LLM_Reason,Accepted
+NR25,V2L funkcija,N,No,N,,,
+NR26,Siltumsūknis,N,Yes,Y,Siltumsūknis,Siltumsūknis,X
+NR27,— PIEDZIŅAS SISTĒMA —,Y,,,,,
+NR28,4X4 pilna laika (4WD / AWD),N,No,N,,,
+NR29,— ĀRĒJAIS IZSKATS -  IZSKATS/STILS —,Y,,,,,
+NR30,Krāsa - Metāliska (standarta),N,No,N,,,
+NR31,— ĀRĒJAIS IZSKATS -  FUNKCIONALITĀTE —,Y,,,,,
+NR32,Durvju spoguļi - Elektriski/sildāmi,N,Maybe,Y,"Automātiski pielokāmi, apsildāmi sānu spoguļi","Automātiski pielokāmi, apsildāmi sānu spoguļi",X
+NR33,Durvju spoguļi - Elektriski/sildāmi/salokāmi,N,Yes,Y,"Automātiski pielokāmi, apsildāmi sānu spoguļi","Automātiski pielokāmi, apsildāmi sānu spoguļi",X
+NR34,Durvju spoguļi - Elektriski/sildāmi/salokāmi ar atmiņu,N,No,N,,,
+NR35,Priekšējie vējstikla tīrītāji - Automātiski,N,Yes,Y,Vējstikla tīrītāji ar lietus sensoru,Vējstikla tīrītāji ar lietus sensoru,X
+NR36,Stikls - Tonēts ar privātuma aizsardzību aizmugurē,N,Yes,Y,Tonēti aizmugurējo logu stikli,Tonēti aizmugurējo logu stikli,X
+NR37,Apsildāms vējstikls,N,Yes,Y,Apsildāms vējstikls,Apsildāms vējstikls,X
+NR38,Bagāžnieka durvis - Elektriskas,N,Maybe,Y,"Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis","Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis",X
+NR39,Bagāžnieka durvis - Elektriskas ar bezroku vadību,N,Yes,Y,"Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis","Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis",X
+NR40,Jumta sliedes,N,No,N,,,
+NR41,Priekšējais bagāžnieks,N,No,N,,,
+NR42,Panorāmas jumts,N,No,N,,,
+NR43,— ĀRĒJAIS IZSKATS -  APGAISMOJUMS —,Y,,,,,
+NR44,Dienas gaitas lukturi - LED,N,Yes,Y,LED dienas gaitas lukturi,LED dienas gaitas lukturi,X
+NR45,Priekšējie miglas lukturi - LED,N,Yes,Y,LED priekšējie miglas lukturi,LED priekšējie miglas lukturi,X
+NR46,Priekšējie miglas lukturi – LED integrēti,N,No,N,,,
+NR47,Priekšējo lukturu vadība – automātiska,N,Yes,Y,Automātiski LED priekšējie lukturi,Automātiski LED priekšējie lukturi,X
+NR48,Priekšējo lukturu vadība – automātiska augsta/zema gaisma,N,Yes,Y,Automātiskās tuvās / tālās gaismas,Automātiskās tuvās / tālās gaismas,X
+NR49,Priekšējie lukturi – LED,N,Yes,Y,Automātiski LED priekšējie lukturi,Automātiski LED priekšējie lukturi,X
+NR50,Priekšējie lukturi – adaptīvie LED bez Matrix vai Glare Free,N,No,N,,,
+NR51,Priekšējie lukturi – adaptīvie LED ar Matrix vai Glare Free,N,No,N,,,
+NR52,— INTERJERS – KOMFORTS/ĒRTĪBAS —,Y,,,,,
+NR53,Gaisa kondicionētājs,N,No,N,,automobiļa gaisa kondicionēšanas sistēmas,
+NR54,Gaisa kondicionētājs – EATC 2 zonas,N,Yes,Y,Divu zonu automātiskā klimata kontrole,Divu zonu automātiskā klimata kontrole,X
+NR55,Gaisa kondicionētājs – EATC 3 zonas,N,No,N,,,
+NR56,Salona gaisa attīrītājs,N,Yes,Y,Plazmas klastera jonu gaisa attīrītājs,Plazmas klastera jonu gaisa attīrītājs,X
+NR57,Apgaismojums – salons ar daudzkrāsu LED,N,Yes,Y,Noskaņu radošs LED apgaismojums,Noskaņu radošs LED apgaismojums,X
+NR58,Centrālā konsole ar roku balstu,N,Yes,Y,Kabatas priekšējo sēdekļu aizmugurē un elkoņbalsts aizmugurē,Centrālā console,X
+NR59,Automātiski tumšojams salona spogulis,N,Yes,Y,Automātiski aptumšojošs automobiļa salona atpakaļskata spogulis bez rāmja,Automātiski aptumšojošs automobiļa salona atpakaļskata spogulis bez rāmja,X
+NR60,12 V bagāžas nodalījumā,N,No,N,,,
+NR61,Bezvadu uzlāde,N,Yes,Y,Bezvadu viedtālruņa lādētājs,Bezvadu viedtālruņa lādētājs,X
+NR62,— INTERJERS – IN CAR ENTERTAINMENT/KOMUNIKĀCIJAS —,Y,,,,,
+NR63,"Daudzfunkcionāls skārienjūtīgais ekrāns - 6 - 7,9""",N,No,N,,,
+NR64,"Daudzfunkcionāls skārienjūtīgais ekrāns - 8 - 9,9""",N,No,N,,,
+NR65,"Daudzfunkcionāls skārienjūtīgais ekrāns - 10 - 11,9""",N,No,N,,,
+NR66,"Daudzfunkcionāls skārienjūtīgais ekrāns - 12 - """,N,Yes,Y,"Divi 12,3"" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu","Divi 12,3"" TFT ekrāni",X
+NR67,Zīmola audio sistēma,N,No,N,,,
+NR68,Navigācijas centrs,N,No,N,,"Divi 12,3"" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu",
+NR69,Navigācijas centrs - savienots,N,No,N,,"Telemātika attālinātās vadības pakalpojumi, paziņojumi un savienojamības pakalpojumi",
+NR70,Android Auto un Apple CarPlay,N,Yes,Y,Bezvadu Apple Car Play un ar vadu savienojams Android Auto,Bezvadu Apple Car Play un ar vadu savienojams Android Auto,X
+NR71,Android Auto un Apple CarPlay - bezvadu,N,Yes,Y,Bezvadu Apple Car Play un ar vadu savienojams Android Auto,Bezvadu Apple Car Play,X
+NR72,Vieds palīgs ar AI,N,No,N,,,
+NR73,Head - Up displejs,N,No,N,,,
+NR74,— INTERJERS -  INSTRUMENTI/VADĪBAS ELEMENTI —,Y,,,,,
+NR75,Apsildāms stūres rats,N,Yes,Y,Apsildāma stūre ar ādas apdari,Apsildāma stūre ar ādas apdari,X
+NR76,Ādas stūres rats,N,Yes,Y,Apsildāma stūre ar ādas apdari,Apsildāma stūre ar ādas apdari,X
+NR77,"Digitālais displejs – līdz 8,9""",N,No,N,,,
+NR78,"Digitālais displejs 9“ - 11,9”",N,No,N,,,
+NR79,"Digitālais displejs 12+""",N,Yes,Y,"Divi 12,3"" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu","Divi 12,3"" TFT ekrāni",X
+NR80,— INTERJERS -  SĒDEKĻI —,Y,,,,,
+NR81,Apsildāms vadītāja sēdeklis,N,Yes,Y,Apsildāmi priekšējie sēdekļ,Apsildāmi priekšējie sēdekļ,X
+NR82,Apsildāms pasažiera sēdeklis,N,Yes,Y,Apsildāmi priekšējie sēdekļ,Apsildāmi priekšējie sēdekļ,X
+NR83,Apsildāmi aizmugurējie sēdekļi,N,No,N,,,
+NR84,Vadītāja sēdekļa jostasvietas regulēšana manuāli,N,No,N,,,
+NR85,Pasažiera sēdekļa jostasvietas regulēšana manuāli,N,No,N,,,
+NR86,Vadītāja sēdekļa jostasvietas regulēšana elektriski,N,No,N,,Autovadītāja sēdekļa jostas vietas atbalsts,
+NR87,Pasažiera sēdekļa jostasvietas regulēšana elektriski,N,No,N,,,
+NR88,Elektriski regulējams vadītāja sēdeklis,N,Yes,Y,6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi,6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi,X
+NR89,Elektriski regulējams pasažiera sēdeklis,N,Yes,Y,6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi,6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi,X
+NR90,Elektriski regulējams vadītāja sēdeklis ar atmiņu,N,No,N,,,
+NR91,Elektriski regulējams pasažiera sēdeklis ar atmiņu,N,No,N,,,
+NR92,Sēdekļu apdare – audums/sintētiskā āda,N,Yes,Y,"Sēdekļi ar daļēju PVC un auduma apdari, Black","Sēdekļi ar daļēju PVC un auduma apdari, Black",X
+NR93,Sēdekļu apdare – Alcantara/sintētiskā āda,N,No,N,,,
+NR94,Sēdekļu apdare – sintētiskā āda,N,No,N,,,
+NR95,— INTERJERS – VADĪTĀJA PALĪDZĪBAS TEHNOLOĢIJAS —,Y,,,,,
+NR96,Automātiskā stāvvietas sistēma,N,No,N,,,
+NR97,Aklā zona uzraudzība,N,Yes,Y,"Aklās"" zonas brīdinājuma sistēma un ""aklās"" zonas palīgsistēma","Aklās"" zonas brīdinājuma sistēma un ""aklās"" zonas palīgsistēma",X
+NR98,Aklā zona uzraudzība ar šķērssatiksmes brīdinājumu,N,Yes,Y,Aizmugurējā ārkārtas bremzēšanas sistēma ar gājēju atpazīšanas sistēmu un brīdinājums par satiksmi aizmugurē,Aizmugurējā ārkārtas bremzēšanas sistēma ar gājēju atpazīšanas sistēmu un brīdinājums par satiksmi aizmugurē,X
+NR99,Kruīza Kontrole,N,No,N,,Inteliģentā kruīza kontrole,
+NR100,Kruīza kontrole - adaptīva,N,Yes,Y,nteliģentā kruīza kontrole,Inteliģentā kruīza kontrole,X
+NR101,Kruīza kontrole - adaptīva Stop&Go,N,No,N,,,
+NR102,Kruīza kontrole - adaptīva satiksmes sastrēgumos,N,Yes,Y,"Satiksmes sastrēgumu ""pilota"" sistēma",Pro PILOT Assist ar Navi-Link,X
+NR103,"Kruīza kontrole - adaptīva, balstīta uz navigācijas sistēmu",N,Yes,Y,Pro PILOT Assist ar Navi-Link,Pro PILOT Assist ar Navi-Link,X
+NR104,Joslas centrs un apdzīšanas palīgs,N,Yes,Y,Inteliģentā braukšanas joslas saglabāšanas palīgsistēma,Inteliģentā braukšanas joslas saglabāšanas palīgsistēma,X
+NR105,Kamera - priekšējais 360° skats,N,Yes,Y,nteliģentais apkārtskata monitors (360° kamera),nteliģentais apkārtskata monitors (360° kamera),X
+NR106,Kamera - aizmugures skats,N,No,N,,,
+NR107,Parkošanās palīgsistēma - priekšējie sensori,N,Yes,Y,Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori,Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori,X
+NR108,Parkošanās palīgsistēma - aizmugures sensori,N,Yes,Y,Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori,Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori,X
+NR109,— MEHĀNIKA -  ŠASIJA —,Y,,,,,
+NR110,AEBS ar gājēju un velosipēdistu atpazīšanu,N,Yes,Y,Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas sistēmu,Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas sistēmu,X
+NR111,AEBS ar gājēju atpazīšanu,N,Yes,Y,Aizmugurējā ārkārtas bremzēšanas sistēma ar gājēju atpazīšanas sistēmu,Aizmugurējā ārkārtas bremzēšanas sistēma ar gājēju atpazīšanas sistēmu,X
+NR112,Sadursmes mīkstināšana - pēc sadursmes,N,No,N,,,
+NR113,Stāvvietas bremze - elektriska,N,Yes,Y,Elektroniskā stāvbremze,"Elektroniskā stāvbremze un ""Auto Hold"" funkcija",X
+NR114,— MEHĀNIKA -  RITEŅI/RIEPAS —,Y,,,,,
+NR115,"17"" tērauda riteņi",N,No,N,,,
+NR116,"17"" vieglmetāla riteņi",N,No,N,,,
+NR117,"18"" tērauda riteņi",N,No,N,,,
+NR118,"18"" vieglmetāla riteņi",N,No,N,,,
+NR119,"19"" tērauda riteņi",N,No,N,,,
+NR120,"19"" vieglmetāla riteņi",N,Yes,Y,"19"" vieglmetāla diski ar aerodinamiskām uzlikām","19"" vieglmetāla diski ar aerodinamiskām uzlikām",X
+NR121,"20"" tērauda riteņi",N,No,N,,,
+NR122,"20"" vieglmetāla riteņi",N,No,N,,,
+NR123,Rezerves ritenis,N,No,N,,,
+NR124,Piekabes āķis,N,No,N,,,
+NR125,— DROŠĪBA UN AIZSARDZĪBA —,Y,,,,,
+NR126,Gaisa spilveni - ceļgaliem vai centrā,N,No,N,,,
+NR127,Gaisa spilveni - aizkari,N,Yes,Y,"Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem","Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem",X
+NR128,Gaisa spilveni – sānu,N,Yes,Y,"Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem","Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem",X
+NR129,Signalizācija – perimetra,N,Yes,Y,Signalizācija ar drošības un pretaizdzīšanas aizsardzību,,X
+NR130,Bezatslēgas iedarbināšana,N,No,N,,,
+NR131,Bezatslēgas piekļuve un iedarbināšana,N,Yes,Y,Inteliģentā atslēga,Inteliģentā atslēga,X
+NR132,— GARANTIJA —,Y,,,,,
+NR133,Papildus garantija – 3 gadi,N,No,N,,,
+NR134,Papildus garantija – 4 gadi,N,No,N,,,
+NR135,Papildus garantija – 5 gadi,N,No,N,,,
+NR136,Papildus garantija – 6 gadi,N,No,N,,,
+NR137,Papildus garantija – 7 gadi,N,No,N,,,
+NR138,8 gadu akumulatora garantija,N,No,N,,,

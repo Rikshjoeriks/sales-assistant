@@ -1,0 +1,620 @@
+=== LEARNING STATS ===
+{
+  "learned_features": 30,
+  "learned_patterns": 4,
+  "negative_examples": 2,
+  "covered_codes": 30
+}
+
+=== CONSENSUS ATTEMPT 1 ===
+NR26: No | | The specification text does not mention 4X4, 4WD, or AWD. It only mentions "2WD," indicating a two-wheel drive system.
+
+NR28: No | | The specification text does not mention anything about the color being metallic as standard.
+
+NR30: Yes | Automātiski pielokāmi, apsildāmi sānu spoguļi | The specification text mentions "automātiski pielokāmi, apsildāmi sānu spoguļi," which translates to automatically folding, heated side mirrors, indicating they are also electrically adjustable.
+
+NR31: Yes | Automātiski pielokāmi, apsildāmi sānu spoguļi | The specification text confirms the mirrors are "automātiski pielokāmi, apsildāmi," meaning they are electrically folding and heated.
+
+NR32: No | | The specification text does not mention side mirrors with memory function.
+
+NR33: Yes | Vējstikla tīrītāji ar lietus sensoru | The specification text mentions "Vējstikla tīrītāji ar lietus sensoru," which indicates automatic windshield wipers.
+
+NR34: Yes | Tonēti aizmugurējo logu stikli | The specification text mentions "Tonēti aizmugurējo logu stikli," which means tinted rear window glass, indicating privacy protection.
+
+NR35: Yes | Apsildāms vējstikls | The specification text explicitly mentions "Apsildāms vējstikls," meaning heated windshield.
+
+NR36: Yes | Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis | The specification text mentions "Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis," indicating electrically operated tailgate with hands-free function.
+
+NR37: Yes | Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis | The specification text confirms the tailgate is "Elektriski, ar brīvroku funkciju vadāmas," meaning electrically operated with hands-free control.
+
+NR38: No | | The specification text does not mention roof rails.
+
+NR39: No | | The specification text does not mention a front trunk.
+
+NR40: No | | The specification text does not mention a panoramic roof.
+
+NR42: Yes | LED dienas gaitas lukturi | The specification text mentions "LED dienas gaitas lukturi," which translates to LED daytime running lights.
+
+NR43: Yes | LED priekšējie miglas lukturi | The specification text mentions "LED priekšējie miglas lukturi," indicating LED front fog lights.
+
+NR44: Maybe | LED priekšējie miglas lukturi | The specification text mentions LED front fog lights but does not specify if they are integrated.
+
+NR45: Yes | Automātiski LED priekšējie lukturi | The specification text mentions "Automātiski LED priekšējie lukturi," indicating automatic LED headlight control.
+
+NR46: Yes | Automātiskās tuvās / tālās gaismas | The specification text mentions "Automātiskās tuvās / tālās gaismas," indicating automatic high/low beam control.
+
+NR47: Yes | Automātiski LED priekšējie lukturi | The specification text mentions "Automātiski LED priekšējie lukturi," confirming the presence of LED headlights.
+
+NR48: No | | The specification text does not mention adaptive LED headlights without Matrix or Glare Free.
+
+NR49: No | | The specification text does not mention adaptive LED headlights with Matrix or Glare Free.
+
+NR51: No | | The specification text mentions dual-zone automatic climate control, not single-zone.
+
+NR52: Yes | Divu zonu automātiskā klimata kontrole | The specification text mentions "Divu zonu automātiskā klimata kontrole," indicating dual-zone automatic climate control.
+
+NR53: No | | The specification text does not mention three-zone climate control.
+
+NR54: Yes | Plazmas klastera jonu gaisa attīrītājs | The specification text mentions "Plazmas klastera jonu gaisa attīrītājs," indicating a cabin air purifier.
+
+NR55: Yes | Centrālā console | The specification text mentions "Centrālā console," which implies a central console with armrest.
+
+NR56: Yes | Noskaņu radošs LED apgaismojums | The specification text mentions "Noskaņu radošs LED apgaismojums," indicating ambient LED lighting.
+
+NR57: Yes | Automātiski aptumšojošs automobiļa salona atpakaļskata spogulis bez rāmja | The specification text mentions "Automātiski aptumšojošs automobiļa salona atpakaļskata spogulis," indicating an automatically dimming interior mirror.
+
+NR58: Yes | USB pieslēgvietas priekšā un aizmugurē ("A" un "C" tipa) | The specification text mentions USB ports in the rear, indicating electrical connectivity.
+
+NR59: Yes | Bezvadu viedtālruņa lādētājs | The specification text mentions "Bezvadu viedtālruņa lādētājs," indicating wireless charging.
+
+NR61: No | | The specification text mentions an audio system with 6 speakers, not more than 6.
+
+NR62: No | | The specification text mentions two 12.3" TFT screens but does not specify a 6-8" touchscreen.
+
+NR63: No | | The specification text mentions two 12.3" TFT screens but does not specify an 8-10" touchscreen.
+
+NR64: No | | The specification text mentions two 12.3" TFT screens but does not specify a 10-12" touchscreen.
+
+NR65: Yes | Divi 12,3" TFT ekrāni | The specification text mentions "Divi 12,3" TFT ekrāni," indicating screens larger than 12 inches.
+
+NR66: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu | The specification text mentions screens displaying navigation information, indicating a navigation center.
+
+NR67: Yes | Nissan Connect Services lietotnes (i OS, Android) pakalpojumi automobiļa gaisa kondicionēšanas sistēmas, uzlādes attālināta vadība u. c | The specification text mentions connected services, indicating a connected navigation center.
+
+NR68: Yes | Bezvadu Apple Car Play un ar vadu savienojams Android Auto | The specification text mentions both Apple CarPlay and Android Auto.
+
+NR69: Yes | Bezvadu Apple Car Play un ar vadu savienojams Android Auto | The specification text mentions wireless Apple CarPlay, indicating wireless capability.
+
+NR70: No | | The specification text does not mention an AI assistant.
+
+NR71: No | | The specification text does not mention a head-up display.
+
+NR73: Yes | Apsildāma stūre ar ādas apdari | The specification text mentions "Apsildāma stūre," indicating a heated steering wheel.
+
+NR74: Yes | Apsildāma stūre ar ādas apdari | The specification text mentions "stūre ar ādas apdari," indicating a leather steering wheel.
+
+NR75: No | | The specification text mentions two 12.3" TFT screens, not a digital display up to 8.9 inches.
+
+NR76: No | | The specification text mentions two 12.3" TFT screens, not a 9-11.9 inch digital display.
+
+NR77: Yes | Divi 12,3" TFT ekrāni | The specification text mentions "Divi 12,3" TFT ekrāni," indicating a digital display larger than 12 inches.
+
+NR79: Yes | Apsildāmi priekšējie sēdekļ | The specification text mentions "Apsildāmi priekšējie sēdekļ," indicating heated front seats.
+
+NR80: Yes | Apsildāmi priekšējie sēdekļ | The specification text mentions "Apsildāmi priekšējie sēdekļ," indicating heated front seats.
+
+NR81: No | | The specification text does not mention heated rear seats.
+
+NR82: No | | The specification text does not mention manual lumbar adjustment for the driver's seat.
+
+NR83: No | | The specification text does not mention manual lumbar adjustment for the passenger's seat.
+
+NR84: No | | The specification text does not mention electric lumbar adjustment for the driver's seat.
+
+NR85: No | | The specification text does not mention electric lumbar adjustment for the passenger's seat.
+
+NR86: Yes | 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi | The specification text mentions "6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi," indicating electrically adjustable driver's seat.
+
+NR87: Yes | 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi | The specification text mentions "6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi," indicating electrically adjustable passenger's seat.
+
+NR88: No | | The specification text does not mention memory function for the driver's seat.
+
+NR89: No | | The specification text does not mention memory function for the passenger's seat.
+
+NR90: Yes | Sēdekļi ar daļēju PVC un auduma apdari, Black | The specification text mentions "Sēdekļi ar daļēju PVC un auduma apdari," indicating fabric/synthetic leather upholstery.
+
+NR91: No | | The specification text does not mention Alcantara/synthetic leather upholstery.
+
+NR92: No | | The specification text does not mention full synthetic leather upholstery.
+
+NR94: No | | The specification text does not mention an automatic parking system.
+
+NR95: Yes | "Aklās" zonas brīdinājuma sistēma un "aklās" zonas palīgsistēma | The specification text mentions a "blind spot warning system and blind spot assist system," indicating blind spot monitoring.
+
+NR96: No | | The specification text does not mention cross-traffic alert with blind spot monitoring.
+
+NR97: Yes | nteliģentā kruīza kontrole | The specification text mentions "nteliģentā kruīza kontrole," indicating cruise control.
+
+NR98: Yes | nteliģentā kruīza kontrole | The specification text mentions "nteliģentā kruīza kontrole," which can imply adaptive cruise control.
+
+NR99: No | | The specification text does not mention adaptive cruise control with Stop&Go.
+
+NR100: Yes | Pro PILOT Assist ar Navi-Link | The specification text mentions "Pro PILOT Assist ar Navi-Link," indicating adaptive cruise control for traffic jams.
+
+NR101: Yes | Pro PILOT Assist ar Navi-Link | The specification text mentions "Pro PILOT Assist ar Navi-Link," indicating adaptive cruise control based on navigation.
+
+NR102: No | | The specification text does not mention lane centering and overtaking assist.
+
+NR103: Yes | nteliģentais apkārtskata monitors (360° kamera) | The specification text mentions "nteliģentais apkārtskata monitors (360° kamera)," indicating a 360° front camera view.
+
+NR104: No | | The specification text does not explicitly mention a rear camera view.
+
+NR105: Yes | Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori | The specification text mentions "Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori," indicating front parking sensors.
+
+NR106: Yes | Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori | The specification text mentions "Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori," indicating rear parking sensors.
+
+NR108: Yes | Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas sistēmu | The specification text mentions "Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas sistēmu," indicating AEBS with pedestrian and cyclist recognition.
+
+NR109: No | | The specification text does not mention post-collision mitigation.
+
+NR110: Yes | Elektroniskā stāvbremze un "Auto Hold" funkcija | The specification text mentions "Elektroniskā stāvbremze," indicating an electric parking brake.
+
+NR112: No | | The specification text does not mention 17" steel wheels.
+
+NR113: No | | The specification text does not mention 17" alloy wheels.
+
+NR114: No | | The specification text does not mention 18" steel wheels.
+
+NR115: No | | The specification text does not mention 18" alloy wheels.
+
+NR116: Yes | 19" vieglmetāla diski ar aerodinamiskām uzlikām | The specification text mentions "19" vieglmetāla diski ar aerodinamiskām uzlikām," indicating 19" alloy wheels.
+
+NR117: No | | The specification text does not mention 20" alloy wheels.
+
+NR118: No | | The specification text does not mention a spare wheel.
+
+NR119: No | | The specification text does not mention a tow hook.
+
+NR121: No | | The specification text does not mention knee airbags.
+
+NR122: Yes | Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem | The specification text mentions "aizkarveida gaisa drošības spilveni," indicating curtain airbags.
+
+NR123: Yes | Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem | The specification text mentions "sānu gaisa drošības spilveni," indicating side airbags.
+
+NR124: No | | The specification text does not mention perimeter alarm.
+
+NR125: No | | The specification text does not mention keyless start.
+
+NR126: Yes | Inteliģentā atslēga | The specification text mentions "Inteliģentā atslēga," indicating keyless entry and start.
+
+NR128: No | | The specification text does not mention an additional 2-year warranty.
+
+NR129: No | | The specification text does not mention an extended 3-year warranty.
+
+NR130: No | | The specification text does not mention an extended 4-year warranty.
+
+NR131: No | | The specification text does not mention an extended 5-year warranty.
+
+NR132: No | | The specification text does not mention an extended 6-year warranty.
+
+NR133: No | | The specification text does not mention an extended 7-year warranty.
+
+NR134: No | | The specification text does not mention warranty mileage.
+
+NR135: No | | The specification text does not mention warranty mileage.
+
+NR136: No | | The specification text does not mention warranty mileage.
+
+NR137: No | | The specification text does not mention warranty mileage.
+
+NR138: No | | The specification text does not mention unlimited mileage warranty.
+
+NR139: No | | The specification text does not mention battery warranty.
+=== CONSENSUS ATTEMPT 2 ===
+NR26: No | | The specification text does not mention 4X4, 4WD, or AWD. It only specifies "2WD."
+
+NR28: No | | The specification text does not mention anything about the color being metallic as standard.
+
+NR30: Yes | Automātiski pielokāmi, apsildāmi sānu spoguļi | The specification text mentions that the side mirrors are electrically adjustable and heated.
+
+NR31: Yes | Automātiski pielokāmi, apsildāmi sānu spoguļi | The specification text confirms that the side mirrors are electrically adjustable, heated, and foldable.
+
+NR32: No | | The specification text does not mention side mirrors with memory function.
+
+NR33: Yes | Vējstikla tīrītāji ar lietus sensoru | The specification text mentions automatic windshield wipers with a rain sensor.
+
+NR34: Yes | Tonēti aizmugurējo logu stikli | The specification text mentions tinted rear windows.
+
+NR35: Yes | Apsildāms vējstikls | The specification text explicitly mentions a heated windshield.
+
+NR36: Yes | Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis | The specification text mentions electrically operated tailgate doors.
+
+NR37: Yes | Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis | The specification text mentions electrically operated tailgate doors with hands-free function.
+
+NR38: No | | The specification text does not mention roof rails.
+
+NR39: No | | The specification text does not mention a front trunk.
+
+NR40: No | | The specification text does not mention a panoramic roof.
+
+NR42: Yes | LED dienas gaitas lukturi | The specification text mentions LED daytime running lights.
+
+NR43: Yes | LED priekšējie miglas lukturi | The specification text mentions LED front fog lights.
+
+NR44: No | | The specification text does not specify that the LED front fog lights are integrated.
+
+NR45: Yes | Automātiskās tuvās / tālās gaismas | The specification text mentions automatic switching of high/low beams.
+
+NR46: Yes | Automātiskās tuvās / tālās gaismas | The specification text mentions automatic switching of high/low beams.
+
+NR47: Yes | Automātiski LED priekšējie lukturi | The specification text mentions automatic LED front lights.
+
+NR48: No | | The specification text does not mention adaptive LED headlights without Matrix or Glare Free technology.
+
+NR49: No | | The specification text does not mention adaptive LED headlights with Matrix or Glare Free technology.
+
+NR51: No | | The specification text does not mention a 1-zone electronic automatic temperature control (EATC).
+
+NR52: Yes | Divu zonu automātiskā klimata kontrole | The specification text mentions dual-zone automatic climate control.
+
+NR53: No | | The specification text does not mention a 3-zone electronic automatic temperature control (EATC).
+
+NR54: Yes | Plazmas klastera jonu gaisa attīrītājs | The specification text mentions a plasma cluster ion air purifier.
+
+NR55: Yes | Centrālā console | The specification text mentions a central console, which typically includes an armrest.
+
+NR56: Yes | Noskaņu radošs LED apgaismojums | The specification text mentions mood-creating LED lighting, which implies multi-color capability.
+
+NR57: Yes | Automātiski aptumšojošs automobiļa salona atpakaļskata spogulis bez rāmja | The specification text mentions an automatically dimming interior rearview mirror.
+
+NR58: Yes | USB pieslēgvietas priekšā un aizmugurē ("A" un "C" tipa) | The specification text mentions USB ports in the rear, which implies electrical connectivity.
+
+NR59: Yes | Bezvadu viedtālruņa lādētājs | The specification text mentions a wireless smartphone charger.
+
+NR61: No | | The specification text mentions an audio system with 6 speakers, not more.
+
+NR62: No | | The specification text does not mention a 6-8" multifunctional touchscreen.
+
+NR63: No | | The specification text does not mention an 8-10" multifunctional touchscreen.
+
+NR64: No | | The specification text does not mention a 10-12" multifunctional touchscreen.
+
+NR65: No | | The specification text does not mention a multifunctional touchscreen larger than 12".
+
+NR66: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu | The specification text mentions screens displaying navigation information, indicating a navigation center.
+
+NR67: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu | The specification text mentions connected navigation, as it displays navigation information.
+
+NR68: Yes | Bezvadu Apple Car Play un ar vadu savienojams Android Auto | The specification text mentions both Android Auto and Apple CarPlay.
+
+NR69: Yes | Bezvadu Apple Car Play un ar vadu savienojams Android Auto | The specification text mentions wireless Apple CarPlay and wired Android Auto.
+
+NR70: No | | The specification text does not mention an AI-based smart assistant.
+
+NR71: No | | The specification text does not mention a head-up display.
+
+NR73: Yes | Apsildāma stūre ar ādas apdari | The specification text mentions a heated steering wheel.
+
+NR74: Yes | Apsildāma stūre ar ādas apdari | The specification text mentions a leather steering wheel.
+
+NR75: No | | The specification text does not mention a digital display up to 8.9 inches.
+
+NR76: No | | The specification text does not mention a digital display between 9-11.9 inches.
+
+NR77: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu | The specification text mentions two 12.3" TFT screens, which are digital displays over 12 inches.
+
+NR79: Yes | Apsildāmi priekšējie sēdekļ | The specification text mentions heated front seats, which includes the driver's seat.
+
+NR80: Yes | Apsildāmi priekšējie sēdekļ | The specification text mentions heated front seats, which includes the passenger's seat.
+
+NR81: No | | The specification text does not mention heated rear seats.
+
+NR82: No | | The specification text does not mention manual lumbar adjustment for the driver's seat.
+
+NR83: No | | The specification text does not mention manual lumbar adjustment for the passenger's seat.
+
+NR84: No | | The specification text does not mention electric lumbar adjustment for the driver's seat.
+
+NR85: No | | The specification text does not mention electric lumbar adjustment for the passenger's seat.
+
+NR86: Yes | 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi | The specification text mentions 6-way electrically adjustable driver's seat.
+
+NR87: Yes | 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi | The specification text mentions 6-way electrically adjustable passenger's seat.
+
+NR88: No | | The specification text does not mention a memory function for the driver's seat.
+
+NR89: No | | The specification text does not mention a memory function for the passenger's seat.
+
+NR90: Yes | Sēdekļi ar daļēju PVC un auduma apdari, Black | The specification text mentions seats with partial PVC and fabric upholstery.
+
+NR91: No | | The specification text does not mention Alcantara/synthetic leather upholstery.
+
+NR92: No | | The specification text does not mention full synthetic leather upholstery.
+
+NR94: No | | The specification text does not mention an automatic parking system.
+
+NR95: Yes | "Aklās" zonas brīdinājuma sistēma un "aklās" zonas palīgsistēma | The specification text mentions a blind spot warning system.
+
+NR96: No | | The specification text does not mention blind spot monitoring with cross traffic alert.
+
+NR97: Yes | nteliģentā kruīza kontrole | The specification text mentions intelligent cruise control.
+
+NR98: Yes | nteliģentā kruīza kontrole | The specification text mentions intelligent cruise control, which is a form of adaptive cruise control.
+
+NR99: No | | The specification text does not mention adaptive cruise control with Stop&Go functionality.
+
+NR100: Yes | Pro PILOT Assist ar Navi-Link | The specification text mentions Pro PILOT Assist with Navi-Link, which suggests adaptive cruise control in traffic jams.
+
+NR101: Yes | Pro PILOT Assist ar Navi-Link | The specification text mentions Pro PILOT Assist with Navi-Link, indicating adaptive cruise control based on navigation.
+
+NR102: Yes | Inteliģentā braukšanas joslas saglabāšanas palīgsistēma | The specification text mentions intelligent lane keeping assist, which includes lane centering.
+
+NR103: Yes | nteliģentais apkārtskata monitors (360° kamera) | The specification text mentions an intelligent around view monitor, which includes a front 360° view.
+
+NR104: Yes | nteliģentais apkārtskata monitors (360° kamera) | The specification text mentions an intelligent around view monitor, which includes a rear view.
+
+NR105: Yes | Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori | The specification text mentions front parking sensors.
+
+NR106: Yes | Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori | The specification text mentions rear parking sensors.
+
+NR108: Yes | Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas sistēmu un krustojumu palīgsistēmu | The specification text mentions an intelligent emergency braking system with pedestrian and cyclist recognition, which is AEBS.
+
+NR109: No | | The specification text does not mention post-collision mitigation.
+
+NR110: Yes | Elektroniskā stāvbremze un "Auto Hold" funkcija | The specification text mentions an electronic parking brake.
+
+NR112: No | | The specification text does not mention 17" steel wheels.
+
+NR113: No | | The specification text does not mention 17" alloy wheels.
+
+NR114: No | | The specification text does not mention 18" steel wheels.
+
+NR115: No | | The specification text does not mention 18" alloy wheels.
+
+NR116: Yes | 19" vieglmetāla diski ar aerodinamiskām uzlikām | The specification text mentions 19" alloy wheels.
+
+NR117: No | | The specification text does not mention 20" alloy wheels.
+
+NR118: No | | The specification text does not mention a spare wheel.
+
+NR119: No | | The specification text does not mention a tow hitch.
+
+NR121: No | | The specification text does not mention knee airbags.
+
+NR122: Yes | Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem | The specification text mentions curtain airbags.
+
+NR123: Yes | Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem | The specification text mentions side airbags.
+
+NR124: No | | The specification text does not mention perimeter alarm.
+
+NR125: No | | The specification text does not mention keyless start.
+
+NR126: Yes | Inteliģentā atslēga | The specification text mentions an intelligent key, which implies keyless entry and start.
+
+NR128: No | | The specification text does not mention an additional 2-year warranty.
+
+NR129: No | | The specification text does not mention a 3-year extended warranty.
+
+NR130: No | | The specification text does not mention a 4-year extended warranty.
+
+NR131: No | | The specification text does not mention a 5-year extended warranty.
+
+NR132: No | | The specification text does not mention a 6-year extended warranty.
+
+NR133: No | | The specification text does not mention a 7-year extended warranty.
+
+NR134: No | | The specification text does not mention mileage warranty.
+
+NR135: No | | The specification text does not mention mileage warranty.
+
+NR136: No | | The specification text does not mention mileage warranty.
+
+NR137: No | | The specification text does not mention mileage warranty.
+
+NR138: No | | The specification text does not mention a no mileage limit warranty.
+
+NR139: No | | The specification text does not mention a battery warranty.
+=== CONSENSUS ATTEMPT 3 ===
+NR26: No | | The specification text does not mention 4X4, 4WD, or AWD, indicating that the vehicle is likely a 2WD model.
+
+NR28: No | | The specification text does not mention anything about the color being metallic as standard.
+
+NR30: Yes | Automātiski pielokāmi, apsildāmi sānu spoguļi | The text mentions "Automātiski pielokāmi, apsildāmi sānu spoguļi," which translates to automatically folding, heated side mirrors, implying they are also electrically adjustable.
+
+NR31: Yes | Automātiski pielokāmi, apsildāmi sānu spoguļi | The text confirms the mirrors are electrically folding and heated, which implies they are also electrically adjustable.
+
+NR32: No | | The specification does not mention the mirrors having a memory function.
+
+NR33: Yes | Vējstikla tīrītāji ar lietus sensoru | The text indicates "Vējstikla tīrītāji ar lietus sensoru," meaning windshield wipers with a rain sensor, which suggests automatic operation.
+
+NR34: Yes | Tonēti aizmugurējo logu stikli | The text mentions "Tonēti aizmugurējo logu stikli," meaning tinted rear window glass.
+
+NR35: Yes | Apsildāms vējstikls | The text explicitly states "Apsildāms vējstikls," meaning heated windshield.
+
+NR36: Yes | Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis | The text mentions "Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis," indicating electrically operated tailgate with hands-free function.
+
+NR37: Yes | Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis | The text confirms the tailgate is electrically operated with hands-free control.
+
+NR38: No | | The specification text does not mention roof rails.
+
+NR39: No | | The specification text does not mention a front trunk.
+
+NR40: No | | The specification text does not mention a panoramic roof.
+
+NR42: Yes | LED dienas gaitas lukturi | The text mentions "LED dienas gaitas lukturi," meaning LED daytime running lights.
+
+NR43: Yes | LED priekšējie miglas lukturi | The text confirms "LED priekšējie miglas lukturi," which translates to LED front fog lights.
+
+NR44: Maybe | LED priekšējie miglas lukturi | The text confirms LED front fog lights, but it does not specify if they are integrated.
+
+NR45: Yes | Automātiskās tuvās / tālās gaismas | The text states "Automātiskās tuvās / tālās gaismas," indicating automatic high/low beam control.
+
+NR46: Yes | Automātiskās tuvās / tālās gaismas | The text confirms automatic high/low beam control.
+
+NR47: Yes | Automātiski LED priekšējie lukturi | The text mentions "Automātiski LED priekšējie lukturi," meaning automatic LED front lights.
+
+NR48: No | | The specification text does not mention adaptive LED headlights without Matrix or Glare Free technology.
+
+NR49: No | | The specification text does not mention adaptive LED headlights with Matrix or Glare Free technology.
+
+NR51: No | | The specification text does not mention a single-zone electronic automatic temperature control (EATC).
+
+NR52: Yes | Divu zonu automātiskā klimata kontrole | The text states "Divu zonu automātiskā klimata kontrole," meaning dual-zone automatic climate control.
+
+NR53: No | | The specification text does not mention a three-zone electronic automatic temperature control (EATC).
+
+NR54: Yes | Plazmas klastera jonu gaisa attīrītājs | The text mentions "Plazmas klastera jonu gaisa attīrītājs," indicating a plasma cluster ion air purifier.
+
+NR55: Yes | Centrālā console | The text includes "Centrālā console," implying a central console with armrest.
+
+NR56: Yes | Noskaņu radošs LED apgaismojums | The text mentions "Noskaņu radošs LED apgaismojums," indicating mood-creating LED lighting.
+
+NR57: Yes | Automātiski aptumšojošs automobiļa salona atpakaļskata spogulis bez rāmja | The text confirms "Automātiski aptumšojošs automobiļa salona atpakaļskata spogulis bez rāmja," meaning an automatic dimming interior rearview mirror without a frame.
+
+NR58: Yes | USB pieslēgvietas priekšā un aizmugurē ("A" un "C" tipa) | The text mentions USB ports at the front and rear, which implies an electrical connection in the back.
+
+NR59: Yes | Bezvadu viedtālruņa lādētājs | The text explicitly states "Bezvadu viedtālruņa lādētājs," meaning wireless smartphone charger.
+
+NR61: No | | The specification text mentions an audio system with 6 speakers, but not a branded sound system with more than 6 speakers.
+
+NR62: No | | The specification text does not mention a multifunctional touchscreen in the 6-8 inch range.
+
+NR63: No | | The specification text does not mention a multifunctional touchscreen in the 8-10 inch range.
+
+NR64: No | | The specification text does not mention a multifunctional touchscreen in the 10-12 inch range.
+
+NR65: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu | The text mentions "Divi 12,3" TFT ekrāni," which translates to two 12.3-inch TFT screens.
+
+NR66: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu | The text includes navigation information display, indicating a navigation center.
+
+NR67: Maybe | Telemātika attālinātās vadības pakalpojumi, paziņojumi un savienojamības pakalpojumi | The text mentions telematics and connectivity services, which might imply a connected navigation center.
+
+NR68: Yes | Bezvadu Apple Car Play un ar vadu savienojams Android Auto | The text confirms "Bezvadu Apple Car Play un ar vadu savienojams Android Auto," meaning wireless Apple CarPlay and wired Android Auto.
+
+NR69: Yes | Bezvadu Apple Car Play un ar vadu savienojams Android Auto | The text confirms wireless Apple CarPlay, though Android Auto is wired.
+
+NR70: No | | The specification text does not mention an AI-powered smart assistant.
+
+NR71: No | | The specification text does not mention a head-up display.
+
+NR73: Yes | Apsildāma stūre ar ādas apdari | The text mentions "Apsildāma stūre," meaning heated steering wheel.
+
+NR74: Yes | Apsildāma stūre ar ādas apdari | The text includes "ādas apdari," indicating a leather steering wheel.
+
+NR75: No | | The specification text does not mention a digital display up to 8.9 inches.
+
+NR76: No | | The specification text does not mention a digital display in the 9-11.9 inch range.
+
+NR77: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu | The text confirms "Divi 12,3" TFT ekrāni," meaning two 12+ inch digital displays.
+
+NR79: Yes | Apsildāmi priekšējie sēdekļ | The text mentions "Apsildāmi priekšējie sēdekļ," meaning heated front seats.
+
+NR80: Yes | Apsildāmi priekšējie sēdekļ | The text confirms heated front seats, implying both driver and passenger seats are heated.
+
+NR81: No | | The specification text does not mention heated rear seats.
+
+NR82: No | | The specification text does not mention manual lumbar adjustment for the driver's seat.
+
+NR83: No | | The specification text does not mention manual lumbar adjustment for the passenger's seat.
+
+NR84: No | | The specification text does not mention electric lumbar adjustment for the driver's seat.
+
+NR85: No | | The specification text does not mention electric lumbar adjustment for the passenger's seat.
+
+NR86: Yes | 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi | The text mentions "6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi," meaning 6-way electrically adjustable driver and front passenger seats.
+
+NR87: Yes | 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi | The text confirms electrically adjustable front passenger seat.
+
+NR88: No | | The specification text does not mention memory function for the driver's seat.
+
+NR89: No | | The specification text does not mention memory function for the passenger's seat.
+
+NR90: Yes | Sēdekļi ar daļēju PVC un auduma apdari, Black | The text mentions "Sēdekļi ar daļēju PVC un auduma apdari," indicating seats with partial PVC and fabric upholstery.
+
+NR91: No | | The specification text does not mention Alcantara/synthetic leather upholstery.
+
+NR92: No | | The specification text does not mention full synthetic leather upholstery.
+
+NR94: No | | The specification text does not mention an automatic parking system.
+
+NR95: Yes | "Aklās" zonas brīdinājuma sistēma un "aklās" zonas palīgsistēma | The text mentions "Aklās" zonas brīdinājuma sistēma," meaning blind spot warning system.
+
+NR96: Yes | Aizmugurējā ārkārtas bremzēšanas sistēma ar gājēju atpazīšanas sistēmu un brīdinājums par satiksmi aizmugurē | The text mentions rear emergency braking with pedestrian recognition and rear traffic alert, which implies cross traffic alert.
+
+NR97: Yes | nteliģentā kruīza kontrole | The text mentions "nteliģentā kruīza kontrole," meaning intelligent cruise control.
+
+NR98: Yes | nteliģentā kruīza kontrole | The text confirms intelligent cruise control, which implies adaptiveness.
+
+NR99: No | | The specification text does not mention adaptive cruise control with Stop&Go.
+
+NR100: Yes | Pro PILOT Assist ar Navi-Link | The text mentions "Pro PILOT Assist ar Navi-Link," which implies adaptive cruise control in traffic jams.
+
+NR101: Yes | Pro PILOT Assist ar Navi-Link | The text confirms "Pro PILOT Assist ar Navi-Link," indicating adaptive cruise control based on navigation.
+
+NR102: Maybe | Inteliģentā braukšanas joslas saglabāšanas palīgsistēma | The text mentions lane-keeping assistance, which might imply lane centering and overtaking assist.
+
+NR103: Yes | nteliģentais apkārtskata monitors (360° kamera) | The text mentions "nteliģentais apkārtskata monitors (360° kamera)," meaning intelligent around-view monitor (360° camera).
+
+NR104: Maybe | nteliģentais apkārtskata monitors (360° kamera) | The text mentions a 360° camera, which likely includes a rear view but is not explicitly mentioned.
+
+NR105: Yes | Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori | The text confirms front and rear parking sensors.
+
+NR106: Yes | Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori | The text confirms rear parking sensors.
+
+NR108: Yes | Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas sistēmu un krustojumu palīgsistēmu | The text mentions intelligent emergency braking with pedestrian and cyclist recognition.
+
+NR109: No | | The specification text does not mention post-collision mitigation.
+
+NR110: Yes | Elektroniskā stāvbremze un "Auto Hold" funkcija | The text mentions "Elektroniskā stāvbremze," meaning electronic parking brake.
+
+NR112: No | | The specification text does not mention 17" steel wheels.
+
+NR113: No | | The specification text does not mention 17" alloy wheels.
+
+NR114: No | | The specification text does not mention 18" steel wheels.
+
+NR115: No | | The specification text does not mention 18" alloy wheels.
+
+NR116: Yes | 19" vieglmetāla diski ar aerodinamiskām uzlikām 235/55R19 | The text mentions "19" vieglmetāla diski," meaning 19" alloy wheels.
+
+NR117: No | | The specification text does not mention 20" alloy wheels.
+
+NR118: No | | The specification text does not mention a spare wheel.
+
+NR119: No | | The specification text does not mention a tow hook.
+
+NR121: No | | The specification text does not mention knee airbags.
+
+NR122: Yes | Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem | The text mentions "aizkarveida gaisa drošības spilveni," meaning curtain airbags.
+
+NR123: Yes | Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem | The text mentions "sānu gaisa drošības spilveni," meaning side airbags.
+
+NR124: No | | The specification text does not mention perimeter alarm.
+
+NR125: No | | The specification text does not mention keyless start.
+
+NR126: Yes | Inteliģentā atslēga | The text mentions "Inteliģentā atslēga," meaning intelligent key, which implies keyless entry and start.
+
+NR128: No | | The specification text does not mention an additional 2-year warranty.
+
+NR129: No | | The specification text does not mention an extended 3-year warranty.
+
+NR130: No | | The specification text does not mention an extended 4-year warranty.
+
+NR131: No | | The specification text does not mention an extended 5-year warranty.
+
+NR132: No | | The specification text does not mention an extended 6-year warranty.
+
+NR133: No | | The specification text does not mention an extended 7-year warranty.
+
+NR134: No | | The specification text does not mention warranty mileage.
+
+NR135: No | | The specification text does not mention warranty mileage.
+
+NR136: No | | The specification text does not mention warranty mileage.
+
+NR137: No | | The specification text does not mention warranty mileage.
+
+NR138: No | | The specification text does not mention a mileage limitation.
+
+NR139: No | | The specification text does not mention a battery warranty.

@@ -1,0 +1,105 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{}
+
+NR26: No | 
+NR28: No | 
+NR30: Maybe | Elektriski regulējami, nolokāmi un apsildāmi ārējie spoguļi
+NR31: Yes | Elektriski regulējami, nolokāmi un apsildāmi ārējie spoguļi
+NR32: No | 
+NR33: Maybe | Lietus sensors
+NR34: Yes | Tonēti stikli
+NR35: No | 
+NR36: No | 
+NR37: No | 
+NR38: No | 
+NR39: No | 
+NR40: No | 
+NR42: No | 
+NR43: No | 
+NR44: No | 
+NR45: Maybe | Automātiskā tālās gaismas pārslēgšana
+NR46: Yes | Automātiskā tālās gaismas pārslēgšana
+NR47: Yes | LED priekšējie lukturi
+NR48: No | 
+NR49: No | 
+NR51: No | 
+NR52: Yes | Divu zonu automātiskā klimata kontrole
+NR53: No | 
+NR54: No | 
+NR55: No | 
+NR56: No | 
+NR57: Maybe | Automātiski tonējoši atpakaļskata spoguļi
+NR58: Yes | 12V / 120W ligzda bagāžas nodalījumā
+NR59: No | 
+NR61: Yes | 7 skaļruņi
+NR62: No | 
+NR63: No | 
+NR64: No | 
+NR65: Yes | 14,6 collu centrālais skārienekrāns
+NR66: No | 
+NR67: No | 
+NR68: Yes | SYNC 4ar Android Auto un Apple Car Play
+NR69: Yes | SYNC 4ar Android Auto un Apple Car Play, USB un bezvadu savienojamība
+NR70: No | 
+NR71: No | 
+NR73: No | 
+NR74: No | 
+NR75: No | 
+NR76: No | 
+NR77: No | 
+NR79: No | 
+NR80: No | 
+NR81: No | 
+NR82: No | 
+NR83: No | 
+NR84: No | 
+NR85: No | 
+NR86: No | 
+NR87: No | 
+NR88: No | 
+NR89: No | 
+NR90: No | 
+NR91: No | 
+NR92: No | 
+NR94: No | 
+NR95: Yes | Aklās zonas uzraudzības sistēma (BLIS)
+NR96: No | 
+NR97: No | 
+NR98: Yes | Adaptīvā kruīza kontrole
+NR99: Yes | Adaptīvā kruīza kontrole ar Stop & Go funkciju
+NR100: No | 
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: Yes | Atpakaļgaitas kamera
+NR105: Yes | Priekšējie un aizmugurējie stāvvietas sensori
+NR106: Yes | Priekšējie un aizmugurējie stāvvietas sensori
+NR108: Yes | Automātiskā avārijas bremzēšana (pēkšņa šķēršļa, gājēju un velosipēdistu atpazīšana)
+NR109: No | 
+NR110: Yes | Elektroniskā stāvbremze ar Auto Hold funkciju
+NR112: No | 
+NR113: No | 
+NR114: No | 
+NR115: No | 
+NR116: Yes | 19 collu vieglmetāla diski
+NR117: No | 
+NR118: No | 
+NR119: No | 
+NR121: No | 
+NR122: No | 
+NR123: No | 
+NR124: No | 
+NR125: No | 
+NR126: Yes | Bezatslēgas piekļuve
+NR128: No | 
+NR129: No | 
+NR130: No | 
+NR131: No | 
+NR132: No | 
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No | 
+NR139: No | 

@@ -1,0 +1,122 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{
+  "NR49": [
+    {
+      "text": "Advance 1) 178 7,6 2WD Līdz 531km 52 990 5 299 47 691 Mode 2 uzlādes kabelis Mode 3 uzlādes kabelis 22k W iebūvēts lādētājs Akumulatora dzesēšana un sildīšana Siltumsūknis Eksterjers Automātiski pielokāmi, apsildāmi sānu spoguļi Automātiski LED priekšējie lukturi LED dienas gaitas lukturi un \"Follow Me Home\" apgaismojums LED priekšējie miglas lukturi LED aizmugurējie miglas lukturi LED aizmugures lukturi Automātiskās tuvās / tālās gaismas Apsildāms vējstikls - - Tonēti aizmugurējo logu stikli Haizivs spuras tipa antena Sānu logi ar Satin Chrome apdari Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem Aizmugurējā ārkārtas bremzēšanas sistēma ar gājēju atpazīšanas sistēmu un brīdinājums par satiksmi aizmugurē Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas sistēmu un krustojumu palīgsistēmu Inteliģentā priekšējās sadursmes riska brīdinājuma sistēma Elektroniskā stāvbremze un \"Auto Hold\" funkcija Inteliģentā autovadītāja modrības palīgsistēma \"Aklās\" zonas brīdinājuma sistēma un \"aklās\" zonas palīgsistēma Ceļa zīmju atpazīšanas sistēma Inteliģentā nejaušas braukšanas joslas maiņas novēršanas palīgsistēma Divi 12,3\" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu e-Pedal Step DAB un audio sistēma ar 6 skaļruņiem - - - - Telemātika attālinātās vadības pakalpojumi, paziņojumi un savienojamības pakalpojumi Nissan Connect Services lietotnes (i OS, Android) pakalpojumi automobiļa gaisa kondicionēšanas sistēmas, uzlādes attālināta vadība u. c Nissan balss kontroles sistēma Programmatūras attālinātas atjaunināšanas iespēja Bezvadu Apple Car Play un ar vadu savienojams Android Auto 2) Bezvadu viedtālruņa lādētājs - - Bluetooth (tālrunim un audio) USB pieslēgvietas priekšā un aizmugurē (\"A\" un \"C\" tipa) 12V pieslēgvieta priekšā Inteliģentā atslēga - - - Braukšanas režīmi nteliģentā kruīza kontrole Pro PILOT Assist ar Navi-Link 3) - - Inteliģentā braukšanas joslas saglabāšanas palīgsistēma - - Satiksmes sastrēgumu \"pilota\" sistēma - - Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori nteliģentais apkārtskata monitors (360° kamera) Signalizācija ar drošības un pretaizdzīšanas aizsardzību Divu zonu automātiskā klimata kontrole un aizmugurējās gaisa ventilācijas atveres Plazmas klastera jonu gaisa attīrītājs Apsildāma stūre ar ādas apdari Stūre ar slīpuma un teleskopisku regulēšanas iespēju Apsildāmi priekšējie sēdekļ Autovadītāja sēdekļa jostas vietas atbalsts Kabatas priekšējo sēdekļu aizmugurē un elkoņbalsts aizmugurē Centrālā console Pielāgojama centrālā uzglabāšanas vieta 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi Attiecībā 60:40 salokāms aizmugures sēdeklis Noskaņu radošs LED apgaismojums Vējstikla tīrītāji ar lietus sensoru Automātiski aptumšojošs automobiļa salona atpakaļskata spogulis bez rāmja Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis - Ar vienu pieskārienu elektriski vadāmi sānu logi Bagāžas plaukts un bagāžas pārsegs bagāžas nodalījumā Sēdekļi ar daļēju PVC un auduma apdari, Black 19\" vieglmetāla diski ar aerodinamiskām uzlikām 235/55R19",
+      "confidence": 1.0,
+      "type": "direct",
+      "learned_from": "LED priekšējie lukturi"
+    }
+  ],
+  "NR33": [
+    {
+      "text": "Advance 1) 178 7,6 2WD Līdz 531km 52 990 5 299 47 691 Mode 2 uzlādes kabelis Mode 3 uzlādes kabelis 22k W iebūvēts lādētājs Akumulatora dzesēšana un sildīšana Siltumsūknis Eksterjers Automātiski pielokāmi, apsildāmi sānu spoguļi Automātiski LED priekšējie lukturi LED dienas gaitas lukturi un \"Follow Me Home\" apgaismojums LED priekšējie miglas lukturi LED aizmugurējie miglas lukturi LED aizmugures lukturi Automātiskās tuvās / tālās gaismas Apsildāms vējstikls - - Tonēti aizmugurējo logu stikli Haizivs spuras tipa antena Sānu logi ar Satin Chrome apdari Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem Aizmugurējā ārkārtas bremzēšanas sistēma ar gājēju atpazīšanas sistēmu un brīdinājums par satiksmi aizmugurē Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas sistēmu un krustojumu palīgsistēmu Inteliģentā priekšējās sadursmes riska brīdinājuma sistēma Elektroniskā stāvbremze un \"Auto Hold\" funkcija Inteliģentā autovadītāja modrības palīgsistēma \"Aklās\" zonas brīdinājuma sistēma un \"aklās\" zonas palīgsistēma Ceļa zīmju atpazīšanas sistēma Inteliģentā nejaušas braukšanas joslas maiņas novēršanas palīgsistēma Divi 12,3\" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu e-Pedal Step DAB un audio sistēma ar 6 skaļruņiem - - - - Telemātika attālinātās vadības pakalpojumi, paziņojumi un savienojamības pakalpojumi Nissan Connect Services lietotnes (i OS, Android) pakalpojumi automobiļa gaisa kondicionēšanas sistēmas, uzlādes attālināta vadība u. c Nissan balss kontroles sistēma Programmatūras attālinātas atjaunināšanas iespēja Bezvadu Apple Car Play un ar vadu savienojams Android Auto 2) Bezvadu viedtālruņa lādētājs - - Bluetooth (tālrunim un audio) USB pieslēgvietas priekšā un aizmugurē (\"A\" un \"C\" tipa) 12V pieslēgvieta priekšā Inteliģentā atslēga - - - Braukšanas režīmi nteliģentā kruīza kontrole Pro PILOT Assist ar Navi-Link 3) - - Inteliģentā braukšanas joslas saglabāšanas palīgsistēma - - Satiksmes sastrēgumu \"pilota\" sistēma - - Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori nteliģentais apkārtskata monitors (360° kamera) Signalizācija ar drošības un pretaizdzīšanas aizsardzību Divu zonu automātiskā klimata kontrole un aizmugurējās gaisa ventilācijas atveres Plazmas klastera jonu gaisa attīrītājs Apsildāma stūre ar ādas apdari Stūre ar slīpuma un teleskopisku regulēšanas iespēju Apsildāmi priekšējie sēdekļ Autovadītāja sēdekļa jostas vietas atbalsts Kabatas priekšējo sēdekļu aizmugurē un elkoņbalsts aizmugurē Centrālā console Pielāgojama centrālā uzglabāšanas vieta 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi Attiecībā 60:40 salokāms aizmugures sēdeklis Noskaņu radošs LED apgaismojums Vējstikla tīrītāji ar lietus sensoru Automātiski aptumšojošs automobiļa salona atpakaļskata spogulis bez rāmja Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis - Ar vienu pieskārienu elektriski vadāmi sānu logi Bagāžas plaukts un bagāžas pārsegs bagāžas nodalījumā Sēdekļi ar daļēju PVC un auduma apdari, Black 19\" vieglmetāla diski ar aerodinamiskām uzlikām 235/55R19",
+      "confidence": 0.6400000000000001,
+      "type": "pattern",
+      "learned_from": "Pattern: elektriski"
+    }
+  ]
+}
+
+NR26: No | 
+NR28: No | 
+NR30: No | 
+NR31: Yes | Automātiski pielokāmi, apsildāmi sānu spoguļi
+NR32: No | 
+NR33: Yes | Vējstikla tīrītāji ar lietus sensoru
+NR34: Yes | Tonēti aizmugurējo logu stikli
+NR35: Yes | Apsildāms vējstikls
+NR36: No | 
+NR37: Yes | Elektriski, ar brīvroku funkciju vadāmas bagāžas nodalījuma durvis
+NR38: No | 
+NR39: No | 
+NR40: No | 
+NR42: Yes | LED dienas gaitas lukturi
+NR43: Yes | LED priekšējie miglas lukturi
+NR44: No | 
+NR45: Yes | Automātiski LED priekšējie lukturi
+NR46: Yes | Automātiskās tuvās / tālās gaismas
+NR47: Yes | Automātiski LED priekšējie lukturi
+NR48: No | 
+NR49: No | 
+NR51: No | 
+NR52: Yes | Divu zonu automātiskā klimata kontrole
+NR53: No | 
+NR54: Yes | Plazmas klastera jonu gaisa attīrītājs
+NR55: No | 
+NR56: Yes | Noskaņu radošs LED apgaismojums
+NR57: Yes | Automātiski aptumšojošs automobiļa salona atpakaļskata spogulis bez rāmja
+NR58: Yes | USB pieslēgvietas priekšā un aizmugurē ("A" un "C" tipa)
+NR59: Yes | Bezvadu viedtālruņa lādētājs
+NR61: No | 
+NR62: No | 
+NR63: No | 
+NR64: No | 
+NR65: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu
+NR66: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu
+NR67: No | 
+NR68: Yes | Bezvadu Apple Car Play un ar vadu savienojams Android Auto
+NR69: Yes | Bezvadu Apple Car Play un ar vadu savienojams Android Auto
+NR70: No | 
+NR71: No | 
+NR73: Yes | Apsildāma stūre ar ādas apdari
+NR74: Yes | Apsildāma stūre ar ādas apdari
+NR75: No | 
+NR76: No | 
+NR77: Yes | Divi 12,3" TFT ekrāni ar braukšanas rādījumu un navigācijas informācijas attēlošanu
+NR79: Yes | Apsildāmi priekšējie sēdekļ
+NR80: Yes | Apsildāmi priekšējie sēdekļ
+NR81: No | 
+NR82: No | 
+NR83: No | 
+NR84: No | 
+NR85: No | 
+NR86: Yes | 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi
+NR87: Yes | 6 virzienos elektriski regulējami autovadītāja un priekšējā pasažiera sēdekļi
+NR88: No | 
+NR89: No | 
+NR90: Yes | Sēdekļi ar daļēju PVC un auduma apdari, Black
+NR91: No | 
+NR92: No | 
+NR94: No | 
+NR95: Yes | "Aklās" zonas brīdinājuma sistēma un "aklās" zonas palīgsistēma
+NR96: No | 
+NR97: No | 
+NR98: Yes | nteliģentā kruīza kontrole
+NR99: No | 
+NR100: Yes | Satiksmes sastrēgumu "pilota" sistēma
+NR101: Yes | Pro PILOT Assist ar Navi-Link
+NR102: No | 
+NR103: Yes | nteliģentais apkārtskata monitors (360° kamera)
+NR104: No | 
+NR105: Yes | Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori
+NR106: Yes | Priekšējie un aizmugurējie automobiļa stāvvietā novietošanas sensori
+NR108: Yes | Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas sistēmu
+NR109: No | 
+NR110: Yes | Elektroniskā stāvbremze un "Auto Hold" funkcija
+NR112: No | 
+NR113: No | 
+NR114: No | 
+NR115: No | 
+NR116: Yes | 19" vieglmetāla diski ar aerodinamiskām uzlikām
+NR117: No | 
+NR118: No | 
+NR119: No | 
+NR121: No | 
+NR122: Yes | Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem
+NR123: Yes | Priekšējie, sānu un aizkarveida gaisa drošības spilveni autovadītājam un pasažieriem
+NR124: No | 
+NR125: No | 
+NR126: Yes | Inteliģentā atslēga
+NR128: No | 
+NR129: No | 
+NR130: No | 
+NR131: No | 
+NR132: No | 
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No | 
+NR139: No | 

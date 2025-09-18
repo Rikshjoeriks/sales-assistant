@@ -1,0 +1,70 @@
+- Black side mirrors | Sānu spoguļi melnā krāsā | Exterior
+- Electrically adjustable side mirrors with turn indicator | Elektriski regulējami sānu spoguļi ar pagrieziena rādītāju | Exterior
+- Rear spoiler | Aizmugures spoileris | Exterior
+- Shark fin antenna in black | Haizivs spuras tipa antena melnā krāsā | Exterior
+- Interior side door handles with Satin Chrome finish | Iekšējie sānu durvju rokturi ar Satin Chrome apdari | Interior
+- Front side door pockets with drink holders | Kabatas ar dzērienu trauku turētājiem priekšējās sānu durvīs | Interior
+- Driver and passenger sun visor with mirror | Autovadītāja un pasažiera saulessargs ar spogulīti | Interior
+- Interior lighting front and rear | Automobiļa salona apgaismojums priekšā un aizmugurē | Interior
+- Trunk lighting | Bagāžas nodalījuma apgaismojums | Interior
+- Emergency and breakdown call (eCall) | Ārkārtas un avārijas izsaukums (eCall) | Safety
+- Intelligent emergency braking system with pedestrian and cyclist recognition | Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas funkciju | Safety
+- Intelligent lane departure prevention assist system | Inteliģentā nejaušas braukšanas joslas maiņas novēršanas palīgsistēma | Safety
+- Traffic sign recognition system | Ceļa zīmju atpazīšanas sistēma | Safety
+- Automatic hazard signal + emergency stop signal | Automātisks avārijas signāls + ārkārtas apstāšanās signāls | Safety
+- Driver and passenger airbags, side and curtain airbags | Autovadītāja un pasažiera gaisa drošības spilveni, sānu un aizkarveida gaisa drošības spilveni | Safety
+- Height-adjustable seat belts | Drošības jostas ar regulējamu augstumu | Safety
+- Driver/passenger and rear seat belt reminder | Autovadītāja / pasažiera un aizmugurējais drošības jostu lietošanas brīdinājums | Safety
+- ISOFIX child seat anchor points (rear) with top tether | ISOFIX bērnu sēdeklīša stiprinājuma punkti (aizmugurē) ar augšējo piesaisti | Safety
+- Tire pressure monitoring system (TPMS) | Riepu gaisa spiediena kontroles sistēma (TPMS) | Safety
+- ABS + EBD + brake assist system | ABS + EBD + bremzēšanas palīgsistēma | Safety
+- Intelligent ride control system | Inteliģentā brauciena kontroles sistēma | Safety
+- Intelligent traction control system | Inteliģentā vilces kontroles sistēma | Safety
+- Active traction control system | Aktīvā vilces kontroles sistēma | Safety
+- Vehicle stability system | Virsbūves stabilitātes sistēma | Safety
+- Hill start assist system | Palīgsistēma braukšanas uzsākšanai kāpumā | Safety
+- Tire repair kit | Riepas remonta komplekts | Other
+- Factory-installed alarm | Rūpnīcā uzstādīta signalizācija | Safety
+- Moving object detection system | Kustīgu objektu noteikšanas sistēma | Safety
+- Intelligent driver fatigue warning | Inteliģentais autovadītāja noguruma brīdinājums | Safety
+- 3 three-point rear seat belts with load limiter and pretensioner | 3 trīspunktu aizmugurējās drošības jostas ar slodzes ierobežotāju un spriegotāju | Safety
+- Monoform sports-style seats with black fabric upholstery | Monoformas sporta stila sēdekļi ar melnu auduma apdari | Interior
+- Heated front seats | Apsildāmi priekšējie sēdekļi | Interior
+- Driver's seat with adjustable height | Autovadītāja sēdeklis ar regulējamu augstumu | Interior
+- 60:40 split-folding rear seat | Attiecībā 60:40 salokāms aizmugures sēdeklis | Interior
+- Two drink holders | Divi dzērienu trauku turētāji | Interior
+- Front armrest | Priekšējais elkoņbalsts | Interior
+- 3 adjustable rear headrests | 3 regulējami galvas balsti aizmugurē | Interior
+- 4 speakers | 4 skaļruņi | Technology
+- Bluetooth® + USB + AUX + 12 V | Bluetooth® + USB + AUX + 12 V | Technology
+- Rear USB port | USB pieslēgvieta aizmugurē | Technology
+- 7" color advanced driver assistance display (ADAD) in instrument panel | 7" krāsains modernais autovadītāja braukšanas palīgsistēmu (ADAD) displejs mērinstrumentu panelī | Technology
+- 12.3" touchscreen | 12,3" skārienekrāns | Technology
+- Wireless Apple CarPlay® | Bezvadu Apple CarPlay® | Technology
+- Wireless Android Auto™ | Bezvadu Android Auto™ | Technology
+- Stop/Start system | Stop/Start sistēma | Engine
+- e-Pedal Step (available only for hybrid version) | e-Pedal Step (pieejams tikai hibrīda versijai) | Transmission
+- Electric driving mode switch (available only for hybrid version) | Elektriskās braukšanas režīma slēdzis (pieejams tikai hibrīda versijai) | Transmission
+- Cruise control with speed limiter | Kruīza kontrole ar ātruma ierobežotāju | Technology
+- Electronic parking brake with auto-hold function | Elektroniska rokas bremze ar automātiskās stāvbremzes funkciju | Safety
+- Telescopic steering column control | Teleskopiskā stūres statņa kontrole | Interior
+- Multifunction steering wheel (audio, phone, cruise control, speed limiter, etc.) | Multifunkcionāla stūre (audio, tālrunis, kruīza kontrole, ātruma ierobežotājs u. c.) | Interior
+- Voice recognition switch on steering wheel | Balss atpazīšanas slēdzis uz stūres | Technology
+- Front and rear power windows with driver's one-touch function | Priekšējie un aizmugurējie elektriski vadāmie logi un autovadītaja logs ar 1 pieskāriena funkciju | Interior
+- Rearview camera | Atpakaļskata kamera | Technology
+- Paddle shifters on steering wheel for automatic transmission vehicles | Uz stūres rata lāpstiņveida pārnesumi automobiļiem ar automātisko transmisiju | Transmission
+- Outside air temperature sensor | Āra gaisa temperatūras sensors | Technology
+- Automatic air conditioning system | Automātiskā gaisa kondicionēšanas sistēma | Interior
+- Heated and automatically folding side mirrors | Apsildāmi un automātiski pielokāmi sānu spoguļi | Exterior
+- LED front headlights | LED priekšējie lukturi | Lighting
+- LED daytime running lights | LED dienas apgaismojuma lukturi | Lighting
+- Rear LED fog light | Aizmugures LED miglas lukturis | Lighting
+- Automatic windshield wipers and rain sensor | Automātiski stikla tīrītāji un lietus sensors | Exterior
+- Turn indicator with triple flash function | Pagrieziena rādītājs ar trīsreizēju mirgošanas funkciju | Lighting
+- "Follow Me Home" lighting | "Follow Me Home" apgaismojums | Lighting
+- Intelligent automatic front headlights | Inteliģentie automātiskie priekšējie lukturi | Lighting
+- 17" steel wheels, Sakura | 17" tērauda diski, Sakura | Exterior
+- New vehicle warranty | Jauna automobiļa garantija | Other
+- Anti-corrosion perforation warranty | Garantija pret caurrūsēšanu korozijas dēļ | Other
+- Paint warranty | Krāsojuma garantija | Other
+- Nissan Assistance – Nissan technical assistance service 3 years | Nissan Assistance – Nissan tehniskās palīdzības Dienests 3 gadi | Other

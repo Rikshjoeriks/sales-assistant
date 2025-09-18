@@ -1,0 +1,102 @@
+NR26: NO_MATCH | | | No equivalent 4X4 feature found
+NR28: NO_MATCH | | | No equivalent color feature found
+NR30: MATCH | Electrically adjustable side mirrors with turn indicator | Elektriski regulējami sānu spoguļi ar pagrieziena rādītāju | Matches electric adjustment
+NR31: MATCH | Heated and automatically folding side mirrors | Apsildāmi un automātiski pielokāmi sānu spoguļi | Matches electric, heated, and folding mirrors
+NR32: NO_MATCH | | | No equivalent mirror with memory feature found
+NR33: MATCH | Automatic windshield wipers and rain sensor | Automātiski stikla tīrītāji un lietus sensors | Matches automatic wipers
+NR34: NO_MATCH | | | No equivalent tinted glass feature found
+NR35: NO_MATCH | | | No equivalent heated windshield feature found
+NR36: NO_MATCH | | | No equivalent electric trunk door feature found
+NR37: NO_MATCH | | | No equivalent hands-free trunk door feature found
+NR38: NO_MATCH | | | No equivalent roof rails feature found
+NR39: NO_MATCH | | | No equivalent front trunk feature found
+NR40: NO_MATCH | | | No equivalent panoramic roof feature found
+NR42: MATCH | LED daytime running lights | LED dienas apgaismojuma lukturi | Matches LED daytime lights
+NR43: NO_MATCH | | | No equivalent front LED fog lights feature found
+NR44: NO_MATCH | | | No equivalent integrated LED fog lights feature found
+NR45: MATCH | Intelligent automatic front headlights | Inteliģentie automātiskie priekšējie lukturi | Matches automatic headlight control
+NR46: NO_MATCH | | | No equivalent automatic headlight with high/low beam feature found
+NR47: MATCH | LED front headlights | LED priekšējie lukturi | Matches LED headlights
+NR48: NO_MATCH | | | No equivalent adaptive LED headlights feature found
+NR49: NO_MATCH | | | No equivalent adaptive LED with Matrix feature found
+NR51: MATCH | Automatic air conditioning system | Automātiskā gaisa kondicionēšanas sistēma | Matches single-zone automatic air conditioning
+NR52: NO_MATCH | | | No equivalent dual-zone air conditioning feature found
+NR53: NO_MATCH | | | No equivalent tri-zone air conditioning feature found
+NR54: NO_MATCH | | | No equivalent air purifier feature found
+NR55: MATCH | Front armrest | Priekšējais elkoņbalsts | Matches central console with armrest
+NR56: NO_MATCH | | | No equivalent multi-color LED interior lighting feature found
+NR57: NO_MATCH | | | No equivalent auto-dimming mirror feature found
+NR58: MATCH | Rear USB port | USB pieslēgvieta aizmugurē | Matches rear power connection
+NR59: NO_MATCH | | | No equivalent wireless charging feature found
+NR61: NO_MATCH | | | No equivalent branded sound system feature found
+NR62: NO_MATCH | | | No equivalent touchscreen size feature found
+NR63: NO_MATCH | | | No equivalent touchscreen size feature found
+NR64: NO_MATCH | | | No equivalent touchscreen size feature found
+NR65: MATCH | 12.3" touchscreen | 12,3" skārienekrāns | Matches large touchscreen
+NR66: NO_MATCH | | | No equivalent navigation center feature found
+NR67: NO_MATCH | | | No equivalent connected navigation feature found
+NR68: NO_MATCH | | | No equivalent Android Auto and Apple CarPlay feature found
+NR69: MATCH | Wireless Apple CarPlay® and Wireless Android Auto™ | Bezvadu Apple CarPlay® and Bezvadu Android Auto™ | Matches wireless connectivity
+NR70: NO_MATCH | | | No equivalent AI assistant feature found
+NR71: NO_MATCH | | | No equivalent head-up display feature found
+NR73: NO_MATCH | | | No equivalent heated steering wheel feature found
+NR74: NO_MATCH | | | No equivalent leather steering wheel feature found
+NR75: MATCH | 7" color advanced driver assistance display (ADAD) | 7" krāsains modernais autovadītāja braukšanas palīgsistēmu (ADAD) displejs | Matches digital display size
+NR76: NO_MATCH | | | No equivalent digital display size feature found
+NR77: NO_MATCH | | | No equivalent digital display size feature found
+NR79: MATCH | Heated front seats | Apsildāmi priekšējie sēdekļi | Matches heated driver seat
+NR80: NO_MATCH | | | No equivalent heated passenger seat feature found
+NR81: NO_MATCH | | | No equivalent heated rear seats feature found
+NR82: NO_MATCH | | | No equivalent manual lumbar adjustment feature found
+NR83: NO_MATCH | | | No equivalent manual lumbar adjustment feature found
+NR84: NO_MATCH | | | No equivalent electric lumbar adjustment feature found
+NR85: NO_MATCH | | | No equivalent electric lumbar adjustment feature found
+NR86: NO_MATCH | | | No equivalent electric driver seat adjustment feature found
+NR87: NO_MATCH | | | No equivalent electric passenger seat adjustment feature found
+NR88: NO_MATCH | | | No equivalent memory driver seat feature found
+NR89: NO_MATCH | | | No equivalent memory passenger seat feature found
+NR90: MATCH | Monoform sports-style seats with black fabric upholstery | Monoformas sporta stila sēdekļi ar melnu auduma apdari | Matches fabric seat upholstery
+NR91: NO_MATCH | | | No equivalent Alcantara upholstery feature found
+NR92: NO_MATCH | | | No equivalent synthetic leather upholstery feature found
+NR94: NO_MATCH | | | No equivalent automatic parking feature found
+NR95: NO_MATCH | | | No equivalent blind spot monitoring feature found
+NR96: NO_MATCH | | | No equivalent cross-traffic alert feature found
+NR97: MATCH | Cruise control with speed limiter | Kruīza kontrole ar ātruma ierobežotāju | Matches cruise control
+NR98: NO_MATCH | | | No equivalent adaptive cruise control feature found
+NR99: NO_MATCH | | | No equivalent adaptive Stop&Go feature found
+NR100: NO_MATCH | | | No equivalent adaptive traffic jam feature found
+NR101: NO_MATCH | | | No equivalent navigation-based cruise control feature found
+NR102: NO_MATCH | | | No equivalent lane centering feature found
+NR103: NO_MATCH | | | No equivalent front 360° camera feature found
+NR104: MATCH | Rearview camera | Atpakaļskata kamera | Matches rear camera
+NR105: NO_MATCH | | | No equivalent front parking sensors feature found
+NR106: NO_MATCH | | | No equivalent rear parking sensors feature found
+NR108: MATCH | Intelligent emergency braking system with pedestrian and cyclist recognition | Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas funkciju | Matches AEBS with recognition
+NR109: NO_MATCH | | | No equivalent post-collision mitigation feature found
+NR110: MATCH | Electronic parking brake with auto-hold function | Elektroniska rokas bremze ar automātiskās stāvbremzes funkciju | Matches electric parking brake
+NR112: MATCH | 17" steel wheels, Sakura | 17" tērauda diski, Sakura | Matches 17" steel wheels
+NR113: NO_MATCH | | | No equivalent alloy wheels feature found
+NR114: NO_MATCH | | | No equivalent 18" steel wheels feature found
+NR115: NO_MATCH | | | No equivalent 18" alloy wheels feature found
+NR116: NO_MATCH | | | No equivalent 19" alloy wheels feature found
+NR117: NO_MATCH | | | No equivalent 20" alloy wheels feature found
+NR118: NO_MATCH | | | No equivalent spare wheel feature found
+NR119: NO_MATCH | | | No equivalent tow hitch feature found
+NR121: NO_MATCH | | | No equivalent knee airbags feature found
+NR122: MATCH | Driver and passenger airbags, side and curtain airbags | Autovadītāja un pasažiera gaisa drošības spilveni, sānu un aizkarveida gaisa drošības spilveni | Matches curtain airbags
+NR123: MATCH | Driver and passenger airbags, side and curtain airbags | Autovadītāja un pasažiera gaisa drošības spilveni, sānu un aizkarveida gaisa drošības spilveni | Matches side airbags
+NR124: MATCH | Factory-installed alarm | Rūpnīcā uzstādīta signalizācija | Matches perimeter alarm
+NR125: NO_MATCH | | | No equivalent keyless start feature found
+NR126: NO_MATCH | | | No equivalent keyless entry and start feature found
+NR128: NO_MATCH | | | No equivalent additional warranty feature found
+NR129: NO_MATCH | | | No equivalent extended warranty feature found
+NR130: NO_MATCH | | | No equivalent extended warranty feature found
+NR131: NO_MATCH | | | No equivalent extended warranty feature found
+NR132: NO_MATCH | | | No equivalent extended warranty feature found
+NR133: NO_MATCH | | | No equivalent extended warranty feature found
+NR134: NO_MATCH | | | No equivalent mileage warranty feature found
+NR135: NO_MATCH | | | No equivalent mileage warranty feature found
+NR136: NO_MATCH | | | No equivalent mileage warranty feature found
+NR137: NO_MATCH | | | No equivalent mileage warranty feature found
+NR138: NO_MATCH | | | No equivalent unlimited mileage warranty feature found
+NR139: NO_MATCH | | | No equivalent battery warranty feature found

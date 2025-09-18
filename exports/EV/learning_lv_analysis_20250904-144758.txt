@@ -1,0 +1,103 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{}
+
+NR25: No | 
+NR26: No | 
+NR28: No | 
+NR30: No | 
+NR32: No | 
+NR33: Yes | Elektriski regulējami, nolokāmi un apsildāmi arējie atpakaļskata spoguļi
+NR34: No | 
+NR35: Yes | Lietus sensors
+NR36: Yes | Aptumšoti aizmugurējie sānu un aizmugurējais stikls
+NR37: Yes | Laminēts vējstikls ar apsildi
+NR38: No | 
+NR39: No | 
+NR40: No | 
+NR41: No | 
+NR42: No | 
+NR44: No | 
+NR45: No | 
+NR46: No | 
+NR47: Yes | Automātiska tuvo gaismu aktivizēšana
+NR48: Yes | Tālo gaismu asistents ar dinamisku regulāciju Dynamic Light Assist
+NR49: Yes | LED priekšējie lukturi
+NR50: No | 
+NR51: Yes | Matrix LED priekšējie lukturi, sliktu laika apstākļu gaismas
+NR53: No | 
+NR54: Yes | Climatronic automātiska gaisa kondicionēšanas sistēma ar 2-zonu temperatūras kontroli
+NR55: No | 
+NR56: No | 
+NR57: Yes | Salona komforta apgaismojums (30 krāsas)
+NR58: Yes | Rokasbalsti abiem priekšējiem sēdekļiem
+NR59: Yes | Salona atpakaļskata spogulis ar automātisku aptumšošanos
+NR60: No | 
+NR61: Yes | Mobilā telefona interfeiss ar bezvadu uzlādes funkciju
+NR63: No | 
+NR64: No | 
+NR65: No | 
+NR66: Yes | Informācijas un izklaides sistēmu pakete - Navigācijas sistēma Discover Pro Max ar 32.7cm skārienekrānu
+NR67: No | 
+NR68: Yes | Navigācijas sistēma Discover Pro Max
+NR69: No | 
+NR70: No | 
+NR71: Yes | App Connect funkcija ar App-Connect Wireless
+NR72: No | 
+NR73: No | 
+NR75: Yes | Apsildāma ādas apdares multifunkciju stūre, skārienjūtīga
+NR76: No | 
+NR77: No | 
+NR78: No | 
+NR79: Yes | Radio Ready 2 Discover Max - 32.7cm skārienekrāns
+NR81: Yes | Apsildāmi priekšējie sēdekļi
+NR82: Yes | Apsildāmi priekšējie sēdekļi
+NR83: No | 
+NR84: No | 
+NR85: No | 
+NR86: No | 
+NR87: No | 
+NR88: No | 
+NR89: No | 
+NR90: No | 
+NR91: No | 
+NR92: Yes | Auduma sēdekļu apdare GTX
+NR93: No | 
+NR94: No | 
+NR96: Yes | Inteliģentā parkošanās palīdzība
+NR97: No | 
+NR98: Yes | Braukšanas joslu maiņas asistents "Side Assist" ar aizmugurējās satiksmes palīgsistēmu Rear traffic alert un izkāpšanas brīdinājumu
+NR100: Yes | Adaptīvā kruīza kontrole (ACC)
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: No | 
+NR105: No | 
+NR106: Yes | Atpakaļskata kamera
+NR107: No | 
+NR108: No | 
+NR110: Yes | Gājēju un velobraucēju uzraudzības sistēma
+NR111: No | 
+NR112: No | 
+NR113: No | 
+NR115: No | 
+NR116: No | 
+NR117: No | 
+NR118: No | 
+NR119: No | 
+NR120: No | 
+NR121: No | 
+NR122: Yes | Vieglmetāla diski Ystad R20, Black
+NR123: No | 
+NR124: No | 
+NR126: Yes | Galvas drošības spilvenu sistēma un sānu drošības spilveni priekšā, ar centrālo drošības spilvenu
+NR127: No | 
+NR128: Yes | Galvas drošības spilvenu sistēma un sānu drošības spilveni priekšā, ar centrālo drošības spilvenu
+NR129: No | 
+NR130: No | 
+NR131: Yes | Bezatslēgas piekļuves un dzinēja startēšanas sistēma Keyless Access
+NR133: No | 
+NR134: No | 
+NR135: Yes | Automašīnai 5 gadu līdz 100 000km garantija (pirmie 2 gadi bez nobraukuma ierobežojuma)
+NR136: No | 
+NR137: No | 
+NR138: Yes | Augstsprieguma akumulatoram 8 gadi vai 160 000km

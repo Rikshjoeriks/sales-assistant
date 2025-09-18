@@ -1,0 +1,1 @@
+Model rows=6 vs master rows=4. Coercing to master length.

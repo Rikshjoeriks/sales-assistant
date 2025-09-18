@@ -1,0 +1,600 @@
+=== CONSENSUS ATTEMPT 1 ===
+NR25: No | 
+
+NR26: No | 
+
+NR28: No | 
+
+NR30: No | 
+
+NR32: Yes | "Elektriski regulējami sānu spoguļi ar pagrieziena rādītāju"
+
+NR33: Yes | "Apsildāmi un automātiski pielokāmi sānu spoguļi"
+
+NR34: No | 
+
+NR35: Yes | "Automātiski stikla tīrītāji un lietus sensors"
+
+NR36: No | 
+
+NR37: No | 
+
+NR38: No | 
+
+NR39: No | 
+
+NR40: No | 
+
+NR41: No | 
+
+NR42: No | 
+
+NR44: Yes | "LED dienas apgaismojuma lukturi"
+
+NR45: No | 
+
+NR46: No | 
+
+NR47: Yes | "Inteliģentie automātiskie priekšējie lukturi"
+
+NR48: No | 
+
+NR49: Yes | "LED priekšējie lukturi"
+
+NR50: No | 
+
+NR51: No | 
+
+NR53: Yes | "Automātiskā gaisa kondicionēšanas sistēma"
+
+NR54: No | 
+
+NR55: No | 
+
+NR56: No | 
+
+NR57: No | 
+
+NR58: No | 
+
+NR59: No | 
+
+NR60: No | 
+
+NR61: No | 
+
+NR63: Yes | "7" krāsains modernais autovadītāja braukšanas palīgsistēmu (ADAD) displejs mērinstrumentu panelī"
+
+NR64: No | 
+
+NR65: No | 
+
+NR66: Yes | "12,3" skārienekrāns"
+
+NR67: No | 
+
+NR68: No | 
+
+NR69: No | 
+
+NR70: Yes | "Bezvadu Apple Car Play"
+
+NR71: Yes | "Bezvadu Android Auto"
+
+NR72: No | 
+
+NR73: No | 
+
+NR75: Yes | "Apsildāmi priekšējie sēdekļi"
+
+NR76: No | 
+
+NR77: No | 
+
+NR78: No | 
+
+NR79: No | 
+
+NR81: Yes | "Autovadītāja sēdeklis ar regulējamu augstumu"
+
+NR82: Yes | "Apsildāms pasažiera sēdeklis"
+
+NR83: No | 
+
+NR84: No | 
+
+NR85: No | 
+
+NR86: Yes | "Elektriski regulējams vadītāja sēdeklis"
+
+NR87: Yes | "Elektriski regulējams pasažiera sēdeklis"
+
+NR88: Yes | "Elektriski regulējams vadītāja sēdeklis"
+
+NR89: Yes | "Elektriski regulējams pasažiera sēdeklis"
+
+NR90: No | 
+
+NR91: No | 
+
+NR92: Yes | "Monoformas sporta stila sēdekļi ar melnu auduma apdari"
+
+NR93: No | 
+
+NR94: No | 
+
+NR96: No | 
+
+NR97: No | 
+
+NR98: No | 
+
+NR100: Yes | "Kruīza kontrole ar ātruma ierobežotāju"
+
+NR101: No | 
+
+NR102: No | 
+
+NR103: No | 
+
+NR104: No | 
+
+NR105: Yes | "Atpakaļskata kamera"
+
+NR106: No | 
+
+NR107: No | 
+
+NR108: No | 
+
+NR110: Yes | "Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas funkciju"
+
+NR111: No | 
+
+NR112: No | 
+
+NR113: Yes | "Elektroniska rokas bremze ar automātiskās stāvbremzes funkciju"
+
+NR115: Yes | "17" tērauda diski"
+
+NR116: No | 
+
+NR117: No | 
+
+NR118: No | 
+
+NR119: No | 
+
+NR120: No | 
+
+NR121: No | 
+
+NR122: No | 
+
+NR123: No | 
+
+NR124: No | 
+
+NR126: No | 
+
+NR127: Yes | "Aizkarveida gaisa drošības spilveni"
+
+NR128: Yes | "Sānu un aizkarveida gaisa drošības spilveni"
+
+NR129: Yes | "Rūpnīcā uzstādīta signalizācija"
+
+NR130: No | 
+
+NR131: No | 
+
+NR133: Yes | "Jauna automobiļa garantija"
+
+NR134: No | 
+
+NR135: No | 
+
+NR136: No | 
+
+NR137: No | 
+
+NR138: No | 
+=== CONSENSUS ATTEMPT 2 ===
+NR25: No | 
+
+NR26: No | 
+
+NR28: No | 
+
+NR30: No | 
+
+NR32: Yes | "Elektriski regulējami sānu spoguļi ar pagrieziena rādītāju"
+
+NR33: Yes | "Apsildāmi un automātiski pielokāmi sānu spoguļi"
+
+NR34: No | 
+
+NR35: Yes | "Automātiski stikla tīrītāji un lietus sensors"
+
+NR36: No | 
+
+NR37: No | 
+
+NR38: No | 
+
+NR39: No | 
+
+NR40: No | 
+
+NR41: No | 
+
+NR42: No | 
+
+NR44: Yes | "LED dienas apgaismojuma lukturi"
+
+NR45: No | 
+
+NR46: No | 
+
+NR47: Yes | "Inteliģentie automātiskie priekšējie lukturi"
+
+NR48: No | 
+
+NR49: Yes | "LED priekšējie lukturi"
+
+NR50: No | 
+
+NR51: No | 
+
+NR53: Yes | "Automātiskā gaisa kondicionēšanas sistēma"
+
+NR54: No | 
+
+NR55: No | 
+
+NR56: No | 
+
+NR57: No | 
+
+NR58: No | 
+
+NR59: No | 
+
+NR60: No | 
+
+NR61: No | 
+
+NR63: Yes | "7\" krāsains modernais autovadītāja braukšanas palīgsistēmu (ADAD) displejs"
+
+NR64: No | 
+
+NR65: No | 
+
+NR66: Yes | "12,3\" skārienekrāns"
+
+NR67: No | 
+
+NR68: No | 
+
+NR69: No | 
+
+NR70: Yes | "Bezvadu Apple Car Play"
+
+NR71: Yes | "Bezvadu Android Auto"
+
+NR72: No | 
+
+NR73: No | 
+
+NR75: No | 
+
+NR76: No | 
+
+NR77: No | 
+
+NR78: No | 
+
+NR79: No | 
+
+NR81: Yes | "Apsildāms vadītāja sēdeklis"
+
+NR82: Yes | "Apsildāms pasažiera sēdeklis"
+
+NR83: No | 
+
+NR84: No | 
+
+NR85: No | 
+
+NR86: Yes | "Autovadītāja sēdeklis ar regulējamu augstumu"
+
+NR87: No | 
+
+NR88: Yes | "Elektriski regulējams vadītāja sēdeklis"
+
+NR89: No | 
+
+NR90: No | 
+
+NR91: No | 
+
+NR92: Yes | "Monoformas sporta stila sēdekļi ar melnu auduma apdari"
+
+NR93: No | 
+
+NR94: No | 
+
+NR96: No | 
+
+NR97: No | 
+
+NR98: No | 
+
+NR100: Yes | "Kruīza kontrole ar ātruma ierobežotāju"
+
+NR101: No | 
+
+NR102: No | 
+
+NR103: No | 
+
+NR104: No | 
+
+NR105: No | 
+
+NR106: Yes | "Atpakaļskata kamera"
+
+NR107: No | 
+
+NR108: No | 
+
+NR110: Yes | "Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas funkciju"
+
+NR111: No | 
+
+NR112: No | 
+
+NR113: Yes | "Elektroniska rokas bremze ar automātiskās stāvbremzes funkciju"
+
+NR115: Yes | "17\" tērauda diski"
+
+NR116: No | 
+
+NR117: No | 
+
+NR118: No | 
+
+NR119: No | 
+
+NR120: No | 
+
+NR121: No | 
+
+NR122: No | 
+
+NR123: No | 
+
+NR124: No | 
+
+NR126: Yes | "sānu un aizkarveida gaisa drošības spilveni"
+
+NR127: No | 
+
+NR128: Yes | "sānu un aizkarveida gaisa drošības spilveni"
+
+NR129: Yes | "Rūpnīcā uzstādīta signalizācija"
+
+NR130: No | 
+
+NR131: No | 
+
+NR133: Yes | "Jauna automobiļa garantija"
+
+NR134: No | 
+
+NR135: No | 
+
+NR136: No | 
+
+NR137: No | 
+
+NR138: No | 
+=== CONSENSUS ATTEMPT 3 ===
+NR25: No | 
+
+NR26: No | 
+
+NR28: No | 
+
+NR30: No | 
+
+NR32: Yes | "Elektriski regulējami sānu spoguļi ar pagrieziena rādītāju"
+
+NR33: Yes | "Apsildāmi un automātiski pielokāmi sānu spoguļi"
+
+NR34: No | 
+
+NR35: Yes | "Automātiski stikla tīrītāji un lietus sensors"
+
+NR36: No | 
+
+NR37: No | 
+
+NR38: No | 
+
+NR39: No | 
+
+NR40: No | 
+
+NR41: No | 
+
+NR42: No | 
+
+NR44: Yes | "LED dienas apgaismojuma lukturi"
+
+NR45: No | 
+
+NR46: No | 
+
+NR47: Yes | "Inteliģentie automātiskie priekšējie lukturi"
+
+NR48: No | 
+
+NR49: Yes | "LED priekšējie lukturi"
+
+NR50: No | 
+
+NR51: No | 
+
+NR53: Yes | "Automātiskā gaisa kondicionēšanas sistēma"
+
+NR54: No | 
+
+NR55: No | 
+
+NR56: No | 
+
+NR57: No | 
+
+NR58: No | 
+
+NR59: No | 
+
+NR60: No | 
+
+NR61: No | 
+
+NR63: Yes | "7" krāsains modernais autovadītāja braukšanas palīgsistēmu (ADAD) displejs mērinstrumentu panelī"
+
+NR64: No | 
+
+NR65: No | 
+
+NR66: Yes | "12,3" skārienekrāns"
+
+NR67: No | 
+
+NR68: No | 
+
+NR69: No | 
+
+NR70: Yes | "Bezvadu Apple Car Play"
+
+NR71: Yes | "Bezvadu Android Auto"
+
+NR72: No | 
+
+NR73: No | 
+
+NR75: Yes | "Apsildāmi priekšējie sēdekļi"
+
+NR76: No | 
+
+NR77: No | 
+
+NR78: No | 
+
+NR79: No | 
+
+NR81: Yes | "Autovadītāja sēdeklis ar regulējamu augstumu"
+
+NR82: No | 
+
+NR83: No | 
+
+NR84: No | 
+
+NR85: No | 
+
+NR86: No | 
+
+NR87: No | 
+
+NR88: Yes | "Elektriski regulējams vadītāja sēdeklis"
+
+NR89: No | 
+
+NR90: No | 
+
+NR91: No | 
+
+NR92: Yes | "Monoformas sporta stila sēdekļi ar melnu auduma apdari"
+
+NR93: No | 
+
+NR94: No | 
+
+NR96: No | 
+
+NR97: No | 
+
+NR98: No | 
+
+NR100: Yes | "Kruīza kontrole ar ātruma ierobežotāju"
+
+NR101: No | 
+
+NR102: No | 
+
+NR103: No | 
+
+NR104: No | 
+
+NR105: No | 
+
+NR106: Yes | "Atpakaļskata kamera"
+
+NR107: No | 
+
+NR108: No | 
+
+NR110: Yes | "Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas funkciju"
+
+NR111: No | 
+
+NR112: No | 
+
+NR113: Yes | "Elektroniska rokas bremze ar automātiskās stāvbremzes funkciju"
+
+NR115: Yes | "17" tērauda diski"
+
+NR116: No | 
+
+NR117: No | 
+
+NR118: No | 
+
+NR119: No | 
+
+NR120: No | 
+
+NR121: No | 
+
+NR122: No | 
+
+NR123: No | 
+
+NR124: No | 
+
+NR126: Yes | "Aizkarveida gaisa drošības spilveni"
+
+NR127: Yes | "Sānu un aizkarveida gaisa drošības spilveni"
+
+NR128: Yes | "Sānu gaisa drošības spilveni"
+
+NR129: Yes | "Rūpnīcā uzstādīta signalizācija"
+
+NR130: No | 
+
+NR131: No | 
+
+NR133: Yes | "Jauna automobiļa garantija"
+
+NR134: No | 
+
+NR135: No | 
+
+NR136: No | 
+
+NR137: No | 
+
+NR138: No | 

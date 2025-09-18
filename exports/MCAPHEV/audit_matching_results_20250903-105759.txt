@@ -1,0 +1,101 @@
+NR31: NO_MATCH | | | No equivalent 4WD/AWD feature found
+NR33: NO_MATCH | | | No equivalent automatic transmission feature found
+NR35: NO_MATCH | | | No equivalent mHEV feature found
+NR36: NO_MATCH | | | No equivalent FHEV feature found
+NR37: NO_MATCH | | | No equivalent PHEV feature found
+NR39: NO_MATCH | | | No equivalent metallic paint feature found
+NR41: MATCH | Electrically adjustable side mirrors | Electrically adjustable, foldable, heated side mirrors | Matches electrically adjustable and heated mirrors
+NR42: MATCH | Foldable side mirrors | Electrically adjustable, foldable, heated side mirrors | Matches electrically adjustable, foldable, and heated mirrors
+NR43: NO_MATCH | | | No equivalent automatic windshield wipers feature found
+NR44: NO_MATCH | | | No equivalent tinted glass feature found
+NR45: NO_MATCH | | | No equivalent heated windshield feature found
+NR46: NO_MATCH | | | No equivalent electric trunk feature found
+NR47: NO_MATCH | | | No equivalent roof rails feature found
+NR48: MATCH | Panoramic glass roof | Panoramic glass roof with tinted glass (only for Coupe) | Matches panoramic roof
+NR50: NO_MATCH | | | No equivalent LED daytime running lights feature found
+NR51: NO_MATCH | | | No equivalent LED fog lights feature found
+NR52: NO_MATCH | | | No equivalent integrated LED fog lights feature found
+NR53: NO_MATCH | | | No equivalent automatic headlight control feature found
+NR54: MATCH | Light Assist | Light Assist with rain sensor, automatically switching between low beam and daytime running lights depending on conditions | Matches automatic headlight control with high/low beam switching
+NR55: MATCH | LED front lights | LED front and rear lights | Matches LED front lights
+NR56: NO_MATCH | | | No equivalent adaptive LED headlights feature found
+NR57: NO_MATCH | | | No equivalent adaptive LED headlights with Matrix feature found
+NR59: NO_MATCH | | | No equivalent air conditioning feature found
+NR60: NO_MATCH | | | No equivalent 1-zone EATC feature found
+NR61: NO_MATCH | | | No equivalent 2-zone EATC feature found
+NR62: MATCH | 3-zone climate control | 3-zone climate control (Climatronic) | Matches 3-zone EATC
+NR63: NO_MATCH | | | No equivalent air purifier feature found
+NR64: NO_MATCH | | | No equivalent interior LED lighting feature found
+NR65: MATCH | Front armrest with storage compartment | Front armrest with storage compartment | Matches central console with armrest
+NR66: MATCH | Interior rearview mirror with automatic dimming | Interior rearview mirror with automatic dimming | Matches automatically dimming interior mirror
+NR67: MATCH | 12V socket in the luggage compartment | 12V socket in the luggage compartment | Matches 12V socket in luggage compartment
+NR68: NO_MATCH | | | No equivalent wireless charging feature found
+NR70: NO_MATCH | | | No equivalent touchscreen size feature found
+NR71: NO_MATCH | | | No equivalent touchscreen size feature found
+NR72: NO_MATCH | | | No equivalent touchscreen size feature found
+NR73: MATCH | 13" touchscreen | 13" touchscreen, voice control, Smart Link, digital radio, 2x USB-C ports | Matches 12+ inch touchscreen
+NR74: NO_MATCH | | | No equivalent branded audio system feature found
+NR75: MATCH | Navigation system | "Infotainment Basic" package: navigation system with "Infotainment Online" multimedia package 3-year subscription | Matches navigation center
+NR76: MATCH | "Infotainment Online" multimedia package | "Infotainment Basic" package: navigation system with "Infotainment Online" multimedia package 3-year subscription | Matches connected navigation center
+NR77: MATCH | Smart Link | 13" touchscreen, voice control, Smart Link, digital radio, 2x USB-C ports | Matches Android Auto and Apple CarPlay
+NR78: NO_MATCH | | | No equivalent wireless Android Auto and Apple CarPlay feature found
+NR79: NO_MATCH | | | No equivalent smart assistant with AI feature found
+NR80: MATCH | Emergency call function | Emergency call function | Matches emergency call
+NR81: NO_MATCH | | | No equivalent head-up display feature found
+NR83: MATCH | Heated steering wheel | 2-spoke multifunction leather steering wheel with heating | Matches heated steering wheel
+NR84: MATCH | Multifunction leather steering wheel | 2-spoke multifunction leather steering wheel with heating | Matches leather steering wheel
+NR85: NO_MATCH | | | No equivalent digital display size feature found
+NR86: NO_MATCH | | | No equivalent digital display size feature found
+NR87: NO_MATCH | | | No equivalent digital display size feature found
+NR89: MATCH | Front seat heating | Front seat heating | Matches heated driver's seat
+NR90: MATCH | Front seat heating | Front seat heating | Matches heated passenger seat
+NR91: NO_MATCH | | | No equivalent heated rear seats feature found
+NR92: NO_MATCH | | | No equivalent manual lumbar adjustment feature found
+NR93: NO_MATCH | | | No equivalent manual lumbar adjustment feature found
+NR94: NO_MATCH | | | No equivalent electric lumbar adjustment feature found
+NR95: NO_MATCH | | | No equivalent electric lumbar adjustment feature found
+NR96: NO_MATCH | | | No equivalent electric seat adjustment feature found
+NR97: NO_MATCH | | | No equivalent electric seat adjustment feature found
+NR98: NO_MATCH | | | No equivalent electric seat adjustment with memory feature found
+NR99: NO_MATCH | | | No equivalent electric seat adjustment with memory feature found
+NR100: MATCH | Design package "Loft" | Design package "Loft" (EO) : black/gray seat fabric/artificial leather upholstery, interior LED lighting package | Matches fabric/synthetic leather upholstery
+NR101: NO_MATCH | | | No equivalent Alcantara/synthetic leather upholstery feature found
+NR102: NO_MATCH | | | No equivalent synthetic leather upholstery feature found
+NR104: NO_MATCH | | | No equivalent automatic parking system feature found
+NR105: MATCH | Blind Spot Monitoring | Blind Spot Monitoring "Side Assist" monitors traffic around the vehicle within a 90m radius, alerting the driver of approaching vehicles | Matches blind spot monitoring
+NR106: NO_MATCH | | | No equivalent blind spot monitoring with cross-traffic alert feature found
+NR107: NO_MATCH | | | No equivalent cruise control feature found
+NR108: MATCH | Adaptive Cruise Control | Adaptive Cruise Control | Matches adaptive cruise control
+NR109: NO_MATCH | | | No equivalent adaptive cruise control Stop&Go feature found
+NR110: NO_MATCH | | | No equivalent adaptive cruise control in traffic jams feature found
+NR111: NO_MATCH | | | No equivalent adaptive cruise control based on navigation feature found
+NR112: NO_MATCH | | | No equivalent lane centering and overtaking assist feature found
+NR113: NO_MATCH | | | No equivalent front 360° camera feature found
+NR114: MATCH | Rearview camera | Parking sensors front and rear with a rearview camera | Matches rear 180° camera
+NR115: MATCH | Parking sensors front and rear | Parking sensors front and rear with a rearview camera | Matches front parking sensors
+NR116: MATCH | Parking sensors front and rear | Parking sensors front and rear with a rearview camera | Matches rear parking sensors
+NR118: MATCH | "Front Assist" radar system | "Front Assist" radar system: automatic speed reduction and complete stop in case of potential frontal collision, emergency city braking, pedestrian and cyclist monitoring system, and emergency steering support with turn assist | Matches AEBS with pedestrian and cyclist recognition
+NR119: NO_MATCH | | | No equivalent collision mitigation feature found
+NR120: MATCH | Electronic parking brake | Electronic parking brake with "Autohold" function | Matches electric parking brake
+NR122: NO_MATCH | | | No equivalent 16" steel wheels feature found
+NR123: NO_MATCH | | | No equivalent 16" alloy wheels feature found
+NR124: NO_MATCH | | | No equivalent 17" steel wheels feature found
+NR125: NO_MATCH | | | No equivalent 17" alloy wheels feature found
+NR126: NO_MATCH | | | No equivalent 18" steel wheels feature found
+NR127: NO_MATCH | | | No equivalent 18" alloy wheels feature found
+NR128: MATCH | 19" alloy wheels PROTEUS | 19" alloy wheels PROTEUS with 235/55 tires in front and 255/50 R19in the rear | Matches 19" alloy wheels
+NR129: NO_MATCH | | | No equivalent spare wheel feature found
+NR130: NO_MATCH | | | No equivalent wheel covers feature found
+NR132: MATCH | Central airbags | Front side and central airbags | Matches knee or central airbags
+NR133: MATCH | Head airbag system | Head airbag system (curtains) | Matches curtain airbags
+NR134: MATCH | Front side airbags | Front side and central airbags | Matches side airbags
+NR135: MATCH | Alarm system | Alarm system with interior protection and anti-tow protection | Matches perimeter alarm
+NR136: MATCH | Keyless access and engine start system | Keyless access and engine start system (Kessy) | Matches keyless start
+NR137: MATCH | Keyless access and engine start system | Keyless access and engine start system (Kessy) | Matches keyless access
+NR139: NO_MATCH | | | No equivalent extended warranty feature found
+NR140: NO_MATCH | | | No equivalent extended warranty feature found
+NR141: NO_MATCH | | | No equivalent extended warranty feature found
+NR142: MATCH | Manufacturer's warranty | Manufacturer's warranty: 5 years with a 100,000km mileage limit | Matches 5-year extended warranty
+NR143: NO_MATCH | | | No equivalent extended warranty feature found
+NR144: NO_MATCH | | | No equivalent extended warranty feature found
+NR145: NO_MATCH | | | No equivalent extended warranty feature found

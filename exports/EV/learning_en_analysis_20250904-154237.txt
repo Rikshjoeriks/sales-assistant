@@ -1,0 +1,103 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{}
+
+NR25: No | 
+NR26: No | 
+NR28: No | 
+NR30: No | 
+NR32: Yes | Door Mirrors - Power/Heated mentioned in "P49 Spoguļu pakotne - ietver 252 Pašaptumšojošs atpakaļskata spogulis 500 Elektriski nolokāmi ārējie spoguļi"
+NR33: Yes | Door Mirrors - Power/Heated/Foldback mentioned in "P49 Spoguļu pakotne - ietver 252 Pašaptumšojošs atpakaļskata spogulis 500 Elektriski nolokāmi ārējie spoguļi"
+NR34: No | 
+NR35: Yes | Front Wipers - Automatic mentioned in "S S S"
+NR36: No | 
+NR37: No | 
+NR38: No | 
+NR39: No | 
+NR40: Yes | Roof Rails mentioned in "725 Jumta reliņi [720/B27]"
+NR41: No | 
+NR42: No | 
+NR44: No | 
+NR45: No | 
+NR46: No | 
+NR47: No | 
+NR48: No | 
+NR49: No | 
+NR50: No | 
+NR51: No | 
+NR53: No | 
+NR54: No | 
+NR55: No | 
+NR56: No | 
+NR57: Yes | Ambient Lighting - Interior w/ Multi Colour LED mentioned in "sēdošajiem Izgaismotas Mercedes-Benz uzlikas uz priekšējo durvju sliekšņiem"
+NR58: Yes | Centre Console w Armrest mentioned in "S S S"
+NR59: No | 
+NR60: Yes | 12V in the luggage compartment mentioned in "U35 12V kontaktligzda bagāžas nodalījumā"
+NR61: No | 
+NR63: No | 
+NR64: No | 
+NR65: No | 
+NR66: No | 
+NR67: No | 
+NR68: Yes | Navigation Centre mentioned in "MBUX Premium navigācijas pakete - ietver 01U Navigācijas sistēmas sagatave"
+NR69: Yes | Navigation Centre - Connected mentioned in "MBUX Premium navigācijas pakete - ietver 01U Navigācijas sistēmas sagatave"
+NR70: Yes | Android Auto & Apple CarPlay mentioned in "16U Apple Car Play" and "17U Android Auto"
+NR71: No | 
+NR72: No | 
+NR73: No | 
+NR75: No | 
+NR76: Yes | Leather Steering Wheel mentioned in "L3E Daudzfunkciju sporta stūre ar ādas apdari"
+NR77: No | 
+NR78: No | 
+NR79: No | 
+NR81: Yes | Heated Driver Seat mentioned in "873 Apsildāmi priekšējie sēdekļi"
+NR82: Yes | Heated Passenger Seat mentioned in "873 Apsildāmi priekšējie sēdekļi"
+NR83: No | 
+NR84: No | 
+NR85: No | 
+NR86: No | 
+NR87: No | 
+NR88: No | 
+NR89: No | 
+NR90: No | 
+NR91: No | 
+NR92: Yes | Seat Trim - Cloth/Synthetic Leather mentioned in "311A ARTICO mākslīgās ādas apdare / Bertrix tekstils, melna"
+NR93: No | 
+NR94: Yes | Seat Trim - Synthetic Leather mentioned in "311A ARTICO mākslīgās ādas apdare"
+NR96: Yes | Automated Parking System mentioned in "P44 Parkošanās pakotne ar atpakaļskata kameru - iekļauta 218 Atpakaļskata kamera 235 Parkošanās palīdzības sistēma PARKTRONIC"
+NR97: Yes | Blind Spot Monitoring mentioned in "234 Aklo zonu asistents"
+NR98: No | 
+NR100: No | 
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: No | 
+NR105: No | 
+NR106: Yes | Camera - Rear View mentioned in "218 Atpakaļskata kamera"
+NR107: Yes | Parking Aid - Front Sensors mentioned in "P44 Parkošanās pakotne ar atpakaļskata kameru"
+NR108: Yes | Parking Aid - Rear Sensors mentioned in "P44 Parkošanās pakotne ar atpakaļskata kameru"
+NR110: No | 
+NR111: No | 
+NR112: No | 
+NR113: No | 
+NR115: No | 
+NR116: No | 
+NR117: Yes | 18" Alloy Wheels mentioned in "R31 18'' vieglmetāla diski"
+NR118: No | 
+NR119: No | 
+NR120: No | 
+NR121: No | 
+NR122: No | 
+NR123: No | 
+NR124: No | 
+NR126: No | 
+NR127: No | 
+NR128: No | 
+NR129: No | 
+NR130: Yes | Keyless Start mentioned in "889 KEYLESS-GO bezatslēgas atvēršana un iedarbināšana"
+NR131: Yes | Keyless Entry & Start mentioned in "889 KEYLESS-GO bezatslēgas atvēršana un iedarbināšana"
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No |

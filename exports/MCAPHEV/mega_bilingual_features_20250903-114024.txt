@@ -1,0 +1,49 @@
+Here are the extracted features from the input text in both English and Latvian:
+
+- Front airbags | Priekšējie gaisa spilveni | Front airbags with the option to deactivate the passenger airbag. | Safety
+- Head Curtain Airbag System | Galvas aizsarggaisa spilvenu sistēma | Includes front side airbags and a central airbag. | Safety
+- Pre-Crash Basic System | Priekšavārs pamatsistēma | Features emergency braking, front seatbelt tightening, and automatic closing of windows and sunroofs. | Safety
+- Light Assist | Gaismas asistents | LED front and rear headlights with a rain sensor that automatically activates low beams or daytime running lights, including "Coming Home/Leaving Home" functions. | Lighting
+- Front Assist Radar System | Priekšējā asistenta radar sistēma | Automatic speed reduction and full stop in the event of a potential frontal collision, city emergency braking, pedestrian and cyclist monitoring, and emergency steering support with a turning assistant. | Safety
+- Lane Assistant | Joslas asistents | Lane-keeping assistance system. | Safety
+- Side Assist | Sānu asistents | Monitors traffic in the vehicle's blind spots up to 90 meters, alerting the driver of approaching vehicles. | Safety
+- Adaptive Cruise Control | Adaptīvā kruīza kontrole | Maintains a set speed and distance from the vehicle ahead. | Safety
+- Parking Sensors | Stāvvietas sensori | Front and rear parking sensors with a rearview camera. | Safety
+- Traffic Sign Recognition | Ceļa zīmju atpazīšana | Utilizes a multifunction camera for road sign detection. | Safety
+- Electronic Parking Brake | Elektroniskais stāvbremze | Features "Autohold" function. | Safety
+- Tire Pressure Monitoring System | Riepu spiediena uzraudzības sistēma | Monitors tire pressure for safety. | Safety
+- ISOFIX Anchor Points | ISOFIX stiprinājuma punkti | Available for the front passenger seat and rear seats. | Safety
+- Keyless Entry and Engine Start | Bezatslēgu piekļuve un dzinēja palaišana | Kessy system for easy access. | Convenience
+- Power Windows | Elektriskie logi | Electric window lifts for front and rear doors. | Convenience
+- 3-Zone Climate Control | 3 zonu klimata kontrole | Climatronic system for personalized temperature settings. | Convenience
+- Remote Electric Heater and Cooler | Attālināta elektriskā sildītāja un dzesētāja sistēma | Adjustable for comfort. | Convenience
+- Multifunctional Leather Steering Wheel | Multifunkcionāla ādas stūre | 2-spoke design with heating. | Interior
+- Adjustable Side Mirrors | Regulējami sānu spoguļi | Electrically adjustable, foldable, and heated. | Exterior
+- Auto-Dimming Rearview Mirror | Automātiski tumšs aizmugurējais spogulis | Reduces glare from headlights. | Interior
+- Front Seats | Priekšējās sēdvietas | Manually adjustable height. | Interior
+- Front Armrest | Priekšējais roku balsts | Includes a small storage compartment. | Interior
+- Split Folding Rear Seats | Salokāmas aizmugurējās sēdvietas | Asymmetrically split (60/40) with a central armrest and pass-through for transporting longer items. | Interior
+- Drive Mode Select | Braukšanas režīma izvēle | Allows the driver to choose different driving modes. | Other
+- 12V Power Outlet | 12V strāvas kontaktligzda | Located in the luggage compartment. | Convenience
+- Illuminated Footwell | Apgaismota kāju telpa | Lighting for front and rear footwells. | Interior
+- Roof Rails | Jumta sliedes | Available in black (not available for Coupe) or silver (not available for Coupe). | Exterior
+- Umbrella Holder | Lietussargu turētājs | Located in the driver's door. | Interior
+- Rear Window Wiper | Aizmugurējā loga tīrītājs | Includes a washing function (not available for Coupe). | Exterior
+- Textile Floor Mats | Tekstila grīdas paklāji | Standard equipment. | Interior
+- Panoramic Glass Roof | Panorāmas stikla jumts | Tinted glass (only available for Coupe). | Exterior
+- Manufacturer's Warranty | Ražotāja garantija | 5 years or 100,000km. | Other
+- High-Voltage Battery Warranty | Augstsprieguma akumulatora garantija | 8 years or 160,000km. | Other
+- Built-in AC Charger | Iebūvēts maiņstrāvas lādētājs | Maximum power of 11k W. | Other
+- Charging Cable | Lādēšanas kabelis | Mode 3 for connection to Wallbox charging points. | Other
+- Universal Charging Cable | Universālais lādēšanas kabelis | For 230V/400V sockets. | Other
+- Alarm System | Trauksmes sistēma | Includes cabin protection and anti-theft features. | Security
+- Speakers | Skaļruņi | 4 speakers in the front and 4 in the rear. | Audio and Infotainment
+- Touchscreen Display | Skārienekrāns | 13" touchscreen with voice control, Smart Link, digital radio, and 2x USB-C ports. | Audio and Infotainment
+- Infotainment Basic Package | Infotainment pamata komplekts | Includes navigation system with a 3-year subscription to the "Infotainment Online" multimedia package. | Audio and Infotainment
+- Bluetooth Hands-Free System | Bluetooth bezvadu sistēma | For mobile phone connectivity. | Audio and Infotainment
+- Emergency Call Function | Avārijas zvana funkcija | Automatic emergency call feature. | Audio and Infotainment
+- Remote Services | Attālinātās pakalpojumi | "i V Remote Services" for remote vehicle charging and cabin temperature control, as well as time settings. | Audio and Infotainment
+- Loft Design Package | Loft dizaina pakete | Features black/grey seat fabric and artificial leather trim, along with LED interior lighting. | Design Package
+- Chrome Optic Package | Hroma optikas pakete | Includes chrome side window trims (standard in 60 Coupe version). | Design Package
+- Wheels | Riteņi | 19" alloy wheels (PROTEUS) with 235/55 tires in the front and 255/50 R19 tires in the rear. | Design Package
+- Tire Repair Kit | Riepu remonta komplekts | Includes a 12V compressor and repair foam (only for 19"/20" wheels). | Design Package

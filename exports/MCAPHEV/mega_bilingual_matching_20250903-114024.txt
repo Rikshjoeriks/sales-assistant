@@ -1,0 +1,100 @@
+NR31: NO_MATCH | | | | No equivalent found in either language  
+NR33: NO_MATCH | | | | No equivalent found in either language  
+NR35: NO_MATCH | | | | No equivalent found in either language  
+NR36: NO_MATCH | | | | No equivalent found in either language  
+NR37: NO_MATCH | | | | No equivalent found in either language  
+NR39: NO_MATCH | | | | No equivalent found in either language  
+NR41: MATCH | LV | Regulējami sānu spoguļi | Electrically adjustable, foldable, and heated | Latvian term matches the feature description  
+NR42: MATCH | LV | Regulējami sānu spoguļi | Electrically adjustable, foldable, and heated | Latvian term matches the feature description  
+NR43: NO_MATCH | | | | No equivalent found in either language  
+NR44: NO_MATCH | | | | No equivalent found in either language  
+NR45: NO_MATCH | | | | No equivalent found in either language  
+NR46: NO_MATCH | | | | No equivalent found in either language  
+NR47: MATCH | LV | Jumta sliedes | Available in black (not available for Coupe) or silver (not available for Coupe) | Latvian term matches the feature description  
+NR48: MATCH | LV | Panorāmas stikla jumts | Tinted glass (only available for Coupe) | Latvian term matches the feature description  
+NR50: MATCH | LV | Gaismas asistents | LED front and rear headlights with a rain sensor | Latvian term matches the feature description  
+NR51: NO_MATCH | | | | No equivalent found in either language  
+NR52: NO_MATCH | | | | No equivalent found in either language  
+NR53: NO_MATCH | | | | No equivalent found in either language  
+NR54: NO_MATCH | | | | No equivalent found in either language  
+NR55: NO_MATCH | | | | No equivalent found in either language  
+NR56: NO_MATCH | | | | No equivalent found in either language  
+NR57: NO_MATCH | | | | No equivalent found in either language  
+NR59: MATCH | LV | Gaisa kondicionētājs - EATC 3 zonas | Climatronic system for personalized temperature settings | Latvian term matches the feature description  
+NR60: NO_MATCH | | | | No equivalent found in either language  
+NR61: NO_MATCH | | | | No equivalent found in either language  
+NR62: NO_MATCH | | | | No equivalent found in either language  
+NR63: NO_MATCH | | | | No equivalent found in either language  
+NR64: NO_MATCH | | | | No equivalent found in either language  
+NR65: NO_MATCH | | | | No equivalent found in either language  
+NR66: MATCH | LV | Automātiski tumšs aizmugurējais spogulis | Reduces glare from headlights | Latvian term matches the feature description  
+NR67: MATCH | LV | 12 V bagāžas nodalījumā | Located in the luggage compartment | Latvian term matches the feature description  
+NR68: NO_MATCH | | | | No equivalent found in either language  
+NR70: MATCH | LV | Daudzfunkcionāls skārienjūtīgais ekrāns – 12 collas | 13" touchscreen with voice control | Latvian term matches the feature description  
+NR71: NO_MATCH | | | | No equivalent found in either language  
+NR72: NO_MATCH | | | | No equivalent found in either language  
+NR73: NO_MATCH | | | | No equivalent found in either language  
+NR74: NO_MATCH | | | | No equivalent found in either language  
+NR75: MATCH | LV | Navigācijas centrs | Includes navigation system with a 3-year subscription | Latvian term matches the feature description  
+NR76: NO_MATCH | | | | No equivalent found in either language  
+NR77: NO_MATCH | | | | No equivalent found in either language  
+NR78: NO_MATCH | | | | No equivalent found in either language  
+NR79: NO_MATCH | | | | No equivalent found in either language  
+NR80: MATCH | LV | Avārijas zvana funkcija | Automatic emergency call feature | Latvian term matches the feature description  
+NR81: NO_MATCH | | | | No equivalent found in either language  
+NR83: MATCH | LV | Apsildāms stūres rats | 2-spoke design with heating | Latvian term matches the feature description  
+NR84: MATCH | LV | Ādas (ieskaitot Sensico) stūres rats | 2-spoke design with heating | Latvian term matches the feature description  
+NR85: NO_MATCH | | | | No equivalent found in either language  
+NR86: NO_MATCH | | | | No equivalent found in either language  
+NR87: NO_MATCH | | | | No equivalent found in either language  
+NR89: NO_MATCH | | | | No equivalent found in either language  
+NR90: NO_MATCH | | | | No equivalent found in either language  
+NR91: NO_MATCH | | | | No equivalent found in either language  
+NR92: NO_MATCH | | | | No equivalent found in either language  
+NR93: NO_MATCH | | | | No equivalent found in either language  
+NR94: NO_MATCH | | | | No equivalent found in either language  
+NR95: NO_MATCH | | | | No equivalent found in either language  
+NR96: NO_MATCH | | | | No equivalent found in either language  
+NR97: NO_MATCH | | | | No equivalent found in either language  
+NR98: NO_MATCH | | | | No equivalent found in either language  
+NR99: NO_MATCH | | | | No equivalent found in either language  
+NR100: NO_MATCH | | | | No equivalent found in either language  
+NR101: NO_MATCH | | | | No equivalent found in either language  
+NR102: NO_MATCH | | | | No equivalent found in either language  
+NR104: MATCH | LV | Automātiskā parkošanās sistēma | Front and rear parking sensors with a rearview camera | Latvian term matches the feature description  
+NR105: MATCH | LV | Aklās zonas uzraudzība | Monitors traffic in the vehicle's blind spots | Latvian term matches the feature description  
+NR106: NO_MATCH | | | | No equivalent found in either language  
+NR107: MATCH | LV | Kruīza kontrole | Maintains a set speed and distance from the vehicle ahead | Latvian term matches the feature description  
+NR108: MATCH | LV | Kruīza kontrole – adaptīvā | Maintains a set speed and distance from the vehicle ahead | Latvian term matches the feature description  
+NR109: NO_MATCH | | | | No equivalent found in either language  
+NR110: NO_MATCH | | | | No equivalent found in either language  
+NR111: NO_MATCH | | | | No equivalent found in either language  
+NR112: NO_MATCH | | | | No equivalent found in either language  
+NR113: NO_MATCH | | | | No equivalent found in either language  
+NR114: NO_MATCH | | | | No equivalent found in either language  
+NR115: MATCH | LV | Parkošanās palīgsistēma - priekšējie sensori | Front and rear parking sensors with a rearview camera | Latvian term matches the feature description  
+NR116: MATCH | LV | Parkošanās palīgsistēma - aizmugurējie sensori | Front and rear parking sensors with a rearview camera | Latvian term matches the feature description  
+NR118: MATCH | LV | AEBS ar gājēju un velosipēdistu atpazīšanu | Automatic speed reduction and full stop in the event of a potential frontal collision | Latvian term matches the feature description  
+NR119: NO_MATCH | | | | No equivalent found in either language  
+NR120: MATCH | LV | Stāvbremze - elektriska | Features "Autohold" function | Latvian term matches the feature description  
+NR122: NO_MATCH | | | | No equivalent found in either language  
+NR123: NO_MATCH | | | | No equivalent found in either language  
+NR124: NO_MATCH | | | | No equivalent found in either language  
+NR125: NO_MATCH | | | | No equivalent found in either language  
+NR126: NO_MATCH | | | | No equivalent found in either language  
+NR127: NO_MATCH | | | | No equivalent found in either language  
+NR128: MATCH | LV | 19" vieglmetāla riteņi | 19" alloy wheels (PROTEUS) | Latvian term matches the feature description  
+NR129: NO_MATCH | | | | No equivalent found in either language  
+NR130: NO_MATCH | | | | No equivalent found in either language  
+NR132: NO_MATCH | | | | No equivalent found in either language  
+NR133: MATCH | LV | Gaisa spilveni – aizkari | Includes front side airbags and a central airbag | Latvian term matches the feature description  
+NR134: MATCH | LV | Gaisa spilveni – sānos | Includes front side airbags and a central airbag | Latvian term matches the feature description  
+NR135: MATCH | LV | Trauksmes sistēma | Includes cabin protection and anti-theft features | Latvian term matches the feature description  
+NR136: MATCH | LV | Bezatslēgas iedarbināšana | Kessy system for easy access | Latvian term matches the feature description  
+NR137: MATCH | LV | Bezatslēgas piekļuve | Kessy system for easy access | Latvian term matches the feature description  
+NR139: MATCH | LV | Pagarināta garantija – 5 gadi | 5 years or 100,000km | Latvian term matches the feature description  
+NR140: NO_MATCH | | | | No equivalent found in either language  
+NR141: NO_MATCH | | | | No equivalent found in either language  
+NR142: NO_MATCH | | | | No equivalent found in either language  
+NR143: NO_MATCH | | | | No equivalent found in either language  
+NR144: NO_MATCH | | | | No equivalent found in either language  

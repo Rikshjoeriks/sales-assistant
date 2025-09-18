@@ -1,0 +1,117 @@
+Nr Code,Variable Name,Is TT
+NR23,Piedziņa,Y
+NR24,4X4 pilna laika (4WD / AWD),N
+NR25,Pārnesumkārba,Y
+NR26,Automātiskā pārnesumkārba,N
+NR27,Hibrīda Tehnoloģija,Y
+NR28,mHEV,N
+NR29,FHEV,N
+NR30,PHEV,N
+NR31,Krāsa,Y
+NR32,Metāliska krāsa kā standarts,N
+NR33,Ārējais Izskats -  Funkcionāls,Y
+NR34,Durvju spoguļi - Elektriski/sildāmi,N
+NR35,Durvju spoguļi - elektriski/sildāmi/nolokāmi,N
+NR36,Priekšējie vējstikla tīrītāji - automātiski,N
+NR37,Stikls - tonēts ar privātuma aizsardzību aizmugurē,N
+NR38,Sildāms vējstikls,N
+NR39,Bagāžnieka durvis - elektriski atveramas,N
+NR40,Jumta sliedes,N
+NR41,Panorāmas jumts,N
+NR42,Ārējais Izskats -  Apgaismojums,Y
+NR43,Dienas gaitas lukturi - LED,N
+NR44,Priekšējie miglas lukturi - LED,N
+NR45,Priekšējie miglas lukturi – LED integrēti,N
+NR46,Priekšējo lukturu vadība – automātiska ieslēgšana/izslēgšana,N
+NR47,Priekšējo lukturu vadība – automātiska ieslēgšana/izslēgšana un tālās/tuvās gaismas,N
+NR48,Priekšējie lukturi – LED,N
+NR49,Priekšējie lukturi – adaptīvie LED bez Matrix vai Glare Free,N
+NR50,Priekšējie lukturi – adaptīvie LED ar Matrix vai Glare Free,N
+NR51,Interjers – Komforts/Ērtības,Y
+NR52,Gaisa kondicionētājs,N
+NR53,Gaisa kondicionētājs - EATC 1 zona,N
+NR54,Gaisa kondicionētājs - EATC 2 zonas,N
+NR55,Gaisa kondicionētājs - EATC 3 zonas,N
+NR56,Salona gaisa attīrītājs,N
+NR57,Apgaismojums - salons ar daudzkrāsu LED,N
+NR58,Centrālā konsole ar roku balstu,N
+NR59,Automātiski tumšojams salona spogulis,N
+NR60,12 V bagāžas nodalījumā,N
+NR61,Bezvadu uzlāde,N
+NR62,Interjers – In Car Entertainment/Komunikācijas,Y
+NR63,"Daudzfunkcionāls skārienjūtīgais ekrāns - 6 - 7,9""",N
+NR64,"Daudzfunkcionāls skārienjūtīgais ekrāns - 8 - 9,9""",N
+NR65,"Daudzfunkcionāls skārienjūtīgais ekrāns - 10 - 11,9""",N
+NR66,"Daudzfunkcionāls skārienjūtīgais ekrāns - 12 - """,N
+NR67,Zīmola audio sistēma,N
+NR68,Navigācijas centrs,N
+NR69,Navigācijas centrs - savienots,N
+NR70,Android Auto un Apple CarPlay,N
+NR71,Android Auto un Apple CarPlay - bezvadu,N
+NR72,Vieds palīgs ar AI,N
+NR73,Avārijas zvans,N
+NR74,Head - Up displejs,N
+NR75,Salons -  Instrumenti/Vadības Elementi,Y
+NR76,Apsildāms stūres rats,N
+NR77,Ādas (ieskaitot Sensico) stūres rats,N
+NR78,"Digitālais displejs - 8,9 collas",N
+NR79,"Digitālais displejs 9“ - 11,9”",N
+NR80,"Digitālais displejs 12+""",N
+NR81,Interjers -  Sēdekļi,Y
+NR82,Apsildāms vadītāja sēdeklis,N
+NR83,Apsildāms pasažiera sēdeklis,N
+NR84,Apsildāmi aizmugurējie sēdekļi,N
+NR85,Vadītāja sēdekļa jostasvietas regulēšana manuāli,N
+NR86,Pasažiera sēdekļa jostasvietas regulēšana manuāli,N
+NR87,Vadītāja sēdekļa jostasvietas regulēšana elektriski,N
+NR88,Pasažiera sēdekļa jostasvietas regulēšana elektriski,N
+NR89,Elektriski regulējams vadītāja sēdeklis,N
+NR90,Elektriski regulējams pasažiera sēdeklis,N
+NR91,Elektriski regulējams vadītāja sēdeklis ar atmiņu,N
+NR92,Elektriski regulējams pasažiera sēdeklis ar atmiņu,N
+NR93,Sēdekļu apdare – audums/sintētiskā āda,N
+NR94,Sēdekļu apdare – Alcantara/sintētiskā āda,N
+NR95,Sēdekļu apdare – sintētiskā āda,N
+NR96,Interjers – Vadītāja Palīdzības Tehnoloģijas,Y
+NR97,Automātiskā parkošanās sistēma,N
+NR98,Aklās zona uzraudzība,N
+NR99,Aklās zona uzraudzība ar šķērssatiksmes brīdinājumu,N
+NR100,Kruīza kontrole,N
+NR101,Kruīza kontrole - adaptīva,N
+NR102,Kruīza kontrole - adaptīva Stop&Go,N
+NR103,Kruīza kontrole - adaptīva satiksmes sastrēgumos,N
+NR104,"Kruīza kontrole - adaptīva, balstīta uz navigācijas sistēmu",N
+NR105,Joslas centrēšnas un apdzīšanas palīgs,N
+NR106,Kamera - priekšējais 360° skats,N
+NR107,Kamera - aizmugurējais skats,N
+NR108,Parkošanās palīgsistēma – priekšējie sensori,N
+NR109,Parkošanās palīgsistēma – aizmugurējie sensori,N
+NR110,Mehānika – Šasija,Y
+NR111,AEBS ar gājēju un velosipēdistu atpazīšanu,N
+NR112,Sadursmes mīkstināšana –2. sadursme,N
+NR113,Stāvbremze – elektriska,N
+NR114,Mehānika – Rati/Riepas,Y
+NR115,"16"" tērauda rati",N
+NR116,"16"" vieglmetāla rati",N
+NR117,"17"" tērauda riteņi",N
+NR118,"17"" vieglmetāla riteņi",N
+NR119,"18"" tērauda riteņi",N
+NR120,"18"" vieglmetāla riteņi",N
+NR121,"19"" vieglmetāla riteņi",N
+NR122,Rezerves ritenis,N
+NR123,Riteņu pārsegi,N
+NR124,Drošība Un Aizsardzība,Y
+NR125,Gaisa spilveni – ceļgaliem vai centrā,N
+NR126,Gaisa spilveni – aizkari,N
+NR127,Gaisa spilveni – sānos,N
+NR128,Signalizācija – perimetrs,N
+NR129,Bezatslēgas iedarbināšana,N
+NR130,Bezatslēgas piekļuve,N
+NR131,Garantija,Y
+NR132,Papildus garantija – 2 gadi,N
+NR133,Papildus garantija – 3 gadi,N
+NR134,Papildus garantija – 4 gadi,N
+NR135,Papildus garantija – 5 gadi,N
+NR136,Papildus garantija – 6 gadi,N
+NR137,Papildus garantija – 7 gadi,N
+NR138,Papildus garantija – 10 gadi,N

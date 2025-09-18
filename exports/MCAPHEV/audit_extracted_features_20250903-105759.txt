@@ -1,0 +1,71 @@
+- Front airbags | Front airbags with the option to deactivate the passenger airbag | Safety
+- Head airbag system | Head airbag system (curtains) | Safety
+- Front side airbags | Front side and central airbags | Safety
+- Central airbags | Front side and central airbags | Safety
+- Proactive protection system | Proactive protection system "Pre Crash Basic" with emergency braking, front seatbelt tensioning, and automatic window and sunroof closing | Safety
+- Emergency braking | Proactive protection system "Pre Crash Basic" with emergency braking | Safety
+- Front seatbelt tensioning | Proactive protection system "Pre Crash Basic" with emergency braking, front seatbelt tensioning, and automatic window and sunroof closing | Safety
+- Automatic window and sunroof closing | Proactive protection system "Pre Crash Basic" with emergency braking, front seatbelt tensioning, and automatic window and sunroof closing | Safety
+- "Front Assist" radar system | "Front Assist" radar system: automatic speed reduction and complete stop in case of potential frontal collision, emergency city braking, pedestrian and cyclist monitoring system, and emergency steering support with turn assist | Safety
+- Lane Assist system | Lane Assist system | Safety
+- Blind Spot Monitoring | Blind Spot Monitoring "Side Assist" monitors traffic around the vehicle within a 90m radius, alerting the driver of approaching vehicles | Safety
+- Adaptive Cruise Control | Adaptive Cruise Control | Safety
+- Parking sensors front and rear | Parking sensors front and rear with a rearview camera | Safety
+- Rearview camera | Parking sensors front and rear with a rearview camera | Safety
+- Traffic sign recognition system | Traffic sign recognition system with a multifunctional camera | Safety
+- Electronic parking brake | Electronic parking brake with "Autohold" function | Safety
+- Tire pressure monitoring system | Tire pressure monitoring system | Safety
+- ISOFIX mounting points | ISOFIX mounting points in the front passenger and rear seats | Safety
+- Alarm system | Alarm system with interior protection and anti-tow protection | Safety
+- LED front lights | LED front and rear lights | Lighting
+- LED rear lights | LED front and rear lights | Lighting
+- Light Assist | Light Assist with rain sensor, automatically switching between low beam and daytime running lights depending on conditions | Lighting
+- Rain sensor | Light Assist with rain sensor, automatically switching between low beam and daytime running lights depending on conditions | Lighting
+- "Coming Home/Leaving Home" function | Includes "Coming Home/Leaving Home" function | Lighting
+- Keyless access and engine start system | Keyless access and engine start system (Kessy) | Interior
+- Electric window lifters | Electric window lifters in front and rear doors | Interior
+- 3-zone climate control | 3-zone climate control (Climatronic) | Interior
+- Remotely adjustable electric air heater and cooler | Remotely adjustable electric air heater and cooler | Interior
+- Multifunction leather steering wheel | 2-spoke multifunction leather steering wheel with heating | Interior
+- Heated steering wheel | 2-spoke multifunction leather steering wheel with heating | Interior
+- Electrically adjustable side mirrors | Electrically adjustable, foldable, heated side mirrors | Exterior
+- Foldable side mirrors | Electrically adjustable, foldable, heated side mirrors | Exterior
+- Heated side mirrors | Electrically adjustable, foldable, heated side mirrors | Exterior
+- Interior rearview mirror with automatic dimming | Interior rearview mirror with automatic dimming | Interior
+- Front seats with manual height adjustment | Front seats with manual height adjustment | Interior
+- Front armrest with storage compartment | Front armrest with storage compartment | Interior
+- Asymmetrically split rear seat backrest | Asymmetrically split (60/40) and foldable rear seat backrest with central armrest and transport hatch | Interior
+- Foldable rear seat backrest | Asymmetrically split (60/40) and foldable rear seat backrest with central armrest and transport hatch | Interior
+- Central armrest | Asymmetrically split (60/40) and foldable rear seat backrest with central armrest and transport hatch | Interior
+- Transport hatch | Asymmetrically split (60/40) and foldable rear seat backrest with central armrest and transport hatch | Interior
+- Drive Mode Select system | Drive Mode Select system | Technology
+- 12V socket in the luggage compartment | 12V socket in the luggage compartment | Interior
+- Illuminated footwell | Illuminated footwell for front and rear passengers | Interior
+- Umbrella holder with umbrella | Umbrella holder with umbrella in the driver's door | Interior
+- Rear window wiper with washing function | Rear window wiper with washing function (not available for Coupe) | Exterior
+- Textile floor mats | Textile floor mats | Interior
+- Front seat heating | Front seat heating | Interior
+- Panoramic glass roof | Panoramic glass roof with tinted glass (only for Coupe) | Exterior
+- 13" touchscreen | 13" touchscreen, voice control, Smart Link, digital radio, 2x USB-C ports | Technology
+- Voice control | 13" touchscreen, voice control, Smart Link, digital radio, 2x USB-C ports | Technology
+- Smart Link | 13" touchscreen, voice control, Smart Link, digital radio, 2x USB-C ports | Technology
+- Digital radio | 13" touchscreen, voice control, Smart Link, digital radio, 2x USB-C ports | Technology
+- USB-C ports | 13" touchscreen, voice control, Smart Link, digital radio, 2x USB-C ports | Technology
+- Navigation system | "Infotainment Basic" package: navigation system with "Infotainment Online" multimedia package 3-year subscription | Technology
+- "Infotainment Online" multimedia package | "Infotainment Basic" package: navigation system with "Infotainment Online" multimedia package 3-year subscription | Technology
+- Bluetooth hands-free system | Bluetooth hands-free system for mobile phones | Technology
+- Emergency call function | Emergency call function | Technology
+- "i V Remote Services" | "i V Remote Services": remote vehicle charging and interior temperature control, time settings | Technology
+- Remote vehicle charging | "i V Remote Services": remote vehicle charging and interior temperature control, time settings | Technology
+- Interior temperature control | "i V Remote Services": remote vehicle charging and interior temperature control, time settings | Technology
+- Design package "Loft" | Design package "Loft" (EO) : black/gray seat fabric/artificial leather upholstery, interior LED lighting package | Interior
+- "Chrome Optic" package | "Chrome Optic" package: chrome side window trims (standard on 60 Coupe version) | Exterior
+- 19" alloy wheels PROTEUS | 19" alloy wheels PROTEUS with 235/55 tires in front and 255/50 R19in the rear | Exterior
+- Roof rails, black | Roof rails, black (not available for Coupe) | Exterior
+- Roof rails, silver | Roof rails, silver (not available for Coupe) | Exterior
+- High-voltage battery warranty | High-voltage battery warranty: 8 years or 160,000km | Other
+- Built-in AC charger | Built-in AC charger with a maximum power of 11k W | Technology
+- Charging cable MODE 3 | Charging cable MODE 3for connection to Wallbox charging points | Technology
+- Universal charging cable | Universal charging cable (230V/400V sockets) | Technology
+- Manufacturer's warranty | Manufacturer's warranty: 5 years with a 100,000km mileage limit | Other
+- Tire repair kit | Tire repair kit: 12V compressor and repair foam (only for 19"/20" wheels) | Other

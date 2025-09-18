@@ -1,0 +1,104 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{}
+
+NR25: No | 
+NR26: No | 
+NR28: No | 
+NR30: No | 
+NR32: Yes | Sānu spoguļi, elektriski regulējami un apsildāmi
+NR33: No | 
+NR34: No | 
+NR35: No | 
+NR36: Yes | Siltumizolējošs stikls aizmugurējam logam, durvju logiem un sānu logiem; tonēti zaļā krāsā
+NR37: Yes | ieskaitot apsildāmas vējstikla mazgātāja sprauslas
+NR38: Yes | Elektriski atverams un aizverams bagāžas nodalījuma pārsegs
+NR39: Yes | kājas žests (spēriena kustība) transportlīdzekļa aizmugurē
+NR40: No | 
+NR41: No | 
+NR42: No | 
+NR44: Yes | dienas gaitas lukturi
+NR45: No | 
+NR46: No | 
+NR47: Yes | priekšējo lukturu diapazona kontrole nodrošina automātisku automobiļa noslodzes kompensēšanu
+NR48: No | 
+NR49: Yes | LED priekšējie lukturi
+NR50: No | 
+NR51: No | 
+NR53: Yes | Automātiskā gaisa kondicionēšana
+NR54: No | 
+NR55: Yes | trīs zonu luksusa automātiskā gaisa kondicionēšana
+NR56: No | 
+NR57: No | 
+NR58: Yes | centrālais elkoņa balsts, priekšā
+NR59: Yes | Salona spogulis, aptumšojošs
+NR60: No | 
+NR61: No | 
+NR63: No | 
+NR64: No | 
+NR65: Yes | MMI plus augstas izšķirtspējas 11,6 collas krāsu displejs
+NR66: No | 
+NR67: No | 
+NR68: Yes | MMI navigation plus
+NR69: Yes | Audi connect navigācijas un informācijas un izklaides sistēma
+NR70: No | 
+NR71: No | 
+NR72: No | 
+NR73: No | 
+NR75: No | 
+NR76: Yes | Divu spieķu ādas stūre
+NR77: No | 
+NR78: Yes | pilnībā digitāls 10,25 collu instrumentu panelis
+NR79: No | 
+NR81: Yes | apsilda sēdekļa un atzveltnes vidējos paneļus
+NR82: Yes | apsilda sēdekļa un atzveltnes vidējos paneļus
+NR83: No | 
+NR84: No | 
+NR85: No | 
+NR86: No | 
+NR87: No | 
+NR88: No | 
+NR89: No | 
+NR90: No | 
+NR91: No | 
+NR92: Yes | Index auduma sēdekļu apdare
+NR93: No | 
+NR94: No | 
+NR96: No | 
+NR97: No | 
+NR98: No | 
+NR99: No | 
+NR100: No | 
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: No | 
+NR105: No | 
+NR106: No | 
+NR107: No | 
+NR108: Yes | Stāvvietā novietošanas sistēma, aizmugurē
+NR110: Yes | Ieskaitot gājēju un velosipēdistu noteikšanu
+NR111: No | 
+NR112: No | 
+NR113: No | 
+NR115: No | 
+NR116: No | 
+NR117: No | 
+NR118: No | 
+NR119: Yes | Tērauda diski ar pilnu diska pārsegumu, 8,0J x 19
+NR120: No | 
+NR121: No | 
+NR122: No | 
+NR123: No | 
+NR124: No | 
+NR126: Yes | mijiedarbības drošības spilvens
+NR127: No | 
+NR128: Yes | Sānu drošības spilveni, priekšējie
+NR129: Yes | Pretaizdzīšanas signalizācija
+NR130: Yes | dzinēja iedarbināšanas-izslēgšanas pogu
+NR131: No | 
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No | 

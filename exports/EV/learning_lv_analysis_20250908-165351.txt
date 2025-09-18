@@ -1,0 +1,161 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{
+  "NR35": [
+    {
+      "text": "EV dzinējs 168,1k W; baterija 84k Wh RWD Automātiskā GT Line 16.90 2 495 55 990 Elkoņu balsts vadītāja sēdeklim Elkoņu balsts aizmugurē Elektroniskais pārnesumu pārslēgs Atverams kosmētikas spogulis ar apgaismojumu Saliekamie 60:40 aizmugurējie sēdekļi ar slēpju lūku Papildus nodalījums bagāžas telpā, bagāžnieka tīkls, 12V rozete - Pedāļi ar metāla apdari - - Apkārtējais salona apgaismojums - Pašaptumšojošs atpakaļskata spogulis Supervision instrumentu panelis ar 12,3\" LED apgaismi Vegānas ādas apdares stūre GT line interjera element Zamšādas melns sēdekļu apdare ar baltu vegāna ādas balstu Aizmugurējais spoileris Saules starus absorbējošs vējstikls un priekšēji sānu stikli Tumši aizmugurējais stikls un aizmugurējo durvju logi High Glossy atpakaļskata spoguļi - LED dienas gaitas lukturi LED aizmugures lukturi LED aizmugures miglas lukturi Regulējami galvas balsti Inteliģenta Matrix LED priekšējā apgaismojuma sistēma ELAAD1 - 700 Ārējie durvju rokturi virsbūves krāsā Attālināta bagāžnieka atvēršana un elektriski slēptie durvju rokturi Gt line eksterjera elementi Viedtālruņa bezvadu lādētājs Ventilējami priekšējie sēdekļi un apsildāmi aizmugures sēdekļi Adaptīvā kruīza kontrole Divzonu automātiskā klimata kontrole Elektriski regulējami spoguļi ar apsildi Elektriski nolokāmi, regulējami un apsildāmi sānskata spoguļi ar pagrieziena indikāciju Elektriski vadāmi priekšējie un aizmugures durvju logi ar automātisko \"up&down\" funkciju priekšējiem logiem Tālo gaismu automātiskā pārslēgšanās Stūres rata augstuma un dziļuma regulēšana Lietus sensors Apsildāmi priekšējie sēdekļi Elektriski apsildāma stūre Inteliģentā atslēga Smart key Elektrisku muguras izliekuma regulēšanu vadītāja pusē Regulējams braukšanas režīms Zema mazgāšanas šķidruma līmeņa bīdinājuma signāls Augstumā regulējami priekšējie sēdekļi Neredzamās zonas brīdinājuma sistēma+brīdinājuma sistēma, braucot atpakaļgaitā (BSD+RCTA) PK0010 500 Elektrības padeves funkcija no automašīnas līdz 3,5k W jaudai un iekšējā kontaktligzda 230V Bremžu sistēma ar ABS un EBD Elektroniskā stabilitātes sistēma (ESC) + palīgssistēma braukšanas uzsākšanai kalnā (HAS) Avārijas stopsignāls (ESS) Automobiļa stabilitātes kontroles sistēma (VSM) Bremzēšanas palīgsistēma (BAS) TPMS - Riepu spiediena kontroles sistēma Joslu mainīšanas brīdinājuma sistēma (LKAS) , iekļauj vadītāja uzmanības novēršanas brīdinājumu Priekšējās sadursmes brīdinājuma asistents, ar automašīnas/gājēju/velosipēda noteikšanas sistēmu Ātruma ierobežojuma brīdinājuma sistēma Parkošanās sensori priekšā/aizmugurē Atpakaļskata kamera ar dinamiskajām līnijām Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari Priekšējā pasažiera drošības spilvena ieslēgšanas/atslēgšanas slēdzis Bērnu sēdeklīšu stiprinājumi (ISOFIX) Elektriskā stāvbremze (EPB) Automātiskā durvju bloķēšanās uzsākot kustību + Durvju atblokēšana pie trieciena Imobilaizers Priekšējās sadursmes novēršanas sistēma (FCA-JX) ar transportlīdzekļa sensoru un avārijas bremzēšanu krustojumā, veicot kreiso pagriezienu e Call automātiska ārkārtas izsaukuma sistēma Siltumsūknis Bluetooth brīvroku sistēma Audiosistēmas distances vadība USB pieslēgums 2 augsto frekvenču skaļruņi 10,25 \"dubultā skārienekrāna audio un navigācijas sistēma (ietver radio, RDS, Bluetooth ar balss atpazīšanu, atpakaļskata kameru ar dinamiskām vadlīnijām, Apple Car Play/Android Auto jungtys) Vieglmetāla diski 20\", riepas izmērs 255/45 R20 EWAAVE - - Bojātas riepas remonta komplekts",
+      "confidence": 1.0,
+      "type": "direct",
+      "learned_from": "Lietus sensors"
+    }
+  ],
+  "NR81": [
+    {
+      "text": "EV dzinējs 168,1k W; baterija 84k Wh RWD Automātiskā GT Line 16.90 2 495 55 990 Elkoņu balsts vadītāja sēdeklim Elkoņu balsts aizmugurē Elektroniskais pārnesumu pārslēgs Atverams kosmētikas spogulis ar apgaismojumu Saliekamie 60:40 aizmugurējie sēdekļi ar slēpju lūku Papildus nodalījums bagāžas telpā, bagāžnieka tīkls, 12V rozete - Pedāļi ar metāla apdari - - Apkārtējais salona apgaismojums - Pašaptumšojošs atpakaļskata spogulis Supervision instrumentu panelis ar 12,3\" LED apgaismi Vegānas ādas apdares stūre GT line interjera element Zamšādas melns sēdekļu apdare ar baltu vegāna ādas balstu Aizmugurējais spoileris Saules starus absorbējošs vējstikls un priekšēji sānu stikli Tumši aizmugurējais stikls un aizmugurējo durvju logi High Glossy atpakaļskata spoguļi - LED dienas gaitas lukturi LED aizmugures lukturi LED aizmugures miglas lukturi Regulējami galvas balsti Inteliģenta Matrix LED priekšējā apgaismojuma sistēma ELAAD1 - 700 Ārējie durvju rokturi virsbūves krāsā Attālināta bagāžnieka atvēršana un elektriski slēptie durvju rokturi Gt line eksterjera elementi Viedtālruņa bezvadu lādētājs Ventilējami priekšējie sēdekļi un apsildāmi aizmugures sēdekļi Adaptīvā kruīza kontrole Divzonu automātiskā klimata kontrole Elektriski regulējami spoguļi ar apsildi Elektriski nolokāmi, regulējami un apsildāmi sānskata spoguļi ar pagrieziena indikāciju Elektriski vadāmi priekšējie un aizmugures durvju logi ar automātisko \"up&down\" funkciju priekšējiem logiem Tālo gaismu automātiskā pārslēgšanās Stūres rata augstuma un dziļuma regulēšana Lietus sensors Apsildāmi priekšējie sēdekļi Elektriski apsildāma stūre Inteliģentā atslēga Smart key Elektrisku muguras izliekuma regulēšanu vadītāja pusē Regulējams braukšanas režīms Zema mazgāšanas šķidruma līmeņa bīdinājuma signāls Augstumā regulējami priekšējie sēdekļi Neredzamās zonas brīdinājuma sistēma+brīdinājuma sistēma, braucot atpakaļgaitā (BSD+RCTA) PK0010 500 Elektrības padeves funkcija no automašīnas līdz 3,5k W jaudai un iekšējā kontaktligzda 230V Bremžu sistēma ar ABS un EBD Elektroniskā stabilitātes sistēma (ESC) + palīgssistēma braukšanas uzsākšanai kalnā (HAS) Avārijas stopsignāls (ESS) Automobiļa stabilitātes kontroles sistēma (VSM) Bremzēšanas palīgsistēma (BAS) TPMS - Riepu spiediena kontroles sistēma Joslu mainīšanas brīdinājuma sistēma (LKAS) , iekļauj vadītāja uzmanības novēršanas brīdinājumu Priekšējās sadursmes brīdinājuma asistents, ar automašīnas/gājēju/velosipēda noteikšanas sistēmu Ātruma ierobežojuma brīdinājuma sistēma Parkošanās sensori priekšā/aizmugurē Atpakaļskata kamera ar dinamiskajām līnijām Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari Priekšējā pasažiera drošības spilvena ieslēgšanas/atslēgšanas slēdzis Bērnu sēdeklīšu stiprinājumi (ISOFIX) Elektriskā stāvbremze (EPB) Automātiskā durvju bloķēšanās uzsākot kustību + Durvju atblokēšana pie trieciena Imobilaizers Priekšējās sadursmes novēršanas sistēma (FCA-JX) ar transportlīdzekļa sensoru un avārijas bremzēšanu krustojumā, veicot kreiso pagriezienu e Call automātiska ārkārtas izsaukuma sistēma Siltumsūknis Bluetooth brīvroku sistēma Audiosistēmas distances vadība USB pieslēgums 2 augsto frekvenču skaļruņi 10,25 \"dubultā skārienekrāna audio un navigācijas sistēma (ietver radio, RDS, Bluetooth ar balss atpazīšanu, atpakaļskata kameru ar dinamiskām vadlīnijām, Apple Car Play/Android Auto jungtys) Vieglmetāla diski 20\", riepas izmērs 255/45 R20 EWAAVE - - Bojātas riepas remonta komplekts",
+      "confidence": 1.0,
+      "type": "direct",
+      "learned_from": "Apsildāmi priekšējie sēdekļi"
+    }
+  ],
+  "NR82": [
+    {
+      "text": "EV dzinējs 168,1k W; baterija 84k Wh RWD Automātiskā GT Line 16.90 2 495 55 990 Elkoņu balsts vadītāja sēdeklim Elkoņu balsts aizmugurē Elektroniskais pārnesumu pārslēgs Atverams kosmētikas spogulis ar apgaismojumu Saliekamie 60:40 aizmugurējie sēdekļi ar slēpju lūku Papildus nodalījums bagāžas telpā, bagāžnieka tīkls, 12V rozete - Pedāļi ar metāla apdari - - Apkārtējais salona apgaismojums - Pašaptumšojošs atpakaļskata spogulis Supervision instrumentu panelis ar 12,3\" LED apgaismi Vegānas ādas apdares stūre GT line interjera element Zamšādas melns sēdekļu apdare ar baltu vegāna ādas balstu Aizmugurējais spoileris Saules starus absorbējošs vējstikls un priekšēji sānu stikli Tumši aizmugurējais stikls un aizmugurējo durvju logi High Glossy atpakaļskata spoguļi - LED dienas gaitas lukturi LED aizmugures lukturi LED aizmugures miglas lukturi Regulējami galvas balsti Inteliģenta Matrix LED priekšējā apgaismojuma sistēma ELAAD1 - 700 Ārējie durvju rokturi virsbūves krāsā Attālināta bagāžnieka atvēršana un elektriski slēptie durvju rokturi Gt line eksterjera elementi Viedtālruņa bezvadu lādētājs Ventilējami priekšējie sēdekļi un apsildāmi aizmugures sēdekļi Adaptīvā kruīza kontrole Divzonu automātiskā klimata kontrole Elektriski regulējami spoguļi ar apsildi Elektriski nolokāmi, regulējami un apsildāmi sānskata spoguļi ar pagrieziena indikāciju Elektriski vadāmi priekšējie un aizmugures durvju logi ar automātisko \"up&down\" funkciju priekšējiem logiem Tālo gaismu automātiskā pārslēgšanās Stūres rata augstuma un dziļuma regulēšana Lietus sensors Apsildāmi priekšējie sēdekļi Elektriski apsildāma stūre Inteliģentā atslēga Smart key Elektrisku muguras izliekuma regulēšanu vadītāja pusē Regulējams braukšanas režīms Zema mazgāšanas šķidruma līmeņa bīdinājuma signāls Augstumā regulējami priekšējie sēdekļi Neredzamās zonas brīdinājuma sistēma+brīdinājuma sistēma, braucot atpakaļgaitā (BSD+RCTA) PK0010 500 Elektrības padeves funkcija no automašīnas līdz 3,5k W jaudai un iekšējā kontaktligzda 230V Bremžu sistēma ar ABS un EBD Elektroniskā stabilitātes sistēma (ESC) + palīgssistēma braukšanas uzsākšanai kalnā (HAS) Avārijas stopsignāls (ESS) Automobiļa stabilitātes kontroles sistēma (VSM) Bremzēšanas palīgsistēma (BAS) TPMS - Riepu spiediena kontroles sistēma Joslu mainīšanas brīdinājuma sistēma (LKAS) , iekļauj vadītāja uzmanības novēršanas brīdinājumu Priekšējās sadursmes brīdinājuma asistents, ar automašīnas/gājēju/velosipēda noteikšanas sistēmu Ātruma ierobežojuma brīdinājuma sistēma Parkošanās sensori priekšā/aizmugurē Atpakaļskata kamera ar dinamiskajām līnijām Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari Priekšējā pasažiera drošības spilvena ieslēgšanas/atslēgšanas slēdzis Bērnu sēdeklīšu stiprinājumi (ISOFIX) Elektriskā stāvbremze (EPB) Automātiskā durvju bloķēšanās uzsākot kustību + Durvju atblokēšana pie trieciena Imobilaizers Priekšējās sadursmes novēršanas sistēma (FCA-JX) ar transportlīdzekļa sensoru un avārijas bremzēšanu krustojumā, veicot kreiso pagriezienu e Call automātiska ārkārtas izsaukuma sistēma Siltumsūknis Bluetooth brīvroku sistēma Audiosistēmas distances vadība USB pieslēgums 2 augsto frekvenču skaļruņi 10,25 \"dubultā skārienekrāna audio un navigācijas sistēma (ietver radio, RDS, Bluetooth ar balss atpazīšanu, atpakaļskata kameru ar dinamiskām vadlīnijām, Apple Car Play/Android Auto jungtys) Vieglmetāla diski 20\", riepas izmērs 255/45 R20 EWAAVE - - Bojātas riepas remonta komplekts",
+      "confidence": 1.0,
+      "type": "direct",
+      "learned_from": "Apsildāmi priekšējie sēdekļi"
+    }
+  ],
+  "NR106": [
+    {
+      "text": "EV dzinējs 168,1k W; baterija 84k Wh RWD Automātiskā GT Line 16.90 2 495 55 990 Elkoņu balsts vadītāja sēdeklim Elkoņu balsts aizmugurē Elektroniskais pārnesumu pārslēgs Atverams kosmētikas spogulis ar apgaismojumu Saliekamie 60:40 aizmugurējie sēdekļi ar slēpju lūku Papildus nodalījums bagāžas telpā, bagāžnieka tīkls, 12V rozete - Pedāļi ar metāla apdari - - Apkārtējais salona apgaismojums - Pašaptumšojošs atpakaļskata spogulis Supervision instrumentu panelis ar 12,3\" LED apgaismi Vegānas ādas apdares stūre GT line interjera element Zamšādas melns sēdekļu apdare ar baltu vegāna ādas balstu Aizmugurējais spoileris Saules starus absorbējošs vējstikls un priekšēji sānu stikli Tumši aizmugurējais stikls un aizmugurējo durvju logi High Glossy atpakaļskata spoguļi - LED dienas gaitas lukturi LED aizmugures lukturi LED aizmugures miglas lukturi Regulējami galvas balsti Inteliģenta Matrix LED priekšējā apgaismojuma sistēma ELAAD1 - 700 Ārējie durvju rokturi virsbūves krāsā Attālināta bagāžnieka atvēršana un elektriski slēptie durvju rokturi Gt line eksterjera elementi Viedtālruņa bezvadu lādētājs Ventilējami priekšējie sēdekļi un apsildāmi aizmugures sēdekļi Adaptīvā kruīza kontrole Divzonu automātiskā klimata kontrole Elektriski regulējami spoguļi ar apsildi Elektriski nolokāmi, regulējami un apsildāmi sānskata spoguļi ar pagrieziena indikāciju Elektriski vadāmi priekšējie un aizmugures durvju logi ar automātisko \"up&down\" funkciju priekšējiem logiem Tālo gaismu automātiskā pārslēgšanās Stūres rata augstuma un dziļuma regulēšana Lietus sensors Apsildāmi priekšējie sēdekļi Elektriski apsildāma stūre Inteliģentā atslēga Smart key Elektrisku muguras izliekuma regulēšanu vadītāja pusē Regulējams braukšanas režīms Zema mazgāšanas šķidruma līmeņa bīdinājuma signāls Augstumā regulējami priekšējie sēdekļi Neredzamās zonas brīdinājuma sistēma+brīdinājuma sistēma, braucot atpakaļgaitā (BSD+RCTA) PK0010 500 Elektrības padeves funkcija no automašīnas līdz 3,5k W jaudai un iekšējā kontaktligzda 230V Bremžu sistēma ar ABS un EBD Elektroniskā stabilitātes sistēma (ESC) + palīgssistēma braukšanas uzsākšanai kalnā (HAS) Avārijas stopsignāls (ESS) Automobiļa stabilitātes kontroles sistēma (VSM) Bremzēšanas palīgsistēma (BAS) TPMS - Riepu spiediena kontroles sistēma Joslu mainīšanas brīdinājuma sistēma (LKAS) , iekļauj vadītāja uzmanības novēršanas brīdinājumu Priekšējās sadursmes brīdinājuma asistents, ar automašīnas/gājēju/velosipēda noteikšanas sistēmu Ātruma ierobežojuma brīdinājuma sistēma Parkošanās sensori priekšā/aizmugurē Atpakaļskata kamera ar dinamiskajām līnijām Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari Priekšējā pasažiera drošības spilvena ieslēgšanas/atslēgšanas slēdzis Bērnu sēdeklīšu stiprinājumi (ISOFIX) Elektriskā stāvbremze (EPB) Automātiskā durvju bloķēšanās uzsākot kustību + Durvju atblokēšana pie trieciena Imobilaizers Priekšējās sadursmes novēršanas sistēma (FCA-JX) ar transportlīdzekļa sensoru un avārijas bremzēšanu krustojumā, veicot kreiso pagriezienu e Call automātiska ārkārtas izsaukuma sistēma Siltumsūknis Bluetooth brīvroku sistēma Audiosistēmas distances vadība USB pieslēgums 2 augsto frekvenču skaļruņi 10,25 \"dubultā skārienekrāna audio un navigācijas sistēma (ietver radio, RDS, Bluetooth ar balss atpazīšanu, atpakaļskata kameru ar dinamiskām vadlīnijām, Apple Car Play/Android Auto jungtys) Vieglmetāla diski 20\", riepas izmērs 255/45 R20 EWAAVE - - Bojātas riepas remonta komplekts",
+      "confidence": 1.0,
+      "type": "direct",
+      "learned_from": "Atpakaļskata kamera"
+    }
+  ],
+  "NR33": [
+    {
+      "text": "EV dzinējs 168,1k W; baterija 84k Wh RWD Automātiskā GT Line 16.90 2 495 55 990 Elkoņu balsts vadītāja sēdeklim Elkoņu balsts aizmugurē Elektroniskais pārnesumu pārslēgs Atverams kosmētikas spogulis ar apgaismojumu Saliekamie 60:40 aizmugurējie sēdekļi ar slēpju lūku Papildus nodalījums bagāžas telpā, bagāžnieka tīkls, 12V rozete - Pedāļi ar metāla apdari - - Apkārtējais salona apgaismojums - Pašaptumšojošs atpakaļskata spogulis Supervision instrumentu panelis ar 12,3\" LED apgaismi Vegānas ādas apdares stūre GT line interjera element Zamšādas melns sēdekļu apdare ar baltu vegāna ādas balstu Aizmugurējais spoileris Saules starus absorbējošs vējstikls un priekšēji sānu stikli Tumši aizmugurējais stikls un aizmugurējo durvju logi High Glossy atpakaļskata spoguļi - LED dienas gaitas lukturi LED aizmugures lukturi LED aizmugures miglas lukturi Regulējami galvas balsti Inteliģenta Matrix LED priekšējā apgaismojuma sistēma ELAAD1 - 700 Ārējie durvju rokturi virsbūves krāsā Attālināta bagāžnieka atvēršana un elektriski slēptie durvju rokturi Gt line eksterjera elementi Viedtālruņa bezvadu lādētājs Ventilējami priekšējie sēdekļi un apsildāmi aizmugures sēdekļi Adaptīvā kruīza kontrole Divzonu automātiskā klimata kontrole Elektriski regulējami spoguļi ar apsildi Elektriski nolokāmi, regulējami un apsildāmi sānskata spoguļi ar pagrieziena indikāciju Elektriski vadāmi priekšējie un aizmugures durvju logi ar automātisko \"up&down\" funkciju priekšējiem logiem Tālo gaismu automātiskā pārslēgšanās Stūres rata augstuma un dziļuma regulēšana Lietus sensors Apsildāmi priekšējie sēdekļi Elektriski apsildāma stūre Inteliģentā atslēga Smart key Elektrisku muguras izliekuma regulēšanu vadītāja pusē Regulējams braukšanas režīms Zema mazgāšanas šķidruma līmeņa bīdinājuma signāls Augstumā regulējami priekšējie sēdekļi Neredzamās zonas brīdinājuma sistēma+brīdinājuma sistēma, braucot atpakaļgaitā (BSD+RCTA) PK0010 500 Elektrības padeves funkcija no automašīnas līdz 3,5k W jaudai un iekšējā kontaktligzda 230V Bremžu sistēma ar ABS un EBD Elektroniskā stabilitātes sistēma (ESC) + palīgssistēma braukšanas uzsākšanai kalnā (HAS) Avārijas stopsignāls (ESS) Automobiļa stabilitātes kontroles sistēma (VSM) Bremzēšanas palīgsistēma (BAS) TPMS - Riepu spiediena kontroles sistēma Joslu mainīšanas brīdinājuma sistēma (LKAS) , iekļauj vadītāja uzmanības novēršanas brīdinājumu Priekšējās sadursmes brīdinājuma asistents, ar automašīnas/gājēju/velosipēda noteikšanas sistēmu Ātruma ierobežojuma brīdinājuma sistēma Parkošanās sensori priekšā/aizmugurē Atpakaļskata kamera ar dinamiskajām līnijām Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari Priekšējā pasažiera drošības spilvena ieslēgšanas/atslēgšanas slēdzis Bērnu sēdeklīšu stiprinājumi (ISOFIX) Elektriskā stāvbremze (EPB) Automātiskā durvju bloķēšanās uzsākot kustību + Durvju atblokēšana pie trieciena Imobilaizers Priekšējās sadursmes novēršanas sistēma (FCA-JX) ar transportlīdzekļa sensoru un avārijas bremzēšanu krustojumā, veicot kreiso pagriezienu e Call automātiska ārkārtas izsaukuma sistēma Siltumsūknis Bluetooth brīvroku sistēma Audiosistēmas distances vadība USB pieslēgums 2 augsto frekvenču skaļruņi 10,25 \"dubultā skārienekrāna audio un navigācijas sistēma (ietver radio, RDS, Bluetooth ar balss atpazīšanu, atpakaļskata kameru ar dinamiskām vadlīnijām, Apple Car Play/Android Auto jungtys) Vieglmetāla diski 20\", riepas izmērs 255/45 R20 EWAAVE - - Bojātas riepas remonta komplekts",
+      "confidence": 0.6400000000000001,
+      "type": "pattern",
+      "learned_from": "Pattern: elektriski"
+    }
+  ],
+  "NR47": [
+    {
+      "text": "EV dzinējs 168,1k W; baterija 84k Wh RWD Automātiskā GT Line 16.90 2 495 55 990 Elkoņu balsts vadītāja sēdeklim Elkoņu balsts aizmugurē Elektroniskais pārnesumu pārslēgs Atverams kosmētikas spogulis ar apgaismojumu Saliekamie 60:40 aizmugurējie sēdekļi ar slēpju lūku Papildus nodalījums bagāžas telpā, bagāžnieka tīkls, 12V rozete - Pedāļi ar metāla apdari - - Apkārtējais salona apgaismojums - Pašaptumšojošs atpakaļskata spogulis Supervision instrumentu panelis ar 12,3\" LED apgaismi Vegānas ādas apdares stūre GT line interjera element Zamšādas melns sēdekļu apdare ar baltu vegāna ādas balstu Aizmugurējais spoileris Saules starus absorbējošs vējstikls un priekšēji sānu stikli Tumši aizmugurējais stikls un aizmugurējo durvju logi High Glossy atpakaļskata spoguļi - LED dienas gaitas lukturi LED aizmugures lukturi LED aizmugures miglas lukturi Regulējami galvas balsti Inteliģenta Matrix LED priekšējā apgaismojuma sistēma ELAAD1 - 700 Ārējie durvju rokturi virsbūves krāsā Attālināta bagāžnieka atvēršana un elektriski slēptie durvju rokturi Gt line eksterjera elementi Viedtālruņa bezvadu lādētājs Ventilējami priekšējie sēdekļi un apsildāmi aizmugures sēdekļi Adaptīvā kruīza kontrole Divzonu automātiskā klimata kontrole Elektriski regulējami spoguļi ar apsildi Elektriski nolokāmi, regulējami un apsildāmi sānskata spoguļi ar pagrieziena indikāciju Elektriski vadāmi priekšējie un aizmugures durvju logi ar automātisko \"up&down\" funkciju priekšējiem logiem Tālo gaismu automātiskā pārslēgšanās Stūres rata augstuma un dziļuma regulēšana Lietus sensors Apsildāmi priekšējie sēdekļi Elektriski apsildāma stūre Inteliģentā atslēga Smart key Elektrisku muguras izliekuma regulēšanu vadītāja pusē Regulējams braukšanas režīms Zema mazgāšanas šķidruma līmeņa bīdinājuma signāls Augstumā regulējami priekšējie sēdekļi Neredzamās zonas brīdinājuma sistēma+brīdinājuma sistēma, braucot atpakaļgaitā (BSD+RCTA) PK0010 500 Elektrības padeves funkcija no automašīnas līdz 3,5k W jaudai un iekšējā kontaktligzda 230V Bremžu sistēma ar ABS un EBD Elektroniskā stabilitātes sistēma (ESC) + palīgssistēma braukšanas uzsākšanai kalnā (HAS) Avārijas stopsignāls (ESS) Automobiļa stabilitātes kontroles sistēma (VSM) Bremzēšanas palīgsistēma (BAS) TPMS - Riepu spiediena kontroles sistēma Joslu mainīšanas brīdinājuma sistēma (LKAS) , iekļauj vadītāja uzmanības novēršanas brīdinājumu Priekšējās sadursmes brīdinājuma asistents, ar automašīnas/gājēju/velosipēda noteikšanas sistēmu Ātruma ierobežojuma brīdinājuma sistēma Parkošanās sensori priekšā/aizmugurē Atpakaļskata kamera ar dinamiskajām līnijām Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari Priekšējā pasažiera drošības spilvena ieslēgšanas/atslēgšanas slēdzis Bērnu sēdeklīšu stiprinājumi (ISOFIX) Elektriskā stāvbremze (EPB) Automātiskā durvju bloķēšanās uzsākot kustību + Durvju atblokēšana pie trieciena Imobilaizers Priekšējās sadursmes novēršanas sistēma (FCA-JX) ar transportlīdzekļa sensoru un avārijas bremzēšanu krustojumā, veicot kreiso pagriezienu e Call automātiska ārkārtas izsaukuma sistēma Siltumsūknis Bluetooth brīvroku sistēma Audiosistēmas distances vadība USB pieslēgums 2 augsto frekvenču skaļruņi 10,25 \"dubultā skārienekrāna audio un navigācijas sistēma (ietver radio, RDS, Bluetooth ar balss atpazīšanu, atpakaļskata kameru ar dinamiskām vadlīnijām, Apple Car Play/Android Auto jungtys) Vieglmetāla diski 20\", riepas izmērs 255/45 R20 EWAAVE - - Bojātas riepas remonta komplekts",
+      "confidence": 0.6400000000000001,
+      "type": "pattern",
+      "learned_from": "Pattern: automātiska"
+    }
+  ],
+  "NR54": [
+    {
+      "text": "EV dzinējs 168,1k W; baterija 84k Wh RWD Automātiskā GT Line 16.90 2 495 55 990 Elkoņu balsts vadītāja sēdeklim Elkoņu balsts aizmugurē Elektroniskais pārnesumu pārslēgs Atverams kosmētikas spogulis ar apgaismojumu Saliekamie 60:40 aizmugurējie sēdekļi ar slēpju lūku Papildus nodalījums bagāžas telpā, bagāžnieka tīkls, 12V rozete - Pedāļi ar metāla apdari - - Apkārtējais salona apgaismojums - Pašaptumšojošs atpakaļskata spogulis Supervision instrumentu panelis ar 12,3\" LED apgaismi Vegānas ādas apdares stūre GT line interjera element Zamšādas melns sēdekļu apdare ar baltu vegāna ādas balstu Aizmugurējais spoileris Saules starus absorbējošs vējstikls un priekšēji sānu stikli Tumši aizmugurējais stikls un aizmugurējo durvju logi High Glossy atpakaļskata spoguļi - LED dienas gaitas lukturi LED aizmugures lukturi LED aizmugures miglas lukturi Regulējami galvas balsti Inteliģenta Matrix LED priekšējā apgaismojuma sistēma ELAAD1 - 700 Ārējie durvju rokturi virsbūves krāsā Attālināta bagāžnieka atvēršana un elektriski slēptie durvju rokturi Gt line eksterjera elementi Viedtālruņa bezvadu lādētājs Ventilējami priekšējie sēdekļi un apsildāmi aizmugures sēdekļi Adaptīvā kruīza kontrole Divzonu automātiskā klimata kontrole Elektriski regulējami spoguļi ar apsildi Elektriski nolokāmi, regulējami un apsildāmi sānskata spoguļi ar pagrieziena indikāciju Elektriski vadāmi priekšējie un aizmugures durvju logi ar automātisko \"up&down\" funkciju priekšējiem logiem Tālo gaismu automātiskā pārslēgšanās Stūres rata augstuma un dziļuma regulēšana Lietus sensors Apsildāmi priekšējie sēdekļi Elektriski apsildāma stūre Inteliģentā atslēga Smart key Elektrisku muguras izliekuma regulēšanu vadītāja pusē Regulējams braukšanas režīms Zema mazgāšanas šķidruma līmeņa bīdinājuma signāls Augstumā regulējami priekšējie sēdekļi Neredzamās zonas brīdinājuma sistēma+brīdinājuma sistēma, braucot atpakaļgaitā (BSD+RCTA) PK0010 500 Elektrības padeves funkcija no automašīnas līdz 3,5k W jaudai un iekšējā kontaktligzda 230V Bremžu sistēma ar ABS un EBD Elektroniskā stabilitātes sistēma (ESC) + palīgssistēma braukšanas uzsākšanai kalnā (HAS) Avārijas stopsignāls (ESS) Automobiļa stabilitātes kontroles sistēma (VSM) Bremzēšanas palīgsistēma (BAS) TPMS - Riepu spiediena kontroles sistēma Joslu mainīšanas brīdinājuma sistēma (LKAS) , iekļauj vadītāja uzmanības novēršanas brīdinājumu Priekšējās sadursmes brīdinājuma asistents, ar automašīnas/gājēju/velosipēda noteikšanas sistēmu Ātruma ierobežojuma brīdinājuma sistēma Parkošanās sensori priekšā/aizmugurē Atpakaļskata kamera ar dinamiskajām līnijām Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari Priekšējā pasažiera drošības spilvena ieslēgšanas/atslēgšanas slēdzis Bērnu sēdeklīšu stiprinājumi (ISOFIX) Elektriskā stāvbremze (EPB) Automātiskā durvju bloķēšanās uzsākot kustību + Durvju atblokēšana pie trieciena Imobilaizers Priekšējās sadursmes novēršanas sistēma (FCA-JX) ar transportlīdzekļa sensoru un avārijas bremzēšanu krustojumā, veicot kreiso pagriezienu e Call automātiska ārkārtas izsaukuma sistēma Siltumsūknis Bluetooth brīvroku sistēma Audiosistēmas distances vadība USB pieslēgums 2 augsto frekvenču skaļruņi 10,25 \"dubultā skārienekrāna audio un navigācijas sistēma (ietver radio, RDS, Bluetooth ar balss atpazīšanu, atpakaļskata kameru ar dinamiskām vadlīnijām, Apple Car Play/Android Auto jungtys) Vieglmetāla diski 20\", riepas izmērs 255/45 R20 EWAAVE - - Bojātas riepas remonta komplekts",
+      "confidence": 0.6400000000000001,
+      "type": "pattern",
+      "learned_from": "Pattern: automātiska"
+    }
+  ]
+}
+
+NR25: Yes | Elektrības padeves funkcija no automašīnas līdz 3,5k W jaudai
+NR26: Yes | Siltumsūknis
+NR28: No | 
+NR30: No | 
+NR32: Yes | Elektriski regulējami spoguļi ar apsildi
+NR33: Yes | Elektriski nolokāmi, regulējami un apsildāmi sānskata spoguļi
+NR34: No | 
+NR35: Maybe | Lietus sensors
+NR36: Yes | Tumši aizmugurējais stikls un aizmugurējo durvju logi
+NR37: No | 
+NR38: No | 
+NR39: No | 
+NR40: No | 
+NR41: No | 
+NR42: No | 
+NR44: Yes | LED dienas gaitas lukturi
+NR45: No | 
+NR46: No | 
+NR47: Yes | Tālo gaismu automātiskā pārslēgšanās
+NR48: No | 
+NR49: No | 
+NR50: No | 
+NR51: Yes | Inteliģenta Matrix LED priekšējā apgaismojuma sistēma
+NR53: No | 
+NR54: Yes | Divzonu automātiskā klimata kontrole
+NR55: No | 
+NR56: No | 
+NR57: Yes | Apkārtējais salona apgaismojums
+NR58: Yes | Elkoņu balsts vadītāja sēdeklim
+NR59: Yes | Pašaptumšojošs atpakaļskata spogulis
+NR60: Yes | 12V rozete
+NR61: Yes | Viedtālruņa bezvadu lādētājs
+NR63: No | 
+NR64: No | 
+NR65: No | 
+NR66: Yes | 10,25 "dubultā skārienekrāna audio un navigācijas sistēma
+NR67: No | 
+NR68: No | 
+NR69: No | 
+NR70: Yes | Apple Car Play/Android Auto jungtys
+NR71: No | 
+NR72: No | 
+NR73: No | 
+NR75: Yes | Elektriski apsildāma stūre
+NR76: No | 
+NR77: No | 
+NR78: No | 
+NR79: Yes | Supervision instrumentu panelis ar 12,3" LED apgaismi
+NR81: Yes | Apsildāmi priekšējie sēdekļi
+NR82: Yes | Apsildāmi priekšējie sēdekļi
+NR83: Yes | apsildāmi aizmugures sēdekļi
+NR84: No | 
+NR85: No | 
+NR86: Yes | Elektrisku muguras izliekuma regulēšanu vadītāja pusē
+NR87: No | 
+NR88: No | 
+NR89: No | 
+NR90: No | 
+NR91: No | 
+NR92: No | 
+NR93: No | 
+NR94: No | 
+NR96: No | 
+NR97: No | 
+NR98: Yes | Neredzamās zonas brīdinājuma sistēma+brīdinājuma sistēma, braucot atpakaļgaitā (BSD+RCTA)
+NR99: No | 
+NR100: Yes | Adaptīvā kruīza kontrole
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: No | 
+NR105: No | 
+NR106: Yes | Atpakaļskata kamera ar dinamiskajām līnijām
+NR107: Yes | Parkošanās sensori priekšā
+NR108: Yes | Parkošanās sensori aizmugurē
+NR110: Yes | Priekšējās sadursmes brīdinājuma asistents, ar automašīnas/gājēju/velosipēda noteikšanas sistēmu
+NR111: No | 
+NR112: No | 
+NR113: Yes | Elektriskā stāvbremze (EPB)
+NR115: No | 
+NR116: No | 
+NR117: No | 
+NR118: No | 
+NR119: No | 
+NR120: No | 
+NR121: No | 
+NR122: Yes | Vieglmetāla diski 20", riepas izmērs 255/45 R20
+NR123: No | 
+NR124: No | 
+NR126: No | 
+NR127: Yes | Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari
+NR128: Yes | Priekšējie gaisa drošības spilveni, sānu un augšējie gaisa drošības spilveni -aizkari
+NR129: No | 
+NR130: No | 
+NR131: No | 
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No | 

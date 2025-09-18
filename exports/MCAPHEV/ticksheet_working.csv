@@ -1,0 +1,117 @@
+Nr Code,Variable Name,Is TT,Match (Yes/No/Maybe),Include,Matching Text,LLM_Reason,Accepted
+NR30,— PIEDZIŅA —,Y,,,,,
+NR31,4X4 Full time (4WD / AWD),N,No,N,No (0Y/0M/3N),,
+NR32,— PĀRNESUMKĀRBA —,Y,,,,,
+NR33,Automātiskā pārnesumkārba,N,No,N,No (0Y/0M/3N),,
+NR34,— HIBRĪDA TEHNOLOĢIJA —,Y,,,,,
+NR35,mHEV,N,No,N,No (0Y/0M/3N),,
+NR36,FHEV,N,No,N,No (0Y/0M/3N),,
+NR37,PHEV,N,No,N,No (0Y/0M/3N),,
+NR38,— KRĀSA —,Y,,,,,
+NR39,Metāliska krāsa kā standarts,N,No,N,No (0Y/0M/3N),,
+NR40,— ĀRĒJAIS IZSKATS -  FUNKCIONALITĀTE —,Y,,,,,
+NR41,Durvju spoguļi - elektriski/sildāmi,N,Yes,Y,Maybe (2Y/0M/1N),"""Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi""",X
+NR42,Durvju spoguļi - elektriski/sildāmi/salokāmi,N,Yes,Y,Yes (3Y/0M/0N),"""Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi""",X
+NR43,Priekšējie vējstikla tīrītāji - automātiski,N,No,N,No (0Y/1M/2N),"""Gaismas asistents (Light Assist) ar lietus sensoru""",
+NR44,Stikls - tonēts ar privātuma aizsardzību aizmugurē,N,Maybe,Y,Maybe (2Y/1M/0N),"""aizmugurējo stiklu 35% tonējums (Sun Set)""",X
+NR45,Sildāms vējstikls,N,No,N,No (0Y/0M/3N),,
+NR46,Bagāžnieka durvis - elektriskas,N,Yes,Y,Yes (3Y/0M/0N),"""elektriski atveramas un aizveramas bagāžas nodalījuma durvis ar 'Virtual Pedal'""",X
+NR47,Jumta sliedes,N,No,N,No (0Y/0M/3N),,
+NR48,Panorāmas jumts,N,Yes,Y,Yes (3Y/0M/0N),"""Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe)""",X
+NR49,— ĀRĒJAIS IZSKATS -  APGAISMOJUMS —,Y,,,,,
+NR50,Dienas gaismas - LED,N,Yes,Y,Yes (3Y/0M/0N),"""automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus""",X
+NR51,Priekšējie miglas lukturi - LED,N,No,N,No (0Y/0M/3N),,
+NR52,Priekšējie miglas lukturi - LED integrēti,N,No,N,No (0Y/0M/3N),,
+NR53,Priekšējo lukturu vadība - automātiska ieslēgšana/izslēgšana,N,No,N,Yes (3Y/0M/0N),"""automātiski ieslēdz tuvās gaismas""",
+NR54,Priekšējo lukturu vadība - automātiska ieslēgšana/izslēgšana un tālās/tuvās gaismas,N,Yes,Y,Maybe (2Y/0M/1N),"""Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus""",X
+NR55,Priekšējie lukturi - LED,N,Yes,Y,Yes (3Y/0M/0N),"""LED priekšējie un aizmugurējie lukturi""",X
+NR56,Priekšējie lukturi - adaptīvie LED bez Matrix vai Glare Free,N,No,N,No (0Y/1M/2N),"""LED matricu priekšējie lukturi""",
+NR57,Priekšējie lukturi - adaptīvie LED ar Matrix vai Glare Free,N,Yes,Y,Yes (3Y/0M/0N),"""LED matricu priekšējie lukturi""",X
+NR58,— INTERJERS -  KOMFORTS/ĒRTĪBAS —,Y,,,,,
+NR59,Gaisa kondicionētājs,N,No,N,No (0Y/0M/3N),,
+NR60,Gaisa kondicionētājs - EATC 1 zona,N,No,N,No (0Y/0M/3N),,
+NR61,Gaisa kondicionētājs - EATC 2 zonas,N,No,N,No (0Y/0M/3N),,
+NR62,Gaisa kondicionētājs - EATC 3 zonas,N,Yes,Y,Yes (3Y/0M/0N),"""3-zonu klimata kontrole (Climatronic)""",X
+NR63,Salona gaisa attīrītājs,N,No,N,No (0Y/0M/3N),,
+NR64,Apgaismojums - Interjers ar daudzkrāsu LED,N,No,N,Maybe (1Y/2M/0N),"""salona LED apgaismojuma pakotne""",
+NR65,Centrālā konsole ar roku balstu,N,Yes,Y,Yes (3Y/0M/0N),"""Priekšējais elkoņbalsts ar sīklietu novietni""",X
+NR66,Automātiski tumšojams salona spogulis,N,Yes,Y,Yes (3Y/0M/0N),"""Salona atpakaļskata spogulis ar automātisku aptumšošanos""",X
+NR67,12 V bagāžas nodalījumā,N,Yes,Y,Yes (3Y/0M/0N),"""12V rozete bagāžas nodalījumā""",X
+NR68,Bezvadu uzlāde,N,Yes,Y,Yes (3Y/0M/0N),"""komforta telefonija ar 15W tālruņa bezvadu uzlādi""",X
+NR69,— INTERJERS – IN CAR ENTERTAINMENT/KOMUNIKĀCIJAS —,Y,,,,,
+NR70,"Daudzfunkcionāls skārienjūtīgais ekrāns – 6–7,9 collas",N,No,N,No (0Y/0M/3N),,
+NR71,"Daudzfunkcionāls skārienjūtīgais ekrāns – 8–9,9 collas",N,No,N,No (0Y/0M/3N),,
+NR72,"Daudzfunkcionāls skārienjūtīgais ekrāns – 10–11,9 collas",N,No,N,No (0Y/0M/3N),,
+NR73,"Daudzfunkcionāls skārienjūtīgais ekrāns – 12 collas """,N,Yes,Y,No (0Y/0M/3N),,X
+NR74,Zīmola audio sistēma,N,No,N,No (0Y/0M/3N),,
+NR75,Navigācijas centrs,N,No,N,Yes (3Y/0M/0N),"""navigācijas sistēma ar multivides pakotnes 'Infotainment Online' 3 gadu abonementu""",
+NR76,Navigācijas centrs - savienots,N,Yes,Y,Yes (3Y/0M/0N),"""navigācijas sistēma ar multivides pakotnes 'Infotainment Online' 3 gadu abonementu""",X
+NR77,Android Auto un Apple CarPlay,N,No,N,No (0Y/0M/3N),,
+NR78,Android Auto un Apple CarPlay - bezvadu,N,No,N,No (0Y/0M/3N),,
+NR79,Vieds palīgs ar AI,N,No,N,No (0Y/0M/3N),,
+NR80,Avārijas zvans,N,Yes,Y,Yes (3Y/0M/0N),"""Ārkārtas zvana funkcija""",X
+NR81,Head - Up displejs,N,No,N,No (0Y/0M/3N),,
+NR82,— INTERJERS -  INSTRUMENTI/VADĪBAS ELEMENTI —,Y,,,,,
+NR83,Apsildāms stūres rats,N,Yes,Y,Yes (3Y/0M/0N),"""3-spieķu multifunkcionāla ādas sporta stūre ar apsildi""",X
+NR84,Ādas (ieskaitot Sensico) stūres rats,N,No,N,Yes (3Y/0M/0N),"""3-spieķu multifunkcionāla ādas sporta stūre""",
+NR85,"Digitālais displejs – līdz 8,9 collām",N,No,N,No (0Y/0M/3N),,
+NR86,"Digitālais displejs 9–11,9 collas",N,No,N,No (0Y/0M/3N),,
+NR87,Digitālais displejs 12+ collas,N,No,N,No (0Y/0M/3N),,
+NR88,— INTERJERS – SĒDEKĻI —,Y,,,,,
+NR89,Apsildāms vadītāja sēdeklis,N,No,N,No (0Y/0M/3N),,
+NR90,Apsildāms pasažiera sēdeklis,N,Yes,Y,No (0Y/0M/3N),,X
+NR91,Apsildāmi aizmugurējie sēdekļi,N,No,N,No (0Y/0M/3N),,
+NR92,Vadītāja sēdekļa jostasvietas regulēšana manuāli,N,No,N,No (0Y/0M/3N),,
+NR93,Pasažiera sēdekļa jostasvietas regulēšana manuāli,N,No,N,No (0Y/0M/3N),,
+NR94,Vadītāja sēdekļa jostasvietas regulēšana elektriski,N,No,N,No (0Y/0M/3N),,
+NR95,Pasažiera sēdekļa jostasvietas regulēšana elektriski,N,No,N,No (0Y/0M/3N),,
+NR96,Vadītāja sēdekļa regulēšana elektriski,N,Yes,Y,Yes (3Y/0M/0N),"""Elektriski regulējams vadītāja sēdeklis""",X
+NR97,Pasažiera sēdekļa regulēšana elektriski,N,No,N,No (0Y/0M/3N),,
+NR98,Vadītāja sēdekļa regulēšana elektriski un ar atmiņu,N,Yes,Y,Yes (3Y/0M/0N),"""Elektriski regulējams vadītāja sēdeklis ar atmiņas funkciju""",X
+NR99,Pasažiera sēdekļa regulēšana elektriski un ar atmiņu,N,No,N,No (0Y/0M/3N),,
+NR100,Sēdekļu apdare – audums/sintētiskā āda,N,No,N,No (0Y/0M/3N),,
+NR101,Sēdekļu apdare – Alcantara/sintētiskā āda,N,Yes,Y,No (0Y/1M/2N),"""Suedia/mākslīgās ādas salona apdare""",X
+NR102,Sēdekļu apdare – sintētiskā āda,N,No,N,Maybe (1Y/0M/2N),"""Suedia/mākslīgās ādas salona apdare""",
+NR103,— INTERJERS – VADĪTĀJA PALĪDZĪBAS TEHNOLOĢIJAS —,Y,,,,,
+NR104,Automātiskā parkošanās sistēma,N,No,N,No (0Y/0M/3N),,
+NR105,Aklās zonas uzraudzība,N,Yes,Y,Yes (3Y/0M/0N),"""Aklo zonu kontroles sistēma 'Side Assist'""",X
+NR106,Aklās zonas uzraudzība ar šķērssatiksmes brīdinājumu,N,No,N,No (0Y/0M/3N),,
+NR107,Kruīza kontrole,N,No,N,Maybe (1Y/0M/2N),"""Adaptīvā kruīza kontrole""",
+NR108,Kruīza kontrole – adaptīvā,N,Yes,Y,Yes (3Y/0M/0N),"""Adaptīvā kruīza kontrole""",X
+NR109,Kruīza kontrole – adaptīvā Stop&Go,N,No,N,No (0Y/0M/3N),,
+NR110,Kruīza kontrole – adaptīvā satiksmes sastrēgumu gadījumā,N,No,N,No (0Y/0M/3N),,
+NR111,"Kruīza kontrole – adaptīvā, balstīta uz navigācijas sistēmu",N,No,N,No (0Y/0M/3N),,
+NR112,Joslas centrēšanas un apdzīšanas palīgs,N,No,N,No (0Y/0M/3N),,
+NR113,Kamera – priekšā 360° skats,N,No,N,No (0Y/0M/3N),,
+NR114,Kamera - aizmugurē 180° skats,N,Yes,Y,Yes (3Y/0M/0N),"""atpakaļskata kamera""",X
+NR115,Parkošanās palīgsistēma - priekšējie sensori,N,Yes,Y,Yes (3Y/0M/0N),"""Stāvvietā novietošanas sensori priekšā""",X
+NR116,Parkošanās palīgsistēma - aizmugurējie sensori,N,Yes,Y,Yes (3Y/0M/0N),"""Stāvvietā novietošanas sensori aizmugurē""",X
+NR117,— MEHĀNIKA -  ŠASIJA —,Y,,,,,
+NR118,AEBS ar gājēju un velosipēdistu atpazīšanu,N,Yes,Y,Yes (3Y/0M/0N),"""gājēju un velobraucēju uzraudzības sistēma""",X
+NR119,Sadursmes mīkstināšana – 2. sadursme,N,No,N,No (0Y/0M/3N),,
+NR120,Stāvbremze - elektriska,N,Yes,Y,Yes (3Y/0M/0N),"""Elektroniskā stāvbremze ar 'Autohold' funkciju""",X
+NR121,— MEHĀNIKA -  RITEŅI/RIEPAS —,Y,,,,,
+NR122,"16"" tērauda riteņi",N,No,N,No (0Y/0M/3N),,
+NR123,"16"" vieglmetāla riteņi",N,No,N,No (0Y/0M/3N),,
+NR124,"17"" tērauda riteņi",N,No,N,No (0Y/0M/3N),,
+NR125,"17"" vieglmetāla riteņi",N,No,N,No (0Y/0M/3N),,
+NR126,"18"" tērauda riteņi",N,No,N,No (0Y/0M/3N),,
+NR127,"18"" vieglmetāla riteņi",N,No,N,No (0Y/0M/3N),,
+NR128,"19"" vieglmetāla riteņi",N,No,N,No (0Y/0M/3N),,
+NR129,Rezerves ritenis,N,No,N,No (0Y/0M/3N),,
+NR130,Riteņu pārsegi,N,No,N,No (0Y/0M/3N),,
+NR131,— DROŠĪBA UN AIZSARDZĪBA —,Y,,,,,
+NR132,Gaisa spilveni – ceļgaliem vai centrā,N,Yes,Y,Yes (3Y/0M/0N),"""centrālais drošības spilveni""",X
+NR133,Gaisa spilveni – aizkari,N,Yes,Y,Yes (3Y/0M/0N),"""Galvas drošības spilvenu sistēma (aizkari)""",X
+NR134,Gaisa spilveni – sānos,N,Yes,Y,Yes (3Y/0M/0N),"""priekšējie sānu un centrālais drošības spilveni""",X
+NR135,Signalizācija – perimetrs,N,No,N,No (0Y/0M/3N),,
+NR136,Bezatslēgas iedarbināšana,N,Yes,Y,Yes (3Y/0M/0N),"""Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy""",X
+NR137,Bezatslēgas piekļuve,N,Yes,Y,Yes (3Y/0M/0N),"""Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy""",X
+NR138,— GARANTIJA —,Y,,,,,
+NR139,Pagarināta garantija – 2 gadi,N,No,N,No (0Y/0M/3N),,
+NR140,Pagarināta garantija – 3 gadi,N,No,N,No (0Y/0M/3N),,
+NR141,Pagarināta garantija – 4 gadi,N,No,N,No (0Y/0M/3N),,
+NR142,Pagarināta garantija – 5 gadi,N,Yes,Y,Yes (3Y/0M/0N),"""Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu""",X
+NR143,Pagarināta garantija – 6 gadi,N,No,N,No (0Y/0M/3N),,
+NR144,Pagarināta garantija – 7 gadi,N,No,N,No (0Y/0M/3N),,
+NR145,Pagarināta garantija – 10 gadi,N,No,N,No (0Y/0M/3N),,

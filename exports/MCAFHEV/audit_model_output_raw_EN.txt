@@ -1,0 +1,12 @@
+```
+NR24,4X4 Full Time (4WD / AWD),N,No,,""
+NR26,Automatic Transmission,N,No,,""
+NR27,Hybrid Technology,Y,No,,""
+NR31,Paint,Y,Yes,"""Krāsojuma garantija""","Paint warranty mentioned"
+NR33,Exterior -  Functional,Y,Yes,"""Ārkārtas un avārijas izsaukums (eCall)""","Emergency call system is a functional exterior feature"
+NR34,Door Mirrors - Power/Heated,N,Yes,"""Apsildāmi un automātiski pielokāmi sānu spoguļi""","Heated and power-folding side mirrors found"
+NR36,Front Wipers - Automatic,N,No,,""
+NR42,Exterior -  Lights,Y,Yes,"""LED priekšējie lukturi""","LED front headlights found"
+NR51,Cruise Control,N,Yes,"""Kruīza kontrole ar ātruma ierobežotāju""","Cruise control found"
+NR81,Interior -  Seats,Y,Yes,"""Monoformas sporta stila sēdekļi ar melnu auduma apdari""","Sport style seats found"
+```

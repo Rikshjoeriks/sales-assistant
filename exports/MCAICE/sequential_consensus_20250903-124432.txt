@@ -1,0 +1,552 @@
+=== CONSENSUS ATTEMPT 1 ===
+NR24: No | 
+
+NR26: No | 
+
+NR28: No | 
+
+NR29: No | 
+
+NR30: No | 
+
+NR32: No | 
+
+NR34: Yes | "Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi"
+
+NR35: Yes | "Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi"
+
+NR36: No | 
+
+NR37: No | 
+
+NR38: No | 
+
+NR39: No | 
+
+NR40: Yes | "Jumta reliņi, melni (nav piejami Coupe)"
+
+NR41: Yes | "Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe)"
+
+NR43: Yes | "LED priekšējie un aizmugurējie lukturi"
+
+NR44: No | 
+
+NR45: No | 
+
+NR46: No | 
+
+NR47: Yes | "Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus."
+
+NR48: Yes | "LED priekšējie un aizmugurējie lukturi"
+
+NR49: Yes | "LED priekšējie un aizmugurējie lukturi"
+
+NR51: Yes | "3-zonu klimata kontrole (Climatronic)"
+
+NR52: No | 
+
+NR53: No | 
+
+NR54: Yes | "3-zonu klimata kontrole (Climatronic)"
+
+NR55: No | 
+
+NR56: Yes | "Salona atpakaļskata spogulis ar automātisku aptumšošanos"
+
+NR57: Yes | "12V rozete bagāžas nodalījumā"
+
+NR58: No | 
+
+NR60: Yes | "13" skārienjūtīgs ekrāns, balss vadība"
+
+NR61: No | 
+
+NR62: No | 
+
+NR63: Yes | "13" skārienjūtīgs ekrāns"
+
+NR64: Yes | "navigācijas sistēma ar multivides pakotnes"
+
+NR65: Yes | "navigācijas sistēma ar multivides pakotnes "Infotainment Online" 3 gadu abonementu"
+
+NR66: No | 
+
+NR67: No | 
+
+NR68: Yes | "2x USB-C pieslēgvietas"
+
+NR69: Yes | "Ārkārtas zvana funkcija"
+
+NR70: No | 
+
+NR72: Yes | "2-spieķu multifunkcionāla ādas stūre ar apsildi"
+
+NR73: Yes | "2-spieķu multifunkcionāla ādas stūre ar apsildi"
+
+NR74: No | 
+
+NR76: Yes | "Priekšējo sēdekļu apsilde"
+
+NR77: No | 
+
+NR78: No | 
+
+NR79: No | 
+
+NR80: No | 
+
+NR81: No | 
+
+NR82: No | 
+
+NR83: No | 
+
+NR84: No | 
+
+NR86: No | 
+
+NR87: Yes | "Aklo zonu kontroles sistēma "Side Assist""
+
+NR88: No | 
+
+NR89: No | 
+
+NR90: Yes | "Ceļa zīmju atpazīšanas sistēma"
+
+NR91: Yes | "Adaptīvā kruīza kontrole"
+
+NR92: Yes | "Adaptīvā kruīza kontrole"
+
+NR93: No | 
+
+NR94: Yes | "Joslu palīgsistēma "Lane Assistant""
+
+NR95: No | 
+
+NR96: No | 
+
+NR97: No | 
+
+NR98: Yes | "Stāvvietā novietošanas sensori priekšā un aizmugurē"
+
+NR99: Yes | "Stāvvietā novietošanas sensori priekšā un aizmugurē"
+
+NR101: Yes | "gājēju un velobraucēju uzraudzības sistēma"
+
+NR102: Yes | "gājēju uzraudzības sistēma"
+
+NR103: Yes | "automātiska ātruma samazināšana un pilnīga apstāšanās iespējamās frontālās sadursmes gadījumā- avārijas bremzēšana pilsētā"
+
+NR104: No | 
+
+NR105: Yes | "Elektroniskā stāvbremze ar "Autohold" funkciju"
+
+NR107: No | 
+
+NR108: No | 
+
+NR109: No | 
+
+NR110: No | 
+
+NR111: No | 
+
+NR112: Yes | "19" vieglmetāla diski PROTEUS."
+
+NR113: No | 
+
+NR114: No | 
+
+NR116: Yes | "Galvas drošības spilvenu sistēma (aizkari) un priekšējie sānu un centrālais drošības spilveni"
+
+NR117: Yes | "Galvas drošības spilvenu sistēma (aizkari) un priekšējie sānu un centrālais drošības spilveni"
+
+NR118: Yes | "priekšējie sānu un centrālais drošības spilveni"
+
+NR119: Yes | "Signalizācija ar salona aizsardzības funkciju un pretaizvilkšanas aizsardzību"
+
+NR120: Yes | "Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy"
+
+NR121: Yes | "Bezatslēgas piekļuve"
+
+NR123: No | 
+
+NR124: No | 
+
+NR125: No | 
+
+NR126: Yes | "Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu"
+
+NR127: No | 
+
+NR128: No | 
+
+NR129: No | 
+=== CONSENSUS ATTEMPT 2 ===
+NR24: No | 
+
+NR26: No | 
+
+NR28: No | 
+
+NR29: No | 
+
+NR30: No | 
+
+NR32: No | 
+
+NR34: Yes | "Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi"
+
+NR35: Yes | "Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi"
+
+NR36: No | 
+
+NR37: No | 
+
+NR38: No | 
+
+NR39: No | 
+
+NR40: Yes | "Jumta reliņi, melni (nav piejami Coupe)"
+
+NR41: Yes | "Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe)"
+
+NR43: Yes | "LED priekšējie un aizmugurējie lukturi"
+
+NR44: No | 
+
+NR45: No | 
+
+NR46: No | 
+
+NR47: Yes | "Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus."
+
+NR48: Yes | "LED priekšējie un aizmugurējie lukturi"
+
+NR49: Yes | "LED priekšējie un aizmugurējie lukturi"
+
+NR51: Yes | "3-zonu klimata kontrole (Climatronic)"
+
+NR52: No | 
+
+NR53: No | 
+
+NR54: Yes | "3-zonu klimata kontrole (Climatronic)"
+
+NR55: Yes | "Priekšējais elkoņbalsts ar sīklietu novietni"
+
+NR56: Yes | "Salona atpakaļskata spogulis ar automātisku aptumšošanos"
+
+NR57: Yes | "12V rozete bagāžas nodalījumā"
+
+NR58: No | 
+
+NR60: Yes | "13" skārienjūtīgs ekrāns"
+
+NR61: No | 
+
+NR62: No | 
+
+NR63: Yes | "13" skārienjūtīgs ekrāns"
+
+NR64: Yes | "navigācijas sistēma ar multivides pakotnes "Infotainment Online""
+
+NR65: No | 
+
+NR66: No | 
+
+NR67: No | 
+
+NR68: Yes | "2x USB-C pieslēgvietas"
+
+NR69: Yes | "Ārkārtas zvana funkcija"
+
+NR70: No | 
+
+NR72: Yes | "2-spieķu multifunkcionāla ādas stūre ar apsildi"
+
+NR73: Yes | "2-spieķu multifunkcionāla ādas stūre"
+
+NR74: No | 
+
+NR76: Yes | "Priekšējo sēdekļu apsilde"
+
+NR77: Yes | "Apsildāms pasažiera sēdeklis"
+
+NR78: No | 
+
+NR79: No | 
+
+NR80: No | 
+
+NR81: No | 
+
+NR82: No | 
+
+NR83: No | 
+
+NR84: No | 
+
+NR86: No | 
+
+NR87: Yes | "Aklo zonu kontroles sistēma "Side Assist""
+
+NR88: No | 
+
+NR89: No | 
+
+NR90: Yes | "Ceļa zīmju atpazīšanas sistēma ar multifunkcionālu kameru"
+
+NR91: Yes | "Adaptīvā kruīza kontrole"
+
+NR92: Yes | "Adaptīvā kruīza kontrole"
+
+NR93: No | 
+
+NR94: Yes | "Joslu palīgsistēma "Lane Assistant""
+
+NR95: No | 
+
+NR96: No | 
+
+NR97: No | 
+
+NR98: Yes | "Stāvvietā novietošanas sensori priekšā"
+
+NR99: Yes | "Stāvvietā novietošanas sensori aizmugurē"
+
+NR101: Yes | "gājēju un velobraucēju uzraudzības sistēma"
+
+NR102: No | 
+
+NR103: Yes | "avārijas bremzēšana pilsētā"
+
+NR104: No | 
+
+NR105: Yes | "Elektroniskā stāvbremze ar "Autohold" funkciju"
+
+NR107: No | 
+
+NR108: No | 
+
+NR109: No | 
+
+NR110: No | 
+
+NR111: No | 
+
+NR112: Yes | "19" vieglmetāla diski PROTEUS."
+
+NR113: No | 
+
+NR114: No | 
+
+NR116: Yes | "Galvas drošības spilvenu sistēma (aizkari)"
+
+NR117: Yes | "Galvas drošības spilvenu sistēma (aizkari)"
+
+NR118: Yes | "priekšējie sānu un centrālais drošības spilveni"
+
+NR119: Yes | "Signalizācija ar salona aizsardzības funkciju un pretaizvilkšanas aizsardzību"
+
+NR120: Yes | "Bezatslēgas piekļuves un dzinēja startēšana sistēma Kessy"
+
+NR121: Yes | "Bezatslēgas piekļuve"
+
+NR123: No | 
+
+NR124: No | 
+
+NR125: No | 
+
+NR126: Yes | "Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu"
+
+NR127: No | 
+
+NR128: No | 
+
+NR129: No |
+=== CONSENSUS ATTEMPT 3 ===
+NR24: No | 
+
+NR26: No | 
+
+NR28: No | 
+
+NR29: No | 
+
+NR30: No | 
+
+NR32: No | 
+
+NR34: Yes | "Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi"
+
+NR35: Yes | "Elektriski regulējami, nolokāmi, apsildāmi sānu atpakaļskata spoguļi"
+
+NR36: No | 
+
+NR37: No | 
+
+NR38: No | 
+
+NR39: No | 
+
+NR40: Yes | "Jumta reliņi, melni (nav piejami Coupe)"
+
+NR41: Yes | "Panorāmas stikla jumts ar tonētu stiklu (tikai Coupe)"
+
+NR43: Yes | "LED priekšējie un aizmugurējie lukturi"
+
+NR44: No | 
+
+NR45: No | 
+
+NR46: No | 
+
+NR47: Yes | "Gaismas asistents (Light Assist) ar lietus sensoru, atkarībā no apstākļiem automātiski ieslēdz tuvās gaismas vai dienas gaitas lukturus."
+
+NR48: Yes | "LED priekšējie un aizmugurējie lukturi"
+
+NR49: Yes | "LED priekšējie un aizmugurējie lukturi"
+
+NR51: No | 
+
+NR52: No | 
+
+NR53: No | 
+
+NR54: Yes | "3-zonu klimata kontrole (Climatronic)"
+
+NR55: Yes | "Priekšējais elkoņbalsts ar sīklietu novietni"
+
+NR56: Yes | "Salona atpakaļskata spogulis ar automātisku aptumšošanos"
+
+NR57: Yes | "12V rozete bagāžas nodalījumā"
+
+NR58: No | 
+
+NR60: Yes | "13" skārienjūtīgs ekrāns, balss vadība, Smart Link, digitālais radio, 2x USB-C pieslēgvietas"
+
+NR61: No | 
+
+NR62: No | 
+
+NR63: Yes | "13" skārienjūtīgs ekrāns, balss vadība, Smart Link, digitālais radio, 2x USB-C pieslēgvietas"
+
+NR64: Yes | "navigācijas sistēma ar multivides pakotnes 'Infotainment Online' 3 gadu abonementu"
+
+NR65: Yes | "navigācijas sistēma ar multivides pakotnes 'Infotainment Online' 3 gadu abonementu"
+
+NR66: No | 
+
+NR67: No | 
+
+NR68: Yes | "2x USB-C pieslēgvietas"
+
+NR69: Yes | "Ārkārtas zvana funkcija"
+
+NR70: No | 
+
+NR72: Yes | "2-spieķu multifunkcionāla ādas stūre ar apsildi"
+
+NR73: Yes | "2-spieķu multifunkcionāla ādas stūre ar apsildi"
+
+NR74: No | 
+
+NR76: Yes | "Priekšējo sēdekļu apsilde"
+
+NR77: Yes | "Priekšējo sēdekļu apsilde"
+
+NR78: No | 
+
+NR79: No | 
+
+NR80: No | 
+
+NR81: No | 
+
+NR82: No | 
+
+NR83: No | 
+
+NR84: No | 
+
+NR86: No | 
+
+NR87: Yes | "Aklo zonu kontroles sistēma 'Side Assist' uzrauga satiksmi automašīnas sānos un aizmugurē"
+
+NR88: No | 
+
+NR89: No | 
+
+NR90: Yes | "Ceļa zīmju atpazīšanas sistēma ar multifunkcionālu kameru"
+
+NR91: Yes | "Adaptīvā kruīza kontrole"
+
+NR92: Yes | "Adaptīvā kruīza kontrole"
+
+NR93: No | 
+
+NR94: Yes | "Joslu palīgsistēma 'Lane Assistant'"
+
+NR95: No | 
+
+NR96: No | 
+
+NR97: No | 
+
+NR98: Yes | "Stāvvietā novietošanas sensori priekšā un aizmugurē + atpakaļskata kamera"
+
+NR99: Yes | "Stāvvietā novietošanas sensori priekšā un aizmugurē + atpakaļskata kamera"
+
+NR101: Yes | "gājēju un velobraucēju uzraudzības sistēma"
+
+NR102: Yes | "gājēju un velobraucēju uzraudzības sistēma"
+
+NR103: Yes | "avārijas bremzēšana pilsētā"
+
+NR104: No | 
+
+NR105: Yes | "Elektroniskā stāvbremze ar 'Autohold' funkciju"
+
+NR107: No | 
+
+NR108: No | 
+
+NR109: No | 
+
+NR110: No | 
+
+NR111: No | 
+
+NR112: Yes | "19" vieglmetāla diski PROTEUS."
+
+NR113: No | 
+
+NR114: No | 
+
+NR116: Yes | "Galvas drošības spilvenu sistēma (aizkari) un priekšējie sānu un centrālais drošības spilveni"
+
+NR117: Yes | "Galvas drošības spilvenu sistēma (aizkari) un priekšējie sānu un centrālais drošības spilveni"
+
+NR118: Yes | "Galvas drošības spilvenu sistēma (aizkari) un priekšējie sānu un centrālais drošības spilveni"
+
+NR119: Yes | "Signalizācija ar salona aizsardzības funkciju un pretaizvilkšanas aizsardzību"
+
+NR120: Yes | "Bezatslēgas piekļuve un dzinēja startēšana sistēma Kessy"
+
+NR121: Yes | "Bezatslēgas piekļuve un dzinēja startēšana sistēma Kessy"
+
+NR123: No | 
+
+NR124: No | 
+
+NR125: No | 
+
+NR126: Yes | "Ražotāja garantija - 5 gadi ar 100 000km nobraukuma ierobežojumu"
+
+NR127: No | 
+
+NR128: No | 
+
+NR129: No |

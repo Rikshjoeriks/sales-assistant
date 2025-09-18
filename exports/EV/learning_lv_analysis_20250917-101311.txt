@@ -1,0 +1,121 @@
+=== LEARNED KNOWLEDGE APPLIED ===
+{
+  "NR35": [
+    {
+      "text": "Metāliska krāsa LED automātiskie priekšējie lukturi LED dienas gaitas gaismas Tālo gaismu asistents LED aizmugurejie lukturi Panorāmas jumts Elektriski atverams/ aizverams bagāžas nodalījuma vāks Ārējie spoguļi, elektriski regulējami, elektriski nolokāmi, apsildāmi ar apgaismojumu Tonēti aizmugurējie stikli Lietus sensors Multifunkcionāla stūre ar Eco ādas apdari un apsildi Eco ādas apdares priekšējie sēdekļi, elektriski regulējami, ventilējami, apsildāmi, ar atmiņu regulējams vadītāja sēdeklis 40/60 dalīti, nolokāmi aizmugurējie sēdekļi Divzonu klimata kontrole Automātiski aptumšojošs atpakaļskata spogulis Ambient daudzkrāsu salona apgaismojums Priekšējais centrālais roku balsts ar glāžu turētājiem Aizmugurējais roku balsts ar glāžu turētājiem Gaisa kvalitātes uzlabotājs 10,25\" digitāls instrumentu panelis 15,6\" rotējams skārienjutīgs multimēdiju ekrāns Dynaudio skaņas sistēma Head-up displejs Inteliģents balss vadības sistēma - \"Hi, BYD\" Priekšējās 2USB Type C pieslēgvietas Aizmugurējās 2USB Type C pieslēgvietas 2 bezvadu viedtālruņu uzlāde Android Auto un Apple Car Play ISOFIX stirpinājumi priekšā un aizmugurē Riepu spiediena uzraudzības sistēma Signalizācija Elektroniskā bērnu drošības slēdzene Parkošanās sensori, priekšā un aizmugurē 360° kamera Aklo zonu noteikšanas sistēma Joslu maiņas asistents Adaptīvā-inteliģentā kruīza kontrole Automātiskā avārijas bremzēšana Pirmsadursmes novēršanas sistēma Avārijas bremzēšānas sistēma Intensīvas satiksmes palīgs Ceļa zīmju atpazīšanas sistēma Transportlīdzekļa dinamikas kontroles sistēma Auto Hold Elektriskā stāvbremze 220V elektrības padeves sistēma (V2L) Braukšanas režīmi: Eco, Standarta, Sporta, Ziemas Priekšējais bagāžas nodalījums NFC piekļuve Bezatslēgas piekļuve un startēšana Siltumsūknis 19\" divkrāsu vieglmetāla diski",
+      "confidence": 1.0,
+      "type": "direct",
+      "learned_from": "Lietus sensors"
+    }
+  ],
+  "NR33": [
+    {
+      "text": "Metāliska krāsa LED automātiskie priekšējie lukturi LED dienas gaitas gaismas Tālo gaismu asistents LED aizmugurejie lukturi Panorāmas jumts Elektriski atverams/ aizverams bagāžas nodalījuma vāks Ārējie spoguļi, elektriski regulējami, elektriski nolokāmi, apsildāmi ar apgaismojumu Tonēti aizmugurējie stikli Lietus sensors Multifunkcionāla stūre ar Eco ādas apdari un apsildi Eco ādas apdares priekšējie sēdekļi, elektriski regulējami, ventilējami, apsildāmi, ar atmiņu regulējams vadītāja sēdeklis 40/60 dalīti, nolokāmi aizmugurējie sēdekļi Divzonu klimata kontrole Automātiski aptumšojošs atpakaļskata spogulis Ambient daudzkrāsu salona apgaismojums Priekšējais centrālais roku balsts ar glāžu turētājiem Aizmugurējais roku balsts ar glāžu turētājiem Gaisa kvalitātes uzlabotājs 10,25\" digitāls instrumentu panelis 15,6\" rotējams skārienjutīgs multimēdiju ekrāns Dynaudio skaņas sistēma Head-up displejs Inteliģents balss vadības sistēma - \"Hi, BYD\" Priekšējās 2USB Type C pieslēgvietas Aizmugurējās 2USB Type C pieslēgvietas 2 bezvadu viedtālruņu uzlāde Android Auto un Apple Car Play ISOFIX stirpinājumi priekšā un aizmugurē Riepu spiediena uzraudzības sistēma Signalizācija Elektroniskā bērnu drošības slēdzene Parkošanās sensori, priekšā un aizmugurē 360° kamera Aklo zonu noteikšanas sistēma Joslu maiņas asistents Adaptīvā-inteliģentā kruīza kontrole Automātiskā avārijas bremzēšana Pirmsadursmes novēršanas sistēma Avārijas bremzēšānas sistēma Intensīvas satiksmes palīgs Ceļa zīmju atpazīšanas sistēma Transportlīdzekļa dinamikas kontroles sistēma Auto Hold Elektriskā stāvbremze 220V elektrības padeves sistēma (V2L) Braukšanas režīmi: Eco, Standarta, Sporta, Ziemas Priekšējais bagāžas nodalījums NFC piekļuve Bezatslēgas piekļuve un startēšana Siltumsūknis 19\" divkrāsu vieglmetāla diski",
+      "confidence": 0.6400000000000001,
+      "type": "pattern",
+      "learned_from": "Pattern: elektriski"
+    }
+  ]
+}
+
+NR25: Yes | 220V elektrības padeves sistēma (V2L)
+NR26: Yes | Siltumsūknis
+NR28: No | 
+NR30: Yes | Metāliska krāsa
+NR32: Maybe | Ārējie spoguļi, elektriski regulējami, elektriski nolokāmi, apsildāmi ar apgaismojumu
+NR33: Yes | Ārējie spoguļi, elektriski regulējami, elektriski nolokāmi, apsildāmi ar apgaismojumu
+NR34: No | 
+NR35: Yes | Lietus sensors
+NR36: Yes | Tonēti aizmugurējie stikli
+NR37: No | 
+NR38: Yes | Elektriski atverams/ aizverams bagāžas nodalījuma vāks
+NR39: No | 
+NR40: No | 
+NR41: Yes | Priekšējais bagāžas nodalījums
+NR42: Yes | Panorāmas jumts
+NR44: Yes | LED dienas gaitas gaismas
+NR45: No | 
+NR46: No | 
+NR47: Yes | LED automātiskie priekšējie lukturi
+NR48: Maybe | Tālo gaismu asistents
+NR49: Yes | LED automātiskie priekšējie lukturi
+NR50: No | 
+NR51: No | 
+NR53: No | 
+NR54: Yes | Divzonu klimata kontrole
+NR55: No | 
+NR56: No | 
+NR57: Yes | Ambient daudzkrāsu salona apgaismojums
+NR58: Yes | Priekšējais centrālais roku balsts ar glāžu turētājiem
+NR59: Yes | Automātiski aptumšojošs atpakaļskata spogulis
+NR60: No | 
+NR61: Yes | 2 bezvadu viedtālruņu uzlāde
+NR63: No | 
+NR64: No | 
+NR65: No | 
+NR66: Yes | 15,6" rotējams skārienjutīgs multimēdiju ekrāns
+NR67: Yes | Dynaudio skaņas sistēma
+NR68: No | 
+NR69: No | 
+NR70: Yes | Android Auto un Apple Car Play
+NR71: No | 
+NR72: No | 
+NR73: Yes | Head-up displejs
+NR75: Yes | Multifunkcionāla stūre ar Eco ādas apdari un apsildi
+NR76: No | 
+NR77: No | 
+NR78: Yes | 10,25" digitāls instrumentu panelis
+NR79: No | 
+NR81: Yes | Eco ādas apdares priekšējie sēdekļi, elektriski regulējami, ventilējami, apsildāmi, ar atmiņu
+NR82: Yes | Eco ādas apdares priekšējie sēdekļi, elektriski regulējami, ventilējami, apsildāmi, ar atmiņu
+NR83: No | 
+NR84: No | 
+NR85: No | 
+NR86: No | 
+NR87: No | 
+NR88: Yes | Eco ādas apdares priekšējie sēdekļi, elektriski regulējami, ventilējami, apsildāmi, ar atmiņu
+NR89: Yes | Eco ādas apdares priekšējie sēdekļi, elektriski regulējami, ventilējami, apsildāmi, ar atmiņu
+NR90: Yes | Eco ādas apdares priekšējie sēdekļi, elektriski regulējami, ventilējami, apsildāmi, ar atmiņu
+NR91: Yes | Eco ādas apdares priekšējie sēdekļi, elektriski regulējami, ventilējami, apsildāmi, ar atmiņu
+NR92: No | 
+NR93: No | 
+NR94: Yes | Eco ādas apdares priekšējie sēdekļi
+NR96: No | 
+NR97: Yes | Aklo zonu noteikšanas sistēma
+NR98: No | 
+NR99: No | 
+NR100: Yes | Adaptīvā-inteliģentā kruīza kontrole
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: No | 
+NR105: Yes | 360° kamera
+NR106: No | 
+NR107: Yes | Parkošanās sensori, priekšā
+NR108: Yes | Parkošanās sensori, aizmugurē
+NR110: No | 
+NR111: No | 
+NR112: No | 
+NR113: Yes | Elektriskā stāvbremze
+NR115: No | 
+NR116: No | 
+NR117: No | 
+NR118: No | 
+NR119: No | 
+NR120: Yes | 19" divkrāsu vieglmetāla diski
+NR121: No | 
+NR122: No | 
+NR123: No | 
+NR124: No | 
+NR126: No | 
+NR127: No | 
+NR128: No | 
+NR129: Yes | Signalizācija
+NR130: No | 
+NR131: Yes | Bezatslēgas piekļuve un startēšana
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No | 

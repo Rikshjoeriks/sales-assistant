@@ -1,0 +1,101 @@
+NR24: No | 
+NR26: Maybe | Uz stūres rata lāpstiņveida pārnesumi automobiļiem ar automātisko transmisiju
+NR28: No | 
+NR29: No | 
+NR30: No | 
+NR32: No | 
+NR34: Yes | Apsildāmi un automātiski pielokāmi sānu spoguļi
+NR35: Yes | Apsildāmi un automātiski pielokāmi sānu spoguļi
+NR36: Yes | Automātiski stikla tīrītāji un lietus sensors
+NR37: No | 
+NR38: No | 
+NR39: No | 
+NR40: No | 
+NR41: No | 
+NR43: Yes | LED dienas apgaismojuma lukturi
+NR44: No | 
+NR45: No | 
+NR46: Yes | Inteliģentie automātiskie priekšējie lukturi
+NR47: No | 
+NR48: Yes | LED priekšējie lukturi
+NR49: No | 
+NR50: No | 
+NR52: Yes | Automātiskā gaisa kondicionēšanas sistēma
+NR53: No | 
+NR54: No | 
+NR55: No | 
+NR56: No | 
+NR57: No | 
+NR58: Yes | Priekšējais elkoņbalsts
+NR59: No | 
+NR60: No | 
+NR61: No | 
+NR63: Yes | 12,3" skārienekrāns
+NR64: No | 
+NR65: No | 
+NR66: No | 
+NR67: No | 
+NR68: No | 
+NR69: No | 
+NR70: Yes | Bezvadu Apple Car Play 3) Bezvadu Android Auto
+NR71: Yes | Bezvadu Apple Car Play 3) Bezvadu Android Auto
+NR72: No | 
+NR73: Yes | Ārkārtas un avārijas izsaukums (e Call)
+NR74: No | 
+NR76: No | 
+NR77: No | 
+NR78: No | 
+NR79: No | 
+NR80: No | 
+NR82: Yes | Apsildāmi priekšējie sēdekļi
+NR83: Yes | Apsildāmi priekšējie sēdekļi
+NR84: No | 
+NR85: No | 
+NR86: No | 
+NR87: No | 
+NR88: No | 
+NR89: No | 
+NR90: No | 
+NR91: No | 
+NR92: No | 
+NR93: Yes | Monoformas sporta stila sēdekļi ar melnu auduma apdari
+NR94: No | 
+NR95: No | 
+NR97: No | 
+NR98: No | 
+NR99: No | 
+NR100: Yes | Kruīza kontrole ar ātruma ierobežotāju
+NR101: No | 
+NR102: No | 
+NR103: No | 
+NR104: No | 
+NR105: No | 
+NR106: No | 
+NR107: Yes | Atpakaļskata kamera
+NR108: No | 
+NR109: No | 
+NR111: Yes | Inteliģentā ārkārtas bremzēšanas sistēma ar gājēju un riteņbraucēju atpazīšanas funkciju
+NR112: No | 
+NR113: Yes | Elektroniska rokas bremze ar automātiskās stāvbremzes funkciju
+NR115: No | 
+NR116: No | 
+NR117: Yes | 17" tērauda diski, Sakura
+NR118: No | 
+NR119: No | 
+NR120: No | 
+NR121: No | 
+NR122: No | 
+NR123: No | 
+NR125: No | 
+NR126: Yes | Autovadītāja un pasažiera gaisa drošības spilveni, sānu un aizkarveida gaisa drošības spilveni
+NR127: Yes | Autovadītāja un pasažiera gaisa drošības spilveni, sānu un aizkarveida gaisa drošības spilveni
+NR128: No | 
+NR129: No | 
+NR130: No | 
+NR132: No | 
+NR133: No | 
+NR134: No | 
+NR135: No | 
+NR136: No | 
+NR137: No | 
+NR138: No | 
