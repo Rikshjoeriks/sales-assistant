@@ -47,7 +47,16 @@
 ## Constitution Check
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+**Multi-Domain Excellence**: ✅/❌ Does this feature integrate sales psychology, technical expertise, AND communication excellence?  
+**Knowledge Traceability**: ✅/❌ Are all recommendations traceable to authoritative sources with clear logical reasoning?  
+**Learning Architecture**: ✅/❌ Can new knowledge be seamlessly integrated? Does this support experiential learning capture?  
+**Context Awareness**: ✅/❌ Does this adapt to customer profiles, sales stages, and situational contexts?  
+**Basic Courtesy**: ✅/❌ Does this maintain professional standards without being rude or pretending to be stupid?  
+**Output Flexibility**: ✅/❌ Can this generate content across multiple formats (formal, casual, presentations, scripts)?  
+**Performance Measurement**: ✅/❌ Are success metrics defined? Can effectiveness be measured and improved?
+**Text-Only Interface**: ✅/❌ Is this designed for text input/output interaction only?
+
+*If any ❌ exist, document justification in Complexity Tracking or redesign approach.*
 
 ## Project Structure
 

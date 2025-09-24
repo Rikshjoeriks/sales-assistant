@@ -46,28 +46,39 @@
 - [ ] T001 Create project structure per implementation plan
 - [ ] T002 Initialize [language] project with [framework] dependencies
 - [ ] T003 [P] Configure linting and formatting tools
+- [ ] T004 [P] Setup knowledge base structure (sales psychology, technical, communication modules)
 
 ## Phase 3.2: Tests First (TDD) ⚠️ MUST COMPLETE BEFORE 3.3
 **CRITICAL: These tests MUST be written and MUST FAIL before ANY implementation**
-- [ ] T004 [P] Contract test POST /api/users in tests/contract/test_users_post.py
-- [ ] T005 [P] Contract test GET /api/users/{id} in tests/contract/test_users_get.py
-- [ ] T006 [P] Integration test user registration in tests/integration/test_registration.py
-- [ ] T007 [P] Integration test auth flow in tests/integration/test_auth.py
+- [ ] T005 [P] Contract test knowledge source traceability
+- [ ] T006 [P] Contract test multi-domain recommendation generation
+- [ ] T008 [P] Integration test context-aware personalization
+- [ ] T009 [P] Integration test basic courtesy standards (no rudeness, no pretending stupid)
+- [ ] T010 [P] Test learning architecture and knowledge updates
+- [ ] T011 [P] Test multi-format output generation
 
 ## Phase 3.3: Core Implementation (ONLY after tests are failing)
-- [ ] T008 [P] User model in src/models/user.py
-- [ ] T009 [P] UserService CRUD in src/services/user_service.py
-- [ ] T010 [P] CLI --create-user in src/cli/user_commands.py
-- [ ] T011 POST /api/users endpoint
-- [ ] T012 GET /api/users/{id} endpoint
-- [ ] T013 Input validation
-- [ ] T014 Error handling and logging
+**Sales Psychology Module**:
+- [ ] T012 [P] Sales psychology knowledge parser in src/knowledge/sales_psychology.py
+- [ ] T013 [P] Persuasion technique database in src/models/persuasion_techniques.py
+- [ ] T014 [P] Objection handling framework in src/services/objection_service.py
 
-## Phase 3.4: Integration
-- [ ] T015 Connect UserService to DB
-- [ ] T016 Auth middleware
-- [ ] T017 Request/response logging
-- [ ] T018 CORS and security headers
+**Technical Expertise Module**:
+- [ ] T015 [P] Product specification parser in src/knowledge/product_specs.py  
+- [ ] T016 [P] Competitor analysis engine in src/services/competitor_service.py
+- [ ] T017 [P] Technical terminology database in src/models/technical_terms.py
+
+**Communication Module**:
+- [ ] T018 [P] Writing style adapter in src/services/communication_service.py
+- [ ] T019 [P] Multi-format output generator in src/services/output_service.py
+- [ ] T020 [P] Context awareness engine in src/services/context_service.py
+
+## Phase 3.4: Integration & Learning
+- [ ] T021 Knowledge source integration and validation
+- [ ] T022 Logic mapping and reasoning chain tracking  
+- [ ] T023 Experience capture and learning loop
+- [ ] T024 Performance measurement and improvement tracking
+- [ ] T025 Basic courtesy standards validation (no rudeness, no pretending to be stupid)
 
 ## Phase 3.5: Polish
 - [ ] T019 [P] Unit tests for validation in tests/unit/test_validation.py
