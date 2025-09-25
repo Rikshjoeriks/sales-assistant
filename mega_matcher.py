@@ -40,11 +40,16 @@ EXTRACTED FEATURES (EN | LV | TEXT | CATEGORY):"""
             stream=False
         )
         
-        content = response.choices[0].message.content
-        return content if content else "No features extracted"
+        # Safely extract content from response
+        try:
+            content = response.choices[0].message.content
+            return content if content else "No features extracted"
+        except (AttributeError, IndexError, TypeError) as e:
+            return f"Invalid API response structure: {str(e)}"
+            
     except Exception as e:
         print(f"Error in bilingual feature extraction: {e}")
-        return "Error extracting features"
+        return f"Error extracting features: {str(e)}"
 
 def parse_bilingual_features(extracted_text):
     """Parse bilingual extracted features into structured data"""
@@ -117,11 +122,16 @@ BILINGUAL MATCHING RESULTS:"""
             stream=False
         )
         
-        content = response.choices[0].message.content
-        return content if content else "No matching results"
+        # Safely extract content from response
+        try:
+            content = response.choices[0].message.content
+            return content if content else "No matching results"
+        except (AttributeError, IndexError, TypeError) as e:
+            return f"Invalid API response structure: {str(e)}"
+            
     except Exception as e:
         print(f"Error in bilingual matching: {e}")
-        return "Error in matching"
+        return f"Error in matching: {str(e)}"
 
 def consensus_match_3x(spec_text, master_rows, llm_model="gpt-4o"):
     """Run 3x consensus matching for validation"""
@@ -164,8 +174,13 @@ MATCHING RESULTS:"""
                 stream=False
             )
             
-            content = response.choices[0].message.content
-            results.append(content if content else f"No results from attempt {attempt+1}")
+            # Safely extract content from response
+            try:
+                content = response.choices[0].message.content
+                results.append(content if content else f"No results from attempt {attempt+1}")
+            except (AttributeError, IndexError, TypeError) as e:
+                results.append(f"Invalid response structure in attempt {attempt+1}: {str(e)}")
+                
         except Exception as e:
             results.append(f"Error in attempt {attempt+1}: {e}")
     

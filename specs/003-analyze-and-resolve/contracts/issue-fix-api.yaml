@@ -1,0 +1,93 @@
+# API Contract: Issue Fix Service
+
+**Contract ID**: ISSUE_FIX_API
+**Version**: 1.0.0
+**Date**: September 19, 2025
+
+## Overview
+This contract defines the interface for applying automated fixes to code quality issues.
+
+## Endpoint: apply_fix
+
+### Request
+```typescript
+interface ApplyFixRequest {
+  issue_id: string;               // ID of issue to fix
+  fix_type: "automated" | "manual";
+  backup_before_fix?: boolean;    // Create backup before applying (default: true)
+  dry_run?: boolean;             // Preview changes without applying (default: false)
+}
+```
+
+### Response
+```typescript
+interface ApplyFixResponse {
+  success: boolean;
+  issue_id: string;
+  fix_applied: boolean;
+  changes: CodeChange[];
+  backup_created?: string;        // Path to backup file if created
+  validation_results?: {
+    syntax_valid: boolean;
+    tests_passed?: boolean;
+    performance_impact?: string;
+  };
+  errors?: string[];
+}
+
+interface CodeChange {
+  file_path: string;
+  line_number: number;
+  original_code: string;
+  modified_code: string;
+  change_type: "insert" | "delete" | "replace";
+}
+```
+
+### Endpoint: batch_fix
+
+### Request
+```typescript
+interface BatchFixRequest {
+  issue_ids: string[];            // Array of issue IDs to fix
+  fix_type: "automated" | "manual";
+  continue_on_error?: boolean;    // Continue fixing other issues if one fails (default: false)
+  backup_before_fix?: boolean;    // Create backup before applying (default: true)
+}
+```
+
+### Response
+```typescript
+interface BatchFixResponse {
+  success: boolean;
+  total_issues: number;
+  fixed_count: number;
+  failed_count: number;
+  results: FixResult[];
+  summary: {
+    auto_fixed: number;
+    manual_required: number;
+    errors: number;
+  };
+}
+
+interface FixResult {
+  issue_id: string;
+  success: boolean;
+  changes?: CodeChange[];
+  error?: string;
+}
+```
+
+### Error Responses
+- `400 Bad Request`: Invalid issue_id or unsupported fix_type
+- `404 Not Found`: Issue not found
+- `409 Conflict`: Fix cannot be applied (e.g., file modified externally)
+- `500 Internal Server Error`: Fix application failure
+
+### Contract Tests
+1. **apply_single_fix**: Verify individual issue fix application
+2. **apply_batch_fix**: Verify multiple issue fix application
+3. **apply_dry_run**: Verify preview mode works correctly
+4. **apply_with_backup**: Verify backup creation and restoration
+5. **apply_invalid_issue**: Verify error handling for non-existent issues

@@ -71,11 +71,16 @@ MATCHING RESULTS:"""
             stream=False
         )
         
-        content = response.choices[0].message.content
-        return content if content else f"No {language} results"
+        # Safely extract content from response
+        try:
+            content = response.choices[0].message.content
+            return content if content else f"No {language} results"
+        except (AttributeError, IndexError, TypeError) as e:
+            return f"Invalid API response structure for {language}: {str(e)}"
+            
     except Exception as e:
         print(f"Error in {language} matching: {e}")
-        return f"Error in {language} matching"
+        return f"Error in {language} matching: {str(e)}"
 
 def parse_language_results(result_text, language="LV"):
     """Parse single language matching results"""
@@ -150,8 +155,13 @@ CONSENSUS VALIDATION:"""
                 stream=False
             )
             
-            content = response.choices[0].message.content
-            results.append(content if content else f"No results from consensus attempt {attempt+1}")
+            # Safely extract content from response
+            try:
+                content = response.choices[0].message.content
+                results.append(content if content else f"No results from consensus attempt {attempt+1}")
+            except (AttributeError, IndexError, TypeError) as e:
+                results.append(f"Invalid response structure in consensus attempt {attempt+1}: {str(e)}")
+                
         except Exception as e:
             results.append(f"Error in consensus attempt {attempt+1}: {e}")
     

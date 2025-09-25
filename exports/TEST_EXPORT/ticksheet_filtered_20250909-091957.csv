@@ -1,4 +1,0 @@
-Nr Code,Variable Name,Is TT,Match (Yes/No/Maybe),Matching Text,LLM_Reason,Accepted
-NR02,Battery capacity (kWh),N,Yes,Akumulatora jauda 75 kWh,Clearly states battery capacity in specifications,X
-NR03,Fast charging capability,N,Maybe,Ātrā uzlāde līdz 150kW,150kW fast charging capability mentioned in LV text,X
-NR06,Engine power (kW),N,Yes,Dzinēja jauda 200kW,Clear power specification,X

@@ -1,0 +1,62 @@
+# API Contract: Issue Analysis Service
+
+**Contract ID**: ISSUE_ANALYSIS_API
+**Version**: 1.0.0
+**Date**: September 19, 2025
+
+## Overview
+This contract defines the interface for analyzing code quality issues in Python projects.
+
+## Endpoint: analyze_issues
+
+### Request
+```typescript
+interface AnalyzeIssuesRequest {
+  project_root: string;           // Absolute path to project root
+  include_patterns?: string[];    // File patterns to include (default: ["*.py"])
+  exclude_patterns?: string[];    // File patterns to exclude (default: [])
+  analysis_tools?: string[];      // Tools to use (default: ["pylint"])
+  severity_threshold?: string;    // Minimum severity to report (default: "info")
+}
+```
+
+### Response
+```typescript
+interface AnalyzeIssuesResponse {
+  success: boolean;
+  report: {
+    project_name: string;
+    analysis_date: string;
+    total_files: number;
+    total_issues: number;
+    issues_by_type: Record<string, number>;
+    issues_by_severity: Record<string, number>;
+    issues: Issue[];
+  };
+  errors?: string[];
+}
+
+interface Issue {
+  id: string;
+  type: string;
+  severity: "high" | "medium" | "low";
+  location: {
+    file_path: string;
+    line_number: number;
+    column_number?: number;
+  };
+  description: string;
+  fix_status: "auto_fixable" | "manual_fix" | "no_fix";
+}
+```
+
+### Error Responses
+- `400 Bad Request`: Invalid project_root or analysis parameters
+- `404 Not Found`: Project directory does not exist
+- `500 Internal Server Error`: Analysis tool failure
+
+### Contract Tests
+1. **analyze_valid_project**: Verify analysis completes for valid Python project
+2. **analyze_empty_project**: Verify graceful handling of empty directory
+3. **analyze_invalid_path**: Verify error response for non-existent path
+4. **analyze_with_excludes**: Verify exclude patterns are respected

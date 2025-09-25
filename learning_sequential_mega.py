@@ -97,14 +97,20 @@ MATCHING RESULTS:"""
         response = client.chat.completions.create(
             model=llm_model,
             temperature=0.1,  # Lower temperature for more consistent results with learned knowledge
-            messages=[{"role": "user", "content": prompt.format(spec_text=spec_text, masterlist=masterlist_text)}]
+            messages=[{"role": "user", "content": prompt.format(spec_text=spec_text, masterlist=masterlist_text)}],
+            stream=False  # Ensure we get a regular response, not a stream
         )
         
-        content = response.choices[0].message.content
-        return content if content else f"No {language} results", learned_suggestions
+        # Safely extract content from response
+        try:
+            content = response.choices[0].message.content
+            return content if content else f"No {language} results", learned_suggestions
+        except (AttributeError, IndexError, TypeError) as e:
+            return f"Invalid API response structure for {language}: {str(e)}", learned_suggestions
+        
     except Exception as e:
         print(f"Error in {language} matching: {e}")
-        return f"Error in {language} matching", learned_suggestions
+        return f"Error in {language} matching: {str(e)}", learned_suggestions
 
 def consensus_match_with_learning(spec_text, master_rows, llm_model="gpt-4o", progress_callback=None, learning_dict=None):
     """Enhanced consensus matching with learning integration"""
@@ -157,11 +163,17 @@ CONSENSUS VALIDATION:"""
             response = client.chat.completions.create(
                 model=llm_model,
                 temperature=0.3 + (attempt * 0.1),  # Gradually increase temperature
-                messages=[{"role": "user", "content": prompt.format(spec_text=spec_text, masterlist=masterlist_text)}]
+                messages=[{"role": "user", "content": prompt.format(spec_text=spec_text, masterlist=masterlist_text)}],
+                stream=False  # Ensure we get a regular response, not a stream
             )
-            
-            content = response.choices[0].message.content
-            results.append(content if content else f"No results from consensus attempt {attempt+1}")
+
+            # Safely extract content from response
+            try:
+                content = response.choices[0].message.content
+                results.append(content if content else f"No results from consensus attempt {attempt+1}")
+            except (AttributeError, IndexError, TypeError) as e:
+                results.append(f"Invalid response structure in consensus attempt {attempt+1}: {str(e)}")
+
         except Exception as e:
             results.append(f"Error in consensus attempt {attempt+1}: {e}")
     

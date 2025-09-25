@@ -88,12 +88,18 @@ def test_api_key():
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": "Say 'API test successful'"}],
-            max_tokens=10
+            max_tokens=10,
+            stream=False
         )
         
-        result = response.choices[0].message.content
-        print(f"✅ API key works! Response: {result}")
-        return True
+        # Safely extract content from response
+        try:
+            result = response.choices[0].message.content
+            print(f"✅ API key works! Response: {result}")
+            return True
+        except (AttributeError, IndexError, TypeError) as e:
+            print(f"❌ Invalid API response structure: {e}")
+            return False
         
     except Exception as e:
         print(f"❌ API key test failed: {e}")

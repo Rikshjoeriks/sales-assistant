@@ -76,7 +76,12 @@ OUTPUT: Same content, just better organized with proper spacing and paragraph br
             stream=False
         )
         
-        organized_text = response.choices[0].message.content
+        # Safely extract content from response
+        try:
+            organized_text = response.choices[0].message.content
+        except (AttributeError, IndexError, TypeError) as e:
+            print(f"⚠️ Invalid API response structure: {e}, using basic cleanup only")
+            return text
         
         # Strict validation - content should not grow significantly
         original_words = set(text.lower().split())

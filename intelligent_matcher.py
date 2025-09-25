@@ -39,11 +39,16 @@ EXTRACTED FEATURES:"""
             stream=False
         )
         
-        content = response.choices[0].message.content
-        return content if content else "No features extracted"
+        # Safely extract content from response
+        try:
+            content = response.choices[0].message.content
+            return content if content else "No features extracted"
+        except (AttributeError, IndexError, TypeError) as e:
+            return f"Invalid API response structure: {str(e)}"
+            
     except Exception as e:
         print(f"Error in feature extraction: {e}")
-        return "Error extracting features"
+        return f"Error extracting features: {str(e)}"
 
 def parse_extracted_features(extracted_text):
     """Parse the extracted features into structured data"""
@@ -106,14 +111,20 @@ MATCHING RESULTS:"""
         response = client.chat.completions.create(
             model=llm_model,
             temperature=0.2,
-            messages=[{"role": "user", "content": prompt.format(features=feature_db, masterlist=masterlist_text)}]
+            messages=[{"role": "user", "content": prompt.format(features=feature_db, masterlist=masterlist_text)}],
+            stream=False
         )
         
-        content = response.choices[0].message.content
-        return content if content else "No matching results"
+        # Safely extract content from response
+        try:
+            content = response.choices[0].message.content
+            return content if content else "No matching results"
+        except (AttributeError, IndexError, TypeError) as e:
+            return f"Invalid API response structure: {str(e)}"
+            
     except Exception as e:
         print(f"Error in matching: {e}")
-        return "Error in matching"
+        return f"Error in matching: {str(e)}"
 
 def parse_matching_results(matching_text, master_rows):
     """Parse the matching results and create final CSV rows"""

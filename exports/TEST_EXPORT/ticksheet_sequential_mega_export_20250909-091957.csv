@@ -1,8 +1,0 @@
-Nr Code,Variable Name,Is TT,LV Match,LV Text,EN Match,EN Text,Consensus Vote,Consensus Text,Consensus Reasoning,Include
-NR01,BATTERY SYSTEMS,Y,,,,,,,,
-NR02,Battery capacity (kWh),N,Yes,Akumulatora jauda 75 kWh,Yes,Battery pack 75kWh capacity,Yes (3Y/0M/0N),,Clearly states battery capacity in specifications,X
-NR03,Fast charging capability,N,Maybe,Ātrā uzlāde līdz 150kW,No,,Maybe (1Y/2M/0N),,150kW fast charging capability mentioned in LV text,X
-NR04,Wireless charging,N,No,,No,,No (0Y/0M/3N),,No wireless charging mentioned,
-NR05,ENGINE SYSTEMS,Y,,,,,,,,
-NR06,Engine power (kW),N,Yes,Dzinēja jauda 200kW,Yes,Engine power 200kW,Yes (3Y/0M/0N),,Clear power specification,X
-NR07,Hybrid system,N,Maybe,Hibrīda sistēma,Maybe,Hybrid technology,Maybe (0Y/3M/0N),,Hybrid technology mentioned,
