@@ -1,13 +1,11 @@
 <!--
 Sync Impact Report:
-Version change: v1.0.0 → v1.1.0
-Modified principles: 
-  - Principle V: Ethical Persuasion Standards (simplified from comprehensive ethical framework to basic courtesy rules)
-  - User Experience Standards (clarified text-only interface)
-  - Governance (removed ethical compliance requirements)
-Added sections: None
-Removed sections: Detailed ethical constraints and value-creation requirements
-Templates requiring updates: ✅ plan-template.md, spec-template.md, tasks-template.md updated
+Version change: v1.5.0 → v1.6.0
+Modified principles: None
+Added sections:
+  - Automated Logging Workflow in Governance
+Removed sections: None
+Templates requiring updates: ✅ docs/manual/working-with-spec-kit.md | ✅ docs/logs/task-journal.md | ✅ docs/reference/project-map.md | ✅ docs/reference/tooling-registry.md | ✅ docs/logs/README.md (create)
 Follow-up TODOs: None
 -->
 
@@ -104,8 +102,30 @@ This constitution supersedes all other development practices and design decision
 
 **Compliance Review**: Every feature, integration, and knowledge update must demonstrate alignment with constitutional principles before implementation.
 
+**Interaction Command Processing Protocol**: Every user-issued command or suggestion MUST be handled with the following workflow:
+1. **Classify the request** → Determine whether it is a clarification, specification update, planning adjustment, task execution change, or implementation action.
+2. **Check prerequisites** → Verify that required artifacts (clarifications, spec, plan, tasks) exist and are current for the request type. Halt and request missing prerequisites before proceeding.
+3. **Document the decision** → Record the outcome in the appropriate artifact (clarification notes, spec, plan, tasks, or decision log) before executing substantive work.
+4. **Execute & report** → Carry out the agreed steps, then respond with a concise summary, updated status, and explicit next actions.
+
+**Task Completion Journal**: Upon completing any task from `tasks.md`, the team MUST log the following in `docs/logs/task-journal.md` before moving on:
+- Task ID and description
+- Artifacts touched (files, templates, docs)
+- Prompts, commands, or clarifications used to reach completion
+- Decision notes or follow-up items
+
+**Project Knowledge Map**: The team MUST maintain an up-to-date repository map at `docs/reference/project-map.md`. Update this map whenever new modules, directories, or significant files are added or materially changed so the assistant can rely on definitive structure instead of inference.
+
+**Verification Evidence Rule**: No task may be marked complete until the team captures explicit verification evidence in the task journal. Record the tests, scripts, or manual checks executed, the command(s) run, and their outcomes (pass/fail with error summaries). If validation is intentionally deferred, the deferral rationale and owner MUST be logged, and the task remains blocked until verification passes.
+
+**Tooling Alignment Protocol**: Before initiating implementation work for any phase, the team MUST agree on the instruments, plugins, external services, and interface layers to be used. Log the decision in `docs/reference/tooling-registry.md`, including access credentials management strategy, version/pinning details, and any compatibility notes. Deviations require prior review and registry updates before changes begin.
+
+**Code Synchronization Safeguards**: To minimize merge conflicts and regressions, every contributor MUST (a) pull/rebase from the trunk branch at the start of each work session, (b) limit active work-in-progress to one open task at a time, (c) signal task ownership in the task journal before coding, and (d) run agreed quality gates (tests, lint, format) prior to merging. Violations block task completion until corrected.
+
+**Automated Logging Workflow**: After every confirmed implementation action, the team MUST immediately capture the prompt, assistant response summary, and resulting artifacts using the `/log-latest` command. This workflow requires: (a) appending an entry to `docs/logs/task-journal.md` (even if the task is ongoing) with current status and verification evidence, (b) updating `docs/reference/tooling-registry.md` when tooling/services change, and (c) reflecting structural adjustments in `docs/reference/project-map.md`. No subsequent work may begin until these logs are updated.
+
 **Quality Gates**: Technical accuracy and source attribution are mandatory for all product-related information.
 
 Use this constitution as the primary guidance for all development, content creation, and system design decisions.
 
-**Version**: v1.1.0 | **Ratified**: 2025-09-24 | **Last Amended**: 2025-09-24
+**Version**: v1.6.0 | **Ratified**: 2025-09-24 | **Last Amended**: 2025-09-24
