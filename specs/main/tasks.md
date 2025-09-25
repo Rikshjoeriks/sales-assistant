@@ -29,34 +29,34 @@
 ```
 
 ## Phase 3.1: Setup & Infrastructure
-- [ ] T001 Initialize repo Python project structure (`src/`, `tests/`, `scripts/`)
-- [ ] T002 Configure Python toolchain (`pyproject.toml` with FastAPI, SQLAlchemy, pgvector, sentence-transformers, OpenAI)
-- [ ] T003 Create `.env.example` with placeholders (OPENAI_API_KEY, DATABASE_URL, REDIS_URL)
-- [ ] T004 [P] Set up Dockerfiles (`docker/Dockerfile.api`, `docker/Dockerfile.worker`) and `docker-compose.yml`
-- [ ] T005 [P] Configure linting/formatting (`ruff.toml`, `black`, `isort`, pre-commit hooks)
-- [ ] T006 Establish base FastAPI app scaffold (`src/app/main.py`) with health endpoint
-- [ ] T007 Create database initialization scripts (`scripts/db/initialize.sql`, Alembic setup)
-- [ ] T008 Define project logging config (`src/app/core/logging.py`) with JSON logs
-- [ ] T009 Configure observability basics (structlog logging middleware, request ID injection)
-- [ ] T010 Add Makefile/Taskfile for common commands (`make install`, `make test`, `make lint`)
-- [ ] T011 Implement feature flag/config loader (`src/app/core/config.py`) reading env vars
-- [ ] T012 Document setup instructions in `docs/setup.md`
+- [X] T001 Initialize repo Python project structure (`src/`, `tests/`, `scripts/`)
+- [X] T002 Configure Python toolchain (`pyproject.toml` with FastAPI, SQLAlchemy, pgvector, sentence-transformers, OpenAI)
+- [X] T003 Create `.env.example` with placeholders (OPENAI_API_KEY, DATABASE_URL, REDIS_URL)
+- [X] T004 [P] Set up Dockerfiles (`docker/Dockerfile.api`, `docker/Dockerfile.worker`) and `docker-compose.yml`
+- [X] T005 [P] Configure linting/formatting (`ruff.toml`, `black`, `isort`, pre-commit hooks)
+- [X] T006 Establish base FastAPI app scaffold (`src/app/main.py`) with health endpoint
+- [X] T007 Create database initialization scripts (`scripts/db/initialize.sql`, Alembic setup)
+- [X] T008 Define project logging config (`src/app/core/logging.py`) with JSON logs
+- [X] T009 Configure observability basics (structlog logging middleware, request ID injection)
+- [X] T010 Add Makefile/Taskfile for common commands (`make install`, `make test`, `make lint`)
+- [X] T011 Implement feature flag/config loader (`src/app/core/config.py`) reading env vars
+- [X] T012 Document setup instructions in `docs/setup.md`
 
 ## Phase 3.2: Tests First (TDD) – Foundational Contracts & Utilities
 **All tests MUST exist and fail before related implementation.**
-- [ ] T013 Create pytest configuration (`pytest.ini`) with async plugins
-- [ ] T014 Write failing integration test for health endpoint (`tests/integration/api/test_health.py`)
-- [ ] T015 [P] Contract test for knowledge source upload API (`tests/contract/api/test_knowledge_sources_post.py`)
-- [ ] T016 [P] Contract test for knowledge concept search API (`tests/contract/api/test_knowledge_search_post.py`)
-- [ ] T017 [P] Contract test for recommendation generation API (`tests/contract/api/test_recommendations_generate_post.py`)
-- [ ] T018 [P] Contract test for objection handling API (`tests/contract/api/test_recommendations_objection_post.py`)
-- [ ] T019 [P] Contract test for customer profile API (`tests/contract/api/test_customers_post.py`)
-- [ ] T020 [P] Unit tests for configuration loader (`tests/unit/core/test_config.py`)
-- [ ] T021 Define fixtures for database and OpenAI mocks (`tests/conftest.py`)
-- [ ] T022 Create failing semantic search tests (`tests/unit/knowledge/test_vector_store.py`)
-- [ ] T023 Create failing tests for personality detection heuristics (`tests/unit/customers/test_personality_engine.py`)
-- [ ] T024 Write scenario test for recommendation pipeline (`tests/integration/recommendations/test_pipeline_happy_path.py`)
-- [ ] T025 Write failing test for feedback analytics (`tests/unit/analytics/test_effectiveness_metrics.py`)
+- [X] T013 Create pytest configuration (`pytest.ini`) with async plugins
+- [X] T014 Write failing integration test for health endpoint (`tests/integration/api/test_health.py`)
+- [X] T015 [P] Contract test for knowledge source upload API (`tests/contract/api/test_knowledge_sources_post.py`)
+- [X] T016 [P] Contract test for knowledge concept search API (`tests/contract/api/test_knowledge_search_post.py`)
+- [X] T017 [P] Contract test for recommendation generation API (`tests/contract/api/test_recommendations_generate_post.py`)
+- [X] T018 [P] Contract test for objection handling API (`tests/contract/api/test_recommendations_objection_post.py`)
+- [X] T019 [P] Contract test for customer profile API (`tests/contract/api/test_customers_post.py`)
+- [X] T020 [P] Unit tests for configuration loader (`tests/unit/core/test_config.py`)
+- [X] T021 Define fixtures for database and OpenAI mocks (`tests/conftest.py`)
+- [X] T022 Create failing semantic search tests (`tests/unit/knowledge/test_vector_store.py`)
+- [X] T023 Create failing tests for personality detection heuristics (`tests/unit/customers/test_personality_engine.py`)
+- [X] T024 Write scenario test for recommendation pipeline (`tests/integration/recommendations/test_pipeline_happy_path.py`)
+- [X] T025 Write failing test for feedback analytics (`tests/unit/analytics/test_effectiveness_metrics.py`)
 
 ## Phase 3.3: Knowledge Ingestion & Processing
 - [ ] T026 Implement file ingestion service (`src/app/knowledge/services/ingestion_service.py`) supporting PDF/TXT/DOCX parsing
