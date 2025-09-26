@@ -1,10 +1,15 @@
-"""Vector store repository with in-memory fallback and pgvector-friendly interface."""
+"""Vector store repository with SQLAlchemy persistence and pgvector-friendly interface."""
 from __future__ import annotations
 
 import math
 import uuid
 from dataclasses import dataclass, field
 from typing import Any, Iterable, Sequence
+
+from sqlalchemy import select
+from sqlalchemy.orm import Session
+
+from src.app.knowledge.models import KnowledgeVectorModel
 
 
 @dataclass(slots=True)
@@ -24,10 +29,14 @@ class SimilarityResult:
 class VectorRepository:
     """Repository abstraction for storing and querying embeddings."""
 
-    def __init__(self, *, session: Any | None = None) -> None:
+    def __init__(self, *, session: Session | None = None) -> None:
         self._session = session
         # Fallback in-memory cache ensures tests run without Postgres.
         self._cache: dict[uuid.UUID, VectorRecord] = {}
+
+    @property
+    def session(self) -> Session | None:
+        return self._session
 
     def upsert(self, records: Sequence[VectorRecord]) -> None:
         if not records:
@@ -37,7 +46,18 @@ class VectorRepository:
             self._cache[record.concept_id] = record
 
         if self._session:
-            self._persist(records)
+            for record in records:
+                model = self._session.get(KnowledgeVectorModel, record.concept_id)
+                if not model:
+                    model = KnowledgeVectorModel(
+                        concept_id=record.concept_id,
+                        embedding=[float(value) for value in record.embedding],
+                    )
+                    self._session.add(model)
+                else:
+                    model.embedding = [float(value) for value in record.embedding]
+                model.metadata_dict = record.metadata
+            self._session.commit()
 
     async def similarity_search(
         self,
@@ -49,8 +69,9 @@ class VectorRepository:
         if not query_embedding:
             return []
 
+        records = self._load_records()
         results: list[SimilarityResult] = []
-        for record in self._cache.values():
+        for record in records:
             score = self._cosine_similarity(query_embedding, record.embedding)
             if score >= min_score:
                 results.append(SimilarityResult(concept_id=record.concept_id, score=score, metadata=record.metadata))
@@ -58,10 +79,20 @@ class VectorRepository:
         results.sort(key=lambda item: item.score, reverse=True)
         return results[:limit]
 
-    def _persist(self, records: Sequence[VectorRecord]) -> None:  # pragma: no cover - requires real DB
-        if not hasattr(self._session, "add_all"):
-            return
-        # The real persistence layer will be implemented when pgvector models are available.
+    def _load_records(self) -> Iterable[VectorRecord]:
+        if not self._session:
+            return self._cache.values()
+
+        statement = select(KnowledgeVectorModel)
+        models = self._session.execute(statement).scalars().all()
+        return [
+            VectorRecord(
+                concept_id=model.concept_id,
+                embedding=tuple(float(value) for value in (model.embedding or [])),
+                metadata=model.metadata_dict,
+            )
+            for model in models
+        ]
 
     def _cosine_similarity(self, a: Sequence[float], b: Sequence[float]) -> float:
         if len(a) != len(b):

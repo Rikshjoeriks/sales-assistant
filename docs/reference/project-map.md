@@ -36,6 +36,19 @@ Track every directory and key file so collaborators (and the assistant) can navi
 | `/src/app/core/config.py` | File | Pydantic settings + feature flags. | Expand with new env vars. |
 | `/src/app/core/logging.py` | File | Structlog JSON logging helpers. | Bind extra context fields carefully. |
 | `/src/app/core/observability.py` | File | Request middleware & CORS setup. | Extend with tracing exporters later. |
+| `/src/app/core/db.py` | File | SQLAlchemy engine/session helpers and declarative base for knowledge models. | Keep metadata synced with migrations. |
+| `/src/app/knowledge/` | Directory | Knowledge ingestion domain modules (services, repositories, API, models). | Phase 3.3 implementation. |
+| `/src/app/knowledge/models.py` | File | SQLAlchemy models for sources, concepts, vectors. | Align with Alembic migrations (T038). |
+| `/src/app/knowledge/dependencies.py` | File | Dependency providers wiring orchestrator stack. | Ensure singleton instances stay thread-safe. |
+| `/src/app/knowledge/services/` | Directory | Ingestion pipeline components (ingestion, chunker, concept extractor, embeddings, metrics, orchestrator). | Review for future Celery integration. |
+| `/src/app/knowledge/api/` | Directory | FastAPI router and Pydantic schemas for knowledge endpoints. | Contracts synced with `/specs/main/contracts/knowledge.yaml`. |
+| `/src/app/knowledge/repositories/` | Directory | In-memory repositories for sources and vectors (pgvector placeholder). | Replace with SQLAlchemy/pgvector in T038+. |
+| `/src/app/customers/` | Directory | Customer intelligence domain (models, services, API). | Phase 3.4 implementation in progress. |
+| `/src/app/customers/models.py` | File | SQLAlchemy models for profiles and interactions. | Sync with upcoming customer migrations. |
+| `/src/app/customers/dependencies.py` | File | FastAPI dependency wiring for customer services. | Provides shared session + singleton services. |
+| `/src/app/customers/api/` | Directory | FastAPI router and schemas for customer profiles & analytics. | Align responses with `/specs/main/contracts/customers.yaml`. |
+| `/src/app/customers/repositories/` | Directory | Persistence adapters for profiles and interactions. | Requires Postgres integration later. |
+| `/src/app/customers/services/` | Directory | Personality, decision, and search services for customers. | Heuristic engines; extend with ML later. |
 | `/src/alembic/` | Directory | Alembic migration environment and versions. | Add migrations under `versions/`. |
 | `/src/alembic/env.py` | File | Alembic runtime configuration referencing settings. | Update target metadata once models exist. |
 | `/pytest.ini` | File | Pytest configuration (async mode, warnings). | Extend as new markers/paths added. |
@@ -53,9 +66,15 @@ Track every directory and key file so collaborators (and the assistant) can navi
 | `/tests/` | Directory | Pytest suite organized by unit/contract/integration/perf/e2e. | Expand as features implement. |
 | `/tests/conftest.py` | File | Shared pytest fixtures (async client, mocks). | Extend with real DB/OpenAI fixtures later. |
 | `/tests/integration/api/test_health.py` | File | Health endpoint contract. | Should always pass. |
+| `/tests/integration/api/test_knowledge_routes.py` | File | Exercises knowledge upload + semantic search flow (Phase 3.3 verification). | Keep fixtures aligned with orchestrator behaviour. |
+| `/tests/integration/api/test_customers_routes.py` | File | Covers customer CRUD, interactions, analytics endpoints. | Depends on in-memory SQLite fixtures. |
 | `/tests/contract/api/` | Directory | API contract tests (knowledge, recommendations, customers). | Keep aligned with OpenAPI design. |
 | `/tests/unit/core/test_config.py` | File | Validates config loader behaviour. | Update as settings expand. |
 | `/tests/unit/knowledge/test_vector_store.py` | File | Ensures vector repository interface. | Update once implementation solidified. |
+| `/tests/unit/knowledge/test_source_repository.py` | File | Verifies knowledge source repository persistence. | Uses SQLite-backed session fixture. |
+| `/tests/unit/customers/test_personality_engine.py` | File | Disc personality engine expectations. | Update when engine implemented. |
+| `/tests/unit/customers/test_decision_service.py` | File | Ensures decision insights aggregate profile + interactions. | Expand as analytics mature. |
+| `/tests/unit/customers/test_search_service.py` | File | Verifies customer search pagination & filters. | Uses repository test double. |
 | `/tests/unit/customers/test_personality_engine.py` | File | Disc personality engine expectations. | Update when engine implemented. |
 | `/tests/integration/recommendations/test_pipeline_happy_path.py` | File | Recommendation pipeline end-to-end scenario expectations. | Flesh out with real assertions later. |
 | `/tests/unit/analytics/test_effectiveness_metrics.py` | File | Analytics effectiveness contract. | Update alongside analytics engine. |

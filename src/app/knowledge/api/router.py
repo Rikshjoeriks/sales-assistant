@@ -81,17 +81,15 @@ async def upload_knowledge_source(
             },
         ) from exc
 
-    return KnowledgeSourceResponse.model_validate(
-        {
-            "source_id": source.source_id,
-            "title": source.title,
-            "author": source.author,
-            "type": source.type,
-            "version": source.version,
-            "processing_status": source.processing_status,
-            "created_at": source.created_at,
-            "processed_at": source.processed_at,
-        }
+    return KnowledgeSourceResponse(
+        id=source.source_id,
+        title=source.title,
+        author=source.author,
+        type=source.type,
+        version=source.version,
+        processing_status=source.processing_status,
+        created_at=source.created_at,
+        processed_at=source.processed_at,
     )
 
 

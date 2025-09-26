@@ -4,7 +4,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from src.app.knowledge.dependencies import get_orchestrator
+from src.app.knowledge.dependencies import orchestrator_session
 from src.app.knowledge.services.orchestrator import IngestionRequest
 
 
@@ -16,20 +16,23 @@ SAMPLES = {
 
 
 def main(dir_path: Path) -> None:
-    orchestrator = get_orchestrator()
-    for type_name, text in SAMPLES.items():
-        payload = IngestionRequest(
-            filename=f"seed-{type_name}.txt",
-            data=text.encode("utf-8"),
-            content_type="text/plain",
-            title=f"Seed {type_name.title()} Source",
-            source_type=type_name,
-            author="Seed Script",
-            version="1.0",
-            metadata={"generated": True},
-        )
-        source = orchestrator.ingest(payload)
-        print(f"Seeded {type_name} source: {source.source_id}")
+    with orchestrator_session() as orchestrator:
+        for type_name, text in SAMPLES.items():
+            try:
+                payload = IngestionRequest(
+                    filename=f"seed-{type_name}.txt",
+                    data=text.encode("utf-8"),
+                    content_type="text/plain",
+                    title=f"Seed {type_name.title()} Source",
+                    source_type=type_name,
+                    author="Seed Script",
+                    version="1.0",
+                    metadata={"generated": True},
+                )
+                source = orchestrator.ingest(payload)
+                print(f"Seeded {type_name} source: {source.source_id}")
+            except Exception as exc:
+                print(f"Failed to seed {type_name}: {exc}")
 
 
 if __name__ == "__main__":

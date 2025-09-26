@@ -1,29 +1,17 @@
 """Expectations for the vector repository interface."""
 from __future__ import annotations
 
-import asyncio
 from uuid import uuid4
 
 import pytest
 
 
-def test_vector_repository_exposes_core_contract() -> None:
+@pytest.mark.asyncio
+async def test_vector_repository_similarity_search_in_memory() -> None:
     from src.app.knowledge.repositories.vector_repository import VectorRecord, VectorRepository  # noqa: WPS433
 
     repository = VectorRepository(session=None)
 
-    concept_id = uuid4()
-    repository.upsert([VectorRecord(concept_id=concept_id, embedding=(1.0, 0.0, 0.0))])
-
-    results = asyncio.run(repository.similarity_search(query_embedding=(1.0, 0.0, 0.0), limit=1))
-
-
-
-@pytest.mark.asyncio
-async def test_vector_repository_similarity_search_contract() -> None:
-    from src.app.knowledge.repositories.vector_repository import VectorRecord, VectorRepository  # noqa: WPS433
-
-    repository = VectorRepository()
     target_id = uuid4()
     repository.upsert(
         [
@@ -37,3 +25,21 @@ async def test_vector_repository_similarity_search_contract() -> None:
     assert results
     assert results[0].concept_id == target_id
     assert results[0].metadata["title"] == "Match"
+
+
+@pytest.mark.asyncio
+async def test_vector_repository_persists_vectors(db_session) -> None:
+    from src.app.knowledge.repositories.vector_repository import VectorRecord, VectorRepository  # noqa: WPS433
+
+    repository = VectorRepository(session=db_session)
+    concept_id = uuid4()
+    repository.upsert([VectorRecord(concept_id=concept_id, embedding=(0.3, 0.4, 0.5))])
+
+    db_session.expunge_all()
+
+    # New repository instance loads rows from the database
+    fresh_repository = VectorRepository(session=db_session)
+    results = await fresh_repository.similarity_search(query_embedding=(0.3, 0.4, 0.5), limit=1)
+
+    assert results
+    assert results[0].concept_id == concept_id

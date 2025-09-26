@@ -8,6 +8,8 @@ from alembic import context
 from sqlalchemy import engine_from_config, pool
 
 from src.app.core.config import settings
+from src.app.core.db import Base
+from src.app.knowledge import models as knowledge_models  # noqa: F401 - ensure models registered
 
 config = context.config
 if config.config_file_name is not None:
@@ -15,8 +17,8 @@ if config.config_file_name is not None:
 
 config.set_main_option("sqlalchemy.url", settings.database_url)
 
-def get_target_metadata() -> None:  # pragma: no cover - metadata populated later
-    return None
+def get_target_metadata():  # pragma: no cover - metadata populated later
+    return Base.metadata
 
 def run_migrations_offline() -> None:
     url = config.get_main_option("sqlalchemy.url")

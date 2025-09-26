@@ -8,8 +8,12 @@ from unittest.mock import MagicMock
 
 import pytest
 from httpx import ASGITransport, AsyncClient
+from sqlalchemy import create_engine
+from sqlalchemy.pool import StaticPool
 
+from src.app.core.db import Base, SessionLocal
 from src.app.main import app
+from src.app.knowledge.services.embedding_service import EmbeddingResult, EmbeddingService
 
 
 @pytest.fixture(scope="session")
@@ -20,8 +24,35 @@ def event_loop() -> Generator[asyncio.AbstractEventLoop, None, None]:
     loop.close()
 
 
+@pytest.fixture(scope="session")
+def engine() -> Generator[Any, None, None]:
+    original_bind = SessionLocal.kw.get("bind")
+    engine = create_engine(
+        "sqlite+pysqlite:///:memory:",
+        connect_args={"check_same_thread": False},
+        poolclass=StaticPool,
+        future=True,
+    )
+    SessionLocal.configure(bind=engine)
+    Base.metadata.create_all(bind=engine)
+    yield engine
+    Base.metadata.drop_all(bind=engine)
+    engine.dispose()
+    if original_bind is not None:
+        SessionLocal.configure(bind=original_bind)
+    else:
+        SessionLocal.configure(bind=None)
+
+
 @pytest.fixture()
-async def async_client() -> AsyncGenerator[AsyncClient, None]:
+def reset_db(engine: Any) -> Generator[None, None, None]:
+    Base.metadata.drop_all(bind=engine)
+    Base.metadata.create_all(bind=engine)
+    yield
+
+
+@pytest.fixture()
+async def async_client(reset_db: None) -> AsyncGenerator[AsyncClient, None]:
     """Return an HTTPX async client bound to the FastAPI app."""
     transport = ASGITransport(app=app)
     async with AsyncClient(transport=transport, base_url="http://testserver") as client:
@@ -29,12 +60,28 @@ async def async_client() -> AsyncGenerator[AsyncClient, None]:
 
 
 @pytest.fixture()
-def db_session() -> MagicMock:
-    """Provide a mocked database session for service tests."""
-    session = MagicMock(name="db_session")
-    session.commit.side_effect = RuntimeError("Database commit not configured for tests yet")
-    session.rollback.side_effect = RuntimeError("Database rollback not configured for tests yet")
-    return session
+def db_session(reset_db: None) -> Generator[Any, None, None]:
+    """Provide a real SQLAlchemy session for service tests."""
+    session = SessionLocal()
+    try:
+        yield session
+        session.commit()
+    finally:
+        session.close()
+
+
+@pytest.fixture(autouse=True)
+def force_embedding_fallback(monkeypatch: pytest.MonkeyPatch) -> None:
+    """Ensure embeddings rely on deterministic fallback during tests."""
+
+    def _embed(self: EmbeddingService, texts: Any) -> list[EmbeddingResult]:
+        results: list[EmbeddingResult] = []
+        for text in texts:
+            vector = self._fallback_embedding(str(text)).astype("float32").tolist()
+            results.append(EmbeddingResult(text=str(text), vector=vector))
+        return results
+
+    monkeypatch.setattr(EmbeddingService, "embed", _embed, raising=False)
 
 
 @pytest.fixture()

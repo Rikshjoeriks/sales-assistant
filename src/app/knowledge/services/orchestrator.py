@@ -73,7 +73,7 @@ class KnowledgeIngestionOrchestrator:
 
         with self._metrics.track_duration() as duration_timer:
             try:
-                self._source_repository.update_processing_status(source.source_id, status="processing")
+                source = self._source_repository.update_processing_status(source.source_id, status="processing")
 
                 document = self._ingestion_service.ingest_bytes(
                     filename=request.filename,
@@ -82,15 +82,19 @@ class KnowledgeIngestionOrchestrator:
                     metadata=request.metadata,
                 )
 
-                processed_source = self._process_document(source, document)
+                concepts = self._process_document(source.source_id, document)
                 elapsed = duration_timer()
-                processed_source.file_path = str(document.stored_path)
-                processed_source.processing_status = "processed"
-                processed_source.processed_at = dt.datetime.utcnow().replace(tzinfo=dt.timezone.utc)
+                processed_at = dt.datetime.utcnow().replace(tzinfo=dt.timezone.utc)
+                self._source_repository.update_file_path(source.source_id, file_path=str(document.stored_path))
+                processed_source = self._source_repository.update_processing_status(
+                    source.source_id,
+                    status="processed",
+                    processed_at=processed_at,
+                )
                 self._metrics.record_ingestion_success(
                     source_id=str(source.source_id),
                     duration_ms=elapsed,
-                    concept_count=len(self._source_repository.concepts_for_source(source.source_id)),
+                    concept_count=len(concepts),
                 )
                 return processed_source
             except Exception as exc:  # pragma: no cover - defensive logging
@@ -102,14 +106,14 @@ class KnowledgeIngestionOrchestrator:
                 self._metrics.record_ingestion_failure(source_id=str(source.source_id), error=exc)
                 raise
 
-    def _process_document(self, source: KnowledgeSource, document: IngestedDocument) -> KnowledgeSource:
+    def _process_document(self, source_id: uuid.UUID, document: IngestedDocument) -> list[KnowledgeConcept]:
         chunks = self._chunker.chunk(document.content)
         concepts = self._concept_extractor.extract(chunks)
 
         knowledge_concepts = [
             KnowledgeConcept(
                 concept_id=concept.concept_id,
-                source_id=source.source_id,
+                source_id=source_id,
                 title=concept.title,
                 concept_type=concept.concept_type,
                 content=concept.summary,
@@ -120,7 +124,7 @@ class KnowledgeIngestionOrchestrator:
             for concept in concepts
         ]
 
-        self._source_repository.add_concepts(source.source_id, knowledge_concepts)
+        self._source_repository.add_concepts(source_id, knowledge_concepts)
 
         embeddings = self._embedding_service.embed([concept.summary for concept in concepts])
         vector_records = [
@@ -128,7 +132,7 @@ class KnowledgeIngestionOrchestrator:
                 concept_id=concept.concept_id,
                 embedding=tuple(embedding.vector),
                 metadata={
-                    "source_id": str(source.source_id),
+                    "source_id": str(source_id),
                     "title": concept.title,
                     "concept_type": concept.concept_type,
                 },
@@ -136,7 +140,7 @@ class KnowledgeIngestionOrchestrator:
             for concept, embedding in zip(concepts, embeddings)
         ]
         self._vector_repository.upsert(vector_records)
-        return source
+        return knowledge_concepts
 
     async def semantic_search(
         self,

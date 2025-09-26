@@ -59,19 +59,19 @@
 - [X] T025 Write failing test for feedback analytics (`tests/unit/analytics/test_effectiveness_metrics.py`)
 
 ## Phase 3.3: Knowledge Ingestion & Processing
-- [ ] T026 Implement file ingestion service (`src/app/knowledge/services/ingestion_service.py`) supporting PDF/TXT/DOCX parsing
-- [ ] T027 Build text chunker and metadata extractor (`src/app/knowledge/services/chunker.py`)
-- [ ] T028 Create concept extraction pipeline (`src/app/knowledge/services/concept_extractor.py`) using spaCy rules
-- [ ] T029 Add embedding generator using sentence-transformers (`src/app/knowledge/services/embedding_service.py`)
-- [ ] T030 Implement vector store gateway (`src/app/knowledge/repositories/vector_repository.py`) with pgvector
-- [ ] T031 Develop knowledge source repository (`src/app/knowledge/repositories/source_repository.py`)
-- [ ] T032 Build knowledge processing background worker (`src/workers/knowledge_worker.py`) with task queue (RQ/Celery)
-- [ ] T033 Create ingestion orchestration service (`src/app/knowledge/services/orchestrator.py`)
-- [ ] T034 Implement knowledge API router (`src/app/knowledge/api/router.py`) satisfying contracts
-- [ ] T035 Add validation schemas (Pydantic models) for knowledge endpoints (`src/app/knowledge/api/schemas.py`)
-- [ ] T036 Wire ingestion metrics and logging (`src/app/knowledge/services/metrics.py`)
-- [ ] T037 Populate sample seed scripts for three starter knowledge sources (`scripts/seed/seed_knowledge.py`)
-- [ ] T038 Update Alembic migrations for knowledge tables and pgvector extension
+- [X] T026 Implement file ingestion service (`src/app/knowledge/services/ingestion_service.py`) supporting PDF/TXT/DOCX parsing
+- [X] T027 Build text chunker and metadata extractor (`src/app/knowledge/services/chunker.py`)
+- [X] T028 Create concept extraction pipeline (`src/app/knowledge/services/concept_extractor.py`) using spaCy rules
+- [X] T029 Add embedding generator using sentence-transformers (`src/app/knowledge/services/embedding_service.py`)
+- [X] T030 Implement vector store gateway (`src/app/knowledge/repositories/vector_repository.py`) with pgvector
+- [X] T031 Develop knowledge source repository (`src/app/knowledge/repositories/source_repository.py`)
+- [X] T032 Build knowledge processing background worker (`src/workers/knowledge_worker.py`) with task queue (RQ/Celery)
+- [X] T033 Create ingestion orchestration service (`src/app/knowledge/services/orchestrator.py`)
+- [X] T034 Implement knowledge API router (`src/app/knowledge/api/router.py`) satisfying contracts
+- [X] T035 Add validation schemas (Pydantic models) for knowledge endpoints (`src/app/knowledge/api/schemas.py`)
+- [X] T036 Wire ingestion metrics and logging (`src/app/knowledge/services/metrics.py`)
+- [X] T037 Populate sample seed scripts for three starter knowledge sources (`scripts/seed/seed_knowledge.py`)
+- [X] T038 Update Alembic migrations for knowledge tables and pgvector extension
 
 ## Phase 3.4: Customer Intelligence Platform
 - [ ] T039 Implement customer profile ORM models (`src/app/customers/models.py`)

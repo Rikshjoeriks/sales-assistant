@@ -1,10 +1,15 @@
-"""In-memory repository for knowledge sources and extracted concepts."""
+"""SQLAlchemy-backed repository for knowledge sources and concepts."""
 from __future__ import annotations
 
 import datetime as dt
 import uuid
 from dataclasses import dataclass, field
 from typing import Any, Iterable, Sequence
+
+from sqlalchemy import select
+from sqlalchemy.orm import Session
+
+from src.app.knowledge.models import KnowledgeConceptModel, KnowledgeSourceModel
 
 
 ProcessingStatus = str
@@ -37,12 +42,14 @@ class KnowledgeConcept:
 
 
 class KnowledgeSourceRepository:
-    """Persistence abstraction with safe in-memory defaults."""
+    """Persistence abstraction bridging SQLAlchemy models and domain dataclasses."""
 
-    def __init__(self, *, session: Any | None = None) -> None:
+    def __init__(self, *, session: Session) -> None:
         self._session = session
-        self._sources: dict[uuid.UUID, KnowledgeSource] = {}
-        self._concepts: dict[uuid.UUID, KnowledgeConcept] = {}
+
+    @property
+    def session(self) -> Session:
+        return self._session
 
     def create_source(
         self,
@@ -54,18 +61,18 @@ class KnowledgeSourceRepository:
         version: str | None = None,
         metadata: dict[str, Any] | None = None,
     ) -> KnowledgeSource:
-        source_id = uuid.uuid4()
-        source = KnowledgeSource(
-            source_id=source_id,
+        model = KnowledgeSourceModel(
             title=title,
             author=author,
             type=source_type,
             version=version,
             file_path=file_path,
-            metadata=metadata or {},
         )
-        self._sources[source_id] = source
-        return source
+        model.metadata_dict = metadata or {}
+        self._session.add(model)
+        self._session.commit()
+        self._session.refresh(model)
+        return self._to_domain_source(model)
 
     def update_processing_status(
         self,
@@ -74,34 +81,66 @@ class KnowledgeSourceRepository:
         status: ProcessingStatus,
         processed_at: dt.datetime | None = None,
     ) -> KnowledgeSource:
-        source = self._require_source(source_id)
-        source.processing_status = status
-        source.processed_at = processed_at
-        return source
+        model = self._require_source_model(source_id)
+        model.processing_status = status
+        model.processed_at = processed_at
+        self._session.commit()
+        self._session.refresh(model)
+        return self._to_domain_source(model)
 
-    def add_concepts(self, source_id: uuid.UUID, concepts: Iterable[KnowledgeConcept]) -> None:
-        self._require_source(source_id)
+    def update_file_path(self, source_id: uuid.UUID, *, file_path: str) -> KnowledgeSource:
+        model = self._require_source_model(source_id)
+        model.file_path = file_path
+        self._session.commit()
+        self._session.refresh(model)
+        return self._to_domain_source(model)
+
+    def add_concepts(self, source_id: uuid.UUID, concepts: Iterable[KnowledgeConcept]) -> list[KnowledgeConcept]:
+        self._require_source_model(source_id)
+        stored: list[KnowledgeConcept] = []
         for concept in concepts:
-            self._concepts[concept.concept_id] = concept
+            model = KnowledgeConceptModel(
+                id=concept.concept_id,
+                source_id=source_id,
+                title=concept.title,
+                concept_type=concept.concept_type,
+                content=concept.content,
+                confidence_score=concept.confidence_score,
+                page_reference=concept.page_reference,
+            )
+            model.keywords = concept.keywords
+            self._session.merge(model)
+            stored.append(concept)
+        self._session.commit()
+        return stored
 
     def list_sources(self) -> list[KnowledgeSource]:
-        return sorted(self._sources.values(), key=lambda s: s.created_at, reverse=True)
+        statement = select(KnowledgeSourceModel).order_by(KnowledgeSourceModel.created_at.desc())
+        models = self._session.execute(statement).scalars().all()
+        return [self._to_domain_source(model) for model in models]
 
     def get_source(self, source_id: uuid.UUID) -> KnowledgeSource:
-        return self._require_source(source_id)
+        model = self._require_source_model(source_id)
+        return self._to_domain_source(model)
 
     def concepts_for_source(self, source_id: uuid.UUID) -> list[KnowledgeConcept]:
-        return [concept for concept in self._concepts.values() if concept.source_id == source_id]
+        statement = select(KnowledgeConceptModel).where(KnowledgeConceptModel.source_id == source_id)
+        models = self._session.execute(statement).scalars().all()
+        return [self._to_domain_concept(model) for model in models]
 
     def delete_source(self, source_id: uuid.UUID) -> None:
-        if source_id in self._sources:
-            del self._sources[source_id]
-        for concept_id, concept in list(self._concepts.items()):
-            if concept.source_id == source_id:
-                del self._concepts[concept_id]
+        model = self._session.get(KnowledgeSourceModel, source_id)
+        if not model:
+            return
+        self._session.delete(model)
+        self._session.commit()
 
     def search_concepts(self, *, concept_ids: Sequence[uuid.UUID]) -> list[KnowledgeConcept]:
-        return [self._concepts[concept_id] for concept_id in concept_ids if concept_id in self._concepts]
+        if not concept_ids:
+            return []
+        statement = select(KnowledgeConceptModel).where(KnowledgeConceptModel.id.in_(concept_ids))
+        models = self._session.execute(statement).scalars().all()
+        return [self._to_domain_concept(model) for model in models]
 
     def concepts_with_sources(
         self,
@@ -109,25 +148,55 @@ class KnowledgeSourceRepository:
         concept_ids: Sequence[uuid.UUID],
         source_types: Sequence[str] | None = None,
     ) -> list[tuple[KnowledgeConcept, KnowledgeSource]]:
-        allowed_types = {type_name.lower() for type_name in (source_types or []) if type_name}
-        results: list[tuple[KnowledgeConcept, KnowledgeSource]] = []
-        for concept_id in concept_ids:
-            concept = self._concepts.get(concept_id)
-            if not concept:
-                continue
-            source = self._sources.get(concept.source_id)
-            if not source:
-                continue
-            if allowed_types and source.type.lower() not in allowed_types:
-                continue
-            results.append((concept, source))
-        return results
+        if not concept_ids:
+            return []
+        statement = (
+            select(KnowledgeConceptModel, KnowledgeSourceModel)
+            .join(KnowledgeSourceModel, KnowledgeConceptModel.source_id == KnowledgeSourceModel.id)
+            .where(KnowledgeConceptModel.id.in_(concept_ids))
+        )
+        if source_types:
+            lowered = [item.lower() for item in source_types if item]
+            if lowered:
+                statement = statement.where(KnowledgeSourceModel.type.in_(lowered))
 
-    def _require_source(self, source_id: uuid.UUID) -> KnowledgeSource:
-        try:
-            return self._sources[source_id]
-        except KeyError as exc:  # pragma: no cover - defensive guard
-            raise KeyError(f"Knowledge source {source_id} not found") from exc
+        rows = self._session.execute(statement).all()
+        return [
+            (self._to_domain_concept(concept_model), self._to_domain_source(source_model))
+            for concept_model, source_model in rows
+        ]
+
+    def _require_source_model(self, source_id: uuid.UUID) -> KnowledgeSourceModel:
+        model = self._session.get(KnowledgeSourceModel, source_id)
+        if not model:  # pragma: no cover - defensive guard
+            raise KeyError(f"Knowledge source {source_id} not found")
+        return model
+
+    def _to_domain_source(self, model: KnowledgeSourceModel) -> KnowledgeSource:
+        return KnowledgeSource(
+            source_id=model.id,
+            title=model.title,
+            author=model.author,
+            type=model.type,
+            version=model.version,
+            file_path=model.file_path,
+            processing_status=model.processing_status,
+            created_at=model.created_at,
+            processed_at=model.processed_at,
+            metadata=model.metadata_dict,
+        )
+
+    def _to_domain_concept(self, model: KnowledgeConceptModel) -> KnowledgeConcept:
+        return KnowledgeConcept(
+            concept_id=model.id,
+            source_id=model.source_id,
+            title=model.title,
+            concept_type=model.concept_type,
+            content=model.content,
+            keywords=model.keywords,
+            page_reference=model.page_reference,
+            confidence_score=model.confidence_score,
+        )
 
 
 __all__ = [

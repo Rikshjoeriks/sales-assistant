@@ -5,10 +5,11 @@ import datetime as dt
 import uuid
 from typing import Any
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, ConfigDict
 
 
 class KnowledgeSourceResponse(BaseModel):
+    model_config = ConfigDict(populate_by_name=True)
     id: uuid.UUID = Field(validation_alias="source_id")
     title: str
     author: str | None = None

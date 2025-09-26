@@ -13,7 +13,13 @@ class FeatureFlags(BaseModel):
 
 
 class Settings(BaseSettings):
-    model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", case_sensitive=False)
+    model_config = SettingsConfigDict(
+        env_file=".env",
+        env_file_encoding="utf-8",
+        case_sensitive=False,
+        env_nested_delimiter="__",
+        extra="ignore",
+    )
 
     environment: str = Field(default="local")
     openai_api_key: str | None = Field(default=None)
