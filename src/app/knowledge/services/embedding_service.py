@@ -5,10 +5,9 @@ import hashlib
 import logging
 from dataclasses import dataclass
 from functools import cached_property
-from typing import Iterable, Sequence
+from typing import Sequence
 
 import numpy as np
-
 
 logger = logging.getLogger(__name__)
 

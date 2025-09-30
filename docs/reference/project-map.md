@@ -31,7 +31,7 @@ Track every directory and key file so collaborators (and the assistant) can navi
 | `/specs/main/contracts/` | Directory | API contracts (knowledge, customers, recommendations). | Keep in lockstep with service evolution. |
 | `/specs/main/quickstart.md` | File | Setup/run instructions once implemented. | Update when environment shifts. |
 | `/src/` | Directory | Application source code (FastAPI app, workers, CLI). | Modules use src-based layout. |
-| `/src/app/main.py` | File | FastAPI entrypoint exposing `/health`. | Extend as routers and deps grow. |
+| `/src/app/main.py` | File | FastAPI entrypoint exposing `/health` and mounting knowledge + customer routers. | Extend as routers and deps grow; register new domains here. |
 | `/src/app/core/` | Directory | Core infrastructure (config, logging, observability, future middleware). |  |
 | `/src/app/core/config.py` | File | Pydantic settings + feature flags. | Expand with new env vars. |
 | `/src/app/core/logging.py` | File | Structlog JSON logging helpers. | Bind extra context fields carefully. |
@@ -43,14 +43,37 @@ Track every directory and key file so collaborators (and the assistant) can navi
 | `/src/app/knowledge/services/` | Directory | Ingestion pipeline components (ingestion, chunker, concept extractor, embeddings, metrics, orchestrator). | Review for future Celery integration. |
 | `/src/app/knowledge/api/` | Directory | FastAPI router and Pydantic schemas for knowledge endpoints. | Contracts synced with `/specs/main/contracts/knowledge.yaml`. |
 | `/src/app/knowledge/repositories/` | Directory | In-memory repositories for sources and vectors (pgvector placeholder). | Replace with SQLAlchemy/pgvector in T038+. |
-| `/src/app/customers/` | Directory | Customer intelligence domain (models, services, API). | Phase 3.4 implementation in progress. |
+| `/src/app/customers/` | Directory | Customer intelligence domain (models, services, API). | Phase 3.4 implementation complete. |
 | `/src/app/customers/models.py` | File | SQLAlchemy models for profiles and interactions. | Sync with upcoming customer migrations. |
 | `/src/app/customers/dependencies.py` | File | FastAPI dependency wiring for customer services. | Provides shared session + singleton services. |
-| `/src/app/customers/api/` | Directory | FastAPI router and schemas for customer profiles & analytics. | Align responses with `/specs/main/contracts/customers.yaml`. |
+| `/src/app/customers/api/` | Directory | FastAPI router and schemas for customer profiles, interactions, analytics. | Align responses with `/specs/main/contracts/customers.yaml`. |
+| `/src/app/customers/api/router.py` | File | Implements customer CRUD, interaction logging, and search endpoints. | Keep response models synced with schemas and tests. |
+| `/src/app/customers/api/analytics_router.py` | File | Customer analytics endpoints exposing summary metrics and follow-up reminders. | Mount alongside main router in `src/app/main.py`. |
+| `/src/app/customers/api/schemas.py` | File | Pydantic models for customer creation, summaries, detail views, interactions, analytics. | Update alongside service contract changes. |
 | `/src/app/customers/repositories/` | Directory | Persistence adapters for profiles and interactions. | Requires Postgres integration later. |
+| `/src/app/customers/repositories/profile_repository.py` | File | Customer profile persistence abstraction with filtering helpers for search. | Replace in-memory logic with SQLAlchemy when DB wired. |
+| `/src/app/customers/repositories/interaction_repository.py` | File | Stores and retrieves interaction history plus analytics aggregates. | Ensure schema stays aligned with migrations. |
 | `/src/app/customers/services/` | Directory | Personality, decision, and search services for customers. | Heuristic engines; extend with ML later. |
+| `/src/app/customers/services/personality_engine.py` | File | DISC-style personality inference with keyword heuristics and confidence scoring. | Tune heuristics using real interaction data. |
+| `/src/app/customers/services/decision_service.py` | File | Aggregates decision drivers and surfaces sales recommendations. | Expand once analytics backend ready. |
+| `/src/app/customers/services/search_service.py` | File | Translates filter requests into repository queries and wraps summaries/pagination. | Keep in sync with repository query capabilities. |
+| `/src/app/customers/services/summary_service.py` | File | Builds profile summaries and transforms stored profiles for evaluation. | Shared utility across routers, seeds, and services. |
+| `/src/app/recommendations/` | Directory | Recommendation engine domain (models, services, clients, API). | Phase 3.5 implementation in progress. |
+| `/src/app/recommendations/models.py` | File | SQLAlchemy models for sales contexts, recommendations, and source references. | Sync with Alembic migrations. |
+| `/src/app/recommendations/repositories/` | Directory | Persistence adapters for recommendation workflow. | Depends on models metadata. |
+| `/src/app/recommendations/repositories/context_repository.py` | File | Manages sales contexts and generated recommendations with source references. | Provides domain records for recommendation services. |
+| `/src/app/recommendations/services/` | Directory | Recommendation orchestration services (context building, retrieval, prompting). | Build out during Phase 3.5. |
+| `/src/app/recommendations/services/context_builder.py` | File | Composes customer signals into persisted recommendation contexts. | Feeds downstream retrieval & generation. |
+| `/src/app/recommendations/services/retrieval_service.py` | File | Retrieves relevant concepts and joins with source metadata for prompts. | Inputs: embedding + filters; outputs: sorted bundle. |
+| `/src/app/recommendations/services/prompt_builder.py` | File | Builds chat prompts from context and retrieval bundles with truncation heuristics. | Produces system/user parts and messages list. |
+| `/src/app/recommendations/clients/chatgpt_client.py` | File | Async ChatGPT client wrapper with retry/backoff. | Accepts preconfigured client; no network in tests. |
+| `/src/app/recommendations/services/synthesis_service.py` | File | Orchestrates prompt build + chat call and records recommendation with source attributions. | Returns RecommendationRecord via repository. |
+| `/src/app/recommendations/services/__init__.py` | File | Aggregates recommendation service exports. | Update as new services land. |
 | `/src/alembic/` | Directory | Alembic migration environment and versions. | Add migrations under `versions/`. |
 | `/src/alembic/env.py` | File | Alembic runtime configuration referencing settings. | Update target metadata once models exist. |
+| `/src/alembic/versions/202509261300_customer_domain_tables.py` | File | Creates customer profile and interaction tables with indexes. | Keep in sync with models in `src/app/customers/models.py`. |
+| `/src/alembic/versions/202509271000_recommendation_domain_tables.py` | File | Creates sales context, recommendation, and source reference tables. | Maintain alignment with `src/app/recommendations/models.py`. |
+| `/src/alembic/versions/202509281100_feedback_domain_tables.py` | File | Creates `recommendation_feedback` table and index. | Sync with `src/app/feedback/models.py`. |
 | `/pytest.ini` | File | Pytest configuration (async mode, warnings). | Extend as new markers/paths added. |
 | `/README.md` | File | Repo overview. | Refresh when major milestones achieved. |
 | `/pyproject.toml` | File | Poetry project configuration with dependencies and tooling. | Maintain pinned versions. |
@@ -63,6 +86,7 @@ Track every directory and key file so collaborators (and the assistant) can navi
 | `/docker-compose.yml` | File | Multi-service dev stack (API, worker, Postgres, Redis). | Update when services or env vars shift. |
 | `/scripts/` | Directory | Helper scripts (DB, seeds, deploy). |  |
 | `/scripts/db/initialize.sql` | File | Postgres bootstrap (roles, pgvector). | Run once per environment. |
+| `/scripts/seed/seed_customers.py` | File | Seeds sample customer personas and interactions via repositories. | Run after DB init to populate demo data. |
 | `/tests/` | Directory | Pytest suite organized by unit/contract/integration/perf/e2e. | Expand as features implement. |
 | `/tests/conftest.py` | File | Shared pytest fixtures (async client, mocks). | Extend with real DB/OpenAI fixtures later. |
 | `/tests/integration/api/test_health.py` | File | Health endpoint contract. | Should always pass. |
@@ -74,10 +98,22 @@ Track every directory and key file so collaborators (and the assistant) can navi
 | `/tests/unit/knowledge/test_source_repository.py` | File | Verifies knowledge source repository persistence. | Uses SQLite-backed session fixture. |
 | `/tests/unit/customers/test_personality_engine.py` | File | Disc personality engine expectations. | Update when engine implemented. |
 | `/tests/unit/customers/test_decision_service.py` | File | Ensures decision insights aggregate profile + interactions. | Expand as analytics mature. |
-| `/tests/unit/customers/test_search_service.py` | File | Verifies customer search pagination & filters. | Uses repository test double. |
-| `/tests/unit/customers/test_personality_engine.py` | File | Disc personality engine expectations. | Update when engine implemented. |
+| `/tests/unit/customers/test_search_service.py` | File | Verifies customer search pagination, filter forwarding, and summary wrapping. | Uses repository test double mirroring service contract. |
+| `/tests/unit/customers/test_summary_service.py` | File | Ensures profile summary helper merges personality and decision insights. | Keeps summary outputs deterministic. |
+| `/tests/unit/recommendations/test_context_repository.py` | File | Validates sales context repository persistence and source linkage. | Uses real SQLAlchemy session fixture. |
+| `/tests/unit/recommendations/test_context_builder.py` | File | Ensures context builder enriches contexts with personality, decision, and interaction signals. | Passes after T050 implementation. |
+| `/tests/unit/recommendations/test_retrieval_service.py` | File | Validates retrieval sorting, limits, and empty-query behavior. | Uses dummy repositories for isolation. |
+| `/tests/unit/recommendations/test_prompt_builder.py` | File | Ensures prompt sections, citations, and truncation behavior. | Uses synthetic context and retrieval bundle. |
+| `/tests/unit/recommendations/test_chatgpt_client.py` | File | Validates retry/backoff behavior and payload passing to client. | Uses dummy async client doubles. |
 | `/tests/integration/recommendations/test_pipeline_happy_path.py` | File | Recommendation pipeline end-to-end scenario expectations. | Flesh out with real assertions later. |
 | `/tests/unit/analytics/test_effectiveness_metrics.py` | File | Analytics effectiveness contract. | Update alongside analytics engine. |
+| `/src/app/feedback/` | Directory | Feedback loop domain (models, repo, service, API). | Phase 3.6 tasks T061–T064. |
+| `/src/app/feedback/models.py` | File | SQLAlchemy model for recommendation feedback entries. | FK to `sales_recommendations`. |
+| `/src/app/feedback/repositories.py` | File | Repository for creating and listing feedback records. | Returns typed `FeedbackRecord`. |
+| `/src/app/feedback/services/service.py` | File | Feedback service with Pydantic payload and response. | Used by feedback API. |
+| `/src/app/feedback/api/router.py` | File | FastAPI router exposing POST feedback endpoint. | Mounted in `src/app/main.py`. |
+| `/tests/unit/feedback/test_feedback_repository.py` | File | Unit test for feedback repo round-trip. | Uses in-memory SQLite. |
+| `/tests/contract/api/test_recommendations_feedback_post.py` | File | Contract test for POST /recommendations/{id}/feedback. | Expects 201 response. |
 | `/MyProject/` | Directory | Legacy or placeholder content (investigate before use). | Flag for cleanup in future. |
 | `/Staying_organized_and_productive.md` | File | Legacy note—review for relevance. | Consider migrating or archiving. |
 | `/steps1.md` | File | Legacy instructions. | Evaluate during implementation phase. |

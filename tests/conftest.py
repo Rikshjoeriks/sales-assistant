@@ -12,8 +12,8 @@ from sqlalchemy import create_engine
 from sqlalchemy.pool import StaticPool
 
 from src.app.core.db import Base, SessionLocal
-from src.app.main import app
 from src.app.knowledge.services.embedding_service import EmbeddingResult, EmbeddingService
+from src.app.main import app
 
 
 @pytest.fixture(scope="session")

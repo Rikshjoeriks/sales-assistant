@@ -11,7 +11,6 @@ from sqlalchemy.orm import Session
 
 from src.app.knowledge.models import KnowledgeConceptModel, KnowledgeSourceModel
 
-
 ProcessingStatus = str
 
 

@@ -7,7 +7,6 @@ from typing import Callable, Iterator
 
 import structlog
 
-
 logger = structlog.get_logger(__name__)
 
 

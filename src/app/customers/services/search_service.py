@@ -5,7 +5,10 @@ from dataclasses import dataclass
 from datetime import datetime
 from typing import Any
 
-from src.app.customers.repositories.profile_repository import CustomerProfileRepository, CustomerSummary
+from src.app.customers.repositories.profile_repository import (
+    CustomerProfileRepository,
+    CustomerSummary,
+)
 
 
 @dataclass(slots=True)

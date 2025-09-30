@@ -224,11 +224,11 @@ class CustomerProfileRepository:
 
     def _to_domain(self, model: CustomerProfileModel) -> CustomerProfile:
         return CustomerProfile(
-            customer_id=cast(uuid.UUID, getattr(model, "id")),
-            name=cast(str | None, getattr(model, "name")),
+            customer_id=cast(uuid.UUID, model.id),
+            name=cast(str | None, model.name),
             demographics=model.demographics,
-            profession=cast(str | None, getattr(model, "profession")),
-            personality_type=cast(str | None, getattr(model, "personality_type")),
+            profession=cast(str | None, model.profession),
+            personality_type=cast(str | None, model.personality_type),
             personality_confidence=cast(float | None, getattr(model, "personality_confidence", None)),
             personality_method=cast(str | None, getattr(model, "personality_method", None)),
             personality_traits=model.personality_traits,
@@ -238,11 +238,11 @@ class CustomerProfileRepository:
             buying_context=model.buying_context,
             profile_score=float(getattr(model, "profile_score", 0.0) or 0.0),
             recommendation_ready=bool(getattr(model, "recommendation_ready", False)),
-            created_at=cast(dt.datetime, getattr(model, "created_at")),
-            updated_at=cast(dt.datetime, getattr(model, "updated_at")),
+            created_at=cast(dt.datetime, model.created_at),
+            updated_at=cast(dt.datetime, model.updated_at),
             interaction_count=int(getattr(model, "interaction_count", 0) or 0),
             last_interaction_at=cast(dt.datetime | None, getattr(model, "last_interaction_at", None)),
-            sales_stage=cast(str, getattr(model, "sales_stage")),
+            sales_stage=cast(str, model.sales_stage),
             budget_range=cast(str | None, getattr(model, "budget_range", None)),
             current_interest=cast(str | None, getattr(model, "current_interest", None)),
             summary=model.summary,
@@ -250,12 +250,12 @@ class CustomerProfileRepository:
 
     def _to_summary(self, model: CustomerProfileModel) -> CustomerSummary:
         return CustomerSummary(
-            customer_id=cast(uuid.UUID, getattr(model, "id")),
-            name=cast(str | None, getattr(model, "name")),
+            customer_id=cast(uuid.UUID, model.id),
+            name=cast(str | None, model.name),
             profession=cast(str | None, getattr(model, "profession", None)),
             personality_type=cast(str | None, getattr(model, "personality_type", None)),
             budget_range=cast(str | None, getattr(model, "budget_range", None)),
-            sales_stage=cast(str, getattr(model, "sales_stage")),
+            sales_stage=cast(str, model.sales_stage),
             interaction_count=int(getattr(model, "interaction_count", 0) or 0),
             last_interaction_at=cast(dt.datetime | None, getattr(model, "last_interaction_at", None)),
             profile_score=float(getattr(model, "profile_score", 0.0) or 0.0),

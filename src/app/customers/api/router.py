@@ -2,18 +2,17 @@
 from __future__ import annotations
 
 import uuid
+from dataclasses import asdict
 from typing import Any
 
 from fastapi import APIRouter, Depends, HTTPException, Query, status
 
 from src.app.customers.api.schemas import (
-    AnalyticsSummaryResponse,
     CustomerDetailResponse,
     CustomerListResponse,
     CustomerProfileCreate,
     CustomerProfileResponse,
     CustomerProfileSummary,
-    FollowUpSummary,
     InteractionCreate,
     InteractionHistoryEntry,
     InteractionHistoryResponse,
@@ -30,11 +29,17 @@ from src.app.customers.dependencies import (
     get_search_service,
 )
 from src.app.customers.repositories.interaction_repository import InteractionRepository
-from src.app.customers.repositories.profile_repository import CustomerProfile, CustomerProfileRepository
-from src.app.customers.services.decision_service import DecisionInsight, DecisionService
+from src.app.customers.repositories.profile_repository import (
+    CustomerProfile,
+    CustomerProfileRepository,
+)
+from src.app.customers.services.decision_service import DecisionService
 from src.app.customers.services.personality_engine import PersonalityEngine
 from src.app.customers.services.search_service import CustomerSearchService
-
+from src.app.customers.services.summary_service import (
+    build_profile_summary,
+    profile_to_evaluation_payload,
+)
 
 router = APIRouter(prefix="/api/v1/customers", tags=["Customers"])
 
@@ -49,10 +54,10 @@ def create_customer_profile(
     profile = repository.create_profile(payload.dict(exclude_unset=True))
     personality = personality_engine.evaluate(payload.dict(exclude_unset=True))
     decision = decision_service.evaluate(payload.dict(exclude_unset=True), interactions=[])
-    summary = _build_profile_summary(personality, decision)
+    summary = build_profile_summary(personality, decision)
     repository.record_summary(
-        uuid.UUID(str(profile.customer_id)),
-        traits=personality.traits,
+        profile.customer_id,
+        traits=dict(personality.traits),
         summary=summary,
         recommendation_ready=profile.recommendation_ready,
         profile_score=profile.profile_score,
@@ -87,12 +92,16 @@ def list_customer_profiles(
             budget_range=result.budget_range,
             sales_stage=result.sales_stage,
             interaction_count=result.interaction_count,
-            last_interaction=None,
-            profile_completeness=0.0,
+            last_interaction=result.last_interaction,
+            profile_completeness=result.profile_score,
         )
         for result in page.customers
     ]
-    pagination = PaginationModel(limit=page.pagination.limit, offset=page.pagination.offset, has_more=page.pagination.has_more)
+    pagination = PaginationModel(
+        limit=page.pagination.limit,
+        offset=page.pagination.offset,
+        has_more=page.pagination.has_more,
+    )
     return CustomerListResponse(customers=customers, total_count=page.total, pagination=pagination)
 
 
@@ -111,10 +120,12 @@ def get_customer_profile(
 
     history = interactions.list_for_customer(customer_id)
     analytics = interactions.analytics_for_customer(customer_id)
-    personality = personality_engine.evaluate(_profile_to_payload(profile))
-    decision = decision_service.evaluate(_profile_to_payload(profile), interactions=[record.__dict__ for record in history])
+    personality = personality_engine.evaluate(profile_to_evaluation_payload(profile))
+    decision = decision_service.evaluate(
+        profile_to_evaluation_payload(profile), interactions=[asdict(record) for record in history]
+    )
 
-    summary = profile.summary or _build_profile_summary(personality, decision)
+    summary = profile.summary or build_profile_summary(personality, decision)
     detail = CustomerDetailResponse(
         id=str(profile.customer_id),
         name=profile.name,
@@ -139,12 +150,12 @@ def get_customer_profile(
             )
             for entry in history
         ],
+        interaction_summary=analytics,
         recommendations_generated=summary.get("recommendations_generated", 0),
         average_recommendation_effectiveness=summary.get("average_effectiveness", 0.0),
         created_at=profile.created_at,
         last_updated=profile.updated_at,
     )
-    detail.interaction_summary = analytics
     return detail
 
 
@@ -159,12 +170,13 @@ def log_interaction(
 ) -> InteractionResponse:
     record = interactions.record(customer_id, payload.dict(exclude_unset=True))
     profile = repository.get_profile(customer_id)
-    personality = personality_engine.evaluate(_profile_to_payload(profile))
-    decision = decision_service.evaluate(_profile_to_payload(profile), interactions=[record.__dict__])
-    summary = _build_profile_summary(personality, decision)
+    profile_payload = profile_to_evaluation_payload(profile)
+    personality = personality_engine.evaluate(profile_payload)
+    decision = decision_service.evaluate(profile_payload, interactions=[asdict(record)])
+    summary = build_profile_summary(personality, decision)
     repository.record_summary(
         customer_id,
-        traits=personality.traits,
+        traits=dict(personality.traits),
         summary=summary,
         recommendation_ready=profile.recommendation_ready,
         profile_score=profile.profile_score,
@@ -204,66 +216,24 @@ def list_interactions(
     )
 
 
-@router.get("/analytics/summary", response_model=AnalyticsSummaryResponse)
-def analytics_summary(
-    repository: CustomerProfileRepository = Depends(get_profile_repository),
-    interactions: InteractionRepository = Depends(get_interaction_repository),
-) -> AnalyticsSummaryResponse:
-    summary = AnalyticsSummaryResponse(
-        total_customers=repository.total_customers(),
-        average_profile_score=repository.average_profile_score(),
-        personality_distribution=repository.personality_distribution(),
-        top_decision_factors=repository.top_decision_factors(),
-        recent_follow_ups=[
-            FollowUpSummary(
-                interaction_id=str(item.interaction_id),
-                customer_id=str(item.customer_id),
-                follow_up_type=item.follow_up_type,
-                follow_up_at=item.follow_up_at,
-                notes=item.notes,
-            )
-            for item in interactions.recent_follow_ups()
-        ],
+def _to_profile_response(
+    profile: CustomerProfile,
+    personality: Any,
+    summary: dict[str, Any],
+) -> CustomerProfileResponse:
+    return CustomerProfileResponse(
+        id=str(profile.customer_id),
+        name=profile.name,
+        profile_completeness=profile.profile_score,
+        personality_type=getattr(personality, "type", profile.personality_type),
+        created_at=profile.created_at,
+        recommendation_readiness=profile.recommendation_ready,
+        profile_summary=ProfileSummaryModel(
+            key_traits=list(summary.get("key_traits", [])),
+            optimal_sales_approach=summary.get("optimal_sales_approach"),
+            potential_objections=list(summary.get("potential_objections", [])),
+        ),
     )
-    return summary
-
-
-# ----------------------------------------------------------------------
-# Helpers
-# ----------------------------------------------------------------------
-
-def _build_profile_summary(personality: PersonalityEngine | Any, decision: DecisionInsight) -> dict[str, Any]:
-    traits = getattr(personality, "traits", {}) if not isinstance(personality, dict) else personality.get("traits", {})
-    key_traits = [
-        f"{getattr(personality, 'primary_trait', 'steady')}_oriented",
-        *decision.primary_factors[:2],
-    ]
-    summary = {
-        "key_traits": [trait for trait in key_traits if trait],
-        "optimal_sales_approach": getattr(personality, "communication_style", None) or "consultative",
-        "potential_objections": decision.objection_themes or decision.deal_breakers,
-        "recommendations_generated": 0,
-        "average_effectiveness": 0.0,
-    }
-    if traits:
-        summary["trait_scores"] = dict(traits)
-    return summary
-
-
-def _profile_to_payload(profile: CustomerProfile) -> dict[str, Any]:
-    return {
-        "name": profile.name,
-        "demographics": profile.demographics,
-        "personality_assessment": {
-            "type": profile.personality_type,
-            "confidence": profile.personality_confidence,
-        },
-        "communication_preferences": profile.communication_preferences,
-        "decision_factors": profile.decision_factors,
-        "buying_context": profile.buying_context,
-        "sales_stage": profile.sales_stage,
-        "current_interest": profile.current_interest,
-    }
 
 
 __all__ = ["router"]

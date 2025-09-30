@@ -3,9 +3,8 @@ from __future__ import annotations
 
 import datetime as dt
 import uuid
-from typing import Any
 
-from pydantic import BaseModel, Field, ConfigDict
+from pydantic import BaseModel, ConfigDict, Field
 
 
 class KnowledgeSourceResponse(BaseModel):

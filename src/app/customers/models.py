@@ -1,11 +1,21 @@
 """SQLAlchemy models backing the customer intelligence domain."""
 from __future__ import annotations
 
-import datetime as dt
 import uuid
 from typing import Any
 
-from sqlalchemy import JSON, Boolean, Column, DateTime, Float, ForeignKey, Integer, String, Text, func
+from sqlalchemy import (
+    JSON,
+    Boolean,
+    Column,
+    DateTime,
+    Float,
+    ForeignKey,
+    Integer,
+    String,
+    Text,
+    func,
+)
 from sqlalchemy.dialects.postgresql import UUID
 from sqlalchemy.orm import relationship
 
@@ -146,7 +156,7 @@ class CustomerInteractionModel(Base):
 
     @property
     def products_discussed(self) -> list[str]:
-        value = getattr(self, "products_discussed_json") or []
+        value = self.products_discussed_json or []
         return list(value)
 
     @products_discussed.setter

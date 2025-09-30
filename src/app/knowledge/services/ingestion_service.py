@@ -11,7 +11,6 @@ from pathlib import Path
 from typing import Iterable
 from zipfile import ZipFile
 
-
 logger = logging.getLogger(__name__)
 
 

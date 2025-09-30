@@ -8,7 +8,10 @@ import pytest
 
 @pytest.mark.asyncio
 async def test_vector_repository_similarity_search_in_memory() -> None:
-    from src.app.knowledge.repositories.vector_repository import VectorRecord, VectorRepository  # noqa: WPS433
+    from src.app.knowledge.repositories.vector_repository import (
+        VectorRecord,
+        VectorRepository,
+    )
 
     repository = VectorRepository(session=None)
 
@@ -29,7 +32,10 @@ async def test_vector_repository_similarity_search_in_memory() -> None:
 
 @pytest.mark.asyncio
 async def test_vector_repository_persists_vectors(db_session) -> None:
-    from src.app.knowledge.repositories.vector_repository import VectorRecord, VectorRepository  # noqa: WPS433
+    from src.app.knowledge.repositories.vector_repository import (
+        VectorRecord,
+        VectorRepository,
+    )
 
     repository = VectorRepository(session=db_session)
     concept_id = uuid4()

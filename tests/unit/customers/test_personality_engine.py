@@ -5,7 +5,7 @@ import pytest
 
 
 def test_personality_engine_exposes_trait_weights() -> None:
-    from src.app.customers.services.personality_engine import PersonalityEngine  # noqa: WPS433
+    from src.app.customers.services.personality_engine import PersonalityEngine
 
     engine = PersonalityEngine()
 
@@ -13,7 +13,7 @@ def test_personality_engine_exposes_trait_weights() -> None:
 
 
 def test_personality_engine_evaluates_profile(sample_customer_profile) -> None:
-    from src.app.customers.services.personality_engine import PersonalityEngine  # noqa: WPS433
+    from src.app.customers.services.personality_engine import PersonalityEngine
 
     engine = PersonalityEngine()
 
@@ -43,7 +43,7 @@ def test_personality_engine_evaluates_profile(sample_customer_profile) -> None:
     ],
 )
 def test_personality_engine_classifies_transcripts(transcript: str, expected_profile: str) -> None:
-    from src.app.customers.services.personality_engine import PersonalityEngine  # noqa: WPS433
+    from src.app.customers.services.personality_engine import PersonalityEngine
 
     engine = PersonalityEngine()
 

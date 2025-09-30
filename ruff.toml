@@ -8,6 +8,6 @@ exclude = [
 ]
 select = ["E", "F", "I", "UP", "B", "S", "W", "PL", "RUF"]
 ignore = ["S101"]
-per-file-ignores = {
-  "tests/" = ["S101", "D100", "D103"]
-}
+
+[per-file-ignores]
+"tests/**" = ["S101", "D100", "D103"]

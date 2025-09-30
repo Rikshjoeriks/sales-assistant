@@ -41,5 +41,5 @@ async def test_create_customer_profile_contract(async_client) -> None:
 
     assert response.status_code == 201
     body = response.json()
-    for key in {"id", "profile_completeness", "personality_type"}:
+    for key in ("id", "profile_completeness", "personality_type"):
         assert key in body

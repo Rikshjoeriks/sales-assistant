@@ -27,6 +27,6 @@ async def test_recommendation_generation_contract(async_client, sample_customer_
 
     assert response.status_code == 200
     body = response.json()
-    for key in {"id", "recommendation_text", "output_format", "confidence_score"}:
+    for key in ("id", "recommendation_text", "output_format", "confidence_score"):
         assert key in body
     assert "applied_principles" in body

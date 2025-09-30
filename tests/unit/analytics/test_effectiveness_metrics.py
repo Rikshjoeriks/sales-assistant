@@ -4,8 +4,8 @@ from __future__ import annotations
 import pytest
 
 
-def test_effectiveness_engine_requires_feedback_payload() -> None:
-    from src.app.analytics.services.effectiveness_engine import EffectivenessEngine  # noqa: WPS433
+def test_effectiveness_engine_summary_metrics() -> None:
+    from src.app.analytics.services.effectiveness_engine import EffectivenessEngine
 
     engine = EffectivenessEngine()
     feedback = [
@@ -16,15 +16,16 @@ def test_effectiveness_engine_requires_feedback_payload() -> None:
             "techniques_that_worked": ["social_proof"],
         }
     ]
-
-    with pytest.raises(NotImplementedError):
-        engine.calculate_summary(feedback)
+    summary = engine.calculate_summary(feedback)
+    assert summary["average_effectiveness"] >= 0.0
+    assert summary["success_rate"] >= 0.0
+    assert "technique_frequency" in summary
 
 
 def test_effectiveness_engine_provides_trend_analysis() -> None:
-    from src.app.analytics.services.effectiveness_engine import EffectivenessEngine  # noqa: WPS433
+    from src.app.analytics.services.effectiveness_engine import EffectivenessEngine
 
     engine = EffectivenessEngine()
-
-    with pytest.raises(NotImplementedError):
-        engine.calculate_trends([], window=30)
+    trends = engine.calculate_trends([], window=30)
+    assert trends["window_days"] == 30
+    assert trends["count"] == 0

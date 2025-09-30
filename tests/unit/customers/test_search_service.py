@@ -5,13 +5,13 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import TypedDict, cast
 
-from src.app.customers.services.search_service import CustomerSearchService
 from src.app.customers.repositories.profile_repository import CustomerProfileRepository
+from src.app.customers.services.search_service import CustomerSearchService
 
 
 @dataclass
 class _CustomerSummary:
-    id: str
+    customer_id: str
     name: str
     personality_type: str
     budget_range: str
@@ -32,7 +32,7 @@ class _FakeRepository:
         self.calls: list[_SearchCall] = []
         self._results = [
             _CustomerSummary(
-                id="cust-1",
+                customer_id="cust-1",
                 name="Test Customer",
                 personality_type="D",
                 budget_range="40k_60k",
@@ -43,7 +43,7 @@ class _FakeRepository:
             )
         ]
 
-    def search(self, *, filters: dict[str, object], limit: int, offset: int):
+    def search_profiles(self, *, filters: dict[str, object], limit: int, offset: int):
         self.calls.append(_SearchCall(filters=filters, limit=limit, offset=offset))
         return self._results, len(self._results)
 

@@ -5,7 +5,6 @@ import re
 from dataclasses import dataclass
 from typing import Any, Dict, Mapping
 
-
 _DISC_KEYS = ("dominant", "influential", "steady", "conscientious")
 
 
@@ -33,7 +32,6 @@ class PersonalityEngine:
         ),
         "influential": (
             "team",
-            "family",
             "community",
             "excited",
             "share",

@@ -4,7 +4,7 @@ from __future__ import annotations
 import datetime as dt
 import uuid
 from dataclasses import dataclass
-from typing import Iterable, Sequence
+from typing import Sequence
 
 from src.app.knowledge.repositories.source_repository import (
     KnowledgeConcept,
@@ -16,7 +16,7 @@ from src.app.knowledge.repositories.vector_repository import VectorRecord, Vecto
 from .chunker import TextChunker
 from .concept_extractor import ConceptExtractor
 from .embedding_service import EmbeddingService
-from .ingestion_service import IngestionService, IngestedDocument
+from .ingestion_service import IngestedDocument, IngestionService
 from .metrics import KnowledgeMetrics
 
 

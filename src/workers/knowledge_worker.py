@@ -10,7 +10,6 @@ from src.app.core.config import settings
 from src.app.knowledge.dependencies import orchestrator_session
 from src.app.knowledge.services.orchestrator import IngestionRequest
 
-
 celery_app = Celery("knowledge_worker")
 celery_app.conf.broker_url = settings.redis_url
 celery_app.conf.result_backend = settings.redis_url

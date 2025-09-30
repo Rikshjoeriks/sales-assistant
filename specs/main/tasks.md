@@ -74,36 +74,36 @@
 - [X] T038 Update Alembic migrations for knowledge tables and pgvector extension
 
 ## Phase 3.4: Customer Intelligence Platform
-- [ ] T039 Implement customer profile ORM models (`src/app/customers/models.py`)
-- [ ] T040 Implement customer repository (`src/app/customers/repositories/profile_repository.py`)
-- [ ] T041 Build personality assessment engine (`src/app/customers/services/personality_engine.py`)
-- [ ] T042 Create decision factor analyzer (`src/app/customers/services/decision_service.py`)
-- [ ] T043 Implement interaction log model/repository (`src/app/customers/repositories/interaction_repository.py`)
-- [ ] T044 Build customer API router (`src/app/customers/api/router.py`) covering CRUD endpoints
-- [ ] T045 Add schemas and validators (`src/app/customers/api/schemas.py`)
-- [ ] T046 Implement customer search/filter service with pagination (`src/app/customers/services/search_service.py`)
-- [ ] T047 Integrate analytics summary endpoints (`src/app/customers/api/analytics_router.py`)
-- [ ] T048 Seed sample customer personas (`scripts/seed/seed_customers.py`)
+- [X] T039 Implement customer profile ORM models (`src/app/customers/models.py`)
+- [X] T040 Implement customer repository (`src/app/customers/repositories/profile_repository.py`)
+- [X] T041 Build personality assessment engine (`src/app/customers/services/personality_engine.py`)
+- [X] T042 Create decision factor analyzer (`src/app/customers/services/decision_service.py`)
+- [X] T043 Implement interaction log model/repository (`src/app/customers/repositories/interaction_repository.py`)
+- [X] T044 Build customer API router (`src/app/customers/api/router.py`) covering CRUD endpoints
+- [X] T045 Add schemas and validators (`src/app/customers/api/schemas.py`)
+- [X] T046 Implement customer search/filter service with pagination (`src/app/customers/services/search_service.py`)
+- [X] T047 Integrate analytics summary endpoints (`src/app/customers/api/analytics_router.py`)
+- [X] T048 Seed sample customer personas (`scripts/seed/seed_customers.py`)
 
 ## Phase 3.5: Recommendation Engine & Prompt Orchestration
-- [ ] T049 Implement sales context model/repository (`src/app/recommendations/models.py`)
-- [ ] T050 Build recommendation context builder (`src/app/recommendations/services/context_builder.py`)
-- [ ] T051 Create retrieval pipeline combining knowledge concepts (`src/app/recommendations/services/retrieval_service.py`)
-- [ ] T052 Develop prompt template manager (`src/app/recommendations/services/prompt_builder.py`)
-- [ ] T053 Implement ChatGPT client wrapper with retry/backoff (`src/app/recommendations/clients/chatgpt_client.py`)
-- [ ] T054 Build recommendation synthesis service (`src/app/recommendations/services/synthesis_service.py`) enforcing source attribution
-- [ ] T055 Implement objection handling generator (`src/app/recommendations/services/objection_service.py`)
-- [ ] T056 Add recommendation API router (`src/app/recommendations/api/router.py`)
-- [ ] T057 Implement output formatter for multi-format responses (`src/app/recommendations/services/output_formatter.py`)
-- [ ] T058 Integrate token usage tracking + cost estimation (`src/app/recommendations/services/token_tracker.py`)
-- [ ] T059 Add guardrail filters (basic courtesy, profanity check) (`src/app/recommendations/services/guardrails.py`)
-- [ ] T060 Create caching for recent recommendations (`src/app/recommendations/services/cache.py`)
+- [X] T049 Implement sales context model/repository (`src/app/recommendations/models.py`)
+- [X] T050 Build recommendation context builder (`src/app/recommendations/services/context_builder.py`)
+ - [X] T051 Create retrieval pipeline combining knowledge concepts (`src/app/recommendations/services/retrieval_service.py`)
+- [X] T052 Develop prompt template manager (`src/app/recommendations/services/prompt_builder.py`)
+- [X] T053 Implement ChatGPT client wrapper with retry/backoff (`src/app/recommendations/clients/chatgpt_client.py`)
+- [X] T054 Build recommendation synthesis service (`src/app/recommendations/services/synthesis_service.py`) enforcing source attribution
+- [X] T055 Implement objection handling generator (`src/app/recommendations/services/objection_service.py`)
+- [X] T056 Add recommendation API router (`src/app/recommendations/api/router.py`)
+- [X] T057 Implement output formatter for multi-format responses (`src/app/recommendations/services/output_formatter.py`)
+- [X] T058 Integrate token usage tracking + cost estimation (`src/app/recommendations/services/token_tracker.py`)
+- [X] T059 Add guardrail filters (basic courtesy, profanity check) (`src/app/recommendations/services/guardrails.py`)
+- [X] T060 Create caching for recent recommendations (`src/app/recommendations/services/cache.py`)
 
 ## Phase 3.6: Feedback Loop & Analytics
-- [ ] T061 Implement recommendation feedback model/repository (`src/app/feedback/models.py`)
-- [ ] T062 Build feedback recording service (`src/app/feedback/services/feedback_service.py`)
-- [ ] T063 Integrate effectiveness scoring engine (`src/app/analytics/services/effectiveness_engine.py`)
-- [ ] T064 Implement analytics API router (`src/app/analytics/api/router.py`)
+- [X] T061 Implement recommendation feedback model/repository (`src/app/feedback/models.py`)
+- [X] T062 Build feedback recording service (`src/app/feedback/services/feedback_service.py`)
+- [X] T063 Integrate effectiveness scoring engine (`src/app/analytics/services/effectiveness_engine.py`)
+- [X] T064 Implement analytics API router (`src/app/analytics/api/router.py`)
 - [ ] T065 Create scheduled job to update learning metrics (`src/workers/analytics_worker.py`)
 - [ ] T066 Generate dashboards/reports via CLI (`src/cli/reports.py`)
 - [ ] T067 Add automated prompts to adjust weighting based on feedback (`src/app/recommendations/services/learning_adjuster.py`)

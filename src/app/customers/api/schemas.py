@@ -82,7 +82,8 @@ class CustomerDetailResponse(BaseModel):
     communication_preferences: dict[str, Any]
     decision_factors: dict[str, Any]
     buying_context: dict[str, Any]
-    interaction_history: list[dict[str, Any]]
+    interaction_history: list[InteractionHistoryEntry]
+    interaction_summary: dict[str, Any]
     recommendations_generated: int
     average_recommendation_effectiveness: float
     created_at: datetime

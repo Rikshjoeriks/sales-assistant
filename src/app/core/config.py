@@ -10,6 +10,8 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 class FeatureFlags(BaseModel):
     knowledge_workers_enabled: bool = Field(default=True)
     recommendation_caching_enabled: bool = Field(default=True)
+    enforce_api_key: bool = Field(default=False)
+    rate_limiting_enabled: bool = Field(default=False)
 
 
 class Settings(BaseSettings):
@@ -46,6 +48,8 @@ class Settings(BaseSettings):
 
     api_key_secret: str = Field(default="changeme", validation_alias="API_KEY_SECRET")
     jwt_secret: str = Field(default="changeme", validation_alias="JWT_SECRET")
+    rate_limit_window_seconds: int = Field(default=60, validation_alias="RATE_LIMIT_WINDOW_SECONDS")
+    rate_limit_max_requests: int = Field(default=100, validation_alias="RATE_LIMIT_MAX_REQUESTS")
 
     feature_flags: FeatureFlags = Field(default_factory=FeatureFlags)
 

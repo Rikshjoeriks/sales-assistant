@@ -2,14 +2,17 @@
 from __future__ import annotations
 
 from logging.config import fileConfig
-from typing import Generator
 
 from alembic import context
 from sqlalchemy import engine_from_config, pool
 
 from src.app.core.config import settings
 from src.app.core.db import Base
+from src.app.customers import models as customer_models  # noqa: F401 - ensure models registered
 from src.app.knowledge import models as knowledge_models  # noqa: F401 - ensure models registered
+from src.app.recommendations import (
+    models as recommendation_models,  # noqa: F401 - ensure models registered
+)
 
 config = context.config
 if config.config_file_name is not None:

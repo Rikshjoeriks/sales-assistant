@@ -22,5 +22,5 @@ async def test_upload_knowledge_source_contract(async_client) -> None:
 
     assert response.status_code == 201
     payload = response.json()
-    for key in {"id", "title", "type", "processing_status", "estimated_processing_time"}:
+    for key in ("id", "title", "type", "processing_status", "estimated_processing_time"):
         assert key in payload

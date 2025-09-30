@@ -25,7 +25,6 @@ from .schemas import (
     KnowledgeSourceResponse,
 )
 
-
 router = APIRouter(prefix="/api/v1/knowledge", tags=["Knowledge"])
 
 

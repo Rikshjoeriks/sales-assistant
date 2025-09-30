@@ -9,7 +9,6 @@ from typing import Iterable, Sequence
 
 from .chunker import TextChunk
 
-
 logger = logging.getLogger(__name__)
 
 
